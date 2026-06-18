@@ -1,0 +1,97 @@
+[
+  {
+    "id": "109-S1",
+    "year": 109,
+    "type": "S",
+    "question": "（範例題）一位 65 歲男性因急性胸痛就診，心電圖顯示 ST 段上升於 II、III、aVF 導程。最可能受影響的冠狀動脈為何？",
+    "choices": [
+      { "key": "A", "text": "左前降支 (LAD)" },
+      { "key": "B", "text": "左迴旋支 (LCx)" },
+      { "key": "C", "text": "右冠狀動脈 (RCA)" },
+      { "key": "D", "text": "左主幹 (Left main)" }
+    ],
+    "answer": "C",
+    "explanation": {
+      "summary": "**下壁心肌梗塞 (inferior STEMI) 多由右冠狀動脈阻塞造成。**II、III、aVF 為下壁導程。",
+      "detail": "## 選項分析\n- A ✗ LAD 阻塞造成前壁梗塞（V1–V4）\n- B ✗ LCx 阻塞造成側壁梗塞（I、aVL、V5–V6）\n- C ✓ RCA 供應下壁，對應 II、III、aVF\n- D ✗ Left main 阻塞常造成廣泛前壁與血行動力學崩潰\n\n## 臨床意義\n下壁梗塞需注意併發右心室梗塞與房室傳導阻滯。"
+    }
+  },
+  {
+    "id": "110-S1",
+    "year": 110,
+    "type": "S",
+    "question": "（範例題）下列何者為第二型糖尿病的第一線口服藥物？",
+    "choices": [
+      { "key": "A", "text": "Metformin" },
+      { "key": "B", "text": "Glibenclamide" },
+      { "key": "C", "text": "Pioglitazone" },
+      { "key": "D", "text": "Acarbose" }
+    ],
+    "answer": "A",
+    "explanation": {
+      "summary": "**Metformin 為第二型糖尿病首選口服藥。**"
+    }
+  },
+  {
+    "id": "111-S1",
+    "year": 111,
+    "type": "S",
+    "question": "（範例題）慢性腎臟病患者最常見的貧血類型為何？",
+    "choices": [
+      { "key": "A", "text": "缺鐵性貧血" },
+      { "key": "B", "text": "正球性正色素性貧血" },
+      { "key": "C", "text": "巨球性貧血" },
+      { "key": "D", "text": "溶血性貧血" }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "112-M1",
+    "year": 112,
+    "type": "M",
+    "question": "（範例題）下列關於肺炎鏈球菌肺炎之敘述，何者正確？（複選）",
+    "choices": [
+      { "key": "A", "text": "是社區型肺炎最常見的致病菌" },
+      { "key": "B", "text": "鐵鏽色痰為典型表現" },
+      { "key": "C", "text": "對所有第三代頭孢菌素皆具抗藥性" },
+      { "key": "D", "text": "可使用 23 價多醣體疫苗預防" }
+    ],
+    "answer": ["A", "B", "D"],
+    "explanation": {
+      "summary": "**肺炎鏈球菌是社區型肺炎最常見致病菌，典型表現為鐵鏽色痰，可用疫苗預防。**",
+      "detail": "## 選項分析\n- A ✓ 社區型肺炎最常見\n- B ✓ rusty sputum 為典型\n- C ✗ 並非對所有第三代頭孢菌素具抗藥性\n- D ✓ PPSV23 可預防"
+    }
+  },
+  {
+    "id": "113-S1",
+    "year": 113,
+    "type": "S",
+    "question": "（範例題）下列何者「並非」甲狀腺機能亢進的典型表現？",
+    "choices": [
+      { "key": "A", "text": "體重減輕" },
+      { "key": "B", "text": "心搏過速" },
+      { "key": "C", "text": "怕冷" },
+      { "key": "D", "text": "手抖" }
+    ],
+    "answer": "C",
+    "explanation": {
+      "summary": "**甲亢患者通常怕熱而非怕冷。**怕冷為甲狀腺低下表現。"
+    }
+  },
+  {
+    "id": "114-S1",
+    "year": 114,
+    "type": "S",
+    "question": "（範例題）治療急性痛風發作，下列何者較不適合作為第一線？",
+    "choices": [
+      { "key": "A", "text": "NSAIDs" },
+      { "key": "B", "text": "Colchicine" },
+      { "key": "C", "text": "Corticosteroid" },
+      { "key": "D", "text": "Allopurinol" }
+    ],
+    "answer": "D",
+    "explanation": {
+      "summary": "**Allopurinol 為降尿酸藥，急性期不宜開始使用，可能加重發作。**"
+    }
+  }
+]

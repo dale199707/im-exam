@@ -1,0 +1,1536 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>內科專科題庫</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700;900&family=Noto+Sans+TC:wght@300;400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone@7.26.4/babel.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+  :root {
+    --ink: #0a1929;
+    --ink-soft: #15293f;
+    --paper: #faf9f6;
+    --paper-tint: #f0eee7;
+    --line: #d6d2c6;
+    --medical: #1e5f8c;
+    --medical-light: #4a90c2;
+    --blood: #a4161a;
+    --gold: #b08968;
+    --muted: #6c757d;
+  }
+  * { -webkit-font-smoothing: antialiased; }
+  html, body { background: var(--paper); }
+  body {
+    font-family: 'Noto Sans TC', system-ui, sans-serif;
+    color: var(--ink);
+    background-image:
+      radial-gradient(circle at 15% 0%, rgba(30,95,140,0.04) 0%, transparent 40%),
+      radial-gradient(circle at 85% 100%, rgba(176,137,104,0.05) 0%, transparent 50%);
+    min-height: 100vh;
+  }
+  .font-serif-tc { font-family: 'Noto Serif TC', serif; }
+  .font-mono { font-family: 'JetBrains Mono', ui-monospace, monospace; }
+
+  .paper-texture {
+    background-color: var(--paper);
+    background-image:
+      repeating-linear-gradient(45deg, transparent 0, transparent 1px, rgba(10,25,41,0.012) 1px, rgba(10,25,41,0.012) 2px),
+      repeating-linear-gradient(-45deg, transparent 0, transparent 1px, rgba(10,25,41,0.012) 1px, rgba(10,25,41,0.012) 2px);
+  }
+
+  .hero-grad {
+    background: linear-gradient(135deg, #0a1929 0%, #15293f 50%, #0a1929 100%);
+    position: relative;
+    overflow: hidden;
+  }
+  .hero-grad::before {
+    content: "";
+    position: absolute; inset: 0;
+    background:
+      radial-gradient(circle at 20% 30%, rgba(74,144,194,0.18) 0%, transparent 40%),
+      radial-gradient(circle at 80% 70%, rgba(176,137,104,0.1) 0%, transparent 40%);
+    pointer-events: none;
+  }
+  .hero-grad::after {
+    content: "";
+    position: absolute; inset: 0;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'><path d='M0 20h40M20 0v40' stroke='rgba(255,255,255,0.025)' stroke-width='1'/></svg>");
+    pointer-events: none;
+  }
+
+  .card {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    box-shadow: 0 1px 0 rgba(10,25,41,0.04), 0 8px 24px -12px rgba(10,25,41,0.08);
+    transition: all 0.25s ease;
+  }
+
+  .chip {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 500;
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: white;
+    color: var(--ink);
+    transition: all 0.18s ease;
+    letter-spacing: 0.01em;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  .chip:hover { border-color: var(--ink); }
+  .chip.active {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+    box-shadow: 0 2px 6px rgba(10,25,41,0.18);
+  }
+  .chip .count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    margin-left: 0.35rem;
+    opacity: 0.65;
+    font-weight: 400;
+  }
+
+  .stat-tile {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 1.1rem 1.25rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .stat-tile::before {
+    content: "";
+    position: absolute; left: 0; top: 0; bottom: 0;
+    width: 3px;
+    background: var(--accent, var(--ink));
+  }
+  .stat-tile.clickable {
+    cursor: pointer;
+    transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+  }
+  .stat-tile.clickable:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+    border-color: var(--accent, var(--ink));
+  }
+  .stat-tile.clickable:active { transform: translateY(0); }
+  .stat-tile .go-hint {
+    font-size: 0.62rem;
+    color: var(--muted);
+    margin-top: 0.35rem;
+    opacity: 0;
+    transition: opacity .12s ease;
+  }
+  .stat-tile.clickable:hover .go-hint { opacity: 1; }
+  .stat-tile .label {
+    font-size: 0.72rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-weight: 500;
+  }
+  .stat-tile .value {
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 1.1;
+    margin-top: 0.3rem;
+    color: var(--ink);
+  }
+
+  .action-btn {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 1.5rem 1.5rem 1.4rem;
+    text-align: left;
+    width: 100%;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    position: relative;
+    overflow: hidden;
+  }
+  .action-btn:hover:not(:disabled) {
+    border-color: var(--ink);
+    transform: translateY(-2px);
+    box-shadow: 0 12px 32px -12px rgba(10,25,41,0.2);
+  }
+  .action-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+  .action-btn.primary {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+  .action-btn.primary:hover:not(:disabled) { background: var(--ink-soft); }
+  .action-btn.medical {
+    background: var(--medical);
+    color: white;
+    border-color: var(--medical);
+  }
+  .action-btn.medical:hover:not(:disabled) { background: #194f74; }
+  .action-btn .arrow {
+    position: absolute;
+    right: 1.5rem; bottom: 1.5rem;
+    font-size: 1.5rem;
+    transition: transform 0.2s ease;
+    opacity: 0.5;
+  }
+  .action-btn:hover:not(:disabled) .arrow { transform: translateX(4px); opacity: 1; }
+
+  .label-divider {
+    display: flex; align-items: center; gap: 0.85rem;
+    color: var(--muted);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    font-weight: 500;
+  }
+  .label-divider::before, .label-divider::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--line);
+  }
+
+  .markdown { color: var(--ink); line-height: 1.75; }
+  .markdown h2 { font-family: 'Noto Serif TC', serif; font-size: 1.2rem; font-weight: 700; margin: 1rem 0 0.5rem; color: var(--ink); border-bottom: 2px solid var(--line); padding-bottom: 0.3rem; }
+  .markdown h3 { font-family: 'Noto Serif TC', serif; font-size: 1.05rem; font-weight: 600; margin: 0.8rem 0 0.4rem; color: var(--medical); }
+  .markdown h4 { font-size: 0.95rem; font-weight: 600; margin: 0.6rem 0 0.3rem; color: var(--ink); }
+  .markdown p { margin: 0.45rem 0; }
+  .markdown ul { list-style: none; padding-left: 0; margin: 0.5rem 0; }
+  .markdown ul li { padding-left: 1.1rem; position: relative; margin: 0.25rem 0; }
+  .markdown ul li::before { content: "▸"; position: absolute; left: 0; color: var(--medical); font-weight: bold; }
+  .markdown ol { list-style: decimal; padding-left: 1.4rem; margin: 0.5rem 0; }
+  .markdown ol li { margin: 0.25rem 0; }
+  .markdown table { border-collapse: collapse; margin: 0.7rem 0; width: 100%; font-size: 0.9rem; border: 1px solid var(--line); }
+  .markdown th, .markdown td { border: 1px solid var(--line); padding: 0.5rem 0.7rem; text-align: left; }
+  .markdown th { background: var(--paper-tint); font-weight: 600; font-family: 'Noto Serif TC', serif; }
+  .markdown strong { color: var(--ink); font-weight: 700; background: linear-gradient(180deg, transparent 65%, rgba(74,144,194,0.25) 65%); }
+  .markdown code { background: var(--paper-tint); padding: 0.1rem 0.35rem; border-radius: 3px; font-size: 0.88rem; font-family: 'JetBrains Mono', monospace; color: var(--blood); }
+  .markdown blockquote { border-left: 3px solid var(--medical); background: var(--paper-tint); padding: 0.5rem 0.9rem; margin: 0.6rem 0; color: var(--ink-soft); }
+
+  .choice {
+    width: 100%;
+    text-align: left;
+    border: 1.5px solid var(--line);
+    border-radius: 4px;
+    padding: 0.9rem 1.1rem;
+    background: white;
+    transition: all 0.18s ease;
+    cursor: pointer;
+    display: flex; align-items: flex-start; gap: 0.8rem;
+  }
+  .choice:hover:not(:disabled) { border-color: var(--ink); background: var(--paper-tint); }
+  .choice .key {
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 700;
+    width: 2rem; height: 2rem;
+    display: inline-flex; align-items: center; justify-content: center;
+    border: 1.5px solid var(--ink);
+    color: var(--ink);
+    flex-shrink: 0;
+    transition: all 0.18s ease;
+  }
+  .choice.multi .key { border-radius: 4px; }
+  .choice.single .key { border-radius: 50%; }
+  .choice.picked .key { background: var(--ink); color: var(--paper); }
+  .choice.picked:not(.revealed) { border-color: var(--ink); background: var(--paper-tint); }
+  .choice.revealed { cursor: default; }
+  .choice.revealed.correct { border-color: var(--medical); background: rgba(74,144,194,0.08); }
+  .choice.revealed.correct .key { background: var(--medical); color: white; border-color: var(--medical); }
+  .choice.revealed.wrong-pick { border-color: var(--blood); background: rgba(164,22,26,0.05); }
+  .choice.revealed.wrong-pick .key { background: var(--blood); color: white; border-color: var(--blood); }
+  .choice.revealed.unselected { opacity: 0.6; }
+
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .fade-up { animation: fadeUp 0.4s ease forwards; }
+  .fade-up-1 { animation-delay: 0.05s; opacity: 0; }
+  .fade-up-2 { animation-delay: 0.1s; opacity: 0; }
+  .fade-up-3 { animation-delay: 0.15s; opacity: 0; }
+
+  .ornament-line {
+    display: flex; align-items: center; gap: 1rem;
+    color: rgba(250,249,246,0.6);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+  }
+  .ornament-line::before, .ornament-line::after {
+    content: ""; flex: 1; height: 1px; background: rgba(250,249,246,0.25);
+  }
+
+  .timer-pill {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 600;
+    padding: 0.3rem 0.8rem;
+    border-radius: 999px;
+    background: var(--paper-tint);
+    border: 1px solid var(--line);
+    font-size: 0.85rem;
+  }
+  .timer-pill.warn {
+    background: rgba(164,22,26,0.08);
+    border-color: var(--blood);
+    color: var(--blood);
+    animation: pulse 1.2s ease-in-out infinite;
+  }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+
+  .tag {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.55rem;
+    border-radius: 3px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+  .tag-year { background: var(--ink); color: var(--paper); }
+  .tag-single { background: rgba(30,95,140,0.1); color: var(--medical); border: 1px solid rgba(30,95,140,0.3); }
+  .tag-multi { background: rgba(176,137,104,0.12); color: var(--gold); border: 1px solid rgba(176,137,104,0.4); }
+  .tag-id { font-family: 'JetBrains Mono', monospace; background: white; color: var(--muted); border: 1px solid var(--line); }
+
+  .icon-btn {
+    width: 2.2rem; height: 2.2rem;
+    display: inline-flex; align-items: center; justify-content: center;
+    border-radius: 50%;
+    transition: all 0.18s ease;
+    color: var(--ink);
+  }
+  .icon-btn:hover { background: var(--paper-tint); }
+
+  .star-btn { font-size: 1.4rem; transition: all 0.18s ease; color: var(--line); cursor: pointer; }
+  .star-btn:hover { color: var(--gold); transform: scale(1.1); }
+  .star-btn.starred { color: var(--gold); }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<div id="boot-status" style="position:fixed;inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column;font-family:-apple-system,'Segoe UI',sans-serif;background:#faf9f6;color:#3d3d3a;z-index:9999;">
+  <div style="font-size:16px;margin-bottom:14px;">題庫載入中…</div>
+  <div id="boot-bar-wrap" style="width:220px;height:6px;background:#e5e3da;border-radius:3px;overflow:hidden;">
+    <div id="boot-bar" style="width:0%;height:100%;background:#1e5f8c;transition:width .15s;"></div>
+  </div>
+  <div id="boot-pct" style="font-size:13px;color:#888;margin-top:8px;">0%</div>
+</div>
+<script>
+(function () {
+  function fail(msg) {
+    var s = document.getElementById('boot-status');
+    if (s) s.innerHTML = '<div style="font-size:15px;color:#a4161a;max-width:300px;text-align:center;line-height:1.6;">題庫載入失敗<br>' + msg + '<br><br>請重新整理頁面再試</div>';
+  }
+  var bar = document.getElementById('boot-bar');
+  var pct = document.getElementById('boot-pct');
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', 'questions.json?v=1', true);
+  xhr.onprogress = function (e) {
+    if (e.lengthComputable) {
+      var p = Math.round(e.loaded / e.total * 100);
+      if (bar) bar.style.width = p + '%';
+      if (pct) pct.textContent = p + '%';
+    }
+  };
+  xhr.onload = function () {
+    if (xhr.status !== 200 && xhr.status !== 0) { fail('HTTP ' + xhr.status); return; }
+    try {
+      window.__QUESTIONS__ = JSON.parse(xhr.responseText);
+    } catch (err) {
+      fail('資料解析錯誤'); return;
+    }
+    if (pct) pct.textContent = '編譯中…';
+    try {
+      var src = document.getElementById('app-jsx').textContent;
+      var out = Babel.transform(src, { presets: [['react', { runtime: 'classic' }]] }).code;
+      var s = document.getElementById('boot-status');
+      if (s) s.parentNode.removeChild(s);
+      (0, eval)(out);
+    } catch (err) {
+      fail('程式編譯錯誤：' + (err && err.message ? err.message : err));
+    }
+  };
+  xhr.onerror = function () { fail('網路錯誤'); };
+  xhr.send();
+})();
+</script>
+<script type="text/jsx-deferred" id="app-jsx">
+const { useState, useEffect, useMemo, useRef } = React;
+
+// 不細分專科，一律以「xxx 年考題」呈現
+const YEARS = [109, 110, 111, 112, 113, 114];
+const TYPES = { S: "單選", M: "複選" };
+
+const QUESTIONS = window.__QUESTIONS__;
+
+const STORAGE_KEY = "im-exam-progress";
+
+function loadProgress() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return defaultProgress();
+    const p = JSON.parse(raw);
+    return {
+      answered: p.answered || {},
+      correct:  p.correct  || {},
+      starred:  p.starred  || {},
+      wrong:    p.wrong    || {}
+    };
+  } catch (e) { return defaultProgress(); }
+}
+function defaultProgress() {
+  return { answered: {}, correct: {}, starred: {}, wrong: {} };
+}
+function saveProgress(p) {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(p)); } catch (e) {}
+}
+
+// ===== 未完成練習 session（續做機制，僅限一般練習/錯題/收藏；模擬考不存） =====
+const SESSION_KEY = "im-exam-session";
+
+function loadSession() {
+  try {
+    const raw = localStorage.getItem(SESSION_KEY);
+    if (!raw) return null;
+    const s = JSON.parse(raw);
+    if (!s || !Array.isArray(s.ids) || s.ids.length === 0) return null;
+    return {
+      ids: s.ids,
+      idx: typeof s.idx === "number" ? s.idx : 0,
+      mode: s.mode || "practice"
+    };
+  } catch (e) { return null; }
+}
+function saveSession(s) {
+  try { localStorage.setItem(SESSION_KEY, JSON.stringify(s)); } catch (e) {}
+}
+function clearSession() {
+  try { localStorage.removeItem(SESSION_KEY); } catch (e) {}
+}
+
+// 共用排序：依「年度 → 題型(單選S先) → 題號」，使題組題連貫
+function trailingNum(qid) {
+  const m = String(qid).match(/(\d+)$/);
+  return m ? parseInt(m[1], 10) : 0;
+}
+function sortQuestions(qs) {
+  return [...qs].sort((a, b) => {
+    if (a.year !== b.year) return a.year - b.year;
+    const ta = a.type === "S" ? 0 : 1;
+    const tb = b.type === "S" ? 0 : 1;
+    if (ta !== tb) return ta - tb;
+    return trailingNum(a.id) - trailingNum(b.id);
+  });
+}
+
+function isAnswerCorrect(question, userPick) {
+  if (question.type === "M") {
+    const ans = Array.isArray(question.answer) ? [...question.answer].sort() : [];
+    const pick = Array.isArray(userPick) ? [...userPick].sort() : [];
+    if (ans.length !== pick.length) return false;
+    return ans.every((v, i) => v === pick[i]);
+  }
+  return question.answer === userPick;
+}
+function formatAnswer(question) {
+  if (question.type === "M") {
+    return Array.isArray(question.answer) ? question.answer.join(" · ") : "";
+  }
+  return question.answer || "";
+}
+
+function MD({ text }) {
+  const html = useMemo(() => {
+    if (!text) return "";
+    try { return marked.parse(text); } catch (e) { return text; }
+  }, [text]);
+  return <div className="markdown" dangerouslySetInnerHTML={{ __html: html }} />;
+}
+
+const StethoscopeIcon = ({ className }) => (
+  <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <path d="M4.8 2.3A.3.3 0 1 0 5 2H4a2 2 0 0 0-2 2v5a6 6 0 0 0 6 6v0a6 6 0 0 0 6-6V4a2 2 0 0 0-2-2h-1a.3.3 0 1 0 .2.3"/>
+    <path d="M8 15v1a6 6 0 0 0 6 6v0a6 6 0 0 0 6-6v-4"/>
+    <circle cx="20" cy="10" r="2"/>
+  </svg>
+);
+
+function App() {
+  const [progress, setProgress] = useState(loadProgress());
+  const [view, setView] = useState("home");
+  const [filter, setFilter] = useState({
+    years: new Set(),
+    types: new Set()
+  });
+  const [sessionQs, setSessionQs] = useState([]);
+  const [idx, setIdx] = useState(0);
+  const [userPick, setUserPick] = useState(null);
+  const [revealed, setRevealed] = useState(false);
+  const [examMode, setExamMode] = useState(false);
+  const [timeLeft, setTimeLeft] = useState(0);
+  const [savedSession, setSavedSession] = useState(loadSession());
+  const [sessionMode, setSessionMode] = useState("practice");
+  const [listType, setListType] = useState("wrong");
+  const [examAnswers, setExamAnswers] = useState({});
+  const [examResult, setExamResult] = useState(null);
+  const [reviewIdx, setReviewIdx] = useState(null);
+  const [flagged, setFlagged] = useState({});
+  const [showCatalog, setShowCatalog] = useState(false);
+
+  useEffect(() => { saveProgress(progress); }, [progress]);
+
+  useEffect(() => {
+    if (!examMode || view !== "exam") return;
+    if (timeLeft <= 0) { finishExam(); return; }
+    const t = setInterval(() => setTimeLeft(s => s > 0 ? s - 1 : 0), 1000);
+    return () => clearInterval(t);
+  }, [examMode, view, timeLeft]);
+
+  const filteredQuestions = useMemo(() => {
+    return QUESTIONS.filter(q =>
+      filter.years.has(q.year) &&
+      filter.types.has(q.type)
+    );
+  }, [filter]);
+
+  const stats = useMemo(() => {
+    const validIds = new Set(QUESTIONS.map(q => q.id));
+    const total = QUESTIONS.length;
+    const answered = Object.keys(progress.answered).length;
+    const correct = Object.values(progress.correct).filter(Boolean).length;
+    const wrong = Object.keys(progress.wrong).filter(id => validIds.has(id)).length;
+    const starred = Object.keys(progress.starred).filter(id => validIds.has(id) && progress.starred[id]).length;
+    const acc = answered > 0 ? Math.round(correct / answered * 100) : 0;
+    return { total, answered, correct, wrong, starred, acc };
+  }, [progress]);
+
+  function startPractice(qs, mode = "practice", timeMin = 0, startId = null, examCount = "all") {
+    if (qs.length === 0) { alert("沒有符合條件的題目"); return; }
+    let ordered;
+    if (mode === "exam") {
+      ordered = [...qs].sort(() => Math.random() - 0.5);
+      if (examCount !== "all") {
+        const n = Math.max(1, Math.min(qs.length, examCount));
+        ordered = ordered.slice(0, n);
+      }
+    } else {
+      ordered = sortQuestions(qs);
+    }
+    let startIdx = 0;
+    if (startId && mode !== "exam") {
+      const fi = ordered.findIndex(q => q.id === startId);
+      if (fi >= 0) startIdx = fi;
+    }
+    setSessionQs(ordered);
+    setIdx(startIdx);
+    setUserPick(null);
+    setRevealed(false);
+    setExamMode(mode === "exam");
+    setTimeLeft(mode === "exam" ? timeMin * 60 : 0);
+    setSessionMode(mode);
+    if (mode === "exam") {
+      clearSession();
+      setSavedSession(null);
+      setExamAnswers({});
+      setExamResult(null);
+      setFlagged({});
+    } else {
+      const s = { ids: ordered.map(q => q.id), idx: startIdx, mode };
+      saveSession(s);
+      setSavedSession(s);
+    }
+    setView(mode === "exam" ? "exam" : "practice");
+  }
+
+  function resumePractice() {
+    const s = loadSession();
+    if (!s) { setSavedSession(null); return; }
+    const byId = {};
+    QUESTIONS.forEach(q => { byId[q.id] = q; });
+    const ordered = s.ids.map(id => byId[id]).filter(Boolean);
+    if (ordered.length === 0) { clearSession(); setSavedSession(null); return; }
+    const startIdx = Math.min(Math.max(s.idx, 0), ordered.length - 1);
+    setSessionQs(ordered);
+    setIdx(startIdx);
+    setUserPick(null);
+    setRevealed(false);
+    setExamMode(false);
+    setTimeLeft(0);
+    setSessionMode(s.mode || "practice");
+    setView("practice");
+  }
+
+  function pickChoice(key) {
+    if (revealed) return;
+    const cur = sessionQs[idx];
+    if (!cur) return;
+    let next;
+    if (cur.type === "M") {
+      const arr = Array.isArray(userPick) ? [...userPick] : [];
+      const i = arr.indexOf(key);
+      if (i >= 0) arr.splice(i, 1); else arr.push(key);
+      next = arr;
+    } else {
+      next = key;
+    }
+    setUserPick(next);
+    if (examMode) {
+      setExamAnswers(a => ({ ...a, [idx]: next }));
+    }
+  }
+
+  function submitAnswer() {
+    const cur = sessionQs[idx];
+    if (!cur) return;
+    if (examMode) {
+      if (userPick != null) setExamAnswers(a => ({ ...a, [idx]: userPick }));
+      if (idx + 1 >= sessionQs.length) {
+        const answeredCount = Object.keys(examAnswers).length + (userPick != null && examAnswers[idx] == null ? 1 : 0);
+        const unanswered = sessionQs.length - answeredCount;
+        if (unanswered > 0 && !confirm(`還有 ${unanswered} 題未作答，確定要交卷？`)) return;
+        finishExam(userPick != null ? { ...examAnswers, [idx]: userPick } : examAnswers);
+        return;
+      }
+      nextQ();
+      return;
+    }
+    if (cur.type === "M" && (!Array.isArray(userPick) || userPick.length === 0)) {
+      alert("請至少勾選一個選項"); return;
+    }
+    if (cur.type === "S" && !userPick) { alert("請選擇答案"); return; }
+    const ok = isAnswerCorrect(cur, userPick);
+    setProgress(p => {
+      const np = {
+        answered: { ...p.answered, [cur.id]: true },
+        correct:  { ...p.correct,  [cur.id]: ok },
+        starred:  { ...p.starred },
+        wrong:    { ...p.wrong }
+      };
+      if (ok) { delete np.wrong[cur.id]; } else { np.wrong[cur.id] = true; }
+      return np;
+    });
+    setRevealed(true);
+  }
+
+  function finishExam(answersOverride) {
+    const ans = answersOverride || examAnswers;
+    const items = sessionQs.map((q, i) => {
+      const pick = ans[i] != null ? ans[i] : null;
+      const ok = pick != null && isAnswerCorrect(q, pick);
+      return { q, pick, ok };
+    });
+    const correctCount = items.filter(it => it.ok).length;
+    setProgress(p => {
+      const np = {
+        answered: { ...p.answered },
+        correct:  { ...p.correct },
+        starred:  { ...p.starred },
+        wrong:    { ...p.wrong }
+      };
+      items.forEach(it => {
+        if (it.pick == null) return;
+        np.answered[it.q.id] = true;
+        np.correct[it.q.id] = it.ok;
+        if (it.ok) { delete np.wrong[it.q.id]; } else { np.wrong[it.q.id] = true; }
+      });
+      return np;
+    });
+    setExamResult({ items, correct: correctCount, total: sessionQs.length });
+    setExamMode(false);
+    setView("result");
+  }
+
+  function nextQ() {
+    if (idx + 1 >= sessionQs.length) {
+      if (examMode) { finishExam(); return; }
+      alert(`完成！本次共 ${sessionQs.length} 題`);
+      clearSession(); setSavedSession(null);
+      setView(sessionMode === "wrong" || sessionMode === "starred" ? "list" : "home"); return;
+    }
+    const ni = idx + 1;
+    setIdx(ni);
+    setRevealed(false);
+    if (examMode) {
+      setUserPick(examAnswers[ni] != null ? examAnswers[ni] : null);
+    } else {
+      setUserPick(null);
+      const s = { ids: sessionQs.map(q => q.id), idx: ni, mode: sessionMode };
+      saveSession(s);
+      setSavedSession(s);
+    }
+  }
+
+  function prevQ() {
+    if (idx <= 0) return;
+    const ni = idx - 1;
+    setIdx(ni);
+    setRevealed(false);
+    if (examMode) {
+      setUserPick(examAnswers[ni] != null ? examAnswers[ni] : null);
+    } else {
+      setUserPick(null);
+      const s = { ids: sessionQs.map(q => q.id), idx: ni, mode: sessionMode };
+      saveSession(s);
+      setSavedSession(s);
+    }
+  }
+
+  function toggleStar() {
+    const cur = sessionQs[idx];
+    if (!cur) return;
+    setProgress(p => ({
+      ...p,
+      starred: { ...p.starred, [cur.id]: !p.starred[cur.id] }
+    }));
+  }
+
+  function toggleFlag() {
+    setFlagged(f => {
+      const nf = { ...f };
+      if (nf[idx]) delete nf[idx]; else nf[idx] = true;
+      return nf;
+    });
+  }
+
+  function gotoQuestion(target) {
+    if (target < 0 || target >= sessionQs.length) return;
+    if (examMode && userPick != null) {
+      setExamAnswers(a => ({ ...a, [idx]: userPick }));
+    }
+    setIdx(target);
+    setRevealed(false);
+    setUserPick(examAnswers[target] != null ? examAnswers[target] : null);
+    setShowCatalog(false);
+  }
+
+  function resetProgress() {
+    if (!confirm("確定要清除作答紀錄？\n（清除已作答、錯題，以及「繼續上次練習」的進度；「收藏複習」的題目會保留。此動作無法復原）")) return;
+    const kept = {
+      answered: {},
+      correct: {},
+      wrong: {},
+      starred: { ...progress.starred }
+    };
+    setProgress(kept);
+    clearSession();
+    setSavedSession(null);
+  }
+
+  if (view === "home") {
+    const resumeInfo = savedSession ? {
+      idx: savedSession.idx,
+      total: savedSession.ids.length,
+      mode: savedSession.mode
+    } : null;
+    return <HomeView
+      stats={stats}
+      filter={filter}
+      setFilter={setFilter}
+      filteredCount={filteredQuestions.length}
+      onStartPractice={() => startPractice(filteredQuestions, "practice")}
+      onStartExam={(min, count) => startPractice(filteredQuestions, "exam", min, null, count)}
+      onStartWrong={() => { setListType("wrong"); setView("list"); }}
+      onStartStarred={() => { setListType("starred"); setView("list"); }}
+      onReset={resetProgress}
+      progress={progress}
+      resumeInfo={resumeInfo}
+      onResume={resumePractice}
+    />;
+  }
+
+  if (view === "list") {
+    const pool = QUESTIONS.filter(q =>
+      listType === "wrong" ? progress.wrong[q.id] : progress.starred[q.id]
+    );
+    const onPickQuestion = (qid) => {
+      const target = pool.find(q => q.id === qid);
+      if (!target) return;
+      const sameClass = pool.filter(q => q.year === target.year && q.type === target.type);
+      startPractice(sameClass, listType, 0, qid);
+    };
+    return <ListView
+      listType={listType}
+      pool={pool}
+      onPickQuestion={onPickQuestion}
+      onBack={() => setView("home")}
+    />;
+  }
+
+  if (view === "practice" || view === "exam") {
+    const cur = sessionQs[idx];
+    if (!cur) return <div className="p-6">沒有題目</div>;
+    return (
+    <React.Fragment>
+    <QuestionView
+      q={cur}
+      idx={idx}
+      total={sessionQs.length}
+      userPick={userPick}
+      revealed={revealed}
+      starred={!!progress.starred[cur.id]}
+      examMode={examMode}
+      timeLeft={timeLeft}
+      onPick={pickChoice}
+      onSubmit={submitAnswer}
+      onNext={nextQ}
+      onPrev={prevQ}
+      onStar={toggleStar}
+      flaggedCur={!!flagged[idx]}
+      onToggleFlag={toggleFlag}
+      onOpenCatalog={() => setShowCatalog(true)}
+      onExit={() => {
+        if (examMode) {
+          if (!confirm("確定要提早交卷？\n（將立即批改並顯示成績）")) return;
+          finishExam(userPick != null ? { ...examAnswers, [idx]: userPick } : examAnswers);
+          return;
+        }
+        if (!confirm("確定要結束本次練習？\n（進度會保留，可從首頁「繼續上次練習」接續）")) return;
+        const s = { ids: sessionQs.map(q => q.id), idx, mode: sessionMode };
+        saveSession(s);
+        setSavedSession(s);
+        setView(sessionMode === "wrong" || sessionMode === "starred" ? "list" : "home");
+      }}
+    />
+    {showCatalog && (
+      <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center" onClick={() => setShowCatalog(false)}>
+        <div className="absolute inset-0 bg-black/40"></div>
+        <div className="relative bg-white rounded-t-2xl sm:rounded-2xl shadow-xl w-full sm:max-w-lg max-h-[80vh] overflow-y-auto p-5 sm:p-6" onClick={e => e.stopPropagation()}>
+          <div className="flex items-center justify-between mb-4">
+            <span className="font-serif-tc text-lg font-bold text-stone-900">作答目錄</span>
+            <button onClick={() => setShowCatalog(false)} className="text-stone-400 hover:text-stone-700 text-xl leading-none">✕</button>
+          </div>
+          <div className="grid grid-cols-6 sm:grid-cols-8 gap-2 mb-4">
+            {sessionQs.map((q, i) => {
+              const answered = examMode ? (examAnswers[i] != null || (i === idx && userPick != null)) : !!progress.answered[q.id];
+              const isFlagged = !!flagged[i];
+              const isCur = i === idx;
+              const cls = answered
+                ? "bg-sky-700 text-white border-sky-700"
+                : "bg-stone-100 text-stone-400 border-stone-200";
+              return (
+                <button key={i} onClick={() => gotoQuestion(i)}
+                  className={`relative aspect-square rounded-lg border font-mono text-sm font-bold flex items-center justify-center hover:scale-105 transition ${cls} ${isCur ? "ring-2 ring-offset-1 ring-stone-900" : ""}`}
+                  title={q.id}>
+                  {i + 1}
+                  {isFlagged && (
+                    <span className="absolute -top-1 -right-1 w-3 h-3 rounded-full bg-amber-400 border-2 border-white" title="回頭來看"></span>
+                  )}
+                </button>
+              );
+            })}
+          </div>
+          <div className="flex flex-wrap items-center gap-4 text-xs text-stone-500">
+            <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded bg-sky-700 inline-block"></span>已作答</span>
+            <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded bg-stone-200 inline-block"></span>未作答</span>
+            <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-full bg-amber-400 border-2 border-white inline-block"></span>回頭來看</span>
+          </div>
+        </div>
+      </div>
+    )}
+    </React.Fragment>
+    );
+  }
+
+  if (view === "result") {
+    if (!examResult) {
+      return <HomeView
+        stats={stats} filter={filter} setFilter={setFilter}
+        filteredCount={filteredQuestions.length}
+        onStartPractice={() => startPractice(filteredQuestions, "practice")}
+        onStartExam={(min, count) => startPractice(filteredQuestions, "exam", min, null, count)}
+        onStartWrong={() => { setListType("wrong"); setView("list"); }}
+        onStartStarred={() => { setListType("starred"); setView("list"); }}
+        onReset={resetProgress} progress={progress} resumeInfo={null}
+        onResume={resumePractice}
+      />;
+    }
+    const { items, correct, total } = examResult;
+    const acc = total > 0 ? Math.round(correct / total * 100) : 0;
+    const wrongCount = items.filter(it => it.pick != null && !it.ok).length;
+    const blankCount = items.filter(it => it.pick == null).length;
+    return (
+      <div className="min-h-screen">
+        <div className="border-b border-stone-200 bg-white/90 backdrop-blur sticky top-0 z-10">
+          <div className="max-w-3xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between">
+            <button onClick={() => { setExamResult(null); setView("home"); }}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-stone-300 text-stone-600 hover:bg-stone-100 transition text-sm font-medium">
+              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+              <span>回首頁</span>
+            </button>
+            <span className="font-serif-tc text-lg font-bold text-stone-900">模擬考成績</span>
+          </div>
+        </div>
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
+          <div className="card p-6 sm:p-8 mb-6 text-center fade-up">
+            <div className="text-5xl sm:text-6xl font-black text-sky-700 mb-2">{acc}<span className="text-2xl">%</span></div>
+            <div className="text-stone-500 text-sm">
+              答對 <span className="font-bold text-sky-700">{correct}</span> ／ 共 {total} 題
+              <span className="mx-2 text-stone-300">·</span> 答錯 <span className="font-bold text-rose-700">{wrongCount}</span>
+              {blankCount > 0 && <span><span className="mx-2 text-stone-300">·</span> 未答 <span className="font-bold text-stone-500">{blankCount}</span></span>}
+            </div>
+          </div>
+          <div className="text-xs uppercase tracking-[0.2em] text-stone-500 font-medium mb-3">點題號檢視詳解</div>
+          <div className="grid grid-cols-6 sm:grid-cols-8 gap-2">
+            {items.map((it, i) => {
+              const bg = it.pick == null ? "bg-stone-100 text-stone-400 border-stone-200"
+                : it.ok ? "bg-sky-700 text-white border-sky-700"
+                : "bg-rose-600 text-white border-rose-600";
+              return (
+                <button key={i} onClick={() => { setReviewIdx(i); setView("review"); }}
+                  className={`aspect-square rounded-lg border font-mono text-sm font-bold flex items-center justify-center hover:scale-105 transition ${bg}`}
+                  title={it.q.id}>
+                  {i + 1}
+                </button>
+              );
+            })}
+          </div>
+          <div className="flex items-center gap-4 mt-4 text-xs text-stone-500">
+            <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded bg-sky-700 inline-block"></span>答對</span>
+            <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded bg-rose-600 inline-block"></span>答錯</span>
+            <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded bg-stone-200 inline-block"></span>未答</span>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (view === "review") {
+    const it = (examResult && reviewIdx != null) ? examResult.items[reviewIdx] : null;
+    if (!it) {
+      return <div className="p-6"><button onClick={() => setView(examResult ? "result" : "home")} className="px-4 py-2 border rounded">返回</button></div>;
+    }
+    return <ReviewView
+      item={it}
+      idx={reviewIdx}
+      total={examResult.items.length}
+      onBack={() => setView("result")}
+      onPrev={() => setReviewIdx(i => Math.max(0, i - 1))}
+      onNext={() => setReviewIdx(i => Math.min(examResult.items.length - 1, i + 1))}
+    />;
+  }
+
+  return <div className="p-6">未知頁面</div>;
+}
+
+function HomeView({ stats, filter, setFilter, filteredCount, onStartPractice, onStartExam, onStartWrong, onStartStarred, onReset, progress, resumeInfo, onResume }) {
+  const [examMin, setExamMin] = useState(60);
+  const [examCountMode, setExamCountMode] = useState("all");
+  const [examCount, setExamCount] = useState(50);
+
+  function toggleSet(key, val) {
+    setFilter(f => {
+      const s = new Set(f[key]);
+      if (s.has(val)) s.delete(val); else s.add(val);
+      return { ...f, [key]: s };
+    });
+  }
+  function setAll(key, vals) { setFilter(f => ({ ...f, [key]: new Set(vals) })); }
+  function clearAll(key) { setFilter(f => ({ ...f, [key]: new Set() })); }
+
+  const yearCounts = useMemo(() => {
+    const m = {}; YEARS.forEach(y => m[y] = 0);
+    QUESTIONS.forEach(q => { if (m[q.year] !== undefined) m[q.year]++; });
+    return m;
+  }, []);
+  const typeCounts = useMemo(() => {
+    const m = { S: 0, M: 0 };
+    QUESTIONS.forEach(q => { if (m[q.type] !== undefined) m[q.type]++; });
+    return m;
+  }, []);
+
+  return (
+    <div>
+      <header className="hero-grad text-white">
+        <div className="max-w-6xl mx-auto px-5 sm:px-8 pt-12 pb-12 sm:pt-16 sm:pb-20 relative z-10">
+          <div className="flex items-center gap-3 mb-6 fade-up">
+            <StethoscopeIcon className="w-5 h-5 text-sky-300" />
+            <span className="text-xs tracking-[0.3em] uppercase text-sky-200/80 font-medium">Internal Medicine Board Exam</span>
+          </div>
+          <h1 className="font-serif-tc text-4xl sm:text-6xl font-black tracking-tight leading-none fade-up fade-up-1 mb-4">
+            內科專科<br className="sm:hidden"/>考試題庫
+          </h1>
+          <div className="ornament-line max-w-xl fade-up fade-up-2 mt-8">
+            <span>109 · 110 · 111 · 112 · 113 · 114</span>
+          </div>
+          <p className="mt-6 text-stone-300 text-sm sm:text-base max-w-xl fade-up fade-up-3 leading-relaxed">
+            歷年考題 · 單選與複選混合 · 完整詳解與考點速記 · 進度本機自動紀錄
+          </p>
+        </div>
+      </header>
+
+      <main className="max-w-6xl mx-auto px-5 sm:px-8 -mt-8 sm:-mt-12 pb-16 relative z-20">
+        <section className="grid grid-cols-2 sm:grid-cols-5 gap-3 mb-10 fade-up">
+          <div className="stat-tile" style={{ "--accent": "#0a1929" }}>
+            <div className="label">總題數</div>
+            <div className="value">{stats.total}</div>
+          </div>
+          <div className="stat-tile" style={{ "--accent": "#15293f" }}>
+            <div className="label">已作答</div>
+            <div className="value">{stats.answered}</div>
+          </div>
+          <div className="stat-tile" style={{ "--accent": "#1e5f8c" }}>
+            <div className="label">答對率</div>
+            <div className="value" style={{ color: "#1e5f8c" }}>{stats.acc}<span className="text-base text-stone-400">%</span></div>
+          </div>
+          <div
+            className={"stat-tile" + (stats.wrong > 0 ? " clickable" : "")}
+            style={{ "--accent": "#a4161a" }}
+            onClick={stats.wrong > 0 ? onStartWrong : undefined}
+            role={stats.wrong > 0 ? "button" : undefined}
+            title={stats.wrong > 0 ? "點擊進入錯題複習" : undefined}
+          >
+            <div className="label">錯題</div>
+            <div className="value" style={{ color: "#a4161a" }}>{stats.wrong}</div>
+            {stats.wrong > 0 && <div className="go-hint">點擊複習 →</div>}
+          </div>
+          <div
+            className={"stat-tile" + (stats.starred > 0 ? " clickable" : "")}
+            style={{ "--accent": "#b08968" }}
+            onClick={stats.starred > 0 ? onStartStarred : undefined}
+            role={stats.starred > 0 ? "button" : undefined}
+            title={stats.starred > 0 ? "點擊進入收藏複習" : undefined}
+          >
+            <div className="label">收藏</div>
+            <div className="value" style={{ color: "#b08968" }}>{stats.starred}</div>
+            {stats.starred > 0 && <div className="go-hint">點擊複習 →</div>}
+          </div>
+        </section>
+
+        <section className="card paper-texture px-5 sm:px-7 py-6 sm:py-7 mb-6 fade-up">
+          <div className="flex items-center justify-between mb-5">
+            <div>
+              <div className="font-serif-tc text-xl font-bold">篩選範圍</div>
+              <div className="text-xs text-stone-500 mt-0.5">選擇年度與題型</div>
+            </div>
+            <div className="text-right">
+              <div className="text-xs text-stone-500 uppercase tracking-widest">命中</div>
+              <div className="font-serif-tc text-2xl font-bold text-sky-700">
+                {filteredCount}<span className="text-sm text-stone-400 ml-1">題</span>
+              </div>
+            </div>
+          </div>
+
+          <FilterGroup
+            title="年度"
+            items={YEARS.map(y => ({ key: y, label: y + " 年", count: yearCounts[y] }))}
+            selected={filter.years}
+            onToggle={v => toggleSet("years", v)}
+            onAll={() => setAll("years", YEARS)}
+            onNone={() => clearAll("years")}
+          />
+          <FilterGroup
+            title="題型"
+            items={Object.entries(TYPES).map(([k, v]) => ({ key: k, label: v, count: typeCounts[k] }))}
+            selected={filter.types}
+            onToggle={v => toggleSet("types", v)}
+            onAll={() => setAll("types", ["S", "M"])}
+            onNone={() => clearAll("types")}
+            isLast
+          />
+        </section>
+
+        <div className="label-divider mb-5">開始練習</div>
+        {resumeInfo && (
+          <button onClick={onResume} className="w-full mb-4 px-5 py-4 rounded-xl bg-sky-700 hover:bg-sky-800 text-white text-left transition-colors flex items-center justify-between group">
+            <div>
+              <div className="flex items-center gap-2 mb-1">
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M5 3l14 9-14 9V3z"/></svg>
+                <span className="text-xs tracking-[0.2em] uppercase opacity-80">Resume</span>
+              </div>
+              <div className="font-serif-tc text-xl font-bold">
+                繼續上次練習
+                <span className="ml-2 font-mono text-sm font-normal opacity-90">
+                  {resumeInfo.mode === "wrong" ? "錯題複習" : resumeInfo.mode === "starred" ? "收藏複習" : "一般練習"} · 第 {resumeInfo.idx + 1} / {resumeInfo.total} 題
+                </span>
+              </div>
+            </div>
+            <span className="text-2xl opacity-70 group-hover:translate-x-1 transition-transform">→</span>
+          </button>
+        )}
+        {filteredCount === 0 && (
+          <div className="mb-4 px-4 py-3 rounded-lg bg-amber-50 border border-amber-200 text-amber-800 text-sm text-center">
+            請先在上方選擇練習範圍（年度 · 題型）
+          </div>
+        )}
+        <section className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
+          <button onClick={onStartPractice} disabled={filteredCount===0} className="action-btn primary group">
+            <div className="flex items-center justify-between mb-2">
+              <span className="text-xs tracking-[0.2em] uppercase opacity-70">Practice</span>
+              <span className="font-mono text-xs opacity-70">{filteredCount} 題</span>
+            </div>
+            <div className="font-serif-tc text-2xl font-bold mb-1">一般練習</div>
+            <div className="text-sm opacity-80">依年度題號順序 · 答錯立即看詳解</div>
+            <span className="arrow">→</span>
+          </button>
+
+          <button onClick={() => onStartExam(examMin, examCountMode === "all" ? "all" : Math.max(1, examCount))} disabled={filteredCount===0} className="action-btn medical">
+            <div className="flex items-center justify-between mb-2">
+              <span className="text-xs tracking-[0.2em] uppercase opacity-80">Mock Exam</span>
+              <div className="flex items-center gap-1.5" onClick={e => e.stopPropagation()}>
+                <input
+                  type="number" min="5" max="300" value={examMin}
+                  onChange={e => setExamMin(Math.max(1, +e.target.value || 60))}
+                  className="w-14 px-2 py-0.5 text-white bg-white/10 border border-white/30 rounded text-sm font-mono text-center focus:outline-none focus:border-white"
+                  title="分鐘"
+                />
+                <span className="text-xs opacity-70">分</span>
+              </div>
+            </div>
+            <div className="font-serif-tc text-2xl font-bold mb-1">計時模擬考</div>
+            <div className="text-sm opacity-90 mb-3">{examMin} 分鐘倒數 · 完成後檢視詳解</div>
+            <div className="flex items-center gap-2" onClick={e => e.stopPropagation()}>
+              <button
+                onClick={() => setExamCountMode("all")}
+                className={`px-3 py-1 rounded-full text-xs border transition ${examCountMode === "all" ? "bg-white text-stone-800 border-white" : "border-white/40 text-white/80 hover:bg-white/10"}`}
+              >全題庫（{filteredCount}）</button>
+              <button
+                onClick={() => setExamCountMode("custom")}
+                className={`px-3 py-1 rounded-full text-xs border transition ${examCountMode === "custom" ? "bg-white text-stone-800 border-white" : "border-white/40 text-white/80 hover:bg-white/10"}`}
+              >自選題數</button>
+              {examCountMode === "custom" && (
+                <input
+                  type="number" min="1" max={filteredCount} value={examCount}
+                  onChange={e => setExamCount(Math.max(1, Math.min(filteredCount, +e.target.value || 1)))}
+                  className="w-16 px-2 py-1 text-white bg-white/10 border border-white/30 rounded text-xs font-mono text-center focus:outline-none focus:border-white"
+                />
+              )}
+            </div>
+            <span className="arrow">→</span>
+          </button>
+
+          <button onClick={onStartWrong} disabled={stats.wrong===0} className="action-btn">
+            <div className="flex items-center justify-between mb-2">
+              <span className="text-xs tracking-[0.2em] uppercase text-stone-500">Review · Wrong</span>
+              <span className="font-mono text-xs text-rose-700">{stats.wrong}</span>
+            </div>
+            <div className="font-serif-tc text-2xl font-bold mb-1 text-stone-800">錯題複習</div>
+            <div className="text-sm text-stone-500">只練曾答錯的題目</div>
+            <span className="arrow text-stone-700">→</span>
+          </button>
+
+          <button onClick={onStartStarred} disabled={stats.starred===0} className="action-btn">
+            <div className="flex items-center justify-between mb-2">
+              <span className="text-xs tracking-[0.2em] uppercase text-stone-500">Review · Starred</span>
+              <span className="font-mono text-xs text-amber-700">{stats.starred}</span>
+            </div>
+            <div className="font-serif-tc text-2xl font-bold mb-1 text-stone-800">收藏複習</div>
+            <div className="text-sm text-stone-500">只練收藏標星的題目</div>
+            <span className="arrow text-stone-700">→</span>
+          </button>
+        </section>
+
+        <div className="pt-6 mt-2 border-t border-stone-200/60 flex flex-col items-center">
+          <button onClick={onReset}
+            className="inline-flex items-center gap-2 px-6 py-3 rounded-xl border-2 border-red-300 text-red-700 font-medium text-sm sm:text-base hover:bg-red-50 hover:border-red-400 active:scale-[0.98] transition">
+            <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M3 6h18"/>
+              <path d="M8 6V4a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2"/>
+              <path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/>
+              <path d="M10 11v6M14 11v6"/>
+            </svg>
+            清除作答紀錄
+          </button>
+          <div className="mt-2 text-xs text-stone-400">將清除作答、錯題與「繼續上次練習」進度；收藏複習的題目會保留</div>
+          <div className="mt-4 text-[10px] text-stone-400 tracking-widest uppercase font-mono">
+            v1.0 · self-hosted on github pages
+          </div>
+        </div>
+      </main>
+    </div>
+  );
+}
+
+function FilterGroup({ title, items, selected, onToggle, onAll, onNone, isLast }) {
+  return (
+    <div className={isLast ? "" : "pb-5 mb-5 border-b border-stone-200/60"}>
+      <div className="flex items-center justify-between mb-2.5">
+        <div className="flex items-center gap-2">
+          <span className="text-[0.7rem] uppercase tracking-[0.18em] text-stone-500 font-medium">{title}</span>
+          <span className="text-[0.7rem] text-stone-400 font-mono">({selected.size}/{items.length})</span>
+        </div>
+        <div className="text-xs">
+          <button onClick={onAll} className="text-stone-600 hover:text-stone-900 mr-3 transition">全選</button>
+          <button onClick={onNone} className="text-stone-400 hover:text-rose-700 transition">清空</button>
+        </div>
+      </div>
+      <div className="flex flex-wrap gap-1.5">
+        {items.map(it => (
+          <button
+            key={it.key}
+            onClick={() => onToggle(it.key)}
+            className={`chip ${selected.has(it.key) ? "active" : ""}`}
+          >
+            {it.label}<span className="count">{it.count}</span>
+          </button>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function ListView({ listType, pool, onPickQuestion, onBack }) {
+  const title = listType === "wrong" ? "錯題複習" : "收藏複習";
+  const accent = listType === "wrong" ? "text-rose-700" : "text-amber-700";
+  const tagBg = listType === "wrong" ? "bg-rose-50 text-rose-700 border-rose-200" : "bg-amber-50 text-amber-700 border-amber-200";
+
+  // 依年度分組，組內分單選(S)/複選(M)，各自依題號排序
+  const groups = YEARS.map(yr => {
+    const inYear = pool.filter(q => q.year === yr);
+    if (inYear.length === 0) return null;
+    const single = sortQuestions(inYear.filter(q => q.type === "S"));
+    const multi  = sortQuestions(inYear.filter(q => q.type === "M"));
+    return { yr, name: yr + " 年考題", single, multi, count: inYear.length };
+  }).filter(Boolean);
+
+  const truncate = (s, n = 38) => {
+    const t = String(s || "").replace(/\s+/g, " ").trim();
+    return t.length > n ? t.slice(0, n) + "…" : t;
+  };
+
+  const renderItems = (items) => (
+    <div className="space-y-1.5">
+      {items.map(q => (
+        <button key={q.id} onClick={() => onPickQuestion(q.id)}
+          className="w-full text-left px-3 py-2.5 rounded-lg border border-stone-200 bg-white hover:border-stone-400 hover:bg-stone-50 transition-colors flex items-start gap-3 group">
+          <span className="font-mono text-xs text-stone-400 shrink-0 mt-0.5">{q.year}</span>
+          <span className="font-mono text-xs text-stone-500 shrink-0 mt-0.5 w-20 truncate">{q.id}</span>
+          <span className="text-sm text-stone-700 flex-1">{truncate(q.question || q.q)}</span>
+          <span className="text-stone-300 group-hover:text-stone-600 group-hover:translate-x-0.5 transition-all shrink-0">→</span>
+        </button>
+      ))}
+    </div>
+  );
+
+  return (
+    <div className="min-h-screen">
+      <div className="border-b border-stone-200 bg-white/90 backdrop-blur sticky top-0 z-10">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between">
+          <button onClick={onBack} className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-stone-300 text-stone-600 hover:bg-stone-100 hover:text-stone-900 hover:border-stone-400 transition-colors text-sm font-medium" title="返回首頁">
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+            <span>返回</span>
+          </button>
+          <div className="flex items-center gap-2">
+            <span className={`font-serif-tc text-base font-bold ${accent}`}>{title}</span>
+            <span className="font-mono text-sm text-stone-400">{pool.length} 題</span>
+          </div>
+        </div>
+      </div>
+
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
+        {pool.length === 0 ? (
+          <div className="text-center text-stone-400 py-20">
+            <div className="text-lg mb-1">目前沒有{title === "錯題複習" ? "錯題" : "收藏題目"}</div>
+            <div className="text-sm">{listType === "wrong" ? "答錯的題目會自動收進這裡" : "作答時點右上角 ★ 即可收藏"}</div>
+          </div>
+        ) : (
+          <div className="space-y-6">
+            {groups.map(g => (
+              <div key={g.yr} className="bg-white/60 rounded-xl border border-stone-200 p-4 sm:p-5">
+                <div className="flex items-center justify-between mb-3">
+                  <h3 className="font-serif-tc text-lg font-bold text-stone-900">{g.name}</h3>
+                  <span className="font-mono text-xs text-stone-400">{g.count} 題</span>
+                </div>
+                {g.single.length > 0 && (
+                  <div className="mb-4">
+                    <div className={`inline-block text-xs px-2 py-0.5 rounded border mb-2 ${tagBg}`}>單選題 · {g.single.length}</div>
+                    {renderItems(g.single)}
+                  </div>
+                )}
+                {g.multi.length > 0 && (
+                  <div>
+                    <div className={`inline-block text-xs px-2 py-0.5 rounded border mb-2 ${tagBg}`}>複選題 · {g.multi.length}</div>
+                    {renderItems(g.multi)}
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function QuestionView({ q, idx, total, userPick, revealed, starred, examMode, timeLeft, onPick, onSubmit, onNext, onPrev, onStar, flaggedCur, onToggleFlag, onOpenCatalog, onExit }) {
+  const isMulti = q.type === "M";
+  const showExplanation = revealed && !examMode;
+  const correct = revealed && isAnswerCorrect(q, userPick);
+
+  function fmtTime(s) {
+    const m = Math.floor(s / 60);
+    const ss = String(s % 60).padStart(2, "0");
+    return `${m}:${ss}`;
+  }
+
+  const progressPct = ((idx + 1) / total) * 100;
+
+  return (
+    <div className="min-h-screen">
+      <div className="border-b border-stone-200 bg-white/90 backdrop-blur sticky top-0 z-10">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between">
+          <button onClick={onExit} className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-stone-300 text-stone-600 hover:bg-stone-100 hover:text-stone-900 hover:border-stone-400 transition-colors text-sm font-medium" title="提早結束本次練習">
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M19 12H5M12 19l-7-7 7-7"/>
+            </svg>
+            <span>提早結束</span>
+          </button>
+          <div className="flex items-center gap-3">
+            {examMode && (
+              <span className={`timer-pill ${timeLeft < 60 ? "warn" : ""}`}>{fmtTime(timeLeft)}</span>
+            )}
+            {examMode && (
+              <button onClick={onOpenCatalog} className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-stone-300 text-stone-600 hover:bg-stone-100 hover:border-stone-400 transition text-sm font-medium" title="作答目錄">
+                <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+                <span className="hidden sm:inline">目錄</span>
+              </button>
+            )}
+            <span className="font-mono text-sm text-stone-500">
+              <span className="font-serif-tc text-base font-bold text-stone-900">{idx + 1}</span>
+              <span className="mx-1 text-stone-300">/</span>{total}
+            </span>
+            <button onClick={onStar} className={`star-btn ${starred ? "starred" : ""}`} title="收藏">★</button>
+          </div>
+        </div>
+        <div className="h-0.5 bg-stone-100">
+          <div className="h-full bg-sky-700 transition-all duration-300" style={{ width: `${progressPct}%` }}></div>
+        </div>
+      </div>
+
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
+        <div className="flex flex-wrap gap-1.5 mb-4">
+          <span className="tag tag-year">{q.year} 年考題</span>
+          <span className={`tag ${isMulti ? "tag-multi" : "tag-single"}`}>
+            {isMulti ? "複選題" : "單選題"}
+          </span>
+          <span className="tag tag-id">{q.id}</span>
+        </div>
+
+        {examMode && (
+          <button onClick={onToggleFlag}
+            className={`inline-flex items-center gap-1.5 mb-4 px-3 py-1.5 rounded-full text-sm border transition ${flaggedCur ? "bg-amber-100 border-amber-400 text-amber-800" : "border-stone-300 text-stone-500 hover:bg-stone-50"}`}>
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill={flaggedCur ? "currentColor" : "none"} stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M4 21V4a1 1 0 0 1 1-1h11l-2 4 2 4H5"/></svg>
+            {flaggedCur ? "已標記回頭來看" : "標記回頭來看"}
+          </button>
+        )}
+
+        <div className="card paper-texture p-5 sm:p-7 mb-5 fade-up">
+          <div className="font-serif-tc text-base sm:text-lg leading-loose text-stone-900 whitespace-pre-wrap">{q.question}</div>
+          {q.imageUrl && (
+            <img src={q.imageUrl} alt="題目附圖" className="mt-4 max-w-full rounded border border-stone-200" />
+          )}
+        </div>
+
+        <div className="space-y-2.5 mb-6">
+          {q.choices.map(c => {
+            const picked = isMulti
+              ? (Array.isArray(userPick) && userPick.includes(c.key))
+              : userPick === c.key;
+            const ansSet = isMulti
+              ? new Set(Array.isArray(q.answer) ? q.answer : [])
+              : new Set([q.answer]);
+            const isAns = ansSet.has(c.key);
+            const cls = [
+              "choice",
+              isMulti ? "multi" : "single",
+              picked ? "picked" : "",
+              revealed ? "revealed" : "",
+              revealed && isAns ? "correct" : "",
+              revealed && !isAns && picked ? "wrong-pick" : "",
+              revealed && !isAns && !picked ? "unselected" : ""
+            ].filter(Boolean).join(" ");
+
+            return (
+              <button key={c.key} onClick={() => onPick(c.key)} disabled={revealed} className={cls}>
+                <span className="key">{c.key}</span>
+                <span className="flex-1 leading-relaxed text-stone-800 whitespace-pre-wrap pt-0.5">{c.text}</span>
+                {revealed && isAns && <span className="text-sky-700 font-bold mt-0.5">✓</span>}
+                {revealed && !isAns && picked && <span className="text-rose-700 font-bold mt-0.5">✗</span>}
+              </button>
+            );
+          })}
+        </div>
+
+        <div className="flex gap-2 mb-5">
+          <button
+            onClick={onPrev}
+            disabled={idx === 0}
+            className="px-4 py-2.5 border border-stone-300 rounded text-stone-600 hover:bg-stone-50 disabled:opacity-30 disabled:cursor-not-allowed transition"
+          >← 上一題</button>
+          {examMode ? (
+            <button onClick={onSubmit} className="flex-1 px-4 py-2.5 bg-sky-700 text-white rounded font-medium hover:bg-sky-800 transition">
+              {idx + 1 < total ? "下一題 →" : "交卷"}
+            </button>
+          ) : !revealed ? (
+            <button onClick={onSubmit} className="flex-1 px-4 py-2.5 bg-stone-900 text-stone-50 rounded font-medium hover:bg-stone-800 transition">送出答案</button>
+          ) : (
+            <button onClick={onNext} className="flex-1 px-4 py-2.5 bg-sky-700 text-white rounded font-medium hover:bg-sky-800 transition">{idx + 1 < total ? "下一題 →" : "完成本次"}</button>
+          )}
+        </div>
+
+        {revealed && (
+          <div className="card border-l-4 p-5 sm:p-6 fade-up"
+               style={{ borderLeftColor: correct ? "#1e5f8c" : "#a4161a" }}>
+            <div className="flex items-center gap-3 mb-3">
+              <div className={`w-10 h-10 rounded-full flex items-center justify-center text-white font-bold text-lg ${correct ? "bg-sky-700" : "bg-rose-700"}`}>
+                {correct ? "✓" : "✗"}
+              </div>
+              <div>
+                <div className={`font-serif-tc text-xl font-bold ${correct ? "text-sky-800" : "text-rose-800"}`}>
+                  {correct ? "答對了" : "答錯了"}
+                </div>
+                <div className="text-sm text-stone-500 mt-0.5">
+                  正確答案：<span className="font-bold text-stone-800">{formatAnswer(q)}</span>
+                  {!correct && userPick && (
+                    <span className="ml-2.5">你的：<span className="font-bold text-rose-700">{Array.isArray(userPick) ? userPick.join(" · ") : userPick}</span></span>
+                  )}
+                </div>
+              </div>
+            </div>
+
+            {showExplanation && q.explanation && (
+              <div className="mt-4 pt-4 border-t border-stone-200">
+                {q.explanation.summary && (
+                  <div className="mb-3 pb-3 border-b border-dashed border-stone-200">
+                    <div className="text-[0.7rem] uppercase tracking-[0.2em] text-stone-500 font-medium mb-1.5">考點命中</div>
+                    <div className="font-medium"><MD text={q.explanation.summary} /></div>
+                  </div>
+                )}
+                {q.explanation.detail && (
+                  <details open>
+                    <summary className="cursor-pointer font-serif-tc text-base font-semibold text-stone-700 hover:text-stone-900 mb-2 select-none">⊕ 完整詳解</summary>
+                    <div className="mt-2"><MD text={q.explanation.detail} /></div>
+                  </details>
+                )}
+                {q.explanation.sources && q.explanation.sources.length > 0 && (
+                  <div className="mt-4 pt-3 border-t border-stone-200 text-xs text-stone-500">
+                    <span className="uppercase tracking-widest mr-2">參考</span>
+                    {q.explanation.sources.map((s, i) => (
+                      <span key={i} className="mr-2 italic">
+                        {s.url ? <a href={s.url} target="_blank" className="underline hover:text-sky-700">{s.text}</a> : s.text}
+                      </span>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
+
+            {!showExplanation && examMode && (
+              <div className="text-xs text-stone-500 italic mt-2">模擬考模式 — 詳解將於完成後檢視</div>
+            )}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function ReviewView({ item, idx, total, onBack, onPrev, onNext }) {
+  const { q, pick, ok } = item;
+  const isMulti = q.type === "M";
+  const blank = pick == null;
+  return (
+    <div className="min-h-screen">
+      <div className="border-b border-stone-200 bg-white/90 backdrop-blur sticky top-0 z-10">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between">
+          <button onClick={onBack} className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-stone-300 text-stone-600 hover:bg-stone-100 transition text-sm font-medium">
+            <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+            <span>成績</span>
+          </button>
+          <span className="font-mono text-sm text-stone-500">
+            <span className="font-serif-tc text-base font-bold text-stone-900">{idx + 1}</span>
+            <span className="mx-1 text-stone-300">/</span>{total}
+          </span>
+        </div>
+      </div>
+
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
+        <div className="flex flex-wrap gap-1.5 mb-4">
+          <span className="tag tag-year">{q.year} 年考題</span>
+          <span className={`tag ${isMulti ? "tag-multi" : "tag-single"}`}>{isMulti ? "複選題" : "單選題"}</span>
+          <span className="tag tag-id">{q.id}</span>
+        </div>
+
+        <div className="card paper-texture p-5 sm:p-7 mb-5">
+          <div className="font-serif-tc text-base sm:text-lg leading-loose text-stone-900 whitespace-pre-wrap">{q.question}</div>
+          {q.imageUrl && <img src={q.imageUrl} alt="題目附圖" className="mt-4 max-w-full rounded border border-stone-200" />}
+        </div>
+
+        <div className="space-y-2.5 mb-6">
+          {q.choices.map(c => {
+            const picked = isMulti ? (Array.isArray(pick) && pick.includes(c.key)) : pick === c.key;
+            const ansSet = isMulti ? new Set(Array.isArray(q.answer) ? q.answer : []) : new Set([q.answer]);
+            const isAns = ansSet.has(c.key);
+            const cls = ["choice", isMulti ? "multi" : "single", picked ? "picked" : "", "revealed",
+              isAns ? "correct" : "", !isAns && picked ? "wrong-pick" : "", !isAns && !picked ? "unselected" : ""
+            ].filter(Boolean).join(" ");
+            return (
+              <div key={c.key} className={cls}>
+                <span className="key">{c.key}</span>
+                <span className="flex-1 leading-relaxed text-stone-800 whitespace-pre-wrap pt-0.5">{c.text}</span>
+                {isAns && <span className="text-sky-700 font-bold mt-0.5">✓</span>}
+                {!isAns && picked && <span className="text-rose-700 font-bold mt-0.5">✗</span>}
+              </div>
+            );
+          })}
+        </div>
+
+        <div className="flex gap-2 mb-5">
+          <button onClick={onPrev} disabled={idx === 0}
+            className="px-4 py-2.5 border border-stone-300 rounded text-stone-600 hover:bg-stone-50 disabled:opacity-30 disabled:cursor-not-allowed transition">← 上一題</button>
+          <button onClick={onNext} disabled={idx + 1 >= total}
+            className="flex-1 px-4 py-2.5 border border-stone-300 rounded text-stone-600 hover:bg-stone-50 disabled:opacity-30 disabled:cursor-not-allowed transition">下一題 →</button>
+        </div>
+
+        <div className="card border-l-4 p-5 sm:p-6" style={{ borderLeftColor: blank ? "#78716c" : ok ? "#1e5f8c" : "#a4161a" }}>
+          <div className="flex items-center gap-3 mb-3">
+            <div className={`w-10 h-10 rounded-full flex items-center justify-center text-white font-bold text-lg ${blank ? "bg-stone-500" : ok ? "bg-sky-700" : "bg-rose-700"}`}>
+              {blank ? "—" : ok ? "✓" : "✗"}
+            </div>
+            <div>
+              <div className={`font-serif-tc text-xl font-bold ${blank ? "text-stone-600" : ok ? "text-sky-800" : "text-rose-800"}`}>
+                {blank ? "未作答" : ok ? "答對了" : "答錯了"}
+              </div>
+              <div className="text-sm text-stone-500 mt-0.5">
+                正確答案：<span className="font-bold text-stone-800">{formatAnswer(q)}</span>
+                {!blank && !ok && (
+                  <span className="ml-2.5">你的：<span className="font-bold text-rose-700">{Array.isArray(pick) ? pick.join(" · ") : pick}</span></span>
+                )}
+              </div>
+            </div>
+          </div>
+          {q.explanation && (
+            <div className="mt-4 pt-4 border-t border-stone-200">
+              {q.explanation.summary && (
+                <div className="mb-3 pb-3 border-b border-dashed border-stone-200">
+                  <div className="text-[0.7rem] uppercase tracking-[0.2em] text-stone-500 font-medium mb-1.5">考點命中</div>
+                  <div className="font-medium"><MD text={q.explanation.summary} /></div>
+                </div>
+              )}
+              {q.explanation.detail && (
+                <details open>
+                  <summary className="cursor-pointer font-serif-tc text-base font-semibold text-stone-700 hover:text-stone-900 mb-2 select-none">⊕ 完整詳解</summary>
+                  <div className="mt-2"><MD text={q.explanation.detail} /></div>
+                </details>
+              )}
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>
