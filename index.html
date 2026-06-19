@@ -334,7 +334,7 @@
   var bar = document.getElementById('boot-bar');
   var pct = document.getElementById('boot-pct');
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', 'questions.json?v=7', true);
+  xhr.open('GET', 'questions.json?v=8', true);
   xhr.onprogress = function (e) {
     if (e.lengthComputable) {
       var p = Math.round(e.loaded / e.total * 100);
@@ -370,6 +370,7 @@ const { useState, useEffect, useMemo, useRef } = React;
 // 不細分專科，一律以「xxx 年考題」呈現
 const YEARS = [109, 110, 111, 112, 113, 114];
 const TYPES = { S: "單選", M: "複選" };
+const SUBJECTS = ["心臟科", "胸腔科", "腸胃科", "腎臟科", "新陳代謝科", "風濕免疫科", "感染科", "血液腫瘤科", "其他類"];
 
 const QUESTIONS = window.__QUESTIONS__;
 
@@ -470,7 +471,8 @@ function App() {
   const [view, setView] = useState("home");
   const [filter, setFilter] = useState({
     years: new Set(),
-    types: new Set()
+    types: new Set(),
+    subjects: new Set()
   });
   const [sessionQs, setSessionQs] = useState([]);
   const [idx, setIdx] = useState(0);
@@ -499,7 +501,8 @@ function App() {
   const filteredQuestions = useMemo(() => {
     return QUESTIONS.filter(q =>
       filter.years.has(q.year) &&
-      filter.types.has(q.type)
+      filter.types.has(q.type) &&
+      filter.subjects.has(q.subject)
     );
   }, [filter]);
 
@@ -947,6 +950,11 @@ function HomeView({ stats, filter, setFilter, filteredCount, onStartPractice, on
     QUESTIONS.forEach(q => { if (m[q.type] !== undefined) m[q.type]++; });
     return m;
   }, []);
+  const subjectCounts = useMemo(() => {
+    const m = {}; SUBJECTS.forEach(s => m[s] = 0);
+    QUESTIONS.forEach(q => { if (m[q.subject] !== undefined) m[q.subject]++; });
+    return m;
+  }, []);
 
   return (
     <div>
@@ -1035,6 +1043,14 @@ function HomeView({ stats, filter, setFilter, filteredCount, onStartPractice, on
             onToggle={v => toggleSet("types", v)}
             onAll={() => setAll("types", ["S", "M"])}
             onNone={() => clearAll("types")}
+          />
+          <FilterGroup
+            title="專科"
+            items={SUBJECTS.map(s => ({ key: s, label: s, count: subjectCounts[s] }))}
+            selected={filter.subjects}
+            onToggle={v => toggleSet("subjects", v)}
+            onAll={() => setAll("subjects", SUBJECTS)}
+            onNone={() => clearAll("subjects")}
             isLast
           />
         </section>
