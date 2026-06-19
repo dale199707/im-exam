@@ -26,7 +26,8 @@
         "text": "102歲老婦人30年前因高血壓到門診治療，五年前開始有體力不支、容易疲倦、未有胸悶、眩暈、呼吸困難等症狀，經確診為二尖瓣閉鎖不全，使用藥物治療，症狀改善。應建議這位老婦人每6或12個月回診評估，如有惡化，才建議住院做外科手術治療"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "109-S2",
@@ -55,7 +56,8 @@
         "text": "(1)+(2)+(5)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "109-S3",
@@ -84,7 +86,8 @@
         "text": "左心室HFpEF 之死亡率遠比左心室HFrEF為低，但仍比同年齡的正常人為高"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "109-S4",
@@ -113,7 +116,8 @@
         "text": "46歲女性病人主訴感冒、發燒及輕度呼吸困難，有兩週之久，身體檢查有心臟雜音, 手掌有類似的Osler node, 經採血一次,細菌培養有金黃色葡萄球細菌，按Duke criteria，本病例應可確診感染性心內膜炎"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "109-S5",
@@ -142,7 +146,8 @@
         "text": "隨著冠脈血管再通術之發達，ST波上昇型的急性心肌梗塞ST elevation acute myocardial infarction)併發VT多在急性冠心症一週內"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "109-S6",
@@ -171,7 +176,8 @@
         "text": "Gadolinium磁振影像可顯示心肌纖維化(Fibrosis) 程度是嚴重心律不整之可靠預測指標"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "109-S7",
@@ -200,7 +206,8 @@
         "text": "(3)+(4)+(5)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "109-S8",
@@ -229,7 +236,8 @@
         "text": "左迴旋冠脈栓塞之STE acute myocardial infarction"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "109-S9",
@@ -258,7 +266,8 @@
         "text": "使用心臟再同步化治療(Cardiac resynchronization therapy)改善左心室心肌失能，有助續發性MR的嚴重度"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "109-S10",
@@ -287,7 +296,8 @@
         "text": "亞洲病人使用Warfarin或NOAC都有較高腦中風、大出血及顱內出血的發生，是以建議含Aspirin 及 Clopidogrel的雙重抗血小板治療(Dual antiplatelet therapy, DAPT) 代替"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "109-S11",
@@ -316,7 +326,8 @@
         "text": "巨細胞心肌炎多見老年人，時以胸痛、心衰竭、惡性心律不整或傳導阻滯，有賴臨床警覺早期切片診斷，盡早免疫治療有效，唯死亡率高，有賴心臟移植治療"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "109-S12",
@@ -345,7 +356,8 @@
         "text": "使用主動脈內氣球幫浦（Intra-aortic balloon pump，IABP）治療心因性休克，在臨床試驗資料並不顯示能改善死亡率"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "109-S13",
@@ -374,7 +386,8 @@
         "text": "主動脈弓(aortic arch)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S14",
@@ -403,7 +416,8 @@
         "text": "口服抗凝血劑是必要之藥物治療"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "109-S15",
@@ -432,7 +446,8 @@
         "text": "Apixaban的antidote是idarucizumab"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "109-S16",
@@ -461,7 +476,8 @@
         "text": "心音聽診時，第二心音肺動脈瓣成分會加重(accentuated P2)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "109-S17",
@@ -490,7 +506,8 @@
         "text": "嗜中性白血球明膠相關性脂質運載蛋白(neutrophil gelatinase–associated lipocalin /NGAL)與急性腎損傷造成之心肌纖維化有相關"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S18",
@@ -519,7 +536,8 @@
         "text": "(4)+(5)+(6)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "109-S19",
@@ -548,7 +566,8 @@
         "text": "Bisoprolol"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "109-S20",
@@ -577,7 +596,8 @@
         "text": "病竇症候群"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "109-S21",
@@ -606,7 +626,8 @@
         "text": "可以使用amiodarone來進行節律控制(rhythm control)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "109-S22",
@@ -635,7 +656,8 @@
         "text": "(3)+(5)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "109-S23",
@@ -664,7 +686,8 @@
         "text": "胸部超音波"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S24",
@@ -693,7 +716,8 @@
         "text": "脊椎或神經根的侵犯，核磁共振的解析度比電腦斷層佳"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S25",
@@ -722,7 +746,8 @@
         "text": "早期的氣管黏膜病變可以用螢光支氣管鏡檢測"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S26",
@@ -751,7 +776,8 @@
         "text": "非結核分枝桿菌（NTM）感染"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S27",
@@ -780,7 +806,8 @@
         "text": "嚴重肺氣腫（emphysema）肺泡壁破壞、回彈力下降導致氣流阻塞"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S28",
@@ -809,7 +836,8 @@
         "text": "(2)+(3)+(4)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S29",
@@ -838,7 +866,8 @@
         "text": "(1)+(2)+(3)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S30",
@@ -867,7 +896,8 @@
         "text": "(1)+(2)+(5)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S31",
@@ -896,7 +926,8 @@
         "text": "持續氣道正壓呼吸器治療是目前的主流"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S32",
@@ -925,7 +956,8 @@
         "text": "治療成功後幾乎不會復發"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S33",
@@ -954,7 +986,8 @@
         "text": "使用高劑量吸入型類固醇及長效型抗膽鹼劑最好"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S34",
@@ -983,7 +1016,8 @@
         "text": "免疫抑制可能會增加死亡率"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S35",
@@ -1012,7 +1046,8 @@
         "text": "(3)+(4)+(5)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S36",
@@ -1041,7 +1076,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S37",
@@ -1070,7 +1106,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S38",
@@ -1099,7 +1136,8 @@
         "text": "吸入型類固醇(inhaled corticosteroid, ICS)與吸入型長效乙二型交感神經刺激劑 (long-acting β2 agonist, SABA)併用較單獨使用吸入型類固醇於中度氣喘患者可達到較快速的症狀改善"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S39",
@@ -1128,7 +1166,8 @@
         "text": "減少泛發性血管內血液凝固症(disseminated intravascular coagulation,DIC)的機會"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S40",
@@ -1157,7 +1196,8 @@
         "text": "可考慮單獨給予respiratory fluoroquinolone"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S41",
@@ -1186,7 +1226,8 @@
         "text": "末期腎病(End Stage Renal Disease, ESRD)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S42",
@@ -1215,7 +1256,8 @@
         "text": "肺塌陷(atelectasis)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S43",
@@ -1244,7 +1286,8 @@
         "text": "如果病患不適合開刀，引流膿胸使用14-French胸管(chest tube)或豬尾導管(pigtail catheter)即可"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S44",
@@ -1273,7 +1316,8 @@
         "text": "PD-L1 tumor proportion score of 50% or greater"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S45",
@@ -1302,7 +1346,8 @@
         "text": "健康的B型肝炎病毒慢性感染者（健康帶原者）"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S46",
@@ -1331,7 +1376,8 @@
         "text": "(1)+(2)+(4)+(5)+(6)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S47",
@@ -1360,7 +1406,8 @@
         "text": "此種病情僅會持續幾天，且不會有後遺症"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S48",
@@ -1389,7 +1436,8 @@
         "text": "要檢測其血清 Albumin 濃度"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S49",
@@ -1418,7 +1466,8 @@
         "text": "台灣過去兩年使用D AAs 治療C肝病人，只要病情尚佳（無肝硬化或僅有代償性肝硬化），其 SVR12 ( sustained virologic response at 12 weeks after end of treatment) 機率高達 98%。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S50",
@@ -1447,7 +1496,8 @@
         "text": "(1)+(2)+(5)+(6)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S51",
@@ -1476,7 +1526,8 @@
         "text": "(3)+(4)+(5)+(6)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S52",
@@ -1505,7 +1556,8 @@
         "text": "Chronic mesenteric ischemia (intestinal angina) 病人之腹痛通常與進食無關"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S53",
@@ -1534,7 +1586,8 @@
         "text": "H. pylori eradication 需使用組合療法，抗生素為其中重要項目，常用者包括 clarithromycin、amoxicillin"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S54",
@@ -1563,7 +1616,8 @@
         "text": "Stone impaction at common bile duct"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S55",
@@ -1592,7 +1646,8 @@
         "text": "若最近有右上腹痛，需注意膽結石是否掉至總膽管中"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S56",
@@ -1621,7 +1676,8 @@
         "text": "Dexlansoprazole"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S57",
@@ -1650,7 +1706,8 @@
         "text": "(2)+(3)+(5)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S58",
@@ -1679,7 +1736,8 @@
         "text": "抗逆流手術(antireflux surgery)無法預防其進展成癌症"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S59",
@@ -1708,7 +1766,8 @@
         "text": "(2)+(3)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S60",
@@ -1737,7 +1796,8 @@
         "text": "Adenomatous polyps與萎縮性胃炎(atrophic gastritis)、腸化生(intestinal metaplasia)、及幽門螺旋桿菌感染有關"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S61",
@@ -1766,7 +1826,8 @@
         "text": "Total parenteral nutirition"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S62",
@@ -1795,7 +1856,8 @@
         "text": "Sphincter of Oddi dysfunction"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S63",
@@ -1824,7 +1886,8 @@
         "text": "Technetium labeled nuclean scan"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S64",
@@ -1853,7 +1916,8 @@
         "text": "使用sulfasalazine"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S65",
@@ -1882,7 +1946,8 @@
         "text": "Tuberculous colitis"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S66",
@@ -1911,7 +1976,8 @@
         "text": "(2)+(4)+(5)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S67",
@@ -1940,7 +2006,8 @@
         "text": "(3)+(4)+(5)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S68",
@@ -1969,7 +2036,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S69",
@@ -1998,7 +2066,8 @@
         "text": "(1)+(4)+(5)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S70",
@@ -2027,7 +2096,8 @@
         "text": "Hypomagnesemia"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S71",
@@ -2056,7 +2126,8 @@
         "text": "24 小時動態血壓監測 (夜間) 收縮壓≥120 and/or 舒張壓≥70 mmHg"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "109-S72",
@@ -2085,7 +2156,8 @@
         "text": "Thiazide、low dose aspirin、人工甜味劑，都會增加痛風之發作"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S73",
@@ -2114,7 +2186,8 @@
         "text": "應繼續檢測 Osmolar gap 及 Delta ratio"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S74",
@@ -2143,7 +2216,8 @@
         "text": "慢性腎病病人因顯影劑導致嚴重急性腎傷害或導致透析的機率還是明顯高出很多"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S75",
@@ -2172,7 +2246,8 @@
         "text": "Heat exhaustion"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "109-S76",
@@ -2201,7 +2276,8 @@
         "text": "Vancomycin"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "109-S77",
@@ -2230,7 +2306,8 @@
         "text": "腎臟細胞癌號發年齡層為四十到五十歲之前"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S78",
@@ -2259,7 +2336,8 @@
         "text": "此種RTA，因為尿液無法酸化，通常urine pH值會 > 6.5"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S79",
@@ -2288,7 +2366,8 @@
         "text": "(2)+(3)+(5)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S80",
@@ -2317,7 +2396,8 @@
         "text": "Sustained-release nifedipine, a calcium channel blocker"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S81",
@@ -2346,7 +2426,8 @@
         "text": "Hs-CRP, ANA (antinuclear antibody)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S82",
@@ -2375,7 +2456,8 @@
         "text": "Glomerular necrotizing lesion of renal arteriole"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S83",
@@ -2404,7 +2486,8 @@
         "text": "測量 CAPD Kt/V, 並安排腹膜功能測試 (peritoneal equilibration test, PET)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S84",
@@ -2433,7 +2516,8 @@
         "text": "Renal anemia"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S85",
@@ -2462,7 +2546,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S86",
@@ -2491,7 +2576,8 @@
         "text": "(2)+(5)+(7)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S87",
@@ -2520,7 +2606,8 @@
         "text": "Henoch-Schönlein purpura (HSP)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S88",
@@ -2549,7 +2636,8 @@
         "text": "過去未曾使用ACEI/ARB類藥物的病人，如果感染COVID-19，基於保護腎臟與心血管，建議醫師應該新開立此類藥物，預防器官衰竭"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S89",
@@ -2578,7 +2666,8 @@
         "text": "對severe diarrhea患者，應儘快給予opiates藥物治療"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S90",
@@ -2607,7 +2696,8 @@
         "text": "減輕日間嗜睡症狀"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S91",
@@ -2636,7 +2726,8 @@
         "text": "打radiocontrast agent前，給予aminophylline"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "109-S92",
@@ -2665,7 +2756,8 @@
         "text": "Digoxin 中毒之臨床表現，以心律及心傳導異常最多見，胃腸症狀次之"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "109-S93",
@@ -2694,7 +2786,8 @@
         "text": "甲狀腺素治療無益，觀察即可"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S94",
@@ -2723,7 +2816,8 @@
         "text": "Anti-GAD65 陽性"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S95",
@@ -2752,7 +2846,8 @@
         "text": "Anti-IL-6 receptor monoclonal antibody - SLE"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S96",
@@ -2781,7 +2876,8 @@
         "text": "纖維肌痛症 (fibromyalgia)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S97",
@@ -2810,7 +2906,8 @@
         "text": "HIV感染相關之lymphoma主要是B cell lymphoma"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "109-S98",
@@ -2839,7 +2936,8 @@
         "text": "Liver function impairment"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S99",
@@ -2868,7 +2966,8 @@
         "text": "Follow-up colonoscopy in 10 years"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "109-S100",
@@ -2897,7 +2996,8 @@
         "text": "銅（copper）"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "109-S101",
@@ -2926,7 +3026,8 @@
         "text": "幫她安排胸部X光檢查，發現右下肺有浸潤現象，蒐集痰液acid fast stain陰性，繼續定期追蹤即可"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S102",
@@ -2955,7 +3056,8 @@
         "text": "登革熱4效價減毒活疫苗 (Sanofi) 建議使用於未曾感染過登革熱的人"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "109-S103",
@@ -2984,7 +3086,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "109-S104",
@@ -3013,7 +3116,8 @@
         "text": "Aspergillus fumigatus"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "109-S105",
@@ -3042,7 +3146,8 @@
         "text": "Q fever與生牛肉"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "109-S106",
@@ -3071,7 +3176,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "109-S107",
@@ -3100,7 +3206,8 @@
         "text": "Vancomycin使用時只須監測血中 trough 濃度，以評估其療效及副作用"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "109-S108",
@@ -3129,7 +3236,8 @@
         "text": "(2)+(3)+(5)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "109-S109",
@@ -3158,7 +3266,8 @@
         "text": "使用較後線之carbapenem類抗生素可避免治療失敗"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "109-S110",
@@ -3187,7 +3296,8 @@
         "text": "Dengue fever (登革熱) –Flaviviruses"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "109-S111",
@@ -3216,7 +3326,8 @@
         "text": "致病原亦可為Leptospira，可利用血清抗體力價診斷"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "109-S112",
@@ -3245,7 +3356,8 @@
         "text": "(1)+(3)+(4)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "109-S113",
@@ -3274,7 +3386,8 @@
         "text": "(1)+(4)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "109-S114",
@@ -3303,7 +3416,8 @@
         "text": "(2)+(3)+(4)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "109-S115",
@@ -3332,7 +3446,8 @@
         "text": "Coxiella burnetii–與鳥類接觸"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S116",
@@ -3361,7 +3476,8 @@
         "text": "全球COVID-19 感染的死亡率約為0.5%~1%"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "109-S117",
@@ -3390,7 +3506,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "109-S118",
@@ -3419,7 +3536,8 @@
         "text": "對較嚴重感染病患，如血液白血球數>15000/μL，首選使用口服Vancomycin"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "109-S119",
@@ -3448,7 +3566,8 @@
         "text": "肛門鱗狀上皮癌(squamous cell carcinoma) –愛滋病毒(HIV)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "109-S120",
@@ -3477,7 +3596,8 @@
         "text": "(2)+(3)+(5)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S121",
@@ -3506,7 +3626,8 @@
         "text": "(2)+(4)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S122",
@@ -3535,7 +3656,8 @@
         "text": "申請健保給付， 以 pasireotide 治療"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S123",
@@ -3564,7 +3686,8 @@
         "text": "建議手術切除此腎上腺腫瘤"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S124",
@@ -3593,7 +3716,8 @@
         "text": "在HIV感染初期，即使病人有體重下降，T3及T4仍然可能增高"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S125",
@@ -3622,7 +3746,8 @@
         "text": "血清中thyroglobulin可做為甲狀腺癌追蹤指標，最好維持在10 ng/ML 以下 (正常參考值< 55 ng/mL)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S126",
@@ -3651,7 +3776,8 @@
         "text": "甲狀腺功能亢進或腎上腺功能低下都可能引起高血鈣症"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S127",
@@ -3680,7 +3806,8 @@
         "text": "Denosumab可能增加osteonecrosis of the jaw (ONJ)的風險，但不會增加atypical femur fracture的風險"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S128",
@@ -3709,7 +3836,8 @@
         "text": "前列腺癌(Prostate cancer)的病人接受 androgen deprivation therapy 可以減少心血管疾病風險"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S129",
@@ -3738,7 +3866,8 @@
         "text": "MTC若有遠部轉移，其10年存活率約為 50%"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S130",
@@ -3767,7 +3896,8 @@
         "text": "鈉-葡萄糖協同轉運蛋白質 2抑制劑的研究發現，本項藥物可以改善蛋白尿的現象，具有延緩糖尿病腎病變的藥理效應"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S131",
@@ -3796,7 +3926,8 @@
         "text": "老年糖尿病, 患腎功能不佳時, 磺脲類藥物(Sulfonylureas)之使用, 可能是低血糖的重要原因之一"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S132",
@@ -3825,7 +3956,8 @@
         "text": "Overnight 1mg Dexamathasone suppression測試"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S133",
@@ -3854,7 +3986,8 @@
         "text": "(4)+(5)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S134",
@@ -3883,7 +4016,8 @@
         "text": "第一型糖尿病患者 (Type 1 diabetes mellitus)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S135",
@@ -3912,7 +4046,8 @@
         "text": "(1)+(3)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S136",
@@ -3941,7 +4076,8 @@
         "text": "建議病患未來應於居家自我監測血糖 (Self Monitoring of Blood Glucose)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S137",
@@ -3970,7 +4106,8 @@
         "text": "甲狀腺機能不足 (Hypothyroidism) 時，病患之LDL增加，因為原本甲狀腺素可增加肝臟之LDL受器，降低血中之LDL，但甲狀腺素不足時，血中之LDL之清除效率也會明顯下降"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S138",
@@ -3999,7 +4136,8 @@
         "text": "GLP-1 RA (Glucgon like peptide-1 receptor agonist) 是一種基礎胰島素，但是卻沒有傳統胰島素會增加病患體重的副作用"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S139",
@@ -4028,7 +4166,8 @@
         "text": "一般控制原則，40歲以下之糖尿病患者，無論是否有心血管疾病病史，均不宜使用Statins類藥物控制低密度脂蛋白(LDL-C)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "109-S140",
@@ -4057,7 +4196,8 @@
         "text": "(3)+(5)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S141",
@@ -4086,7 +4226,8 @@
         "text": "腎臟因尿酸引起之腎病變"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S142",
@@ -4115,7 +4256,8 @@
         "text": "廣泛肺血管B細胞浸潤"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "109-S143",
@@ -4144,7 +4286,8 @@
         "text": "血管收縮素-轉換酵素5 (Angiotensin-converting enzyme 5)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "109-S144",
@@ -4173,7 +4316,8 @@
         "text": "念珠菌感染"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S145",
@@ -4202,7 +4346,8 @@
         "text": "第五型"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S146",
@@ -4231,7 +4376,8 @@
         "text": "(2)+(4)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S147",
@@ -4260,7 +4406,8 @@
         "text": "髖關節"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S148",
@@ -4289,7 +4436,8 @@
         "text": "(2)+(5)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S149",
@@ -4318,7 +4466,8 @@
         "text": "SLE 全身性紅斑性狼瘡"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S150",
@@ -4347,7 +4496,8 @@
         "text": "Bone marrow examination"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S151",
@@ -4376,7 +4526,8 @@
         "text": "Anti-CCP"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S152",
@@ -4405,7 +4556,8 @@
         "text": "Anti-phospholipid syndrome"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S153",
@@ -4434,7 +4586,8 @@
         "text": "Sacoidosis"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S154",
@@ -4463,7 +4616,8 @@
         "text": "Anti-TNF-alpha抗體治療無效"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S155",
@@ -4492,7 +4646,8 @@
         "text": "Polyarteritis nodosa━皮膚常會呈現leukocytoclastic vasculitis"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S156",
@@ -4521,7 +4676,8 @@
         "text": "長期服用少量類固醇最為有效"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S157",
@@ -4550,7 +4706,8 @@
         "text": "秋水仙素具有降尿酸的效果"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S158",
@@ -4579,7 +4736,8 @@
         "text": "Systemic corticosteroids"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S159",
@@ -4608,7 +4766,8 @@
         "text": "(6)+(7)+(9)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S160",
@@ -4637,7 +4796,8 @@
         "text": "Cyclophosphamide 加Cytarabine"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S161",
@@ -4666,7 +4826,8 @@
         "text": "RUNX1"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S162",
@@ -4695,7 +4856,8 @@
         "text": "Histone deacetylase inhibitor"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S163",
@@ -4724,7 +4886,8 @@
         "text": "Decreased hepcidin production"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S164",
@@ -4753,7 +4916,8 @@
         "text": "MYC, BCL1"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S165",
@@ -4782,7 +4946,8 @@
         "text": "Imatinib- Chronic myeloid leukemia"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S166",
@@ -4811,7 +4976,8 @@
         "text": "輸注男性或未曾懷孕婦女的血可減少發生機率"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S167",
@@ -4840,7 +5006,8 @@
         "text": "Allogeneic hematopoietic stem cell transplantation"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S168",
@@ -4869,7 +5036,8 @@
         "text": "(1)+(2)+(3)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S169",
@@ -4898,7 +5066,8 @@
         "text": "(2)+(3)+(4)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S170",
@@ -4927,7 +5096,8 @@
         "text": "Panitumumab added to FOLFOX"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S171",
@@ -4956,7 +5126,8 @@
         "text": "KPS 50"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S172",
@@ -4985,7 +5156,8 @@
         "text": "Calcitonin"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S173",
@@ -5014,7 +5186,8 @@
         "text": "Cirrhosis from any cause"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S174",
@@ -5043,7 +5216,8 @@
         "text": "以上皆非"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S175",
@@ -5072,7 +5246,8 @@
         "text": "Bevacizumab"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S176",
@@ -5101,7 +5276,8 @@
         "text": "Serum CA 19-9"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S177",
@@ -5130,7 +5306,8 @@
         "text": "Asymptomatic men with an elevated PSA should receive a 2-week course of antibiotics before repeating PSA and considering biopsy."
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S178",
@@ -5159,7 +5336,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S179",
@@ -5188,7 +5366,8 @@
         "text": "1、2、4、5均適宜"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "109-S180",
@@ -5217,7 +5396,8 @@
         "text": "書寫困難（agraphia）"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "109-S181",
@@ -5246,7 +5426,8 @@
         "text": "額顳葉失智症（frontotemporal dementia）"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "109-S182",
@@ -5275,7 +5456,8 @@
         "text": "應給予抗癲癇藥物"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "109-S183",
@@ -5304,7 +5486,8 @@
         "text": "混沌"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "109-S184",
@@ -5333,7 +5516,8 @@
         "text": "Propafenone"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "109-S185",
@@ -5362,7 +5546,8 @@
         "text": "(1)+(2)+(3)+(4)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "109-S186",
@@ -5391,7 +5576,8 @@
         "text": "(1)+(2)+(3)+(4)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "109-S187",
@@ -5420,7 +5606,8 @@
         "text": "止吐劑Ondansetron對於早發型酒精使用疾患(early-onset AUD)具有治療潛力"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "109-S188",
@@ -5449,7 +5636,8 @@
         "text": "醫療機構需要特別關注醫護人員的心理健康需求"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "109-S189",
@@ -5478,7 +5666,8 @@
         "text": "厭食症有兩個亞型，限制飲食型(restricting type)以及暴食催吐型(binge-eating and purging type)，個案較常是由限制型轉為暴食催吐型"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "109-S190",
@@ -5507,7 +5696,8 @@
         "text": "大約有10%到30%的病患對於抗精神病藥物治療反應有限"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "109-S191",
@@ -5536,7 +5726,8 @@
         "text": "(1)+(3)+(5)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "109-S192",
@@ -5565,7 +5756,8 @@
         "text": "(1)+(2)+(5)"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "109-S193",
@@ -5594,7 +5786,8 @@
         "text": "三環抗憂鬱藥(Tricyclic antidepressants: TCA)：體重上升(weight gain)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "109-S194",
@@ -5623,7 +5816,8 @@
         "text": "慢性濕疹 (Chronic eczema)"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "109-S195",
@@ -5652,7 +5846,8 @@
         "text": "局部抗組織胺"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "109-S196",
@@ -5681,7 +5876,8 @@
         "text": "黏膜型黑色素細胞癌 (mucousal melanoma)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "109-S197",
@@ -5710,7 +5906,8 @@
         "text": "(2)+(5)"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "109-S198",
@@ -5739,7 +5936,8 @@
         "text": "(3)+(4)"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "109-S199",
@@ -5768,7 +5966,8 @@
         "text": "感染性心內膜炎 (infective endocarditis)；Janeway lesions"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "109-S200",
@@ -5797,7 +5996,8 @@
         "text": "萎縮性疤痕 (atrophic scar)"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "110-S1",
@@ -5826,7 +6026,8 @@
         "text": "女性病人有心房撲動(Atrial flutter) 其CHA₂DS₂VASc是 2分時，可不必使用抗凝血藥物治療。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "110-S2",
@@ -5855,7 +6056,8 @@
         "text": "年輕人(<30歲)無高血壓病史，診間血壓120/75 mmHg，得建議不必定期回診。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "110-S3",
@@ -5884,7 +6086,8 @@
         "text": "心律不整，STEMI 及NSTEMI，休克都可能發生在COVID-19病人，特別年老多病者。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "110-S4",
@@ -5913,7 +6116,8 @@
         "text": "多血管冠心病以(non-STEMI)臨床表現。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "110-S5",
@@ -5942,7 +6146,8 @@
         "text": "腹部AA應定期檢查, 3-3.9公分直徑時每三年追蹤一次，4-4.4公分時每二年追查一次，而4.5-5.4公分者每年一次追查，超過5.5公分應于治療。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "110-S6",
@@ -5971,7 +6176,8 @@
         "text": "主動脈內逆向幫送輔助療法(IABP)是心因性休克處置的必要選擇。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "110-S7",
@@ -6000,7 +6206,8 @@
         "text": "啓用諸如IABP及ECMO有助處理急性心肌炎早期之血行力學(Hemodynamic)之異常。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "110-S8",
@@ -6029,7 +6236,8 @@
         "text": "風濕性心臟病。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "110-S9",
@@ -6058,7 +6266,8 @@
         "text": "(2)+(4)+(6)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "110-S10",
@@ -6087,7 +6296,8 @@
         "text": "正常吸氣時,頸靜脈壓應下降約3毫米汞柱。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "110-S11",
@@ -6116,7 +6326,8 @@
         "text": "Lead aVR 呈現ST segment elevation,同時有多導極呈現ST depression時,要考慮左主冠狀動脈重度狹窄。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "110-S12",
@@ -6145,7 +6356,8 @@
         "text": "心肌梗塞後心包膜發炎 (Dressler's syndrome)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "110-S13",
@@ -6174,7 +6386,8 @@
         "text": "會出現Duroziez's sign。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "110-S14",
@@ -6203,7 +6416,8 @@
         "text": "(2)+(3)+(5)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "110-S15",
@@ -6232,7 +6446,8 @@
         "text": "用血栓溶解劑來治療ST 節段上升型心肌梗塞要注意病患血壓不能過高(如收縮壓>180 mmHg,舒張壓>110mmHg)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "110-S16",
@@ -6261,7 +6476,8 @@
         "text": "(2)+(6)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "110-S17",
@@ -6290,7 +6506,8 @@
         "text": "CRT的左心室導線常經由冠狀靜脈竇(coronary sinus)置放。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "110-S18",
@@ -6319,7 +6536,8 @@
         "text": "根據Ghent criteria診斷的Marfan syndrome患者,超過90% 都有FBN1基因的突變。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "110-S19",
@@ -6348,7 +6566,8 @@
         "text": "因為肺纖維化造成的侷限性肺功能障礙。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S20",
@@ -6377,7 +6596,8 @@
         "text": "(3)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S21",
@@ -6406,7 +6626,8 @@
         "text": "縱膈腔鏡及支氣管內超音波導引經氣管細針穿刺術(EBUS TBNA)皆無法取樣主動脈旁淋巴結(Level 5,6)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S22",
@@ -6435,7 +6656,8 @@
         "text": "可以考慮使用theophylline，雖然效果有限。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S23",
@@ -6464,7 +6686,8 @@
         "text": "對於第三期的病人如果無法開刀，建議同時化學治療及放射治療，並於療程結束後使用免疫治療一年。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S24",
@@ -6493,7 +6716,8 @@
         "text": "敗血症休克。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S25",
@@ -6522,7 +6746,8 @@
         "text": "(2)+(3)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S26",
@@ -6551,7 +6776,8 @@
         "text": "因為喘、肋膜積水，及心包膜積水增加，可以是結核感染引起，可以暫停化療，觀察抗結核治療效果。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S27",
@@ -6580,7 +6806,8 @@
         "text": "增加氣管擴張劑的使用。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S28",
@@ -6609,7 +6836,8 @@
         "text": "(1)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S29",
@@ -6638,7 +6866,8 @@
         "text": "給予口服類固醇，使用5-10天。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S30",
@@ -6667,7 +6896,8 @@
         "text": "患有阿斯匹靈敏感型氣喘 (aspirin sensitive asthma)之病患，應避免服用 nonselective COX inhibitors。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S31",
@@ -6696,7 +6926,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S32",
@@ -6725,7 +6956,8 @@
         "text": "若病患發生Submassive pulmonary embolism, 但心臟超音波檢查呈現右心室功能不全，應考慮注射recombinant tissue plasminogen activator (tPA)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S33",
@@ -6754,7 +6986,8 @@
         "text": "治療以免疫抑制劑為主。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S34",
@@ -6783,7 +7016,8 @@
         "text": "SARS-CoV-2 Neutralizing Antibody。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S35",
@@ -6812,7 +7046,8 @@
         "text": "BRAF V600E mutation。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S36",
@@ -6841,7 +7076,8 @@
         "text": "當產生secondary T790M mutation後，最佳的治療方式是給予第二代EGFR小分子抑制劑Afatinib治療。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S37",
@@ -6870,7 +7106,8 @@
         "text": "(1) + (2) + (5) + (6)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S38",
@@ -6899,7 +7136,8 @@
         "text": "(3) + (4) + (5) + (6)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S39",
@@ -6928,7 +7166,8 @@
         "text": "病人罹患原發性膽汁滯留性肝病 (primary biliary cirrhosis)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S40",
@@ -6957,7 +7196,8 @@
         "text": "病人已有肝臟失代償現象 (liver decompensation)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S41",
@@ -6986,7 +7226,8 @@
         "text": "台灣要在2025年根除C肝，其主要關鍵在於強化篩檢找出潛在的C肝病人。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S42",
@@ -7015,7 +7256,8 @@
         "text": "使用口服抗B肝病毒藥物時，應隨時注意病人之腎功能。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S43",
@@ -7044,7 +7286,8 @@
         "text": "膽管細胞癌 (cholangiocarcinoma) 之預後，一般比肝細胞癌差。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S44",
@@ -7073,7 +7316,8 @@
         "text": "脂肪肝併有糖尿病和高三酸甘油脂血症之病人也是罹患肝細胞癌的危險群。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S45",
@@ -7102,7 +7346,8 @@
         "text": "Mechanical blockage 發生初期，病人易有 colicky abdominal pain，bowel sound 較hyperactive，其後 colicky pain 可能慢慢減輕， bowel sound 可能變成 hypoactive。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S46",
@@ -7131,7 +7376,8 @@
         "text": "Post head and neck surgery。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S47",
@@ -7160,7 +7406,8 @@
         "text": "liver cirrhosis。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S48",
@@ -7189,7 +7436,8 @@
         "text": "Bile。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S49",
@@ -7218,7 +7466,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S50",
@@ -7247,7 +7496,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S51",
@@ -7276,7 +7526,8 @@
         "text": "與口腔腫瘤發生有關。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S52",
@@ -7305,7 +7556,8 @@
         "text": "憩室炎可進展成穿孔及腹膜炎。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S53",
@@ -7334,7 +7586,8 @@
         "text": "Cullen’s sign。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S54",
@@ -7363,7 +7616,8 @@
         "text": "Pleural effusion。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S55",
@@ -7392,7 +7646,8 @@
         "text": "ADPKD patients can be a recipient for renal transplantation。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S56",
@@ -7421,7 +7676,8 @@
         "text": "(2)+(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S57",
@@ -7450,7 +7706,8 @@
         "text": "Infectious endocarditis or shunt nephritis。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S58",
@@ -7479,7 +7736,8 @@
         "text": "Proteus。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S59",
@@ -7508,7 +7766,8 @@
         "text": "(2)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S60",
@@ -7537,7 +7796,8 @@
         "text": "Shift of phosphorus into intracellular stores。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S61",
@@ -7566,7 +7826,8 @@
         "text": "Unilateral renal artery stenosis。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S62",
@@ -7595,7 +7856,8 @@
         "text": "Urinary sediment analysis reveals a lot of muddy-brown granular casts and casts containing tubular epithelial cells。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S63",
@@ -7624,7 +7886,8 @@
         "text": "(1)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S64",
@@ -7653,7 +7916,8 @@
         "text": "磺醯基尿素(sulfonylurea)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S65",
@@ -7682,7 +7946,8 @@
         "text": "高血壓的原因屬先天性異常，與血清膽固醇較無關係，無需使用HMG-CoA 還原酶抑制劑( statins )控制膽固醇。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S66",
@@ -7711,7 +7976,8 @@
         "text": "(1)+(3)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S67",
@@ -7740,7 +8006,8 @@
         "text": "限制病友蛋白攝取。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S68",
@@ -7769,7 +8036,8 @@
         "text": "泌尿科轉診查明原因。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S69",
@@ -7798,7 +8066,8 @@
         "text": "如果經過 6 個月後其蛋白尿仍保持目前狀況，她的腎臟功能可能出現進行性腎病的風險。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S70",
@@ -7827,7 +8096,8 @@
         "text": "尿液比重大於1.020。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S71",
@@ -7856,7 +8126,8 @@
         "text": "敗血症（sepsis）患者早期開始透析可改善預後。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S72",
@@ -7885,7 +8156,8 @@
         "text": "糖尿病患者使用SGLT-2 抑制劑阻斷葡萄糖與鈉再吸收，會使入球小動脈收縮，從而使同一腎元單位的腎小球過濾率減少。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S73",
@@ -7914,7 +8186,8 @@
         "text": "正常心臟。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "110-S74",
@@ -7943,7 +8216,8 @@
         "text": "貧血。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "110-S75",
@@ -7972,7 +8246,8 @@
         "text": "(1)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "110-S76",
@@ -8001,7 +8276,8 @@
         "text": "使用hydralazine。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S77",
@@ -8030,7 +8306,8 @@
         "text": "對於首次C. difficile腸炎重度患者，首選治療藥物為針劑vancomycin治療10到14天。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "110-S78",
@@ -8059,7 +8336,8 @@
         "text": "糖尿病患的糖尿病史愈久，可能因自主神經病變，產生 Hypoglycemia unawareness，而無明顯自覺性的症狀。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S79",
@@ -8088,7 +8366,8 @@
         "text": "Local irradiation。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S80",
@@ -8117,7 +8396,8 @@
         "text": "僵直性脊椎炎(AS)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S81",
@@ -8146,7 +8426,8 @@
         "text": "(2)+(4)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "110-S82",
@@ -8175,7 +8456,8 @@
         "text": "治療建議以nonheparin抗凝血劑或IVIG。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S83",
@@ -8204,7 +8486,8 @@
         "text": "使用超過4週有視神經和周邊神經病變之風險。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "110-S84",
@@ -8233,7 +8516,8 @@
         "text": "布氏桿菌病 (brucellosis)，doxycycline。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "110-S85",
@@ -8262,7 +8546,8 @@
         "text": "被猴子咬傷也是選擇amoxicillin/clavulanate治療, 無需考慮抗病毒藥的使用。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "110-S86",
@@ -8291,7 +8576,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "110-S87",
@@ -8320,7 +8606,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "110-S88",
@@ -8349,7 +8636,8 @@
         "text": "病人最可能有腦膜炎。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "110-S89",
@@ -8378,7 +8666,8 @@
         "text": "術前使用預防性抗生素72小時可以降低手術病人發生院內感染的機會。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "110-S90",
@@ -8407,7 +8696,8 @@
         "text": "(3)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "110-S91",
@@ -8436,7 +8726,8 @@
         "text": "(1)+(4)+(7)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "110-S92",
@@ -8465,7 +8756,8 @@
         "text": "Epstein-Barr virus : Oral hairy leukoplakia。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "110-S93",
@@ -8494,7 +8786,8 @@
         "text": "Linezolid會增加adrenergic升壓藥的作用，發生不易控制的高血壓。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "110-S94",
@@ -8523,7 +8816,8 @@
         "text": "實驗室檢查淋巴球減少(lymphopenia)合併D-dimer升高與死亡率呈正相關。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "110-S95",
@@ -8552,7 +8846,8 @@
         "text": "控制血糖以改善宿主免疫。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "110-S96",
@@ -8581,7 +8876,8 @@
         "text": "Rifampin - 抑制RNA合成。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "110-S97",
@@ -8610,7 +8906,8 @@
         "text": "(2)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S98",
@@ -8639,7 +8936,8 @@
         "text": "(2)+(4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S99",
@@ -8668,7 +8966,8 @@
         "text": "(2)+(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S100",
@@ -8697,7 +8996,8 @@
         "text": "庫欣氏症侯群的病人如果不適合手術，可以考慮使用metyraponec或ketoconazole。Mitotane 可以用於治療腎上腺皮質癌，但不建議用於良性腎上腺腫瘤的庫欣氏症候群。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S101",
@@ -8726,7 +9026,8 @@
         "text": "次發性副甲狀腺功能亢進"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S102",
@@ -8755,7 +9056,8 @@
         "text": "惡性嗜鉻細胞瘤合併轉移可以考慮用放射性核種(radionuclide)治療，例如 ¹³¹I-MIBG 。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S103",
@@ -8784,7 +9086,8 @@
         "text": "使用thiazide治療其高血壓可能導致低血鉀惡化。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S104",
@@ -8813,7 +9116,8 @@
         "text": "甲狀腺超音波比放射性碘掃描更有助於鑑別fT4高的原因。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S105",
@@ -8842,7 +9146,8 @@
         "text": "(1)+(2)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S106",
@@ -8871,7 +9176,8 @@
         "text": "建議病患應於居家自我監測血糖 (Self Monitoring of Blood Glucose)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S107",
@@ -8900,7 +9206,8 @@
         "text": "當使用胰島素校正血糖至250 mg/dL 時，除繼續注意體液量之平衡之外，應同步加上5% Glucose之輸液。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S108",
@@ -8929,7 +9236,8 @@
         "text": "(1)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S109",
@@ -8958,7 +9266,8 @@
         "text": "72 小時之 Prolonged fasting test。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S110",
@@ -8987,7 +9296,8 @@
         "text": "妊娠性糖尿病婦女產下之新生兒，比起正常妊娠婦女之下一代，長大後有更高的風險，成為糖尿病的病患。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S111",
@@ -9016,7 +9326,8 @@
         "text": "病患住院時，如果需要每日多次注射胰島素，經體重計算之胰島素總劑量的50%，應以基礎胰島素(basal insulin) 的方式給藥。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S112",
@@ -9045,7 +9356,8 @@
         "text": "血脂異常疾病，同時受到遺傳因子(genetic predisposition)及環境因素(environmental contribution)的影響。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "110-S113",
@@ -9074,7 +9386,8 @@
         "text": "紅斑性狼瘡(SLE)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S114",
@@ -9103,7 +9416,8 @@
         "text": "Mycophenolate mofetil (MMF)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S115",
@@ -9132,7 +9446,8 @@
         "text": "c+d。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S116",
@@ -9161,7 +9476,8 @@
         "text": "血中補體。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S117",
@@ -9190,7 +9506,8 @@
         "text": "Anti-Ku 抗體。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S118",
@@ -9219,7 +9536,8 @@
         "text": "e+a。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S119",
@@ -9248,7 +9566,8 @@
         "text": "b+c。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S120",
@@ -9277,7 +9596,8 @@
         "text": "退化性關節炎 (osteoarthritis)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S121",
@@ -9306,7 +9626,8 @@
         "text": "Acute pulmonary hemorrhage。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S122",
@@ -9335,7 +9656,8 @@
         "text": "Allopurinol hypersensitivity━HLA-DR2。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S123",
@@ -9364,7 +9686,8 @@
         "text": "Autoimmune hepatitis。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S124",
@@ -9393,7 +9716,8 @@
         "text": "Anti-Scl-70。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S125",
@@ -9422,7 +9746,8 @@
         "text": "Sialoscintigraphy檢查。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S126",
@@ -9451,7 +9776,8 @@
         "text": "Giant cell arteritis━chronic hepatitis C infection。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S127",
@@ -9480,7 +9806,8 @@
         "text": "(1)+(3)+(4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S128",
@@ -9509,7 +9836,8 @@
         "text": "(4)+(7)+(8)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S129",
@@ -9538,7 +9866,8 @@
         "text": "免疫性血小板低下性紫斑症。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S130",
@@ -9567,7 +9896,8 @@
         "text": "Immunomudulatory agent。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S131",
@@ -9596,7 +9926,8 @@
         "text": "Lead poisoning。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S132",
@@ -9625,7 +9956,8 @@
         "text": "Responsive to complement 5 (C5) inhibitor treatment。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S133",
@@ -9654,7 +9986,8 @@
         "text": "Bone marrow。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S134",
@@ -9683,7 +10016,8 @@
         "text": "IDH突變。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S135",
@@ -9712,7 +10046,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S136",
@@ -9741,7 +10076,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S137",
@@ -9770,7 +10106,8 @@
         "text": "Panitumumab added to (FOLFIRI or CAPIRI)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S138",
@@ -9799,7 +10136,8 @@
         "text": "Neuroendocrine carcinoma (NEC)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S139",
@@ -9828,7 +10166,8 @@
         "text": "mTOR。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S140",
@@ -9857,7 +10196,8 @@
         "text": "Interferon-γ。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S141",
@@ -9886,7 +10226,8 @@
         "text": "Crizotinib。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S142",
@@ -9915,7 +10256,8 @@
         "text": "以上皆非。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S143",
@@ -9944,7 +10286,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S144",
@@ -9973,7 +10316,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "110-S145",
@@ -10002,7 +10346,8 @@
         "text": "Lambert-Eaton肌無力症候群多與小細胞肺癌相關。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "110-S146",
@@ -10031,7 +10376,8 @@
         "text": "尿失禁。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "110-S147",
@@ -10060,7 +10406,8 @@
         "text": "給予甘露醇（Mannitol）滴注。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "110-S148",
@@ -10089,7 +10436,8 @@
         "text": "肌力恢復至少需3至6個月時間。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "110-S149",
@@ -10118,7 +10466,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "110-S150",
@@ -10147,7 +10496,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "110-S151",
@@ -10176,7 +10526,8 @@
         "text": "對於疫情期間長期於第一線工作之醫療人員，心理健康關懷需要特別被重視。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "110-S152",
@@ -10205,7 +10556,8 @@
         "text": "癲癇(epilepsy)的前兆(aura)或是起始症狀，也有可能以焦慮症狀來呈現。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "110-S153",
@@ -10234,7 +10586,8 @@
         "text": "認知行為治療(cognitive behavioural therapy, CBT)是飲食疾患治療的首選方式之一。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "110-S154",
@@ -10263,7 +10616,8 @@
         "text": "(1)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "110-S155",
@@ -10292,7 +10646,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "110-S156",
@@ -10321,7 +10676,8 @@
         "text": "伍氏燈(Wood's light)檢查。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "110-S157",
@@ -10350,7 +10706,8 @@
         "text": "Muir-Torre 症候群 (Muir-Torre syndrome)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "110-S158",
@@ -10379,7 +10736,8 @@
         "text": "Lambert-Eaton肌無力症候群 (Lambert-Eaton myasthenic syndrome)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "110-S159",
@@ -10408,7 +10766,8 @@
         "text": "Oral fluconazole。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "110-S160",
@@ -10437,7 +10796,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S1",
@@ -10466,7 +10826,8 @@
         "text": "(1)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "111-S2",
@@ -10495,7 +10856,8 @@
         "text": "(1)+(3)+(6)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "111-S3",
@@ -10524,7 +10886,8 @@
         "text": "電氣燒灼(Electric ablation) 合適年輕人的陣發性AF。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "111-S4",
@@ -10553,7 +10916,8 @@
         "text": "Arrhythmogenic RV cardiomyopathy。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "111-S5",
@@ -10582,7 +10946,8 @@
         "text": "氧氣療法最為重要，維持愈高氧氣濃度有助組織活力，高流量氧氣吸入，甚至內置氣管(Endotracheal intubation)供氧都是應該的處置。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "111-S6",
@@ -10611,7 +10976,8 @@
         "text": "擴大性心肌病(Dilated cardiomyopathy)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "111-S7",
@@ -10640,7 +11006,8 @@
         "text": "因左心房擴大導致的肺動脈高血壓及心房纖維顫動都是決定心臟內外科手術的根據。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "111-S8",
@@ -10669,7 +11036,8 @@
         "text": "以藥物之治療慢性心室性期外收縮可防止猝死發生。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "111-S9",
@@ -10698,7 +11066,8 @@
         "text": "Fabry disease。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "111-S10",
@@ -10727,7 +11096,8 @@
         "text": "給予鎮靜麻醉後，實施電擊(electric cardioversion)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "111-S11",
@@ -10756,7 +11126,8 @@
         "text": "Quinidine。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "111-S12",
@@ -10785,7 +11156,8 @@
         "text": "血管收縮素受體阻斷劑(angiotensin receptor blocker)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "111-S13",
@@ -10814,7 +11186,8 @@
         "text": "下壁心肌梗塞合併右心梗塞時，如血壓不穩，可考慮輸液治療。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "111-S14",
@@ -10843,7 +11216,8 @@
         "text": "約30％的開心手術患者術後可能產生長短不等的陣發性心房顫動。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "111-S15",
@@ -10872,7 +11246,8 @@
         "text": "攝護腺發炎。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "111-S16",
@@ -10901,7 +11276,8 @@
         "text": "呼氣時，頸動脈擴張可能更形顯著。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "111-S17",
@@ -10930,7 +11306,8 @@
         "text": "在左心室射出減少心臟衰竭(heart failure with reduced ejection fraction, HFrEF)病患，LCZ696(Sacubitril/Valsartan)較Ramipril更能有效減少死亡率。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "111-S18",
@@ -10959,7 +11336,8 @@
         "text": "P波變扁。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "111-S19",
@@ -10988,7 +11366,8 @@
         "text": "急性發作時，給予全身性類固醇(systemic corticosteroid)治療可以降低死亡率。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S20",
@@ -11017,7 +11396,8 @@
         "text": "合併吸入型LAMA，LABA以及吸入型類固醇。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S21",
@@ -11046,7 +11426,8 @@
         "text": "白血球介素-13 (Interleukin-13)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S22",
@@ -11075,7 +11456,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S23",
@@ -11104,7 +11486,8 @@
         "text": "接受門診治療的病患，只有在pneumococcal resistant to macrolide小於50%的地區方可單獨使用macrolide治療。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S24",
@@ -11133,7 +11516,8 @@
         "text": "高流量鼻導管（High-flow nasal cannula）可產生吐氣末正壓(positive end-expiratory pressure)，以避免肺泡塌陷。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S25",
@@ -11162,7 +11546,8 @@
         "text": "類固醇的使用無法降低ARDS的死亡率。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S26",
@@ -11191,7 +11576,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S27",
@@ -11220,7 +11606,8 @@
         "text": "放射線治療無法改善病患存活。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S28",
@@ -11249,7 +11636,8 @@
         "text": "給予類固醇治療。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S29",
@@ -11278,7 +11666,8 @@
         "text": "給予非侵襲性雙陽壓呼吸器(BiPAP)支持。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S30",
@@ -11307,7 +11696,8 @@
         "text": "Tiotropium。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S31",
@@ -11336,7 +11726,8 @@
         "text": "肺功能分級為GOLD 3，COPD嚴重度分群為D群。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S32",
@@ -11365,7 +11756,8 @@
         "text": "FVC 57%，FEV₁ 89%，FEV₁/FVC 0.75，DLCO 87%，PaO₂ 75 mmHg，PaCO₂ 58 mmHg。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S33",
@@ -11394,7 +11786,8 @@
         "text": "減少吐氣末陽壓(PEEP)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S34",
@@ -11423,7 +11816,8 @@
         "text": "(1)+(3)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S35",
@@ -11452,7 +11846,8 @@
         "text": "可使用吸入一氧化氮以降低肺血管阻力。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S36",
@@ -11481,7 +11876,8 @@
         "text": "肋膜積液有惡臭味。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S37",
@@ -11510,7 +11906,8 @@
         "text": "(4) + (5) + (6)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S38",
@@ -11539,7 +11936,8 @@
         "text": "準備接受化學療法的慢性B肝患者，可於化療啟動前一周開始預防性用藥，直至化療結束再服用半年。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S39",
@@ -11568,7 +11966,8 @@
         "text": "(3) + (4) + (5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S40",
@@ -11597,7 +11996,8 @@
         "text": "50歲以上若經超音波檢查發現有大於1 cm的膽囊息肉，一般會建議接受膽囊切除術。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S41",
@@ -11626,7 +12026,8 @@
         "text": "罹患圖A之病人，若未加以處理，超過十年以上，有較高機率會產生squamous cell carcinoma。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S42",
@@ -11655,7 +12056,8 @@
         "text": "Barrett's metaplasia併有high-grade dysplasia者，應接受endoscopic eradication therapy。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S43",
@@ -11684,7 +12086,8 @@
         "text": "(3) + (4) + (6)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S44",
@@ -11713,7 +12116,8 @@
         "text": "Peutz-Jeghers syndrome患者之腸道息肉轉為惡性之機率極高，應密集追蹤篩檢。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S45",
@@ -11742,7 +12146,8 @@
         "text": "其處置包括 endovascular or open surgical revascularization。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S46",
@@ -11771,7 +12176,8 @@
         "text": "(1)+(5)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S47",
@@ -11800,7 +12206,8 @@
         "text": "rifabutin triple regimen。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S48",
@@ -11829,7 +12236,8 @@
         "text": "(2)+(4)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S49",
@@ -11858,7 +12266,8 @@
         "text": "以上皆非。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S50",
@@ -11887,7 +12296,8 @@
         "text": "治療以內科保守性方式為主。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S51",
@@ -11916,7 +12326,8 @@
         "text": "totoal pancreatectomy。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S52",
@@ -11945,7 +12356,8 @@
         "text": "liver biopsy。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S53",
@@ -11974,7 +12386,8 @@
         "text": "停用losartan。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S54",
@@ -12003,7 +12416,8 @@
         "text": "少量多餐。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S55",
@@ -12032,7 +12446,8 @@
         "text": "(2) + (3) + (4) + (5) + (6)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S56",
@@ -12061,7 +12476,8 @@
         "text": "endoscopic voiding cystourethrography。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S57",
@@ -12090,7 +12506,8 @@
         "text": "(2) + (4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S58",
@@ -12119,7 +12536,8 @@
         "text": "已經連續多年，每年健檢都是asymptomatic hematuria，腎臟超音波也未發現異常。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S59",
@@ -12148,7 +12566,8 @@
         "text": "oral or parenteral labetalol。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S60",
@@ -12177,7 +12596,8 @@
         "text": "Class IV lupus nephritis病人，建議儘早使用rituximab or tacrolimus，可較傳統high dose steroid更有效達到及維持renal remission。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S61",
@@ -12206,7 +12626,8 @@
         "text": "patients with spinal cord injury。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "111-S62",
@@ -12235,7 +12656,8 @@
         "text": "hold RAAS blocker, shift to SGLT2i (sodium glucose cotransporter 2 inhibitor)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S63",
@@ -12264,7 +12686,8 @@
         "text": "病人的TTKG (對照當時serum [K] 2.0 mEq/L)仍屬適當，判定非renal loss。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S64",
@@ -12293,7 +12716,8 @@
         "text": "肝臟型脂肪酸結合蛋白(L-FABP)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S65",
@@ -12322,7 +12746,8 @@
         "text": "尿毒症。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S66",
@@ -12351,7 +12776,8 @@
         "text": "動靜脈廔管血流較大。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S67",
@@ -12380,7 +12806,8 @@
         "text": "分娩後病情可能會好轉。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S68",
@@ -12409,7 +12836,8 @@
         "text": "金黃色葡萄球菌 （Staphylococcus aureus）。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S69",
@@ -12438,7 +12866,8 @@
         "text": "一名85 歲住在安養中心女性，因腎盂腎炎和敗血症的患者。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S70",
@@ -12467,7 +12896,8 @@
         "text": "不受控制的高血壓會增加自發破裂的風險。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S71",
@@ -12496,7 +12926,8 @@
         "text": "新月型腎絲球腎炎。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S72",
@@ -12525,7 +12956,8 @@
         "text": "(1)+ (3)+ (4)+ (5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S73",
@@ -12554,7 +12986,8 @@
         "text": "若出血停止則考慮進行video capsule或enteroscopy檢查。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "111-S74",
@@ -12583,7 +13016,8 @@
         "text": "結核菌痰抹片陽性發病之患者，若未接受治療，5年內的死亡率約為65%。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "111-S75",
@@ -12612,7 +13046,8 @@
         "text": "腹部手術後併發缺氧性呼吸衰竭。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "111-S76",
@@ -12641,7 +13076,8 @@
         "text": "(3)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "111-S77",
@@ -12670,7 +13106,8 @@
         "text": "給予類固醇或非類固醇抗發炎藥物(NSAID)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S78",
@@ -12699,7 +13136,8 @@
         "text": "Platelet antibodies。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S79",
@@ -12728,7 +13166,8 @@
         "text": "(1)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S80",
@@ -12757,7 +13196,8 @@
         "text": "Panitumumab added to FOLFOX。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S81",
@@ -12786,7 +13226,8 @@
         "text": "不需要再檢查。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "111-S82",
@@ -12815,7 +13256,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "111-S83",
@@ -12844,7 +13286,8 @@
         "text": "給退燒藥，觀察即可。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "111-S84",
@@ -12873,7 +13316,8 @@
         "text": "可以停藥了。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "111-S85",
@@ -12902,7 +13346,8 @@
         "text": "Legionella pneumophila。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "111-S86",
@@ -12931,7 +13376,8 @@
         "text": "doxycycline。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "111-S87",
@@ -12960,7 +13406,8 @@
         "text": "(1)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "111-S88",
@@ -12989,7 +13436,8 @@
         "text": "以上皆正確。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "111-S89",
@@ -13018,7 +13466,8 @@
         "text": "在台灣造成肝膿瘍或眼內炎的致病菌相對抗藥性較高，大多是屬於ESBL-producing K.pneumoniae。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "111-S90",
@@ -13047,7 +13496,8 @@
         "text": "Exposure to sheep – Coxiella burnetii。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "111-S91",
@@ -13076,7 +13526,8 @@
         "text": "(1)+(4)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "111-S92",
@@ -13105,7 +13556,8 @@
         "text": "cercariae skin penetration from water。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "111-S93",
@@ -13134,7 +13586,8 @@
         "text": "肺外感染(如腦膜炎)以amphotericin B deoxycholate 0.5-1 mg/kg/天，做為起始治療。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "111-S94",
@@ -13163,7 +13616,8 @@
         "text": "Nirmatrelvir/Ritonavir：protease inhibitor。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "111-S95",
@@ -13192,7 +13646,8 @@
         "text": "Genital ulcers ： Haemophilus ducreyi。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "111-S96",
@@ -13221,7 +13676,8 @@
         "text": "需評估是否有Rabies預防處置之需要。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "111-S97",
@@ -13250,7 +13706,8 @@
         "text": "(2)+(3)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S98",
@@ -13279,7 +13736,8 @@
         "text": "(1)+(2)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S99",
@@ -13308,7 +13766,8 @@
         "text": "庫欣氏症的病人有高凝血(hypercoagulation)，肺栓塞(pulmonary embolism)的風險增加，但深部靜脈栓塞(deep vein thromobosis)的風險並未增加。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S100",
@@ -13337,7 +13796,8 @@
         "text": "糖皮質類固醇可抑制性醛固酮增多症（glucocorticoid remediable aldosteronism, GRA）應先以低劑量dexamethasone控制血壓。若需要，可加上醛固酮受體拮抗劑。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S101",
@@ -13366,7 +13826,8 @@
         "text": "與其他檢驗方式比較，檢測血中的metanephrine 具有高敏感度，但因很容易受到靜脈穿刺(venipuncture)等壓力影響，而有較高的偽陽性。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S102",
@@ -13395,7 +13856,8 @@
         "text": "大多數庫欣氏症(Cushing's disease)的腦垂體腫瘤是小於0.5 公分的 microadenoma。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S103",
@@ -13424,7 +13886,8 @@
         "text": "Ketoconazole可以刺激抑制睪固酮(testosterone)的生成，而spironolactone可以阻斷雄激素(androgen)的作用。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S104",
@@ -13453,7 +13916,8 @@
         "text": "Desmopressin(DDAVP)可治療原發性多飲症(primary polydipsia)或中樞性尿崩症(central DI)。腎性尿崩症 (nephrogenic DI)應以thiazide利尿劑、 amiloride、indomethacin 等藥物治療。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S105",
@@ -13482,7 +13946,8 @@
         "text": "過去二十年之減重手術研究，顯示體重減輕之過程中，糖尿病進展及心臟血管死亡率均得到統計學上，有意義之改善。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S106",
@@ -13511,7 +13976,8 @@
         "text": "經食道內視鏡超音波 (Endoscopic ultrasound, EUS)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S107",
@@ -13540,7 +14006,8 @@
         "text": "(2)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S108",
@@ -13569,7 +14036,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S109",
@@ -13598,7 +14066,8 @@
         "text": "Sodium-glucose Cotransporter-2 (SGLT2) Inhibitors。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S110",
@@ -13627,7 +14096,8 @@
         "text": "(1)+(3)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S111",
@@ -13656,7 +14126,8 @@
         "text": "目前糖尿病之孕婦懷孕時，依據美國及台灣之治療指引，Metformin是安全的糖尿病用藥選擇之一。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S112",
@@ -13685,7 +14156,8 @@
         "text": "由於此類藥物增加尿糖排出，因此容易發生泌尿道感染，而且可能發生嚴重之生殖器感染。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "111-S113",
@@ -13714,7 +14186,8 @@
         "text": "減毒疫苗(Live- Attenuated Vaccine)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "111-S114",
@@ -13743,7 +14216,8 @@
         "text": "嗜伊紅性白血球(Eosinophil)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S115",
@@ -13772,7 +14246,8 @@
         "text": "抗組織蛋白抗體(Anti-histone Antibody)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S116",
@@ -13801,7 +14276,8 @@
         "text": "(2)+(4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S117",
@@ -13830,7 +14306,8 @@
         "text": "(1)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S118",
@@ -13859,7 +14336,8 @@
         "text": "肝功能異常。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S119",
@@ -13888,7 +14366,8 @@
         "text": "電腦斷層檢查。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S120",
@@ -13917,7 +14396,8 @@
         "text": "抗SS-B/LA抗體。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S121",
@@ -13946,7 +14426,8 @@
         "text": "Chronic active hepatitis—HLA-DR3。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S122",
@@ -13975,7 +14456,8 @@
         "text": "Systemic sclerosis—anti-epidermal cadhedin antibody。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S123",
@@ -14004,7 +14486,8 @@
         "text": "Uveitis。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S124",
@@ -14033,7 +14516,8 @@
         "text": "最常見的初始症狀為Raynaud's phenomenon。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S125",
@@ -14062,7 +14546,8 @@
         "text": "Anemia。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S126",
@@ -14091,7 +14576,8 @@
         "text": "Cyclosporine。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S127",
@@ -14120,7 +14606,8 @@
         "text": "(3)+(11)+(12)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S128",
@@ -14149,7 +14636,8 @@
         "text": "(1)+(3)+(4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "111-S129",
@@ -14178,7 +14666,8 @@
         "text": "ASXL1 mutation。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S130",
@@ -14207,7 +14696,8 @@
         "text": "Immunomudulatory agent。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S131",
@@ -14236,7 +14726,8 @@
         "text": "Lead poisoning。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S132",
@@ -14265,7 +14756,8 @@
         "text": "Responsive to complement 5 (C5) inhibitor treatment。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S133",
@@ -14294,7 +14786,8 @@
         "text": "1個月後。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S134",
@@ -14323,7 +14816,8 @@
         "text": "Elevated erythropoietin level。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S135",
@@ -14352,7 +14846,8 @@
         "text": "Watchful waiting。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S136",
@@ -14381,7 +14876,8 @@
         "text": "(1)+(2)+(3)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S137",
@@ -14410,7 +14906,8 @@
         "text": "Insulin-like growth factor type II (IGF-II)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S138",
@@ -14439,7 +14936,8 @@
         "text": "Leucocyte common antigen (LCA)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S139",
@@ -14468,7 +14966,8 @@
         "text": "High-grade soft tissue sarcomas。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S140",
@@ -14497,7 +14996,8 @@
         "text": "Panitumumab, combined with (FOLFIRI or CAPIRI/XELIRI)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S141",
@@ -14526,7 +15026,8 @@
         "text": "以上皆是。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S142",
@@ -14555,7 +15056,8 @@
         "text": "BRAF。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S143",
@@ -14584,7 +15086,8 @@
         "text": "(1)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S144",
@@ -14613,7 +15116,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "111-S145",
@@ -14642,7 +15146,8 @@
         "text": "多合併皮質部的微小出血。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "111-S146",
@@ -14671,7 +15176,8 @@
         "text": "P/Q型態的鈣離子通道抗體。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "111-S147",
@@ -14700,7 +15206,8 @@
         "text": "神經系統發育大多正常。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "111-S148",
@@ -14729,7 +15236,8 @@
         "text": "治療後眼肌麻痹較步態不穩恢復快。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "111-S149",
@@ -14758,7 +15266,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "111-S150",
@@ -14787,7 +15296,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "111-S151",
@@ -14816,7 +15326,8 @@
         "text": "對醫療保健專業人員而言，當有患者不幸自殺身亡，可能會在情緒與專業工作上造成衝擊，為醫療保健專業人員提供支持以及身心照顧是重要的。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "111-S152",
@@ -14845,7 +15356,8 @@
         "text": "在避免將心理因素作為患者身體抱怨病因唯一解釋的氛圍下，可以為患者保留面子，通過這種間接稀釋心理歸因的方式，反而有機會發展出調整患者生活壓力源的方法。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "111-S153",
@@ -14874,7 +15386,8 @@
         "text": "三環抗憂鬱藥(TCA)會產生低血糖和對碳水化合物的嫌惡。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "111-S154",
@@ -14903,7 +15416,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "111-S155",
@@ -14932,7 +15446,8 @@
         "text": "(1)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "111-S156",
@@ -14961,7 +15476,8 @@
         "text": "金黃色葡萄球菌 (Staphylococcus aureus)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "111-S157",
@@ -14990,7 +15506,8 @@
         "text": "脂肪皮膚硬化症 (Lipodermatosclerosis)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "111-S158",
@@ -15019,7 +15536,8 @@
         "text": "腫瘤型漢生病 (Lepromatous leprosy)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "111-S159",
@@ -15048,7 +15566,8 @@
         "text": "IL-23抑制劑及IL-17抑制劑是有效的生物製劑治療。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "111-S160",
@@ -15077,7 +15596,8 @@
         "text": "包涵體肌炎 (Inclusion body myositis)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S1",
@@ -15106,7 +15626,8 @@
         "text": "(3)+(5)+(6)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "112-S2",
@@ -15135,7 +15656,8 @@
         "text": "SC Enoxaparin 60 mg BID。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "112-S3",
@@ -15164,7 +15686,8 @@
         "text": "下壁急性心肌梗塞。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "112-S4",
@@ -15193,7 +15716,8 @@
         "text": "Acute pulmonary thromboembolism。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "112-S5",
@@ -15222,7 +15746,8 @@
         "text": "美國兩個心臟學會、歐洲心臟學會及中華民國心臟學會已先後認定APO是重要的 心血管病的風險。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "112-S6",
@@ -15251,7 +15776,8 @@
         "text": "依据心臟學會指引認定急性腦梗後兩週才可回復使用NOAC，但ATTEST及STOP AF First兩個臨床試驗都証明急性腦梗後四天即可回復使用NOAC。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "112-S7",
@@ -15280,7 +15806,8 @@
         "text": "(2)+(3)+(6)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "112-S8",
@@ -15309,7 +15836,8 @@
         "text": "有關腹部主動脈瘤的危險因素有老齡、男性、抽煙、家族病史及阻塞性動脈硬化最多見，糖尿病少見。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "112-S9",
@@ -15338,7 +15866,8 @@
         "text": "胃癌合併DVT所致凝血異常(Coagulopathy)的肺動脈血栓及DVT應忌用Endoxaban。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S10",
@@ -15367,7 +15896,8 @@
         "text": "血管張力素II (angiotensin II)的下游受器，第一型血管張力素受器(angiotensin type I receptor)主要表現在周邊血管，而第二型血管張力素受器(angiotensin type II receptor)主要表現心臟肌肉。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "112-S11",
@@ -15396,7 +15926,8 @@
         "text": "病患出現明顯的orthopnea (需要使用兩個枕頭才會呼吸平順)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "112-S12",
@@ -15425,7 +15956,8 @@
         "text": "26"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "112-S13",
@@ -15454,7 +15986,8 @@
         "text": "我們可以用直接或者間接的Fick method來計算心輸出率。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "112-S14",
@@ -15483,7 +16016,8 @@
         "text": "1 為 c wave，2 為 a wave, 3 為 v wave。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "112-S15",
@@ -15512,7 +16046,8 @@
         "text": "竇性緩脈。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "112-S16",
@@ -15541,7 +16076,8 @@
         "text": "病患可能合併二尖瓣膜逆流，可以考慮經導管二尖瓣膜修補術治療。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "112-S17",
@@ -15570,7 +16106,8 @@
         "text": "腎病患者的自主神經調節功能變差(autonomic dysfunction)，其中交感神經(sympathetic)的活性較副交感神經(parasympathetic)為強。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "112-S18",
@@ -15599,7 +16136,8 @@
         "text": "目前為止的整合分析(meta-analysis)顯示，糖尿病合併多血管疾病(兩條以上的主要冠狀動脈疾病)，繞道手術較經皮冠狀動脈支架置放可以減少五年的死亡率。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "112-S19",
@@ -15628,7 +16166,8 @@
         "text": "合併吸入型LAMA，LABA以及吸入型類固醇。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S20",
@@ -15657,7 +16196,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S21",
@@ -15686,7 +16226,8 @@
         "text": "時常造成中央性支氣管擴張症(Central bronchiectasis)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S22",
@@ -15715,7 +16256,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S23",
@@ -15744,7 +16286,8 @@
         "text": "膿胸(Empyema)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S24",
@@ -15773,7 +16316,8 @@
         "text": "嚴重社區性肺炎需入住加護病房接受照護之患者，24小時內開始給予每天200mg hydrocortisone四天或七天然後逐步減低劑量無法改善病患28天存活率。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S25",
@@ -15802,7 +16346,8 @@
         "text": "一氧化氮吸入療法(Inhaled nitric oxide)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S26",
@@ -15831,7 +16376,8 @@
         "text": "如果治療效果不佳可考慮長期胸管引流。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S27",
@@ -15860,7 +16406,8 @@
         "text": "第二期非小細胞肺癌且有EGFR突變(EGFR exon 19 deletion or L858R)的病患，術後建議接受輔助性化療與服用三年osimertinib。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S28",
@@ -15889,7 +16436,8 @@
         "text": "給予靜脈注射類固醇治療。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S29",
@@ -15918,7 +16466,8 @@
         "text": "安排心電圖(ECG)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S30",
@@ -15947,7 +16496,8 @@
         "text": "Continuous positive airway pressure (CPAP)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S31",
@@ -15976,7 +16526,8 @@
         "text": "肺功能分級為GOLD 2，COPD嚴重度為E群。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S32",
@@ -16005,7 +16556,8 @@
         "text": "心臟超音波 + 左心導管檢查。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S33",
@@ -16034,7 +16586,8 @@
         "text": "增加吐氣末陽壓(PEEP)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S34",
@@ -16063,7 +16616,8 @@
         "text": "(1)+(3)+(5)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S35",
@@ -16092,7 +16646,8 @@
         "text": "Sarcoidosis。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S36",
@@ -16121,7 +16676,8 @@
         "text": "Hyperventilation。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S37",
@@ -16150,7 +16706,8 @@
         "text": "失代償性肝病患者，不可服用 G/P，但可接受 Epclusa 治療。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S38",
@@ -16179,7 +16736,8 @@
         "text": "(4)+(6)+(7)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S39",
@@ -16208,7 +16766,8 @@
         "text": "經證實有肝硬化者，只要血中測到B肝病毒，即使血清 ALT 數值正常，仍可長期接受口服抗病毒藥物治療。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S40",
@@ -16237,7 +16796,8 @@
         "text": "大腸發現一顆 0.8 公分之 polyp，切除後病理顯示為 tubular adenoma，一般建議 1 年後應再接受大腸鏡追蹤。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S41",
@@ -16266,7 +16826,8 @@
         "text": "(4)+(5)+(6)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S42",
@@ -16295,7 +16856,8 @@
         "text": "若再抽血檢驗發現 ALP=300 (< 104)，γ-GT=400 (< 50)，超音波檢查正常，應再進一步加驗Anti-mitochondrial antibody (AMA)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S43",
@@ -16324,7 +16886,8 @@
         "text": "Inflammatory bowel disease (IBD) 患者在發病後的前 10 年發生大腸直腸癌之機率甚低。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S44",
@@ -16353,7 +16916,8 @@
         "text": "NASID-induced esophagitis 一般僅持續 1-2週，但亦可能發生食道狹窄等後遺症。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S45",
@@ -16382,7 +16946,8 @@
         "text": "有大腸adenomatous polyp 之患者，其 stool occult blood (+) 之機率可達 20%。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S46",
@@ -16411,7 +16976,8 @@
         "text": "Plaquenil。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S47",
@@ -16440,7 +17006,8 @@
         "text": "Cowden’s syndrome。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S48",
@@ -16469,7 +17036,8 @@
         "text": "Magnetic resonance angiography。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S49",
@@ -16498,7 +17066,8 @@
         "text": "Intravenous albumin and cefotaxime。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S50",
@@ -16527,7 +17096,8 @@
         "text": "Smaller, more frequent meals。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S51",
@@ -16556,7 +17126,8 @@
         "text": "Peptic stricture。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S52",
@@ -16585,7 +17156,8 @@
         "text": "(1)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S53",
@@ -16614,7 +17186,8 @@
         "text": "Cholecystectomy before hospital discharge。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S54",
@@ -16643,7 +17216,8 @@
         "text": "(1)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S55",
@@ -16672,7 +17246,8 @@
         "text": "查詢病人的雲端藥歷，經常在使用pyridostigmine, droxidopa 或atomoxetine，這些藥物有可能加重姿勢性低血壓，應建議暫停使用。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "112-S56",
@@ -16701,7 +17276,8 @@
         "text": "SGLT2 (sodium glucose co-transport 2) inhibitors 可抑制近端腎小管的Na吸收，及藉由tubuloglomerular feedback 調控afferent arteriole vasoconstriction，而減少glomerular hyperfiltration，降低蛋白尿，預防CKD 惡化。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S57",
@@ -16730,7 +17306,8 @@
         "text": "thiazide diuretics for resistant hypertension and edema。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S58",
@@ -16759,7 +17336,8 @@
         "text": "recent use of diuretics。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S59",
@@ -16788,7 +17366,8 @@
         "text": "病人的貧血與白血球增加，可能皆是因為長期使用prednisolone所致。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S60",
@@ -16817,7 +17396,8 @@
         "text": "進一步檢測 urine albumin-creatinine-ratio (UACR)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S61",
@@ -16846,7 +17426,8 @@
         "text": "erythropoietin。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S62",
@@ -16875,7 +17456,8 @@
         "text": "(2)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S63",
@@ -16904,7 +17486,8 @@
         "text": "腎小球基底膜分裂。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S64",
@@ -16933,7 +17516,8 @@
         "text": "給予生理食鹽水。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S65",
@@ -16962,7 +17546,8 @@
         "text": "過量水分攝取。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S66",
@@ -16991,7 +17576,8 @@
         "text": "葡萄糖酸鈣療法。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S67",
@@ -17020,7 +17606,8 @@
         "text": "供應入球小動脈收縮。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S68",
@@ -17049,7 +17636,8 @@
         "text": "糖尿病腎病症候群。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S69",
@@ -17078,7 +17666,8 @@
         "text": "膜性腎病 （Membranous nephropathy）。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S70",
@@ -17107,7 +17696,8 @@
         "text": "蔓越莓汁。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S71",
@@ -17136,7 +17726,8 @@
         "text": "Type IV RTA。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S72",
@@ -17165,7 +17756,8 @@
         "text": "肌酐酸下降的比率(creatine reduction rate)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S73",
@@ -17194,7 +17786,8 @@
         "text": "雙葉性主動脈瓣者多見囊胞性中層壞死(Cystic medial necrosis。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "112-S74",
@@ -17223,7 +17816,8 @@
         "text": "胃食道逆流也會引起咳嗽。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "112-S75",
@@ -17252,7 +17846,8 @@
         "text": "病理切片有高度化生不良者(high grade dysplasia)有20%進展成癌症機會。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "112-S76",
@@ -17281,7 +17876,8 @@
         "text": "Focal segmental glomerulosclerosis (FSGS)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S77",
@@ -17310,7 +17906,8 @@
         "text": "Legionella可造成肺外感染，如腹膜炎或腎盂腎炎。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "112-S78",
@@ -17339,7 +17936,8 @@
         "text": "腎源性尿崩症(nephrogenic DI)應該使用desmopressin (DDAVP)治療。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S79",
@@ -17368,7 +17966,8 @@
         "text": "關節組織切片檢查(join biopsy)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S80",
@@ -17397,7 +17996,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S81",
@@ -17426,7 +18026,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "112-S82",
@@ -17455,7 +18056,8 @@
         "text": "A型肝炎疫苗的效果佳，僅須完成一劑疫苗接種即可提供長期的保護力。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "112-S83",
@@ -17484,7 +18086,8 @@
         "text": "(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "112-S84",
@@ -17513,7 +18116,8 @@
         "text": "以上皆是。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "112-S85",
@@ -17542,7 +18146,8 @@
         "text": "若病史有中度或高度penicillin過敏反應風險者，建議以藥物溶液逕行進行皮膚測試。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "112-S86",
@@ -17571,7 +18176,8 @@
         "text": "長效單株抗體藥Tixagevimab + cilgavimab對SARS-CoV-2 α, β, γ, δ及omicron最近subvariant XBB和BQ.1.1 都一直具有很好的中和效果。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "112-S87",
@@ -17600,7 +18206,8 @@
         "text": "核酸檢驗 (NAAT)對披衣菌和淋菌的檢驗敏感性不如培養和格蘭氏染色。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "112-S88",
@@ -17629,7 +18236,8 @@
         "text": "減少第二、三代頭孢子素使用也降低困難梭狀桿菌感染風險。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "112-S89",
@@ -17658,7 +18266,8 @@
         "text": "(4)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "112-S90",
@@ -17687,7 +18296,8 @@
         "text": "Oxacillin呈現抗藥性，clindamycin可做為輔助治療藥物。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "112-S91",
@@ -17716,7 +18326,8 @@
         "text": "接觸鳥禽(birds) – Coxiella burnetii (Q fever)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "112-S92",
@@ -17745,7 +18356,8 @@
         "text": "(1)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "112-S93",
@@ -17774,7 +18386,8 @@
         "text": "鼠(Rodent)–Leptospira。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "112-S94",
@@ -17803,7 +18416,8 @@
         "text": "Clostridium difficile。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "112-S95",
@@ -17832,7 +18446,8 @@
         "text": "TMP-SMX(Trimethoprim-Sulfamethoxazole)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "112-S96",
@@ -17861,7 +18476,8 @@
         "text": "發疹(皮膚病灶)係由四肢向臉部及軀幹中心蔓延(centripetal)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "112-S97",
@@ -17890,7 +18506,8 @@
         "text": "第二型糖尿病患者使用生長激素治療初期可能會增加胰島素阻抗，在小心監控及適當調整劑量下，長期使用生長激素可以減少腹部脂肪並改善血糖控制。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S98",
@@ -17919,7 +18536,8 @@
         "text": "(3)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S99",
@@ -17948,7 +18566,8 @@
         "text": "(1)+(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S100",
@@ -17977,7 +18596,8 @@
         "text": "慢性黏膜皮膚念珠菌病(chronic mucocutaneous candidiasis)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S101",
@@ -18006,7 +18626,8 @@
         "text": "約有5-10%的嗜鉻細胞瘤是惡性的。手術檢體有細胞異型(cellular atypia)、有絲分裂(mitosis)、血管或周圍組織侵犯(invasion)等特徵尚不足以診斷為惡性嗜鉻細胞瘤。有淋巴或遠處轉移的，才被認為是惡性嗜鉻細胞瘤。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S102",
@@ -18035,7 +18656,8 @@
         "text": "懷孕婦女若有甲狀腺抗體，即使甲狀腺功能正常，仍有較高的流產及早產風險。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S103",
@@ -18064,7 +18686,8 @@
         "text": "甲狀腺淋巴癌常快速長大，手術切除是首要的治療方式。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S104",
@@ -18093,7 +18716,8 @@
         "text": "高血鈣的治療藥物中，calcitonin的開始作用時間比denosumab或pamidronate短，可能的副作用是嚴重的低血鈣。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S105",
@@ -18122,7 +18746,8 @@
         "text": "計畫性飲食及規律之足量運動，可以降低糖尿病發病之機率，其關鍵機轉為控制體重。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S106",
@@ -18151,7 +18776,8 @@
         "text": "Thiazolidinedione。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S107",
@@ -18180,7 +18806,8 @@
         "text": "(1)+(3)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S108",
@@ -18209,7 +18836,8 @@
         "text": "(2)+(3)+(5)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S109",
@@ -18238,7 +18866,8 @@
         "text": "Insulin。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S110",
@@ -18267,7 +18896,8 @@
         "text": "Basal insulin (基礎胰島素) 使用之起始劑量(initial dose) 的原則為 0.2 unit/kg/day。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S111",
@@ -18296,7 +18926,8 @@
         "text": "PCSK-9 inhibitor。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S112",
@@ -18325,7 +18956,8 @@
         "text": "24小時心電圖。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S113",
@@ -18354,7 +18986,8 @@
         "text": "抗MAD5抗體 ( anti-MAD5antibody)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S114",
@@ -18383,7 +19016,8 @@
         "text": "(1) 下降 (2) 上升 (3) 上升。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S115",
@@ -18412,7 +19046,8 @@
         "text": "(2) +(4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S116",
@@ -18441,7 +19076,8 @@
         "text": "第三型干擾素 (IFN- III)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S117",
@@ -18470,7 +19106,8 @@
         "text": "利尿劑可治療高血壓，與尿酸生成無關。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S118",
@@ -18499,7 +19136,8 @@
         "text": "抗細胞激素-23 (anti-IL-23)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S119",
@@ -18528,7 +19166,8 @@
         "text": "大量類固醇。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S120",
@@ -18557,7 +19196,8 @@
         "text": "免疫球蛋白E (IgE)增加。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S121",
@@ -18586,7 +19226,8 @@
         "text": "Oral leukotriene D4 antagonist。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S122",
@@ -18615,7 +19256,8 @@
         "text": "Large amount of normal saline infusion。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S123",
@@ -18644,7 +19286,8 @@
         "text": "Ulnar deviation。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S124",
@@ -18673,7 +19316,8 @@
         "text": "Polymyositis/dermatomyositis。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S125",
@@ -18702,7 +19346,8 @@
         "text": "抗aminoacyl-tRNA抗體與cardiomyopathy的產生有關。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S126",
@@ -18731,7 +19376,8 @@
         "text": "pANCA━Behcet's disease。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S127",
@@ -18760,7 +19406,8 @@
         "text": "(3)+(6)+(11)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S128",
@@ -18789,7 +19436,8 @@
         "text": "(1)+(5)+(9)+(11)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "112-S129",
@@ -18818,7 +19466,8 @@
         "text": "Bruton kinase inhibitor。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S130",
@@ -18847,7 +19496,8 @@
         "text": "TET2。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S131",
@@ -18876,7 +19526,8 @@
         "text": "VitB12缺乏性貧血。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S132",
@@ -18905,7 +19556,8 @@
         "text": "Antiphospholipid syndrome。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S133",
@@ -18934,7 +19586,8 @@
         "text": "治療以類固醇為主。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S134",
@@ -18963,7 +19616,8 @@
         "text": "Plasmablastic lymphoma。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S135",
@@ -18992,7 +19646,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S136",
@@ -19021,7 +19676,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S137",
@@ -19050,7 +19706,8 @@
         "text": "Elevated serum creatinine。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S138",
@@ -19079,7 +19736,8 @@
         "text": "Trastuzumab-Emtansine。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S139",
@@ -19108,7 +19766,8 @@
         "text": "CK20(+) , CDX-2(+), CK7(+)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S140",
@@ -19137,7 +19796,8 @@
         "text": "Li-Fraumeni syndrome。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S141",
@@ -19166,7 +19826,8 @@
         "text": "Panitumumab併用 FOLFIRI 或 CAPIRI/XELIRI。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S142",
@@ -19195,7 +19856,8 @@
         "text": "Radiation therapy alone。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S143",
@@ -19224,7 +19886,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S144",
@@ -19253,7 +19916,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "112-S145",
@@ -19282,7 +19946,8 @@
         "text": "評估插管保護氣道。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "112-S146",
@@ -19311,7 +19976,8 @@
         "text": "尿液的鈉 >100 mEq/L。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "112-S147",
@@ -19340,7 +20006,8 @@
         "text": "脊髓小腦萎缩症（spinocerebellar atrophy）。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "112-S148",
@@ -19369,7 +20036,8 @@
         "text": "格林-巴利症候群（Guillain-Barré syndrome）。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "112-S149",
@@ -19398,7 +20066,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "112-S150",
@@ -19427,7 +20096,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "112-S151",
@@ -19456,7 +20126,8 @@
         "text": "褪黑激素更適合被視為一種生理節律調節劑，而非催眠鎮靜藥物，其主要適應症為循環節律失調(circadian rhythm disorders)，例如睡眠-清醒相位延遲或提前失調患者。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "112-S152",
@@ -19485,7 +20156,8 @@
         "text": "對於年齡小於18歲的青少年，一項臨床試驗的網絡統合分析發現：Fluoxetine單獨使用，或與認知行為治療結合使用，會比安慰劑更有效。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "112-S153",
@@ -19514,7 +20186,8 @@
         "text": "目前所有治療指引均建議優先考慮心理治療，儘管藥物治療不建議作為獨立治療，但可以用於處理穩定性問題，以促進個案參與心理治療。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "112-S154",
@@ -19543,7 +20216,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "112-S155",
@@ -19572,7 +20246,8 @@
         "text": "(1)+(2)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "112-S156",
@@ -19601,7 +20276,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "112-S157",
@@ -19630,7 +20306,8 @@
         "text": "顯影劑(Radiographic dyes)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "112-S158",
@@ -19659,7 +20336,8 @@
         "text": "甲狀腺超音波。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "112-S159",
@@ -19688,7 +20366,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "112-S160",
@@ -19717,7 +20396,8 @@
         "text": "鏈球菌(Streptococcus)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "113-S1",
@@ -19746,7 +20426,8 @@
         "text": "採用Electric cardioversion 100-200 Joules。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "113-S2",
@@ -19775,7 +20456,8 @@
         "text": "感染性心內膜炎病人經適切治療在數日內逐漸退燒，如超過2週仍舊體溫不退，應再度血液病菌培養及再度影像檢查，以為處置之參考。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "113-S3",
@@ -19804,7 +20486,8 @@
         "text": "年過75歲的心梗休克病人以PCI開通阻塞血管，仍是合理的處置。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "113-S4",
@@ -19833,7 +20516,8 @@
         "text": "沒有症狀的主動脈瘤，只要在胸部主動脈瘤直徑超過5.5公分或腹部主動脈瘤伴有Marfan症候群者超過5.0 公分，應逕行經皮血管支架 (Endovascular stent)處置。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "113-S5",
@@ -19862,7 +20546,8 @@
         "text": "(4)+(5)+(6)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "113-S6",
@@ -19891,7 +20576,8 @@
         "text": "(1)+(3)+(6)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "113-S7",
@@ -19920,7 +20606,8 @@
         "text": "左心耳封堵器(Left atria appendage occlusion devices)治療AF有實証療效。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "113-S8",
@@ -19949,7 +20636,8 @@
         "text": "左迴旋枝阻塞的急性心肌梗塞。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "113-S9",
@@ -19978,7 +20666,8 @@
         "text": "CCD病人如若病情穩定，不必每年定期健檢或從事缺氧檢查(Ischemic testing) ，除非病人顯示身體機能衰退。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "113-S10",
@@ -20007,7 +20696,8 @@
         "text": "Refractory hypertension 的病患相較於Resistant Hypertension的病患一般比較年輕，比較容易有終端器官(end organ)的損傷。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "113-S11",
@@ -20036,7 +20726,8 @@
         "text": "收入、教育、就業等社會經濟因素對於血壓沒有顯著的影響。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "113-S12",
@@ -20065,7 +20756,8 @@
         "text": "對於血漿低密度脂蛋白膽固醇未達標的患者，可以加上Proprotein Convertase Subtilisin/Kexin type 9(PCSK9)抑制劑等其他控制LDL藥物輔助他汀類的治療。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "113-S13",
@@ -20094,7 +20786,8 @@
         "text": "(1)+(3)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "113-S14",
@@ -20123,7 +20816,8 @@
         "text": "陣發性心室上心搏過速 (PSVT)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "心臟科"
   },
   {
     "id": "113-S15",
@@ -20152,7 +20846,8 @@
         "text": "有氧運動，如快步走/跑步、游泳和跳舞，被證明是降低血壓的最佳形式。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "113-S16",
@@ -20181,7 +20876,8 @@
         "text": "依照現行指南，左心室射出分率下降之心衰竭患者(heart failure with reduced ejection fraction)，nondihydropyridine CCBs 絕對不可以使用。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "113-S17",
@@ -20210,7 +20906,8 @@
         "text": "刺激頸動脈的壓力感受器(baro-receptor)，會影響血壓在正常日常活動中高低波動，導致24小時平均動脈壓力顯著上升。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "113-S18",
@@ -20239,7 +20936,8 @@
         "text": "運動生理測試指標，吐氣換氣量 (expiratory ventilation, VE)除以攝氧量(oxygen uptake, VO2) 的斜率，可以代表運動時肺部的代謝效率，和心臟衰竭患者的預後有密切的關係。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "113-S19",
@@ -20268,7 +20966,8 @@
         "text": "避免需要時(as-needed)單獨使用 SABA。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S20",
@@ -20297,7 +20996,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S21",
@@ -20326,7 +21026,8 @@
         "text": "可考慮給予針對Pseudomonas aeruginosa的抗生素治療。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S22",
@@ -20355,7 +21056,8 @@
         "text": "建議吸入型LABA + LAMA與吸入型類固醇合併使用。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S23",
@@ -20384,7 +21086,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S24",
@@ -20413,7 +21116,8 @@
         "text": "可以考慮將適合使用ECMO (extracorporeal membrane oxygenation) 的患者轉介至ECMO centers。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S25",
@@ -20442,7 +21146,8 @@
         "text": "張力性氣胸（tension pneumothorax）通常發生在使用呼吸器或急救過後的病患。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S26",
@@ -20471,7 +21176,8 @@
         "text": "直徑大於6–8 cm的肺膿瘍單獨使用抗生素的治療效果通常不好，需要考慮手術或者是經皮引流（Percutaneous drainage）。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S27",
@@ -20500,7 +21206,8 @@
         "text": "膿胸。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S28",
@@ -20529,7 +21236,8 @@
         "text": "如果有找到驅動基因變異，應考慮給予相對應之標靶藥物治療。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S29",
@@ -20558,7 +21266,8 @@
         "text": "病人為代謝性酸中毒，應檢測鈉離子與氯離子濃度分析酸代謝性酸中毒的原因。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S30",
@@ -20587,7 +21296,8 @@
         "text": "安排注射顯影劑的肺動脈血管攝影斷層掃描。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S31",
@@ -20616,7 +21326,8 @@
         "text": "CURB-65 分數 = 4，嚴重肺炎，建議可能需要住加護病房治療。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S32",
@@ -20645,7 +21356,8 @@
         "text": "可進行細胞學檢查，評估malignant pleural effusion的可能性。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S33",
@@ -20674,7 +21386,8 @@
         "text": "結核性肋膜炎(tuberculous pleurisy)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S34",
@@ -20703,7 +21416,8 @@
         "text": "增加吐氣末陽壓(PEEP)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S35",
@@ -20732,7 +21446,8 @@
         "text": "過去一年有一次COPD急性惡化門診治療，blood eosinophil count 120 μ/L。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S36",
@@ -20761,7 +21476,8 @@
         "text": "肺功能分級為GOLD 3，COPD嚴重度為E群。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S37",
@@ -20790,7 +21506,8 @@
         "text": "內視鏡檢查。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S38",
@@ -20819,7 +21536,8 @@
         "text": "Cryoglobulinemic vasculitis及non-Hodgkin lymphoma在C肝病毒根除後，較可能會進入緩解狀態。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S39",
@@ -20848,7 +21566,8 @@
         "text": "(2)+(3)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S40",
@@ -20877,7 +21596,8 @@
         "text": "若本病人有糖尿病，服用incretin mimetics及SGLT 2 inhibitors之降血糖藥物可能改善其肝病狀況。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S41",
@@ -20906,7 +21626,8 @@
         "text": "(4)+(5)+(7)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S42",
@@ -20935,7 +21656,8 @@
         "text": "這個病人未來不必擔心罹患食道癌。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S43",
@@ -20964,7 +21686,8 @@
         "text": "Capsule endoscopy。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S44",
@@ -20993,7 +21716,8 @@
         "text": "即使沒有併發胸水，亦可能出現dyspnea及hypoxemia之症狀。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S45",
@@ -21022,7 +21746,8 @@
         "text": "應注意有無osteoporosis。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S46",
@@ -21051,7 +21776,8 @@
         "text": "Perihilar type cholangiocarcinoma。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S47",
@@ -21080,7 +21806,8 @@
         "text": "腸型亞型(intestinal type)與幽門螺桿菌感染引起的慢性萎縮性胃炎有相關。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S48",
@@ -21109,7 +21836,8 @@
         "text": "免疫檢查點抑制劑（如PD-1/PD-L1抑制劑）對於以上四種亞型皆無效。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S49",
@@ -21138,7 +21866,8 @@
         "text": "合併PD-1或PD-L1抑制劑與PARP抑制劑治療四周後，再進行手術治療。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S50",
@@ -21167,7 +21896,8 @@
         "text": "(2)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S51",
@@ -21196,7 +21926,8 @@
         "text": "Lynch綜合症主要與MLH1和MSH2等DNA修復基因的突變有關。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S52",
@@ -21225,7 +21956,8 @@
         "text": "腹腔鏡膽囊切除術，約5%需轉開放手術，約4%的病例出現併發症，膽管損傷率較高（2-5%）。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S53",
@@ -21254,7 +21986,8 @@
         "text": "(1)+(3)+(4)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S54",
@@ -21283,7 +22016,8 @@
         "text": "(1)+(2)+(4)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S55",
@@ -21312,7 +22046,8 @@
         "text": "單株抗體藥物如: eculizumab 或ravulizumab的效果與血漿置換/輸注治療相似，且有增加感染的風險，不建議作為優先使用。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S56",
@@ -21341,7 +22076,8 @@
         "text": "病人的選擇是RDN成功的關鍵之一。RDN更適用於primary aldosteronism 或volume overload型的頑固性高血壓病人，相較於obesity, COPD合併頑固性高血壓病人。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "113-S57",
@@ -21370,7 +22106,8 @@
         "text": "(2)+(3)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "113-S58",
@@ -21399,7 +22136,8 @@
         "text": "(2)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S59",
@@ -21428,7 +22166,8 @@
         "text": "Renin-angiotensin-aldosterone system blockers。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S60",
@@ -21457,7 +22196,8 @@
         "text": "Renal amyloidosis。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S61",
@@ -21486,7 +22226,8 @@
         "text": "安排plasma exchange or plasma infusion。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S62",
@@ -21515,7 +22256,8 @@
         "text": "給予thiazides, amiloride, and NSAID，搭配water (without electrolytes) intake。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S63",
@@ -21544,7 +22286,8 @@
         "text": "建議3% saline，追蹤血鈉[Na]變化，以提升不超過10 mEq/L為上限目標。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S64",
@@ -21573,7 +22316,8 @@
         "text": "refractory hypokalemia。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S65",
@@ -21602,7 +22346,8 @@
         "text": "腎盂結石。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S66",
@@ -21631,7 +22376,8 @@
         "text": "尿液出現紅血球圓柱體。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S67",
@@ -21660,7 +22406,8 @@
         "text": "與抗PLA2R抗體檢出無關。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S68",
@@ -21689,7 +22436,8 @@
         "text": "快速進行性腎絲球體腎炎( rapidly progressive glomerulonephritis)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S69",
@@ -21718,7 +22466,8 @@
         "text": "尿液比重（Specific gravity）大於1.030。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S70",
@@ -21747,7 +22496,8 @@
         "text": "急性闌尾炎。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S71",
@@ -21776,7 +22526,8 @@
         "text": "高血清肌酸激酶。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "113-S72",
@@ -21805,7 +22556,8 @@
         "text": "靜脈注射碳酸氫鈉。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S73",
@@ -21834,7 +22586,8 @@
         "text": "患有阿斯匹靈敏感型氣喘 (aspirin sensitive asthma)之病患，應避免服用 nonselective COX inhibitors。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S74",
@@ -21863,7 +22616,8 @@
         "text": "病人已有肝臟失代償現象 (liver decompensation)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S75",
@@ -21892,7 +22646,8 @@
         "text": "磺醯基尿素(sulfonylurea)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S76",
@@ -21921,7 +22676,8 @@
         "text": "貧血。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "113-S77",
@@ -21950,7 +22706,8 @@
         "text": "(1)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "113-S78",
@@ -21979,7 +22736,8 @@
         "text": "rifabutin triple regimen。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S79",
@@ -22008,7 +22766,8 @@
         "text": "與其他檢驗方式比較，檢測血中的metanephrine 具有高敏感度，但因很容易受到靜脈穿刺(venipuncture) 等壓力影響，而有較高的偽陽性。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S80",
@@ -22037,7 +22796,8 @@
         "text": "Genital ulcers ： Haemophilus ducreyi。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "113-S81",
@@ -22066,7 +22826,8 @@
         "text": "治療藥物首選是Fluconazole及Amphotericin B。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "113-S82",
@@ -22095,7 +22856,8 @@
         "text": "以上皆非。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "113-S83",
@@ -22124,7 +22886,8 @@
         "text": "(2)+(3)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "113-S84",
@@ -22153,7 +22916,8 @@
         "text": "(1)+(2)+(3)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "113-S85",
@@ -22182,7 +22946,8 @@
         "text": "(3)+(4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "113-S86",
@@ -22211,7 +22976,8 @@
         "text": "腎移植病人、嗜中性白血球數低下、要接受尿路手術者，有菌尿但沒有症狀，尿培養報告有Vancomycin抗藥性尿腸球菌 (Enterococcus faecium)，此時可以給予口服linezolid治療。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "113-S87",
@@ -22240,7 +23006,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "感染科"
   },
   {
     "id": "113-S88",
@@ -22269,7 +23036,8 @@
         "text": "在台灣造成肝膿瘍或眼內炎的致病菌相對抗藥性較高，大多是屬於ESBL-producing K.pneumoniae。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "113-S89",
@@ -22298,7 +23066,8 @@
         "text": "Meningococcal conjugate vaccine。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "113-S90",
@@ -22327,7 +23096,8 @@
         "text": "Staphylococcus aureus - Local influenza activity。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "113-S91",
@@ -22356,7 +23126,8 @@
         "text": "(4)+(5)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "113-S92",
@@ -22385,7 +23156,8 @@
         "text": "dexamethasone。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "113-S93",
@@ -22414,7 +23186,8 @@
         "text": "Ceftazidime (anti-pseudomonal cephalosporin)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "113-S94",
@@ -22443,7 +23216,8 @@
         "text": "流感疫苗 (influenza vaccine)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "113-S95",
@@ -22472,7 +23246,8 @@
         "text": "Pneumocystis。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "113-S96",
@@ -22501,7 +23276,8 @@
         "text": "Aspergillus fumigatus。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "113-S97",
@@ -22530,7 +23306,8 @@
         "text": "(2)+(4)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S98",
@@ -22559,7 +23336,8 @@
         "text": "高血鈣(hypercalcemia)及高血鉀(hyperkalemia)可能造成腎源性尿崩症。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S99",
@@ -22588,7 +23366,8 @@
         "text": "臨床前期甲狀腺功能低下（subclinical hypothyroidism）的病人大多沒有症狀，一般至少每年一次定期監測甲狀腺功能即可。但若病人想要懷孕或是TSH>10 mIU/L持續三個月以上，就應該給予藥物治療。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S100",
@@ -22617,7 +23396,8 @@
         "text": "甲狀腺癌病人經全切除及接受必要的放射性碘治療後，應該長期補充甲狀腺素(levothyroxine,LT4)，以維持TSH在正常參考值的上限為原則。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S101",
@@ -22646,7 +23426,8 @@
         "text": "抑鈣素(calcitonin) 可以抑制噬骨細胞(osteoclast)的骨吸收作用，並減少腎臟的鈣排出。腦、腸胃、免疫系統都有抑鈣素接合器 (receptors)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S102",
@@ -22675,7 +23456,8 @@
         "text": "懷疑有PA 的病人要檢測 aldosterone-renin ratio (ARR)時，須注意降血壓藥物的可能影響。沒有停用乙型阻斷劑(β-blocker)的情況下，如果ARR低，仍然需要考慮PA 的可能。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S103",
@@ -22704,7 +23486,8 @@
         "text": "約有5%的腎上腺偶發瘤(adrenal incidentaloma) 是嗜鉻細胞瘤。嗜鉻細胞瘤在未靜脈注射顯影劑的電腦斷層(unenhanced CT)通常其attenuation <10 HU。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S104",
@@ -22733,7 +23516,8 @@
         "text": "APS-1 的病人以ketoconazole治療皮膚粘膜念珠菌病時，需要小心是否可能造成腎上腺危症(adrenal crisis)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S105",
@@ -22762,7 +23546,8 @@
         "text": "Sulfonylurea。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S106",
@@ -22791,7 +23576,8 @@
         "text": "Dipeptidyl dipeptidase 4 inhibitor (DPP4 inhibitor)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S107",
@@ -22820,7 +23606,8 @@
         "text": "SGLT 2 inhibitor 在降低血糖之際，也同時降低病患產生酮酸中毒(diabetic ketoacidosis) 的機率。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S108",
@@ -22849,7 +23636,8 @@
         "text": "Inferior petrosal sinus sampling (IPSS) 下岩竇靜脈血液取樣檢測。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S109",
@@ -22878,7 +23666,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S110",
@@ -22907,7 +23696,8 @@
         "text": "Metformin之每日最高使用劑量為 2000mg。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S111",
@@ -22936,7 +23726,8 @@
         "text": "Insulin glargine。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S112",
@@ -22965,7 +23756,8 @@
         "text": "(1)+(3)+(4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "113-S113",
@@ -22994,7 +23786,8 @@
         "text": "(2)+(4)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S114",
@@ -23023,7 +23816,8 @@
         "text": "(5)+(1)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "113-S115",
@@ -23052,7 +23846,8 @@
         "text": "急性腎盂腎炎。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S116",
@@ -23081,7 +23876,8 @@
         "text": "TSHR Ab+抗RNP抗體。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S117",
@@ -23110,7 +23906,8 @@
         "text": "第一型糖尿病(T1DM)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S118",
@@ -23139,7 +23936,8 @@
         "text": "紅斑性狼瘡(SLE)關節炎。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S119",
@@ -23168,7 +23966,8 @@
         "text": "5分。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S120",
@@ -23197,7 +23996,8 @@
         "text": "1-2 mg/dL。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S121",
@@ -23226,7 +24026,8 @@
         "text": "Hereditary angioedema 通常不會波及嘴唇及眼皮。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S122",
@@ -23255,7 +24056,8 @@
         "text": "Anti-histone antibody。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S123",
@@ -23284,7 +24086,8 @@
         "text": "Giant cell arteritis。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S124",
@@ -23313,7 +24116,8 @@
         "text": "Lacrimal gland inflammation。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S125",
@@ -23342,7 +24146,8 @@
         "text": "HLA-B27 (+)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S126",
@@ -23371,7 +24176,8 @@
         "text": "常發生多發性關節炎。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S127",
@@ -23400,7 +24206,8 @@
         "text": "Metatarsophalangeal (MTP) joints。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S128",
@@ -23429,7 +24236,8 @@
         "text": "NSAIDs。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "113-S129",
@@ -23458,7 +24266,8 @@
         "text": "密切觀察及追蹤。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S130",
@@ -23487,7 +24296,8 @@
         "text": "Hepatitis。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S131",
@@ -23516,7 +24326,8 @@
         "text": "Hypercalcemia。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S132",
@@ -23545,7 +24356,8 @@
         "text": "NPM1 mutation。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S133",
@@ -23574,7 +24386,8 @@
         "text": "Watchful waiting。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S134",
@@ -23603,7 +24416,8 @@
         "text": "補充含鐵的食物。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S135",
@@ -23632,7 +24446,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S136",
@@ -23661,7 +24476,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S137",
@@ -23690,7 +24506,8 @@
         "text": "Endoscopic ultrasound (EUS)-guided biopsy。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "113-S138",
@@ -23719,7 +24536,8 @@
         "text": "Pamidronate。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S139",
@@ -23748,7 +24566,8 @@
         "text": "Erlotinib。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S140",
@@ -23777,7 +24596,8 @@
         "text": "Grade 1。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S141",
@@ -23806,7 +24626,8 @@
         "text": "CDX-2(−), CK20(+) , CK7(−)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S142",
@@ -23835,7 +24656,8 @@
         "text": "每年低劑量電腦斷層(LDCT, low-dose CT)掃描檢查。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S143",
@@ -23864,7 +24686,8 @@
         "text": "GI perforation。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S144",
@@ -23893,7 +24716,8 @@
         "text": "1、2、3、4、5。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "113-S145",
@@ -23922,7 +24746,8 @@
         "text": "懷疑中大腦動脈管阻塞，安排斷層掃描血管攝影(CTA)檢查，考慮進行動脈內血栓移除治療。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "113-S146",
@@ -23951,7 +24776,8 @@
         "text": "anti-Jo1 腦炎。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "113-S147",
@@ -23980,7 +24806,8 @@
         "text": "格林-巴利症候群（Guillain-Barré syndrome）。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "113-S148",
@@ -24009,7 +24836,8 @@
         "text": "在惡性高熱的情況下，應考慮使用dantrolene（劑量為1-2.5 mg/kg，每日最高劑量為10 mg/kg/d）。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "113-S149",
@@ -24038,7 +24866,8 @@
         "text": "monoamine oxidase inhibitors (MAOI)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "113-S150",
@@ -24067,7 +24896,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "113-S151",
@@ -24096,7 +24926,8 @@
         "text": "低劑量的Risperidone在某些國家獲得針對攻擊行為的短期使用許可。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "113-S152",
@@ -24125,7 +24956,8 @@
         "text": "對於長期使用安眠藥想要停藥的患者，系統性的逐步減量計劃（例如每週減少25%）可以幫助減少或停止長期使用安眠藥。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "113-S153",
@@ -24154,7 +24986,8 @@
         "text": "有治療指引支持若使用選擇性血清素再吸收抑制劑（SSRI）治療反應不佳，可轉換到血清素-新腎上腺素再吸收抑制劑（SNRI）。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "113-S154",
@@ -24183,7 +25016,8 @@
         "text": "(1)+(4)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "113-S155",
@@ -24212,7 +25046,8 @@
         "text": "Mirtazapine：體重減輕。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "113-S156",
@@ -24241,7 +25076,8 @@
         "text": "藥物反應緩解後還須持續追蹤隨後可能發生的自體免疫性甲狀腺炎(autoimmune thyroiditis)及糖尿病(diabetes mellitus)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "113-S157",
@@ -24270,7 +25106,8 @@
         "text": "此皮膚病灶表現與低密度膽固醇過高最相關。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "113-S158",
@@ -24299,7 +25136,8 @@
         "text": "扁平濕疣(condylomata lata)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "其他類"
   },
   {
     "id": "113-S159",
@@ -24328,7 +25166,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "113-S160",
@@ -24357,7 +25196,8 @@
         "text": "口服抗病毒藥物可促進病灶癒合、疼痛改善。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "114-S1",
@@ -24386,7 +25226,8 @@
         "text": "SGLT2 抑制劑（sodium–glucose cotransporter 2 inhibitors）。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "114-S2",
@@ -24415,7 +25256,8 @@
         "text": "運動生理測試指標，吐氣換氣量 (expiratory ventilation, VE)除以攝氧量(oxygen uptake, VO2) 的斜率，可以代表運動時肺部的代謝效率，和心臟衰竭患者的預後有密切的關係。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "114-S3",
@@ -24444,7 +25286,8 @@
         "text": "聽診時S3變大聲，P2變得明顯。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "114-S4",
@@ -24473,7 +25316,8 @@
         "text": "心電圖V1~V4 導極出現ST 波段下降一小格。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "114-S5",
@@ -24502,7 +25346,8 @@
         "text": "(1)+(2)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "114-S6",
@@ -24531,7 +25376,8 @@
         "text": "過度的夜間水分，主要的機轉會刺激心輸出量上升，引起血壓上升。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "心臟科"
   },
   {
     "id": "114-S7",
@@ -24560,7 +25406,8 @@
         "text": "Cheyne-Stokes呼吸在嚴重心衰竭患者常可以見到，通常出現表示比較不佳的預後，可能暗示心輸出量下降。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "114-S8",
@@ -24589,7 +25436,8 @@
         "text": "Dopamine 2 ug/kg/min 靜脈注射。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "114-S9",
@@ -24618,7 +25466,8 @@
         "text": "病患如果不適合使用口服抗凝血劑，可以考慮施行左心耳封填術。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "114-S10",
@@ -24647,7 +25496,8 @@
         "text": "所有NSTEMI病人皆須使用高劑量statin治療。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "114-S11",
@@ -24676,7 +25526,8 @@
         "text": "建議左心耳封堵裝置。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "114-S12",
@@ -24705,7 +25556,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "心臟科"
   },
   {
     "id": "114-S13",
@@ -24734,7 +25586,8 @@
         "text": "若BNP升高但無肺水腫，不支持心衰診斷，應先排除COPD(chronic obstructive pulmonary disease)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "114-S14",
@@ -24763,7 +25616,8 @@
         "text": "建議安排心導管以評估是否需冠狀動脈介入治療。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "114-S15",
@@ -24792,7 +25646,8 @@
         "text": "開始利尿劑治療以控制呼吸困難。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "114-S16",
@@ -24821,7 +25676,8 @@
         "text": "建議停用calcium channel blocker以降低周邊水腫風險。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "114-S17",
@@ -24850,7 +25706,8 @@
         "text": "建議再抽一次心肌酶以確認偽陽性。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "心臟科"
   },
   {
     "id": "114-S18",
@@ -24879,7 +25736,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S19",
@@ -24908,7 +25766,8 @@
         "text": "建議立即改用每日口服類固醇以維持長期控制。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S20",
@@ -24937,7 +25796,8 @@
         "text": "使用生物製劑治療應在確診後立即開始，而無需考慮患者表現或表型特徵。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S21",
@@ -24966,7 +25826,8 @@
         "text": "(1)+(2)+(3)+(5)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "114-S22",
@@ -24995,7 +25856,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S23",
@@ -25024,7 +25886,8 @@
         "text": "敗血症的器官衰竭僅由病原體直接破壞組織引起，與宿主免疫反應無關。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "114-S24",
@@ -25053,7 +25916,8 @@
         "text": "降低平均動脈壓（MAP）至50 mmHg 有助減少液體輸注需求。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "114-S25",
@@ -25082,7 +25946,8 @@
         "text": "干擾素釋放試驗(IGRA)需培養結核菌，耗時較長。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "114-S26",
@@ -25111,7 +25976,8 @@
         "text": "給予吸入型類固醇。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S27",
@@ -25140,7 +26006,8 @@
         "text": "可考慮安排支氣管鏡檢查。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S28",
@@ -25169,7 +26036,8 @@
         "text": "此病人應改成inhaled conticosteroid (ICS) + LABA 治療。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S29",
@@ -25198,7 +26066,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S30",
@@ -25227,7 +26096,8 @@
         "text": "合併心因性肺水腫。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S31",
@@ -25256,7 +26126,8 @@
         "text": "慢性支氣管炎: 肺炎鏈球菌。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S32",
@@ -25285,7 +26156,8 @@
         "text": "增加吐氣末陽壓(PEEP)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S33",
@@ -25314,7 +26186,8 @@
         "text": "Preserved ratio impaired spirometry (PRISM)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S34",
@@ -25343,7 +26216,8 @@
         "text": "(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S35",
@@ -25372,7 +26246,8 @@
         "text": "可能小幅度增加呼吸道吐氣末正壓。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S36",
@@ -25401,7 +26276,8 @@
         "text": "增加吐氣末正壓。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S37",
@@ -25430,7 +26306,8 @@
         "text": "MASLD病人不宜長期服用高劑量Vitamin E 治療其脂肪肝炎，因可能導致心血管疾病之死亡風險及出血性腦中風。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S38",
@@ -25459,7 +26336,8 @@
         "text": "(4)+(5)+(6)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S39",
@@ -25488,7 +26366,8 @@
         "text": "應立即安排肝臟移植手術。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S40",
@@ -25517,7 +26396,8 @@
         "text": "接受HP eradication therapy後，欲證實治療是否成功，需在治療結束至少4週後方得為之。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S41",
@@ -25546,7 +26426,8 @@
         "text": "胰臟癌。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S42",
@@ -25575,7 +26456,8 @@
         "text": "一般人之慢性C型肝炎，接受DAAs治療可根除其體內之C肝病毒之機率高達95%以上，惟再感染之機率亦高，因Anti-HCV不具保護性。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S43",
@@ -25604,7 +26486,8 @@
         "text": "只要曾經內視鏡檢查證實有胃食道逆流(gastroesophageal reflux disease, GERD)者，應每年做一次內視鏡檢查以確認是否出現Barrett's metaplasia。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S44",
@@ -25633,7 +26516,8 @@
         "text": "Sigmoid colon cancer。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S45",
@@ -25662,7 +26546,8 @@
         "text": "若胃鏡檢查為陰性，無需擔心假性賁門弛緩不能 (pseudoachalasia) 。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S46",
@@ -25691,7 +26576,8 @@
         "text": "無明確穿孔或膿腫，可先門診追蹤並建議清流質飲食。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S47",
@@ -25720,7 +26606,8 @@
         "text": "該病人若內視鏡陰性，可直接排除其他鑑別診斷如 胃食道逆流GERD 或癌症。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S48",
@@ -25749,7 +26636,8 @@
         "text": "腹膜透析導管感染造成腹膜炎。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S49",
@@ -25778,7 +26666,8 @@
         "text": "在Lauren分類中，腸型胃腺癌通常與CDH1基因突變相關。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S50",
@@ -25807,7 +26696,8 @@
         "text": "肝功能正常表示為無臨床意義之膽石，可不治療。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S51",
@@ -25836,7 +26726,8 @@
         "text": "(1)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S52",
@@ -25865,7 +26756,8 @@
         "text": "若症狀持續，建議施行腸鏡導引之腸道改道手術以終止症狀。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S53",
@@ -25894,7 +26786,8 @@
         "text": "高 alpha-1 antitrypsin 糞便濃度支持胃部蛋白流失，應進一步行胃黏膜活檢以確診。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S54",
@@ -25923,7 +26816,8 @@
         "text": "急性胰臟炎合併大腸炎。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S55",
@@ -25952,7 +26846,8 @@
         "text": "出現 brain and heart dysfunction。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S56",
@@ -25981,7 +26876,8 @@
         "text": "Wegener’s granulomatosis。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S57",
@@ -26010,7 +26906,8 @@
         "text": "RPGN (rapidly progressive glomerulonephritis)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S58",
@@ -26039,7 +26936,8 @@
         "text": "Waxy casts。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S59",
@@ -26068,7 +26966,8 @@
         "text": "Sjogren’s syndrome。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S60",
@@ -26097,7 +26996,8 @@
         "text": "Parathyroid gland hypertrophy and secondary hyperparathyoridism。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S61",
@@ -26126,7 +27026,8 @@
         "text": "(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S62",
@@ -26155,7 +27056,8 @@
         "text": "beta-blockers。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S63",
@@ -26184,7 +27086,8 @@
         "text": "尚未符合 AKI 診斷標準。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S64",
@@ -26213,7 +27116,8 @@
         "text": "一旦發生即無法可逆。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S65",
@@ -26242,7 +27146,8 @@
         "text": "CEP290。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S66",
@@ -26271,7 +27176,8 @@
         "text": "調整降壓藥物以達<130/80 mmHg 為目標。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S67",
@@ -26300,7 +27206,8 @@
         "text": "血液動力學不穩定，應避免進行透析處置，以免進一步惡化循環狀態。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S68",
@@ -26329,7 +27236,8 @@
         "text": "Angiotensin II。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S69",
@@ -26358,7 +27266,8 @@
         "text": "蛋白限制僅適用於已進入透析的病人。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S70",
@@ -26387,7 +27296,8 @@
         "text": "造影劑腎病變（Contrast-induced nephropathy）。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S71",
@@ -26416,7 +27326,8 @@
         "text": "(2)+(3)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S72",
@@ -26445,7 +27356,8 @@
         "text": "(3)+(4)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S73",
@@ -26474,7 +27386,8 @@
         "text": "年過75歲的心梗休克病人以PCI開通阻塞血管，仍是合理的處置。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "心臟科"
   },
   {
     "id": "114-S74",
@@ -26503,7 +27416,8 @@
         "text": "可以考慮將適合使用ECMO (extracorporeal membrane oxygenation) 的患者轉介至ECMO centers。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "胸腔科"
   },
   {
     "id": "114-S75",
@@ -26532,7 +27446,8 @@
         "text": "即使沒有併發胸水，亦可能出現dyspnea及hypoxemia之症狀。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腸胃科"
   },
   {
     "id": "114-S76",
@@ -26561,7 +27476,8 @@
         "text": "尿液出現紅血球圓柱體。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "腎臟科"
   },
   {
     "id": "114-S77",
@@ -26590,7 +27506,8 @@
         "text": "以上皆是。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "114-S78",
@@ -26619,7 +27536,8 @@
         "text": "VitB12缺乏性貧血。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S79",
@@ -26648,7 +27566,8 @@
         "text": "高血鈣的治療藥物中，calcitonin的開始作用時間比denosumab或pamidronate短，可能的副作用是嚴重的低血鈣。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S80",
@@ -26677,7 +27596,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S81",
@@ -26706,7 +27626,8 @@
         "text": "以上皆非。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "114-S82",
@@ -26735,7 +27656,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "114-S83",
@@ -26764,7 +27686,8 @@
         "text": "糖尿病、慢性肺病、慢性腎病、地中海型貧血、免疫抑制患者是已知之臨床高風險因子。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "114-S84",
@@ -26793,7 +27716,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "114-S85",
@@ -26822,7 +27746,8 @@
         "text": "腹瀉病患如 stool culture 培養出 Clostridioides (Clostridium) difficile，即可診斷為 Clostridioides(Clostridium) difficile associated disease。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "114-S86",
@@ -26851,7 +27776,8 @@
         "text": "(1)+(2)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "114-S87",
@@ -26880,7 +27806,8 @@
         "text": "若為腦部手術後之腦膜炎需考慮抗綠膿桿菌治療。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "114-S88",
@@ -26909,7 +27836,8 @@
         "text": "對於HSV腦炎診斷，腦脊髓液PCR敏感度約96%，專一度約99%，與腦部切片（biopsy）相當，甚至更高。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "114-S89",
@@ -26938,7 +27866,8 @@
         "text": "經食道心臟超音波檢查（TEE）對臨床診斷為心內膜炎的患者約有6%-18%假陰性，敏感度約為90%。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "感染科"
   },
   {
     "id": "114-S90",
@@ -26967,7 +27896,8 @@
         "text": "念珠菌（Candida）。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "114-S91",
@@ -26996,7 +27926,8 @@
         "text": "此類抗生素具有濃度依賴（concentration dependent）殺菌作用及後抗生素效應（post-antibiotic effect）。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "114-S92",
@@ -27025,7 +27956,8 @@
         "text": "感冒桿菌（Hemophilus influenzae）。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "114-S93",
@@ -27054,7 +27986,8 @@
         "text": "Enterococcus faecalis。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "感染科"
   },
   {
     "id": "114-S94",
@@ -27083,7 +28016,8 @@
         "text": "症狀與神經毒素（neurotoxin）有關。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "114-S95",
@@ -27112,7 +28046,8 @@
         "text": "(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "感染科"
   },
   {
     "id": "114-S96",
@@ -27141,7 +28076,8 @@
         "text": "(1)+(3)+(5)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "感染科"
   },
   {
     "id": "114-S97",
@@ -27170,7 +28106,8 @@
         "text": "三碘甲狀腺素(Triiodothyronine, T3)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S98",
@@ -27199,7 +28136,8 @@
         "text": "葛雷夫氏症(Graves’ disease)患者中約 30%、20%、10% 會合併眼病變(ophthalmopathy)、皮膚病變(dermopathy)、指端粗厚(acropachy)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S99",
@@ -27228,7 +28166,8 @@
         "text": "橋本氏甲狀腺炎(Hashimoto’s thyroiditis) 屬自體免疫性甲狀腺疾病，應鼓勵病人多攝取碘，考慮甲狀腺過氧化酶抗體(antithyroid peroxidase antibody）之高低給予適量之類固醇，並定期追蹤其甲狀腺功能，若甲狀腺功能低下，應給予甲狀腺素治療。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S100",
@@ -27257,7 +28196,8 @@
         "text": "一位58歲男性病人兩年前被診斷有無症狀原發性副甲狀腺功能亢進(asymptomatic primary hyperparathyroidism)。他最近一次追蹤，血鈣高出正常值 0.8 mg/dL、肌酸軒廓清(creatinine clearance) 為65 mL/min、腰椎骨密度(lumbar spine bone mineral density) T score 為 -2.0。應該建議他接受副甲狀腺切除手術治療。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S101",
@@ -27286,7 +28226,8 @@
         "text": "糖皮素缺乏(glucocorticoid deficiency)病人可能有肌肉痠痛、關節痛、發燒、貧血、淋巴球增加、甲促素(thyroid stimulating hormone, TSH)下降等臨床表徵 。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S102",
@@ -27315,7 +28256,8 @@
         "text": "第2A型多發性內分泌腫瘤（multiple endocrine neoplasia, MEN）以甲狀腺髓質癌(medullary thyroid carcinoma, MTC)、嗜鉻細胞瘤及副甲狀腺功能亢進為主。而第 2B 型 MEN 通常不包括 MTC。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S103",
@@ -27344,7 +28286,8 @@
         "text": "大約60-70% 的腎上腺皮質癌(adrenal cortical carcinoma, ACC) 有類固醇過量的表現。ACC staging分類中，T2N0M0 為 stage II，而 T2 是指腫瘤大於 5公分。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S104",
@@ -27373,7 +28316,8 @@
         "text": "臨床上可用serum osteocalcin做為骨生成(bone formation)的生化指標(biochemical marker)，而serum bone-specific alkaline phosphatase則是骨吸收(bone resorption)的生化指標。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S105",
@@ -27402,7 +28346,8 @@
         "text": "根據糖尿病飲食控制的原則，當透過計畫性飲食與運動使體重減輕時，減少的主要為脂肪組織，有助於延緩病情惡化。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S106",
@@ -27431,7 +28376,8 @@
         "text": "Insulin。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S107",
@@ -27460,7 +28406,8 @@
         "text": "基礎型胰島素（Basal insulin）起始劑量的建議通常為每日每公斤體重 0.2 單位（unit/kg/day）。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S108",
@@ -27489,7 +28436,8 @@
         "text": "Fenofibrate。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S109",
@@ -27518,7 +28466,8 @@
         "text": "Pioglitazone, Thiazolidinedione (TZD)。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S110",
@@ -27547,7 +28496,8 @@
         "text": "對於腎功能不全患者， eGFR 小於 30 ml / min / 1.73㎡，Metformin 的使用是安全的。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S111",
@@ -27576,7 +28526,8 @@
         "text": "病人之 UACR > 200 mg/g，即使血壓未超過140/90 mmHg，仍應考慮使用 ACEi 或 ARB 作為腎臟保護。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S112",
@@ -27605,7 +28556,8 @@
         "text": "針對血糖控制，當其他藥物無效或有禁忌時，胰島素可作為後線使用的選擇。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "新陳代謝科"
   },
   {
     "id": "114-S113",
@@ -27634,7 +28586,8 @@
         "text": "當劑量減至10 mg/日時可直接停藥。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S114",
@@ -27663,7 +28616,8 @@
         "text": "(3)+(5)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S115",
@@ -27692,7 +28646,8 @@
         "text": "血清IgG4大於35 mg/dL有助於診斷IgG4-RD。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S116",
@@ -27721,7 +28676,8 @@
         "text": "類風濕性關節炎導致肺間質性疾病（ILD）的致病機轉已完全明瞭。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S117",
@@ -27750,7 +28706,8 @@
         "text": "血中第一型干擾素濃度升高與狼瘡性腎炎的發生不呈正相關。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S118",
@@ -27779,7 +28736,8 @@
         "text": "應檢查父親血液中有無anti-SSA/Ro抗體。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S119",
@@ -27808,7 +28766,8 @@
         "text": "內皮功能障礙是肺動脈高血壓中常見的重要檢查異常。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S120",
@@ -27837,7 +28796,8 @@
         "text": "抗腫瘤壞死因子抗體（anti-TNF-α）對胎兒有危險。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S121",
@@ -27866,7 +28826,8 @@
         "text": "Hydroxychloroquine。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S122",
@@ -27895,7 +28856,8 @@
         "text": "Nasopharyngeal cancer。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S123",
@@ -27924,7 +28886,8 @@
         "text": "手部X-光檢查。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S124",
@@ -27953,7 +28916,8 @@
         "text": "Anti-mitochondrial。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S125",
@@ -27982,7 +28946,8 @@
         "text": "Systemic sclerosis。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S126",
@@ -28011,7 +28976,8 @@
         "text": "Systemic sclerosis。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S127",
@@ -28040,7 +29006,8 @@
         "text": "Growing pain。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S128",
@@ -28069,7 +29036,8 @@
         "text": "cANCA in granulomatosis with polyangiitis。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S129",
@@ -28098,7 +29066,8 @@
         "text": "Alpha-interferon。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S130",
@@ -28127,7 +29096,8 @@
         "text": "Chronic neutrophilic leukemia。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S131",
@@ -28156,7 +29126,8 @@
         "text": "Folic acid deficiency anemia。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S132",
@@ -28185,7 +29156,8 @@
         "text": "Watchful waiting。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S133",
@@ -28214,7 +29186,8 @@
         "text": "Antiphospholipid antibody syndrome。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S134",
@@ -28243,7 +29216,8 @@
         "text": "異體造血幹細胞移植可以改善病人的預後。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S135",
@@ -28272,7 +29246,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S136",
@@ -28301,7 +29276,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S137",
@@ -28330,7 +29306,8 @@
         "text": "ECOG PS 4。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S138",
@@ -28359,7 +29336,8 @@
         "text": "Monoclonal immunoglobulin。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S139",
@@ -28388,7 +29366,8 @@
         "text": "HPV亞種45, 52。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S140",
@@ -28417,7 +29396,8 @@
         "text": "Palbociclib。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S141",
@@ -28446,7 +29426,8 @@
         "text": "與 Epstein-Barr 病毒感染有關，表現出 PIK3CA 突變與 PD-L1 擴增。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S142",
@@ -28475,7 +29456,8 @@
         "text": "BRCA2。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S143",
@@ -28504,7 +29486,8 @@
         "text": "MSI-H/dMMR（微衛星不穩定性高／錯配修復缺陷）。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S144",
@@ -28533,7 +29516,8 @@
         "text": "(1)+(2)+(3)+(4)+(5)。"
       }
     ],
-    "answer": "D"
+    "answer": "D",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S145",
@@ -28562,7 +29546,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "114-S146",
@@ -28591,7 +29576,8 @@
         "text": "(1)+(2)+(3)+(4)。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "114-S147",
@@ -28620,7 +29606,8 @@
         "text": "發病後24小時內所有缺血性腦中風病人均須嚴格控制血壓。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "114-S148",
@@ -28649,7 +29636,8 @@
         "text": "Primperan較不會引起此類副作用，應尋找其他原因。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "114-S149",
@@ -28678,7 +29666,8 @@
         "text": "D-dimer 在腫瘤相關中風無明確臨床意義，僅反應可能併有深部靜脈栓塞（DVT）。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "114-S150",
@@ -28707,7 +29696,8 @@
         "text": "血漿置換後病人仍需配合免疫調節治療以維持療效。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "其他類"
   },
   {
     "id": "114-S151",
@@ -28736,7 +29726,8 @@
         "text": "住院醫師間的競爭壓力。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "114-S152",
@@ -28765,7 +29756,8 @@
         "text": "增加科內社交活動次數。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "114-S153",
@@ -28794,7 +29786,8 @@
         "text": "Phosphatidylethanol。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   },
   {
     "id": "114-S154",
@@ -28823,7 +29816,8 @@
         "text": "Disulfiram 無需監測肝功能。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "其他類"
   },
   {
     "id": "114-S155",
@@ -28852,7 +29846,8 @@
         "text": "血壓穩定、肌肉無力、體溫正常。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "其他類"
   },
   {
     "id": "114-S156",
@@ -28881,7 +29876,8 @@
         "text": "(1)+(5)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S157",
@@ -28910,7 +29906,8 @@
         "text": "梅克爾細胞癌 (Merkel cell carcinoma)；由於MCPyV病毒所造成。"
       }
     ],
-    "answer": "C"
+    "answer": "C",
+    "subject": "血液腫瘤科"
   },
   {
     "id": "114-S158",
@@ -28939,7 +29936,8 @@
         "text": "感染性心內膜炎 (infective endocarditis)；Janeway lesion。"
       }
     ],
-    "answer": "A"
+    "answer": "A",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S159",
@@ -28968,7 +29966,8 @@
         "text": "類澱粉沉著症 (amyloidosis)。"
       }
     ],
-    "answer": "B"
+    "answer": "B",
+    "subject": "風濕免疫科"
   },
   {
     "id": "114-S160",
@@ -28997,6 +29996,7 @@
         "text": "類澱粉沉著症 (amyloidosis)。"
       }
     ],
-    "answer": "E"
+    "answer": "E",
+    "subject": "其他類"
   }
 ]
