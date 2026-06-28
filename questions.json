@@ -25227,7 +25227,19 @@
       }
     ],
     "answer": "C",
-    "subject": "心臟科"
+    "subject": "心臟科",
+    "explanation": {
+      "summary": "**HFrEF 的 GDMT 四大基石（四支柱）為 ACEI/ARB/ARNI、Beta-blocker、MRA、SGLT2i，皆為改善預後的 Class I 藥物。** Ivabradine 是竇房結 If 電流抑制劑，僅在特定條件下為 Class IIa，並非四大基石，故為本題答案。",
+      "detail": "## 概念定義\n\n**HFrEF（Heart Failure with reduced Ejection Fraction）** 指左心室射出分率 **LVEF ≤ 40%** 的心衰竭。其藥物治療以「**指引導向藥物治療（GDMT）**」為核心，目標是降低死亡率與再住院率。\n\n## GDMT 四大基石（Four Pillars）\n\n現行指引（2021 ESC / 2022 AHA/ACC/HFSA）將下列四類列為改善預後的 **Class I** 藥物，應盡早併用並滴定至目標劑量：\n\n1. **RAAS 抑制劑**：ACEI／ARB，或更佳的 **ARNI（sacubitril/valsartan）**\n2. **Beta 受體阻滯劑**：bisoprolol、carvedilol、metoprolol succinate、nebivolol\n3. **MRA（礦皮質受體拮抗劑）**：spironolactone、eplerenone\n4. **SGLT2 抑制劑**：dapagliflozin、empagliflozin\n\n> 記憶：ARNI / Beta-blocker / MRA / SGLT2i 四支柱，無論有無糖尿病，SGLT2i 皆能降低心衰竭住院與心血管死亡。\n\n## Ivabradine 的定位\n\n**Ivabradine** 選擇性抑制竇房結的 **If（funny current）電流**，單純減慢心率而不影響心肌收縮力與血壓。其適應症較侷限，屬 **Class IIa**：\n\n- 限用於 **竇性心律、靜息心率 ≥ 70 次/分**，且已使用最大耐受劑量 beta-blocker（或無法使用 beta-blocker）仍有症狀的 HFrEF 病患。\n- 因適應條件嚴格、且非全體 HFrEF 都適用，**不屬於四大基石**。\n\n## 選項分析\n\n- **(A) ACEI ✓** 四大基石之一（RAAS 抑制劑），Class I。\n- **(B) Beta-blocker ✓** 四大基石之一，Class I。\n- **(C) Ivabradine ✗（正確答案）** If 電流抑制劑，僅在特定條件下為 Class IIa，**非** GDMT 四大基石。\n- **(D) MRA ✓** 四大基石之一，Class I。\n- **(E) SGLT2i ✓** 四大基石之一，近年納入，Class I。\n\n## 記憶口訣\n\n> **四支柱救 HFrEF**：ARNI（或 ACEI/ARB）、Beta-blocker、MRA、SGLT2i → 四者皆 Class I、皆改善預後。Ivabradine 只是「**減速器**」，心率快才用，屬第二線（Class IIa）。\n\n## 進階補充\n\nGDMT 現代策略強調 **早期、同時、四支柱併用**，而非過去的逐步加藥。對於起始後仍有症狀、竇性心律且心率偏快者，才在四支柱之上加用 ivabradine；若為心率控制不佳的房顫則不適用。",
+      "sources": [
+        {
+          "text": "2022 AHA/ACC/HFSA Heart Failure Guideline"
+        },
+        {
+          "text": "2021 ESC Heart Failure Guidelines"
+        }
+      ]
+    }
   },
   {
     "id": "114-S2",
