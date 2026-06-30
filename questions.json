@@ -18903,7 +18903,19 @@
       }
     ],
     "answer": "B",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**典型發炎性下背痛（inflammatory back pain）疑似中軸型脊椎關節炎，最適當的影像首選為薦髂關節 MRI。** 此病人晨僵 >30 分鐘、運動後改善、NSAID 有效、ESR 升高，符合發炎性背痛；雖 HLA-B27 陰性仍不能排除。早期病灶（骨髓水腫/活動性薦髂關節炎）X 光常正常，MRI（含 STIR）對偵測早期、非放射線學上的發炎最敏感且無輻射，故選 B。",
+      "detail": "## 概念架構：發炎性下背痛與中軸型脊椎關節炎（axSpA）\n\n年輕男性、慢性下背痛 >3 個月、發病年齡 <45 歲，且符合 **發炎性背痛（inflammatory back pain, IBP）** 特徵時，應高度懷疑 **中軸型脊椎關節炎（axial spondyloarthritis, axSpA）**，包括僵直性脊椎炎（ankylosing spondylitis, AS）。\n\n發炎性背痛的核心特徵（**至少符合 4 項中的 4 項，IBP/ASAS 標準**）：\n\n- **隱襲性發作（insidious onset）**\n- **晨間僵硬 > 30 分鐘**（本例達 2 小時）\n- **運動後改善、休息不改善**（本例符合）\n- **夜間痛、下半夜痛醒**\n- **發病年齡 < 40–45 歲**（本例 28 歲）\n\n本例同時有 **NSAID 反應佳**、**ESR 48 mm/h（發炎指標升高）**、**家族史（叔父長期下背痛）**，皆指向 axSpA。\n\n## 影像策略：為何選 MRI\n\nASAS 建議懷疑 axSpA 時，**第一線影像為薦髂關節 X 光（pelvic X-ray）**；若 X 光已呈現明確的放射線學薦髂關節炎（grade ≥2 雙側或 ≥3 單側）即可診斷 AS。但本題未提供 X 光或暗示 X 光正常的「早期」情境，重點在於 **偵測早期、X 光尚未顯現的活動性發炎**。\n\n**薦髂關節 MRI（含 STIR / T2 fat-suppressed 序列）** 能偵測 **骨髓水腫（bone marrow edema / osteitis）**，是 **非放射線學軸性脊椎關節炎（non-radiographic axSpA, nr-axSpA）** 的關鍵診斷工具，敏感度高且 **無輻射**，特別適合年輕病人。\n\n## 選項分析\n\n- **A. 薦髂關節 CT ✗**：CT 對偵測 **骨侵蝕、硬化等結構性慢性變化** 優於 X 光，但對 **早期活動性發炎（骨髓水腫）不敏感**，且 **輻射量高**，不適合年輕病人作為首選篩查。\n- **B. 薦髂關節 MRI ✓（正確答案）**：能偵測早期活動性薦髂關節炎（骨髓水腫）與慢性結構變化，無輻射，是 X 光正常之早期 axSpA 的最佳影像，特別在 **HLA-B27 陰性、診斷不確定** 時提供關鍵證據。\n- **C. 骨骼掃描（bone scan）✗**：敏感度與特異度皆低，無法可靠區分薦髂關節炎與退化或其他病因，已非標準工具。\n- **D. 超音波 ✗**：對 **周邊關節炎、肌腱附著點炎（enthesitis）** 有用，但 **無法評估薦髂關節（位置深、骨骼遮蔽）**，不適用於中軸病灶。\n- **E. 關節組織切片 ✗**：脊椎關節炎為臨床–影像診斷，切片無診斷價值且具侵入性，不適當。\n\n## 易混淆與進階補充\n\n- **HLA-B27 陰性不能排除 axSpA**：AS 病人約 80–90% HLA-B27 陽性，但仍有相當比例陰性，尤其家族史明顯者仍須以影像確認。\n- **機械性 vs 發炎性背痛**：機械性背痛活動後加重、休息改善、無晨僵或晨僵 <30 分、發炎指標正常；本例完全相反，屬發炎性。\n- **治療階梯**：axSpA 先用 **NSAID** 足量規律使用；反應不佳者進展至 **TNF 抑制劑或 IL-17 抑制劑（如 secukinumab）**。\n- **影像判讀陷阱**：MRI 上單純骨髓水腫並非 axSpA 專屬，須結合臨床（IBP、HLA-B27、發炎指標、周邊表現）綜合判斷。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 臨床懷疑 | 年輕男性、IBP（晨僵>30分、運動改善、NSAID有效）|\n| 發病年齡 | < 45 歲 |\n| 首選影像 | 薦髂關節 X 光；若正常/早期 → **MRI** |\n| MRI 優勢 | 偵測骨髓水腫、無輻射、適合年輕病人 |\n| CT 角色 | 評估結構性骨變化，輻射高，非早期首選 |\n| HLA-B27 | 陰性不能排除 axSpA |\n| 治療 | NSAID → TNFi / IL-17i |",
+      "sources": [
+        {
+          "text": "2019 ACR/SAA/SPARTAN Treatment of Axial Spondyloarthritis Guideline"
+        },
+        {
+          "text": "ASAS classification criteria for axial spondyloarthritis"
+        }
+      ]
+    }
   },
   {
     "id": "112-S80",
@@ -20322,7 +20334,19 @@
       }
     ],
     "answer": "C",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**肉芽腫性多血管炎（GPA，舊稱 Wegener's）的特徵性抗體為 anti-PR3（cANCA）。** 病人有上/下呼吸道（咳血、肺浸潤）合併腎絲球腎炎（血尿、腎功能下降）的肺腎症候群，切片證實 GPA，血清最可能呈 **anti-proteinase-3（PR3-ANCA / cANCA）陽性**，故選 C。",
+      "detail": "## 概念架構：ANCA 相關血管炎（AAV）與抗體配對\n\n**ANCA 相關血管炎（ANCA-associated vasculitis, AAV）** 為小血管炎，三大類疾病與抗體有典型對應：\n\n| 疾病 | 典型 ANCA | 抗原 |\n|---|---|---|\n| 肉芽腫性多血管炎（GPA） | **cANCA** | **PR3（proteinase 3）** |\n| 顯微多血管炎（MPA） | pANCA | MPO（myeloperoxidase）|\n| 嗜伊紅性肉芽腫多血管炎（EGPA） | pANCA（約 40%）| MPO |\n\n本題病人為 **GPA**，故最可能 **anti-PR3（cANCA）陽性**。\n\n## 臨床對應\n\nGPA 典型為 **「ELK」三器官侵犯**：\n\n- **E（ENT，耳鼻喉）**：鼻竇炎、鞍鼻、中耳炎、聲門下狹窄。\n- **L（Lung，肺）**：肺結節/空洞、肺泡出血（咳血）。\n- **K（Kidney，腎）**：壞死性新月體腎絲球腎炎（血尿、蛋白尿、腎功能惡化）。\n\n本例「咳血 + 肺浸潤 + 血尿 + 腎功能下降」即典型 **肺腎症候群（pulmonary-renal syndrome）**，加上切片為肉芽腫性發炎，完全符合 GPA。\n\n## 選項分析\n\n- **A. anti-RNP ✗**：見於 **混合性結締組織病（MCTD）** 與 SLE，與 GPA 無關。\n- **B. anti-SS-A/Ro ✗**：見於 **乾燥症、SLE、新生兒狼瘡**，非 GPA 標記。\n- **C. anti-PR3（proteinase 3）✓（正確答案）**：即 cANCA 對應抗原，為 GPA 最具特異性的抗體。\n- **D. anti-dsDNA ✗**：**SLE** 特異抗體，與疾病活性及狼瘡腎炎相關，非 GPA。\n- **E. anti-MDA5 ✗**（題目寫 MAD5，應為 MDA5）：見於 **皮肌炎**，與快速進展間質性肺病相關，非 GPA。\n\n## 易混淆與進階補充\n\n- **cANCA/PR3 vs pANCA/MPO**：GPA 多 PR3，MPA 與 EGPA 多 MPO；但有重疊，臨床須結合表現。\n- **誘導治療**：嚴重 GPA（如肺腎症候群）以 **類固醇 + rituximab 或 cyclophosphamide** 誘導緩解；**RAVE 試驗** 證實 rituximab 不劣於 cyclophosphamide，且對復發型更佳。\n- **肺腎症候群鑑別**：除 AAV，尚須考慮 **anti-GBM disease（Goodpasture）**、SLE。anti-GBM 抗體陽性者為 anti-GBM 病。\n- **PR3 與復發**：PR3-ANCA 陽性者復發風險高於 MPO-ANCA。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 本題診斷 | 肉芽腫性多血管炎（GPA） |\n| 特徵抗體 | **anti-PR3（cANCA）** |\n| 典型三器官 | ENT、Lung、Kidney（ELK）|\n| MPA 抗體 | anti-MPO（pANCA） |\n| 誘導治療 | 類固醇 + rituximab / cyclophosphamide |\n| 鑑別 | anti-GBM（Goodpasture）、SLE |",
+      "sources": [
+        {
+          "text": "2021 ACR/Vasculitis Foundation Guideline for the Management of ANCA-Associated Vasculitis"
+        },
+        {
+          "text": "RAVE Trial, NEJM 2010"
+        }
+      ]
+    }
   },
   {
     "id": "112-S114",
@@ -20394,7 +20418,19 @@
       }
     ],
     "answer": "E",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**疑似 IgG4 相關疾病（IgG4-RD）的優先檢查為血中 IgG/IgG4 濃度(2)與組織抗 IgG4 免疫組織化學染色(4)。** 病人肺腫塊切片無惡性、呈大量淋巴漿質細胞浸潤、對類固醇迅速反應，高度懷疑 IgG4-RD；診斷依賴 **血清 IgG4 升高** 與 **組織中 IgG4+ 漿細胞浸潤（IHC）**，故選 E（(2)+(4)）。",
+      "detail": "## 概念架構：IgG4 相關疾病（IgG4-RD）\n\n**IgG4 相關疾病（IgG4-related disease, IgG4-RD）** 為一種以多器官 **腫瘤樣腫塊** 表現的免疫媒介纖維發炎疾病，可侵犯胰臟（自體免疫胰臟炎）、唾液腺、淚腺、後腹腔、肺、腎等。對 **類固醇反應迅速** 是其特徵之一。\n\n本例「肺腫塊（非惡性）+ 大量淋巴漿質細胞浸潤 + 類固醇迅速改善」高度符合 IgG4-RD，須以針對性檢查確認。\n\n## 診斷三大支柱（組織學、血清、影像/器官分布）\n\n組織學三特徵（**「3 大組織學標準」**）：\n\n1. **緻密淋巴漿質細胞浸潤（dense lymphoplasmacytic infiltrate）**\n2. **席紋狀纖維化（storiform fibrosis）**\n3. **閉塞性靜脈炎（obliterative phlebitis）**\n\n加上 **IgG4+ 漿細胞數增加** 與 **IgG4+/IgG+ 比值 > 40%**（免疫組織化學 IHC），以及 **血清 IgG4 升高**。\n\n## 選項分析（複選整合題）\n\n逐項判讀題目四個選項：\n\n- **(1) 抗核抗體（ANA）**：為 SLE、乾燥症等結締組織病的篩檢，**對 IgG4-RD 無診斷特異性**，非優先。\n- **(2) 血中 IgG 及 IgG4 濃度 ✓**：**血清 IgG4 升高** 是 IgG4-RD 的重要支持證據（雖非絕對），為優先檢查。\n- **(3) ANCA**：用於診斷 ANCA 相關血管炎；本例表現非血管炎，**非優先**。\n- **(4) 腫塊組織抗 IgG4 免疫組織化學染色（IHC）✓**：直接證明組織中 **IgG4+ 漿細胞浸潤與 IgG4+/IgG+ 比值**，為診斷核心。\n\n因此最優先組合為 **(2)+(4)**。\n\n- **A.(1)+(2) ✗**：含非特異的 ANA。\n- **B.(1)+(3) ✗**：兩項皆非 IgG4-RD 針對性檢查。\n- **C.(1)+(4) ✗**：含非特異的 ANA。\n- **D.(2)+(3) ✗**：ANCA 不適用。\n- **E.(2)+(4) ✓（正確答案）**：血清 IgG4 + 組織 IgG4 IHC，正是診斷兩大支柱。\n\n## 易混淆與進階補充\n\n- **血清 IgG4 不可單獨確診**：部分病人血清 IgG4 正常，部分他病（如某些感染、惡性、Castleman 病）亦可升高，故 **組織學 + IHC 是金標準**。\n- **2019 ACR/EULAR 分類標準**：採排除條件 + 加權計分（含組織 IgG4+ 細胞數與比值、血清 IgG4、器官受侵）。\n- **治療**：**類固醇** 為第一線且反應迅速；復發或須減量者用 **rituximab**（清除 B 細胞）。\n- **鑑別**：肺腫塊須排除惡性與感染（結核），切片無惡性後再朝 IgG4-RD 評估。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 疾病 | IgG4 相關疾病（IgG4-RD） |\n| 線索 | 腫塊樣病灶、淋巴漿質細胞浸潤、類固醇速效 |\n| 優先檢查 | 血清 IgG/IgG4(2) + 組織抗 IgG4 IHC(4) |\n| 組織學 | 淋巴漿質浸潤、席紋狀纖維化、閉塞性靜脈炎 |\n| IHC 標準 | IgG4+/IgG+ > 40% |\n| 治療 | 類固醇（首線）、rituximab（復發）|\n| 干擾項 | ANA、ANCA 非特異 |",
+      "sources": [
+        {
+          "text": "2019 ACR/EULAR Classification Criteria for IgG4-Related Disease"
+        },
+        {
+          "text": "Stone JH et al. IgG4-Related Disease, NEJM 2012"
+        }
+      ]
+    }
   },
   {
     "id": "112-S116",
@@ -20424,7 +20460,19 @@
       }
     ],
     "answer": "C",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**SLE 致病機轉中大量增加、且其抗體已獲 FDA 核准治療狼瘡的細胞激素為第一型干擾素（IFN-I）。** SLE 有顯著的「干擾素印記（interferon signature）」，抗 IFN-I 受體抗體 **anifrolumab** 已於 2021 年獲 FDA 核准治療中重度 SLE，故選 C。",
+      "detail": "## 概念架構：SLE 與第一型干擾素（type I interferon）\n\n**全身性紅斑性狼瘡（SLE）** 的免疫致病核心之一是 **第一型干擾素途徑（type I IFN pathway）** 過度活化。自身核酸–免疫複合體經 **漿細胞樣樹突細胞（pDC）** 的 toll-like receptor（TLR7/9）刺激，大量分泌 **IFN-α（屬 type I IFN）**，驅動 B 細胞活化、自體抗體生成與組織發炎，形成所謂 **「干擾素印記（IFN signature）」**，且與疾病活性相關。\n\n## 為何答案是 IFN-I（第一型干擾素）\n\n- **Anifrolumab** 是抗 **第一型干擾素受體（IFNAR1）** 的單株抗體，透過 **TULIP-1/TULIP-2 試驗** 證實對中重度 SLE（尤以皮膚與關節表現）有效，**2021 年獲美國 FDA 核准**。這正是題目所指「此細胞激素之抗體已被美國核准用來治療紅斑性狼瘡」。\n\n## 選項分析\n\n- **A. TNF-α ✗**：抗 TNF 用於類風濕關節炎、僵直性脊椎炎、發炎性腸道病；在 SLE 反而可能誘發 **藥物性狼瘡（drug-induced lupus）**，非核准 SLE 治療。\n- **B. IL-1 ✗**：抗 IL-1（anakinra、canakinumab）用於自體發炎疾病、痛風、Still's 病等，非 SLE 核准標靶。\n- **C. 第一型干擾素 IFN-I ✓（正確答案）**：SLE 干擾素印記之核心，anifrolumab（抗 IFNAR1）已獲核准。\n- **D. 第二型干擾素 IFN-II（IFN-γ）✗**：由 T/NK 細胞分泌，與某些自體免疫相關，但 SLE 的核准標靶與「印記」主要為 type I，非 IFN-γ。\n- **E. 第三型干擾素 IFN-III（IFN-λ）✗**：作用於黏膜上皮的抗病毒反應，目前無核准的 SLE 抗體治療。\n\n## 易混淆與進階補充\n\n- **SLE 的生物製劑里程碑**：\n  - **Belimumab**：抗 **BLyS/BAFF**（B 細胞活化因子），2011 年首個獲核准的 SLE 生物製劑，亦核准用於狼瘡腎炎。\n  - **Anifrolumab**：抗 **IFNAR1**，2021 年核准，本題答案。\n  - **Voclosporin**：鈣調磷酸酶抑制劑，核准用於狼瘡腎炎。\n- **干擾素印記的臨床意義**：高 IFN signature 與疾病活性、皮膚與血液學表現相關，是 anifrolumab 反應的生物標記方向。\n- **第一型 vs 第二型干擾素**：type I 為 IFN-α/β（抗病毒、SLE 核心）；type II 僅 IFN-γ（巨噬細胞活化、Th1）。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| SLE 核心激素 | **第一型干擾素（IFN-I, IFN-α/β）** |\n| 來源 | 漿細胞樣樹突細胞（pDC）經 TLR7/9 |\n| 核准抗體 | **anifrolumab**（抗 IFNAR1, 2021）|\n| 關鍵試驗 | TULIP-1 / TULIP-2 |\n| 其他 SLE 生物製劑 | belimumab（抗 BAFF）、voclosporin |\n| IFN-II | IFN-γ（Th1），非本題答案 |",
+      "sources": [
+        {
+          "text": "TULIP-2 Trial (anifrolumab), NEJM 2020"
+        },
+        {
+          "text": "FDA approval of anifrolumab (Saphnelo) for SLE, 2021"
+        }
+      ]
+    }
   },
   {
     "id": "112-S117",
@@ -20454,7 +20502,19 @@
       }
     ],
     "answer": "D",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**痛風治療的血尿酸目標為 < 6 mg/dL（有痛風石者更應 < 5 mg/dL），故 D 正確。** 其餘選項皆錯：果糖會升尿酸(A)、發作間期高尿酸仍需治療(B)、化療腫瘤溶解會大量升尿酸(C)、利尿劑（thiazide/loop）會升尿酸(E)。",
+      "detail": "## 概念架構：高尿酸血症與痛風的治療目標\n\n痛風是 **單鈉尿酸鹽（monosodium urate, MSU）結晶** 沉積導致的發炎性關節炎。長期治療核心是 **降尿酸治療（urate-lowering therapy, ULT）**，目標 **「治療達標（treat-to-target）」**：\n\n- 一般目標 **血清尿酸 < 6 mg/dL**\n- **有痛風石（tophi）、頻繁發作或慢性痛風性關節病變者 < 5 mg/dL**\n\n降到目標以下可溶解結晶、減少發作與痛風石。\n\n## 選項分析\n\n- **A. 酒精影響尿酸但果糖甜食不影響 ✗**：**果糖（fructose）** 代謝會消耗 ATP、增加嘌呤分解與尿酸生成，是明確的飲食危險因子；含糖飲料與痛風風險正相關。故此敘述錯誤。\n- **B. 發作才就醫、平時不需治療 ✗**：痛風是慢性疾病，**發作間期（intercritical period）持續高尿酸仍需 ULT** 以防復發、痛風石與關節破壞；僅治療急性發作不處理根本高尿酸是錯誤觀念。\n- **C. 癌症化療後與尿酸無關 ✗**：化療造成 **腫瘤溶解症候群（tumor lysis syndrome）**，大量細胞崩解釋放嘌呤 → **尿酸急遽升高**，可致急性尿酸性腎病；故須預防（水化、allopurinol 或 rasburicase）。此敘述錯誤。\n- **D. 痛風應治療到血尿酸 < 6 mg/dL ✓（正確答案）**：符合 treat-to-target 原則的一般目標值。\n- **E. 利尿劑與尿酸生成無關 ✗**：**Thiazide 與 loop 利尿劑** 減少尿酸排泄、升高血尿酸，是常見的續發性高尿酸與痛風誘因；高血壓痛風病人應避免並考慮 **losartan**（兼具促尿酸排泄作用）。\n\n## 易混淆與進階補充\n\n- **ULT 起始時機（ACR 2020）**：強烈建議用於 ≥2 次發作/年、有痛風石、有尿酸石或放射學損害者；首選 **allopurinol（黃嘌呤氧化酶抑制劑）**，由低劑量起始並滴定至達標。\n- **發作期同時起始 ULT 的處理**：可在發作期起始 ULT，但須同時給 **預防性抗發炎（colchicine / NSAID / 低劑量類固醇）** 至少 3–6 個月，避免 mobilization flare。\n- **飲食**：限制酒精（尤其啤酒）、含糖（果糖）飲料、紅肉與內臟；乳製品、櫻桃可能有益。\n- **降尿酸藥物**：allopurinol、febuxostat（黃嘌呤氧化酶抑制劑）；促排泄藥 probenecid；難治者 pegloticase。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 一般尿酸目標 | **< 6 mg/dL** |\n| 痛風石/嚴重 | **< 5 mg/dL** |\n| 果糖 | 升尿酸（危險因子）|\n| 化療/腫瘤溶解 | 尿酸大幅升高 |\n| 利尿劑 | thiazide/loop 升尿酸；losartan 降 |\n| 首選 ULT | allopurinol（治療達標）|\n| 起始 ULT 預防 | colchicine/NSAID 3–6 個月 |",
+      "sources": [
+        {
+          "text": "2020 ACR Guideline for the Management of Gout"
+        },
+        {
+          "text": "2016 EULAR recommendations for the management of gout"
+        }
+      ]
+    }
   },
   {
     "id": "112-S118",
@@ -20484,7 +20544,19 @@
       }
     ],
     "answer": "D",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**僵直性脊椎炎（AS）除抗 TNF 外，療效顯著的另一細胞激素抑制劑為抗 IL-17（anti-IL-17）。** IL-23/IL-17 軸在脊椎關節炎致病居核心地位，IL-17A 抑制劑 secukinumab、ixekizumab 經試驗證實對中軸型 AS 有效，故選 D。",
+      "detail": "## 概念架構：IL-23/IL-17 軸與中軸型脊椎關節炎\n\n**僵直性脊椎炎（ankylosing spondylitis, AS）** 屬中軸型脊椎關節炎，致病機轉與 **IL-23/IL-17 軸** 密切相關。HLA-B27、腸道菌群與機械應力誘發 **IL-23** 分泌，活化產 IL-17 的 T 細胞，**IL-17A** 驅動附著點（enthesis）發炎、骨侵蝕與新骨生成。\n\n臨床上對 AS 確證有效的生物製劑兩大類：\n\n1. **TNF 抑制劑**（etanercept、adalimumab、infliximab、golimumab、certolizumab）\n2. **IL-17A 抑制劑**（secukinumab、ixekizumab）\n\n## 選項分析\n\n- **A. anti-IL-1 ✗**：用於自體發炎症候群、痛風、Still's 病，**對 AS 無顯著療效**。\n- **B. anti-IL-2 ✗**：IL-2 與 T 細胞增殖、調節性 T 細胞相關（如低劑量 IL-2 研究），抗 IL-2 非 AS 治療。\n- **C. anti-IL-6 ✗**：tocilizumab 用於類風濕關節炎、巨細胞動脈炎等，**在 AS 試驗中未顯示療效**，非適應症。\n- **D. anti-IL-17 ✓（正確答案）**：secukinumab、ixekizumab（抗 IL-17A）經 **MEASURE / COAST 系列試驗** 證實改善 AS 的疾病活性與症狀，已成為 TNFi 之外的重要選項。\n- **E. anti-IL-23 ✗**：值得注意——IL-23 抑制劑（如 ustekinumab、risankizumab）雖對 **乾癬與乾癬性關節炎、周邊表現** 有效，但在 **中軸型 AS 的臨床試驗未達療效終點**，故對「AS」不被視為有效。相較之下，下游的 **IL-17 抑制** 才對 AS 有效，這是常見考點與陷阱。\n\n## 易混淆與進階補充\n\n- **IL-23 抑制 vs IL-17 抑制在 axSpA 的差異**：抗 IL-23（ustekinumab、risankizumab）在 AS 中軸病灶試驗失敗，但抗 IL-17 成功——顯示中軸發炎可能存在 **IL-23 非依賴的 IL-17 來源**，是脊椎關節炎熱門考題。\n- **JAK 抑制劑**：tofacitinib、upadacitinib 亦核准用於 AS，為口服選項。\n- **NSAID 仍是第一線**；生物製劑用於 NSAID 反應不佳者。\n- **合併乾癬/葡萄膜炎/IBD 時的選擇**：單株抗 TNF（adalimumab、infliximab）對葡萄膜炎與 IBD 較佳；IL-17 抑制劑可能惡化 IBD，須留意。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| AS 核心軸 | IL-23/**IL-17** 軸 |\n| 有效生物製劑 | TNF 抑制劑、**IL-17A 抑制劑** |\n| IL-17i 藥物 | secukinumab、ixekizumab |\n| IL-23i 在 AS | 中軸試驗失敗（無效）|\n| IL-6i（tocilizumab） | AS 無效 |\n| 口服選項 | JAK 抑制劑（upadacitinib 等）|\n| 第一線 | NSAID |",
+      "sources": [
+        {
+          "text": "2019 ACR/SAA/SPARTAN Axial Spondyloarthritis Treatment Guideline"
+        },
+        {
+          "text": "MEASURE 1/2 (secukinumab) and COAST (ixekizumab) trials"
+        }
+      ]
+    }
   },
   {
     "id": "112-S119",
@@ -20514,7 +20586,19 @@
       }
     ],
     "answer": "D",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**硬皮症腎危機（scleroderma renal crisis, SRC）的第一線首選藥物為 ACE 抑制劑（首選 captopril）。** SRC 為腎素–血管收縮素系統劇烈活化導致的惡性高血壓與急性腎損傷，必須立即以短效 ACEi 積極控制血壓，故選 D。",
+      "detail": "## 概念架構：硬皮症腎危機（scleroderma renal crisis, SRC）\n\n**硬皮症腎危機（SRC）** 是系統性硬化症（尤其 **瀰漫型、早期、抗 RNA polymerase III 抗體陽性、近期使用高劑量類固醇** 者）的急症，特徵為：\n\n- **突發惡性高血壓（malignant hypertension）**\n- **急性腎損傷（AKI）、血清肌酸酐快速上升**\n- **微血管病性溶血性貧血（MAHA）、血小板下降**\n\n病理機轉為腎臟小動脈內膜增生、缺血 → **腎素（renin）大量釋放 → 血管收縮素 II 暴增 → 惡性高血壓與腎缺血** 的惡性循環。\n\n## 為何首選 ACE 抑制劑\n\n既然機轉為腎素–血管收縮素系統（RAS）過度活化，治療核心是 **阻斷此軸**。**ACE 抑制劑（首選短效的 captopril）** 能快速、可滴定地降壓並打斷惡性循環，是 **第一線且可改善腎臟預後與存活** 的關鍵藥物——即使血清肌酸酐已上升或需透析，仍應持續使用，部分病人腎功能可恢復而脫離透析。\n\n## 選項分析\n\n- **A. 血管收縮素 II 受體拮抗劑（ARB）✗**：理論上也阻斷 RAS，但 **證據與療效不及 ACEi**，且未證實能如 ACEi 改善 SRC 預後；屬替代而非首選。\n- **B. 鈣離子通道阻斷劑（CCB）✗**：可作為 **輔助降壓**（如 ACEi 仍無法達標時加用），但 **無法針對 RAS 機轉**，非第一線單獨用藥。\n- **C. 內皮素-1 受體拮抗劑（如 bosentan）✗**：用於硬皮症的 **肺動脈高壓與指端潰瘍**，非 SRC 急性降壓首選。\n- **D. ACE 抑制劑 ✓（正確答案）**：針對腎素–血管收縮素機轉，首選 **captopril**，第一線急救用藥。\n- **E. 大量類固醇 ✗**：**高劑量類固醇本身是 SRC 的誘發因子**，應避免；給類固醇不僅無益，反而可能誘發或惡化腎危機。\n\n## 易混淆與進階補充\n\n- **類固醇與 SRC**：硬皮症病人使用 **≥ 15 mg/day prednisolone** 與 SRC 風險上升相關，故硬皮症避免不必要的高劑量類固醇。\n- **預防性 ACEi 無益**：在尚未發生 SRC 時 **預防性使用 ACEi 並不能預防 SRC**，甚至可能掩蓋而延誤診斷；僅在發生時積極使用。\n- **抗體相關**：**anti-RNA polymerase III** 與 SRC 高度相關；anti-centromere 多見於侷限型/CREST 與肺動脈高壓；anti-Scl-70（topoisomerase I）多見於瀰漫型與間質肺病。\n- **預後**：ACEi 問世前 SRC 死亡率極高，ACEi 大幅改善存活，是硬皮症治療的里程碑。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 疾病 | 硬皮症腎危機（SRC）|\n| 機轉 | 腎素–血管收縮素系統過度活化 |\n| 第一線 | **ACE 抑制劑（captopril 首選）** |\n| 危險因子 | 瀰漫型、anti-RNA pol III、高劑量類固醇 |\n| 應避免 | 高劑量類固醇（誘發因子）|\n| 輔助降壓 | CCB（加用）|\n| 相關抗體 | anti-RNA polymerase III |",
+      "sources": [
+        {
+          "text": "EULAR recommendations for the treatment of systemic sclerosis"
+        },
+        {
+          "text": "Steen VD. Scleroderma Renal Crisis, Rheum Dis Clin North Am"
+        }
+      ]
+    }
   },
   {
     "id": "112-S120",
@@ -20544,7 +20628,19 @@
       }
     ],
     "answer": "C",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**乾燥症（Sjögren's syndrome）發生淋巴瘤的重要預測因子為腮腺（唾液腺）持續性腫大。** 乾燥症淋巴瘤多為 MALT 型，持續性腮腺腫大、紫斑、低補體、cryoglobulin、淋巴結腫大等為已知危險因子，故選 C。",
+      "detail": "## 概念架構：乾燥症與淋巴瘤風險\n\n**原發性乾燥症（primary Sjögren's syndrome）** 是侵犯外分泌腺的自體免疫病，因慢性 B 細胞活化，其 **惡性淋巴瘤（多為黏膜相關淋巴組織 MALT lymphoma，常見於腮腺）** 風險顯著高於一般人群，是結締組織病中淋巴瘤風險最高者之一。\n\n## 淋巴瘤的預測危險因子\n\n臨床上預測乾燥症轉化為淋巴瘤的危險因子包括：\n\n- **持續性腮腺/唾液腺腫大（persistent parotid/salivary gland enlargement）** ← 本題答案\n- **可觸及的紫斑（palpable purpura）/皮膚血管炎**\n- **低補體血症（低 C3/C4，尤其 C4 下降）**\n- **冷凝球蛋白血症（cryoglobulinemia）、單株球蛋白**\n- **淋巴結腫大、脾腫大**\n- **CD4 淋巴球減少、CD4/CD8 比值下降**\n- **唾液腺生發中心形成（germinal centers）**\n\n## 選項分析\n\n- **A. 補體增加 ✗**：恰好相反，**低補體（C4 下降）** 才是淋巴瘤危險因子；補體增加為非特異發炎反應，非預測指標。\n- **B. 白血球增加 ✗**：乾燥症淋巴瘤風險與 **白血球/淋巴球減少（leukopenia/lymphopenia）** 較相關，白血球增加非預測因子。\n- **C. 腮腺長期腫大 ✓（正確答案）**：**持續性腮腺腫大** 是公認且重要的淋巴瘤預測因子，反映局部 B 細胞增生轉化的風險。\n- **D. 抗 DNA 抗體增加 ✗**：anti-dsDNA 是 **SLE** 標記，與乾燥症淋巴瘤無關。\n- **E. IgE 增加 ✗**：與過敏/寄生蟲相關，非乾燥症淋巴瘤預測因子；乾燥症反而以 **高 γ-球蛋白（IgG）** 與單株成分為特徵。\n\n## 易混淆與進階補充\n\n- **乾燥症自體抗體**：anti-SSA/Ro、anti-SSB/La 陽性；高 IgG、RF 陽性、ANA 陽性常見。\n- **淋巴瘤型態**：以 **腮腺 MALT 淋巴瘤** 最常見，多為低惡性度，但須監測轉為瀰漫大 B 細胞淋巴瘤。\n- **低 C4 的意義**：是疾病活性與淋巴瘤風險的重要標記，列入 ESSDAI 評估與預後分層。\n- **臨床警訊**：原本對稱乾燥的病人出現 **單側、持續、硬實的腮腺腫塊**，須切片排除淋巴瘤。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 疾病 | 原發性乾燥症 |\n| 淋巴瘤型 | 腮腺 MALT lymphoma |\n| 關鍵預測因子 | **持續性腮腺腫大** |\n| 其他危險因子 | 紫斑、低 C4、cryoglobulin、淋巴結腫 |\n| 血液學 | 淋巴球減少、CD4↓ |\n| 自體抗體 | anti-SSA/Ro、anti-SSB/La |\n| 警訊 | 單側硬實腮腺腫塊 → 切片 |",
+      "sources": [
+        {
+          "text": "EULAR recommendations for the management of Sjögren's syndrome"
+        },
+        {
+          "text": "Nocturne G, Mariette X. Sjögren's syndrome-associated lymphomas, Blood/Best Pract Res"
+        }
+      ]
+    }
   },
   {
     "id": "112-S121",
@@ -20574,7 +20670,19 @@
       }
     ],
     "answer": "B",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**過敏性鼻炎最有效的單一藥物為鼻內高效價類固醇（intranasal glucocorticoid）。** 鼻噴類固醇對鼻塞、流鼻水、噴嚏、癢等全部症狀皆有效，療效優於口服/鼻內抗組織胺與白三烯拮抗劑，為持續性/中重度過敏性鼻炎首選，故選 B。",
+      "detail": "## 概念架構：過敏性鼻炎（allergic rhinitis）的藥物階梯\n\n**過敏性鼻炎** 為 IgE 媒介的鼻黏膜第一型過敏反應，症狀含噴嚏、鼻癢、流鼻水（rhinorrhea）與 **鼻塞（congestion）**。治療依嚴重度與持續性選藥。\n\n各類藥物效力排序的核心觀念：**鼻內類固醇（intranasal corticosteroid, INCS）是單一最有效的藥物**，因其同時抑制早相與晚相發炎反應，對 **包含鼻塞在內的所有症狀** 都有效。\n\n## 選項分析\n\n- **A. 鼻內抗組織胺 ✗**：對噴嚏、鼻癢、流鼻水有效且起效快，**但對鼻塞效果較弱**，整體療效不及鼻內類固醇。\n- **B. 鼻內高效價類固醇 ✓（正確答案）**：對 **所有鼻部症狀（含鼻塞）最全面有效**，是中重度/持續性過敏性鼻炎的 **首選與最有效** 單藥。\n- **C. 鼻內去充血劑（decongestant）✗**：如 oxymetazoline，能快速緩解鼻塞，但 **連用 >3–5 天會反彈性鼻炎（rhinitis medicamentosa）**，僅短期使用，非長期最有效。\n- **D. 口服免疫抑制劑 ✗**：對單純過敏性鼻炎 **不適用**，副作用大、非標準治療。\n- **E. 口服白三烯拮抗劑（如 montelukast，作用於 LTD4 受體）✗**：療效大致與口服抗組織胺相當，**不如鼻內類固醇**；多作為合併氣喘者的選項。\n\n## 易混淆與進階補充\n\n- **合併治療**：中重度症狀控制不佳時，可用 **鼻內類固醇 + 鼻內抗組織胺（如 azelastine/fluticasone 複方）**，療效優於單一藥物。\n- **第二代口服抗組織胺**（cetirizine、loratadine、fexofenadine）少嗜睡，適合輕症或間歇性；第一代（diphenhydramine）嗜睡、抗膽鹼副作用多。\n- **過敏原免疫療法（allergen immunotherapy）**：對藥物控制不佳或欲改變病程者，為唯一可能改變自然病程的治療，可採皮下（SCIT）或舌下（SLIT）給予。\n- **避免長期口服類固醇與長期鼻內去充血劑**：口服類固醇全身副作用大、不應作為長期維持；鼻內去充血劑連用過久會造成藥物性鼻炎與反彈性鼻塞。\n- **起效時間觀念**：鼻內類固醇需 **規律使用數天至 1–2 週** 才達最大療效，須衛教病人持續使用而非僅在症狀嚴重時偶用；鼻內/口服抗組織胺則起效較快，適合需求性緩解。\n- **過敏性鼻炎與氣喘**：兩者常共病（「同一氣道、同一疾病」概念），合併氣喘者控制鼻炎有助整體呼吸道症狀，白三烯拮抗劑在此族群可一併考量。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 最有效單藥 | **鼻內類固醇（INCS）** |\n| 對鼻塞 | INCS 有效；抗組織胺較弱 |\n| 鼻內去充血劑 | 短期；>3–5 天反彈 |\n| 抗組織胺 | 噴嚏/癢/流鼻水佳，鼻塞弱 |\n| 白三烯拮抗劑 | 約等於口服抗組織胺，合併氣喘用 |\n| 重症加強 | INCS + 鼻內抗組織胺複方 |\n| 根本治療 | 過敏原免疫療法 |",
+      "sources": [
+        {
+          "text": "ARIA (Allergic Rhinitis and its Impact on Asthma) Guidelines"
+        },
+        {
+          "text": "Wallace DV et al. AAAAI/ACAAI Rhinitis Practice Parameter"
+        }
+      ]
+    }
   },
   {
     "id": "112-S122",
@@ -20604,7 +20712,19 @@
       }
     ],
     "answer": "C",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**過敏性休克（anaphylaxis）的首選與救命藥物為肌肉注射腎上腺素（intramuscular epinephrine）。** 應立即於大腿外側肌肉注射，不可以類固醇或抗組織胺取代，後者僅為輔助，故選 C。",
+      "detail": "## 概念架構：過敏性休克（anaphylaxis）的急救\n\n**過敏性休克** 是 IgE 媒介、肥大細胞與嗜鹼性球大量去顆粒化引起的全身性、可致命的急性過敏反應，表現為皮膚黏膜（蕁麻疹、血管性水腫）、呼吸道（喉頭水腫、支氣管痙攣）、心血管（低血壓、休克）與腸胃道症狀。\n\n**第一線、唯一能救命的治療是腎上腺素（epinephrine）**，且應 **立即肌肉注射（IM）於大腿外側中段（vastus lateralis）**，必要時每 5–15 分鐘重複。\n\n## 為何是 IM epinephrine\n\n- 腎上腺素的 **α1 作用** 收縮血管、升血壓、減輕黏膜水腫；**β1** 增加心收縮；**β2** 擴張支氣管、抑制肥大細胞介質釋放——一藥同時對抗休克的所有面向。\n- **肌肉注射（大腿外側）吸收快、血中濃度穩定**，優於皮下注射；**靜脈注射僅保留給對 IM 無反應或已休克/心跳停止的情境**，且須稀釋與監測（易致心律不整）。\n\n## 選項分析\n\n- **A. 靜脈類固醇 ✗**：起效慢（數小時），**對立即的休克與氣道阻塞無救命作用**，僅作輔助、可能減少雙相反應（biphasic reaction），絕不可取代腎上腺素。\n- **B. 肌注抗組織胺 ✗**：只能緩解皮膚癢、蕁麻疹等次要症狀，**對低血壓與氣道無效**，為輔助用藥。\n- **C. 肌注腎上腺素 ✓（正確答案）**：第一線救命藥，立即 IM 大腿外側。\n- **D. 氧氣吸入 ✗**：重要的支持性處置，但 **非首選的決定性治療**。\n- **E. 大量生理食鹽水輸注 ✗**：對分布性休克的容積補充有幫助（輔助），但 **不能取代腎上腺素**。\n\n## 易混淆與進階補充\n\n- **延誤腎上腺素是死亡主因**：研究顯示延遲給藥與致死及雙相反應相關，故懷疑 anaphylaxis 即應給藥，勿等待。\n- **附加處置順序**：IM epinephrine → 仰臥抬腿、給氧、建立靜脈、輸液 → 必要時重複 epinephrine →（輔助）抗組織胺、類固醇、β2 吸入劑（支氣管痙攣）。\n- **頑固性低血壓**：對多次 IM 無反應者，使用 **IV epinephrine 輸注**，並考慮升壓劑；服用 β-blocker 者反應不佳可加 **glucagon**。\n- **出院衛教**：開立 **腎上腺素自動注射筆（epinephrine auto-injector）** 並教導使用、避開過敏原、觀察雙相反應。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 首選藥物 | **肌注腎上腺素（IM epinephrine）** |\n| 注射部位 | 大腿外側中段（vastus lateralis）|\n| 重複 | 每 5–15 分鐘可重複 |\n| 類固醇/抗組織胺 | 僅輔助，不可取代 |\n| IV epinephrine | 保留給頑固/心跳停止 |\n| β-blocker 病人 | 反應差可加 glucagon |\n| 出院 | 開立 epinephrine 自動注射筆 |",
+      "sources": [
+        {
+          "text": "2020 WAO Anaphylaxis Guidance / EAACI Anaphylaxis Guidelines"
+        },
+        {
+          "text": "AAAAI/ACAAI Anaphylaxis Practice Parameter"
+        }
+      ]
+    }
   },
   {
     "id": "112-S123",
@@ -20634,7 +20754,19 @@
       }
     ],
     "answer": "E",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**類風濕關節炎（RA）最典型的手部變形為尺側偏移（ulnar deviation）。** RA 為對稱性小關節滑膜炎，慢性破壞掌指關節導致手指向尺側偏移，並可見天鵝頸、鈕扣指等變形，故選 E。",
+      "detail": "## 概念架構：類風濕關節炎（rheumatoid arthritis, RA）的手部變形\n\n**RA** 是對稱性、侵犯 **小關節（MCP、PIP、腕關節）** 的慢性發炎性滑膜炎，慢性滑膜增生（pannus）破壞軟骨與骨、鬆弛韌帶與肌腱，導致一系列特徵性手部變形：\n\n- **尺側偏移（ulnar deviation / drift）**：掌指關節（MCP）處手指向尺側偏斜——RA 最典型的標誌。\n- **天鵝頸變形（swan-neck deformity）**：PIP 過伸、DIP 屈曲。\n- **鈕扣指變形（boutonnière deformity）**：PIP 屈曲、DIP 過伸。\n- **Z 形拇指**。\n\n## 選項分析\n\n- **A. Heberden's nodule（赫伯登結節）✗**：位於 **遠端指間關節（DIP）** 的骨性結節，是 **骨關節炎（osteoarthritis, OA）** 的特徵，非 RA；RA 反而 **少侵犯 DIP**。\n- **B. Frozen shoulder（冰凍肩/沾黏性關節囊炎）✗**：肩關節囊纖維化粘黏，與糖尿病、外傷、廢用相關，非 RA 特異變形。\n- **C. Cervical ankylosis（頸椎強直）✗**：脊椎融合強直主要見於 **僵直性脊椎炎**；RA 可侵犯 **寰樞椎（C1–C2）造成半脫位**，但「頸椎強直/融合」並非 RA 典型手部變形之描述。\n- **D. Genu varum（膝內翻/O 型腿）✗**：屬 **膝骨關節炎** 的力學變形，非 RA 特徵。\n- **E. Ulnar deviation（尺側偏移）✓（正確答案）**：RA 掌指關節破壞最典型的手部變形。\n\n## 易混淆與進階補充\n\n- **RA vs OA 關節分布**：RA 侵犯 **MCP、PIP、腕**（對稱），**避開 DIP**；OA 侵犯 **DIP（Heberden）、PIP（Bouchard）** 與負重大關節（膝、髖）。\n- **RA 血清標記**：**RF（類風濕因子）** 與 **anti-CCP/ACPA（抗環瓜胺酸抗體）**，後者特異性高、與侵蝕性病程相關。\n- **頸椎風險**：RA 可致 **寰樞椎半脫位（atlantoaxial subluxation）**，麻醉插管前須評估，避免脊髓壓迫。\n- **治療**：早期使用 DMARD（**methotrexate 為基石**），達標治療（treat-to-target）；反應不佳加生物製劑（抗 TNF、abatacept、tocilizumab、rituximab）或 JAK 抑制劑。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| RA 最典型手變形 | **尺側偏移（ulnar deviation）** |\n| 其他 RA 變形 | 天鵝頸、鈕扣指、Z 形拇指 |\n| RA 關節分布 | MCP/PIP/腕，避開 DIP |\n| Heberden 結節 | DIP，屬 OA |\n| RA 抗體 | RF、anti-CCP（ACPA）|\n| 頸椎風險 | 寰樞椎半脫位 |\n| 第一線治療 | methotrexate（DMARD）|",
+      "sources": [
+        {
+          "text": "2010 ACR/EULAR Rheumatoid Arthritis Classification Criteria"
+        },
+        {
+          "text": "Harrison's Principles of Internal Medicine, Rheumatoid Arthritis"
+        }
+      ]
+    }
   },
   {
     "id": "112-S124",
@@ -20664,7 +20796,19 @@
       }
     ],
     "answer": "A",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**免疫檢查點抑制劑（PD-1/PD-L1）最常引起的風濕自體免疫併發症為類乾燥症（Sjögren's-like syndrome）/發炎性關節炎中的乾燥表現。** 本題指定 Sjögren's syndrome 為最常見的風濕免疫 irAE，故選 A。",
+      "detail": "## 概念架構：免疫檢查點抑制劑與免疫相關不良反應（irAE）\n\n**PD-1/PD-L1 檢查點抑制劑**（如 nivolumab、pembrolizumab、atezolizumab）解除 T 細胞的抑制煞車以攻擊腫瘤，但同時會打破自體耐受性，產生 **免疫相關不良反應（immune-related adverse events, irAE）**，可侵犯任何器官（皮膚、腸、肝、內分泌、肺、關節等）。\n\n在 **風濕免疫範疇** 的 irAE 中，常見表現包括 **發炎性關節炎、肌炎、乾燥症候群（sicca/Sjögren's-like）、風濕性多發肌痛樣表現** 等。本題將 **Sjögren's syndrome（乾燥症樣表現）** 列為最常見的風濕免疫併發症。\n\n## 選項分析\n\n- **A. Sjögren's syndrome ✓（正確答案）**：檢查點抑制劑相關的 **乾燥/口乾眼乾（sicca）症候群** 為常見的風濕免疫 irAE，惟其唾液腺病理多以 T 細胞浸潤為主，且抗 SSA/SSB 常陰性，與典型原發乾燥症略有不同，但臨床上為最常見之一。\n- **B. SLE ✗**：檢查點抑制劑相關的典型 SLE（含腎炎、多系統 + 高效價 anti-dsDNA）**少見**，偶見皮膚狼瘡樣表現。\n- **C. RA ✗**：可出現發炎性多關節炎（RA 樣），但完整符合 RA（RF/ACPA、侵蝕）者相對少見，且本題以 Sjögren 為最常見答案。\n- **D. ANCA 相關血管炎 ✗**：屬罕見的 irAE，非最常見。\n- **E. 多發性肌炎/皮肌炎 ✗**：檢查點抑制劑相關 **肌炎（myositis）** 確實會發生且可能嚴重（須警惕合併心肌炎、重症肌無力的重疊），但發生率不及乾燥/關節表現，非本題最常見答案。\n\n## 易混淆與進階補充\n\n- **irAE 處置原則**：依嚴重度（CTCAE 分級）。輕度可續用 + 局部/低劑量治療；中重度暫停藥物並給 **全身性類固醇**，頑固者加用其他免疫抑制（如 TNF 抑制劑、mycophenolate 等，依器官而定）。\n- **檢查點相關肌炎警訊**：可與 **心肌炎（myocarditis）、重症肌無力（myasthenia gravis）** 重疊（3M 重疊症候群），死亡率高，須立即停藥與高劑量類固醇。\n- **內分泌 irAE**：甲狀腺功能異常、垂體炎、第一型糖尿病樣，常見且部分不可逆。\n- **發炎性關節炎 irAE**：可能在停藥後仍持續，需風濕科長期追蹤。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 藥物 | PD-1/PD-L1 檢查點抑制劑 |\n| 機轉 | 解除 T 細胞煞車 → 自體免疫 |\n| 本題最常見風濕 irAE | **Sjögren's（乾燥）症候群** |\n| 其他風濕 irAE | 發炎性關節炎、肌炎 |\n| 肌炎警訊 | 合併心肌炎+重症肌無力（3M）|\n| 處置 | 分級；中重度停藥 + 類固醇 |\n| 內分泌 irAE | 甲狀腺、垂體炎、T1DM |",
+      "sources": [
+        {
+          "text": "2021 ASCO/NCCN Management of Immune-Related Adverse Events Guidelines"
+        },
+        {
+          "text": "EULAR points to consider for rheumatic irAEs from cancer immunotherapy"
+        }
+      ]
+    }
   },
   {
     "id": "112-S125",
@@ -20694,7 +20838,19 @@
       }
     ],
     "answer": "C",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**皮肌炎抗體與表現的正確配對為：抗 MDA-5 抗體與快速進行性間質性肺炎（RP-ILD）相關，故 C 正確。** 抗 MDA-5 常見臨床無肌病型皮肌炎（CADM）合併致命性快速進展 ILD；其餘配對皆有誤。",
+      "detail": "## 概念架構：皮肌炎的肌炎特異性抗體（MSA）與臨床表型\n\n**皮肌炎（dermatomyositis, DM）** 的 **肌炎特異性抗體（myositis-specific antibodies, MSA）** 各對應不同的臨床表型，是預後與篩檢的重要依據：\n\n| 抗體 | 主要關聯表現 |\n|---|---|\n| **anti-MDA-5** | 臨床無肌病型皮肌炎（CADM）、**快速進行性間質性肺病（RP-ILD）**、皮膚潰瘍 |\n| **anti-TIF-1γ** | **惡性腫瘤（癌症）** 相關 DM（成人）|\n| **anti-NXP-2** | 鈣質沉著（calcinosis）、惡性腫瘤（部分）|\n| **anti-Mi-2** | 典型皮疹、**對治療反應佳、預後好**、癌症風險低 |\n| **anti-synthetase（如 anti-Jo-1）** | 抗合成酶症候群（ILD、技工手、關節炎、雷諾、發燒）|\n| **anti-SRP** | 壞死性肌病、嚴重肌無力 |\n\n## 選項分析\n\n- **A. 抗 Mi-2 抗體與癌症發生有關 ✗**：恰好相反，**anti-Mi-2 與良好預後、治療反應佳、低癌症風險** 相關。與癌症最相關的是 **anti-TIF-1γ 與 anti-NXP-2**。\n- **B. 抗 TIF-1 抗體與皮膚炎發生有關 ✗**：**anti-TIF-1γ 主要與惡性腫瘤相關**（成人 DM 須積極篩癌）；雖也常有顯著皮膚表現，但本題以「與皮膚炎有關」作為其代表性關聯並不正確（其標誌性關聯是癌症）。\n- **C. 抗 MDA-5 抗體與快速進行性間質性肺炎有關 ✓（正確答案）**：anti-MDA-5 是 **臨床無肌病型皮肌炎合併致命性 RP-ILD** 的關鍵抗體，預後差，須及早積極免疫抑制治療。\n- **D. 抗 NXP-2 抗體與 inclusion body 產生有關 ✗**：**anti-NXP-2 與鈣質沉著（calcinosis）及惡性腫瘤** 相關；「包涵體（inclusion body）」屬 **包涵體肌炎（IBM）**，與 NXP-2 無關。\n- **E. 抗 aminoacyl-tRNA（抗合成酶）抗體與心肌病變有關 ✗**：抗合成酶抗體（如 anti-Jo-1）對應的是 **抗合成酶症候群（ILD、技工手、關節炎、雷諾現象、發燒）**，而非以心肌病變為標誌。\n\n## 易混淆與進階補充\n\n- **anti-MDA-5 的臨床警訊**：皮膚潰瘍、手掌丘疹、發病可肌力正常但肺快速惡化，**鐵蛋白（ferritin）顯著升高** 提示嚴重 RP-ILD，預後不良。\n- **癌症篩檢**：anti-TIF-1γ、anti-NXP-2 陽性的成人 DM 須完整惡性腫瘤篩檢（影像 + 年齡相符的癌篩）。\n- **抗合成酶症候群（ASS）**：以 ILD 為主、肌炎可輕微，常合併 **「技工手（mechanic's hands）」**。\n- **治療**：DM 以類固醇 + 免疫抑制（MTX、azathioprine、mycophenolate、IVIG）；anti-MDA-5 RP-ILD 常需 **高強度合併免疫抑制（類固醇 + calcineurin 抑制劑 + cyclophosphamide）**。\n\n## 重點整理表\n\n| 抗體 | 標誌關聯 |\n|---|---|\n| **anti-MDA-5** | **快速進行性 ILD**、CADM、皮膚潰瘍 |\n| anti-TIF-1γ | 惡性腫瘤（成人）|\n| anti-NXP-2 | 鈣質沉著、惡性腫瘤 |\n| anti-Mi-2 | 預後佳、治療反應好、低癌風險 |\n| anti-synthetase（Jo-1）| 抗合成酶症候群（ILD、技工手）|\n| 包涵體 | 屬 IBM，非 NXP-2 |",
+      "sources": [
+        {
+          "text": "EULAR/ACR Classification Criteria for Idiopathic Inflammatory Myopathies, 2017"
+        },
+        {
+          "text": "Myositis-specific autoantibodies, Nat Rev Rheumatol reviews"
+        }
+      ]
+    }
   },
   {
     "id": "112-S126",
@@ -20724,7 +20880,19 @@
       }
     ],
     "answer": "B",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**ANCA 與血管炎的正確配對為：cANCA—肉芽腫性多血管炎（GPA），故 B 正確。** cANCA（抗 PR3）對應 GPA；pANCA（抗 MPO）對應 MPA/EGPA；Kawasaki、PAN、HSP、Behçet 並非 ANCA 相關血管炎。",
+      "detail": "## 概念架構：ANCA 與血管炎的配對\n\n**抗嗜中性球細胞質抗體（ANCA）** 有兩種免疫螢光型態，各對應抗原與疾病：\n\n| ANCA 型態 | 抗原 | 對應疾病 |\n|---|---|---|\n| **cANCA**（細胞質型）| **PR3（proteinase 3）** | **肉芽腫性多血管炎（GPA）** |\n| **pANCA**（核周型）| **MPO（myeloperoxidase）** | 顯微多血管炎（MPA）、嗜伊紅性肉芽腫多血管炎（EGPA）|\n\n**ANCA 相關血管炎（AAV）僅含三者：GPA、MPA、EGPA**。其餘血管炎（Kawasaki、PAN、HSP/IgA 血管炎、Behçet）**不屬於 ANCA 相關血管炎**。\n\n## 選項分析\n\n- **A. pANCA—Kawasaki's disease（川崎病）✗**：川崎病為中型血管炎（兒童、冠狀動脈瘤），**與 ANCA 無關**。\n- **B. cANCA—Granulomatosis with polyangiitis（GPA）✓（正確答案）**：cANCA（抗 PR3）正是 GPA 的特徵抗體，配對正確。\n- **C. pANCA—Polyarteritis nodosa（結節性多動脈炎，PAN）✗**：PAN 為 **中型血管炎**，**典型為 ANCA 陰性**（部分與 HBV 相關），不屬 AAV。\n- **D. cANCA—Henoch-Schönlein purpura（HSP/IgA 血管炎）✗**：HSP 為 **IgA 免疫複合體** 媒介的小血管炎，**ANCA 陰性**，與 cANCA 無關。\n- **E. pANCA—Behçet's disease（貝賽特氏病）✗**：Behçet 為可侵犯各口徑血管的血管炎（口腔/生殖器潰瘍、葡萄膜炎），**與 ANCA 無關**。\n\n## 易混淆與進階補充\n\n- **GPA 記憶（ELK）**：ENT（鼻竇/鞍鼻）、Lung（結節空洞、肺出血）、Kidney（新月體腎炎）；cANCA/PR3。\n- **MPA**：無肉芽腫、無上呼吸道破壞，常見肺腎症候群與肺出血；pANCA/MPO。\n- **EGPA（Churg-Strauss）**：氣喘 + 嗜伊紅性增多 + 血管炎；約 40% ANCA（pANCA/MPO）陽性；mepolizumab（抗 IL-5）可用。\n- **pANCA 的非血管炎情境**：發炎性腸道病（潰瘍性結腸炎）、自體免疫肝病亦可呈現非典型 pANCA，須與 AAV 區分。\n- **PAN 與 AAV 區別**：PAN 侵犯中型血管、無腎絲球腎炎（而是腎血管梗塞/微動脈瘤）、ANCA 陰性；AAV 侵犯小血管、有腎絲球腎炎。\n\n## 重點整理表\n\n| ANCA/疾病 | 配對 |\n|---|---|\n| **cANCA / PR3** | **GPA**（正解）|\n| pANCA / MPO | MPA、EGPA |\n| Kawasaki | 非 ANCA（中型血管）|\n| PAN | ANCA 陰性（中型血管）|\n| HSP | IgA 媒介、ANCA 陰性 |\n| Behçet | 非 ANCA 相關 |",
+      "sources": [
+        {
+          "text": "2012 Revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides"
+        },
+        {
+          "text": "2021 ACR/Vasculitis Foundation ANCA-Associated Vasculitis Guideline"
+        }
+      ]
+    }
   },
   {
     "id": "112-S127",
@@ -20754,7 +20922,19 @@
       }
     ],
     "answer": "D",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**對診斷類風濕關節炎（RA）最有幫助的組合為(2)多數小關節發炎+(7)CRP上升+(8)ACPA陽性，故選 D。** RA 為對稱性小關節炎，ACPA（anti-CCP）特異性最高，加上發炎指標 CRP，最符合 2010 ACR/EULAR 分類精神。",
+      "detail": "## 概念架構：2010 ACR/EULAR 類風濕關節炎分類標準\n\nRA 的分類計分（總分 ≥6/10 可分類為 RA）由四面向構成：\n\n1. **關節受侵數目與型態**：以 **小關節（small joints）受侵、數目多** 得分最高。\n2. **血清學**：**RF 與 ACPA（anti-CCP）**，高效價得分高；**ACPA 特異性最高**。\n3. **急性期反應物**：**CRP 或 ESR 上升**。\n4. **症狀持續時間 ≥6 週**。\n\n據此挑出最具診斷價值的組合：**小關節發炎(2) + 發炎指標(7 CRP) + ACPA 陽性(8)**。\n\n## 選項各細項判讀\n\n題目 12 個項目中與 RA 高度相關者：(2) 多數小關節發炎、(5) RF、(6) ESR、(7) CRP、(8) ACPA。其中 **(8) ACPA 特異性最高、(2) 小關節對稱炎為典型表現**。\n\n而 (3) 下背痛 → 脊椎關節炎；(4) ANA → SLE/乾燥症等；(9) ANCA → 血管炎；(10) 皮膚血管炎、(11) 腎功能異常、(12) 口腔潰瘍 → SLE/血管炎/Behçet，**皆非 RA 的代表特徵**。\n\n## 選項分析\n\n- **A.(1)+(3)+(10) ✗**：(1) 大關節炎非 RA 最典型（RA 以小關節為主）、(3) 下背痛屬脊椎關節炎、(10) 皮膚血管炎屬血管炎/SLE，皆偏離 RA。\n- **B.(2)+(4)+(6) ✗**：(2) 小關節炎與 (6) ESR 雖屬 RA，但 **(4) ANA 非 RA 特異**（屬 SLE/乾燥症），組合不佳。\n- **C.(5)+(9)+(12) ✗**：(5) RF 雖與 RA 相關，但 **(9) ANCA（血管炎）、(12) 口腔潰瘍（SLE/Behçet）** 皆非 RA。\n- **D.(2)+(7)+(8) ✓（正確答案）**：**小關節炎 + CRP + ACPA**，三者皆是 RA 分類標準核心、且 ACPA 特異性最高，最有助診斷。\n- **E.(3)+(6)+(11) ✗**：(3) 下背痛、(11) 腎功能異常皆非 RA，僅 (6) ESR 屬非特異發炎。\n\n## 易混淆與進階補充\n\n- **ACPA（anti-CCP）vs RF**：ACPA **特異性高（約 95%）**，且預測 **侵蝕性、嚴重病程**；RF 敏感但特異性較低（也見於乾燥症、感染、老年人）。\n- **RA 關節分布**：對稱性 **MCP、PIP、腕**；避開 DIP（DIP 受侵想 OA 或乾癬性關節炎）。\n- **早期治療**：診斷後盡早起始 DMARD（**methotrexate**），達標治療以防關節破壞。\n- **常見陷阱**：ANA 在 RA 可能弱陽性但非診斷依據；下背痛、口腔潰瘍、皮膚血管炎應導向其他診斷。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 最佳組合 | (2)小關節炎 +(7)CRP +(8)ACPA |\n| 最特異抗體 | ACPA（anti-CCP，約 95%）|\n| RF | 敏感但特異性低 |\n| 關節分布 | 對稱小關節，避開 DIP |\n| 分類標準 | 2010 ACR/EULAR（≥6 分）|\n| 干擾項 | 下背痛、ANCA、口腔潰瘍非 RA |\n| 治療 | 早期 methotrexate |",
+      "sources": [
+        {
+          "text": "2010 ACR/EULAR Rheumatoid Arthritis Classification Criteria"
+        },
+        {
+          "text": "EULAR recommendations for the management of RA"
+        }
+      ]
+    }
   },
   {
     "id": "112-S128",
@@ -20784,7 +20964,19 @@
       }
     ],
     "answer": "E",
-    "subject": "風濕免疫科"
+    "subject": "風濕免疫科",
+    "explanation": {
+      "summary": "**對診斷 SLE 最有幫助的自體抗體組合為(1)ANA+(5)anti-dsDNA+(9)anti-Sm+(11)anti-C1q，故選 E。** ANA 為敏感篩檢，anti-dsDNA 與 anti-Sm 具高度特異性（SLE 標記抗體），anti-C1q 與狼瘡腎炎活性相關，整體最契合 SLE 診斷。",
+      "detail": "## 概念架構：SLE 的自體抗體與診斷價值\n\nSLE 診斷依賴臨床 + 免疫學。各抗體的角色：\n\n- **ANA（抗核抗體）**：**敏感度高（>95%）**，是 SLE 的 **入門篩檢**；2019 EULAR/ACR 分類以 **ANA ≥1:80 為進入條件（entry criterion）**。\n- **anti-dsDNA**：**特異性高**，與 **疾病活性、狼瘡腎炎** 相關，效價隨病情起伏。\n- **anti-Sm（Smith）**：**特異性最高（near-pathognomonic）** 但敏感度低，是 SLE 的標記抗體。\n- **anti-C1q**：與 **狼瘡腎炎（活動性）** 相關，是腎炎活性的生物標記。\n\n因此最契合 SLE 的組合為 **(1)ANA + (5)anti-dsDNA + (9)anti-Sm + (11)anti-C1q**。\n\n## 其他項目的歸屬\n\n- (3) anti-SSA/Ro、(4) anti-SSB/La → **乾燥症**（也見於 SLE/新生兒狼瘡，但非 SLE 特異標記）。\n- (7) anti-histone → **藥物性狼瘡（drug-induced lupus）** 的代表抗體。\n- (8) anti-phospholipid → **抗磷脂質症候群**（血栓、流產），可合併 SLE 但屬另一範疇。\n- (2) anti-ribosomal P → 與狼瘡 **精神神經症狀** 相關，特異但敏感度低。\n- (6) anti-platelet、(10) anti-RBC → 與血液學表現（血小板低下、溶血性貧血）相關，非診斷核心抗體。\n- (12) anti-RNP → 高效價見於 **混合性結締組織病（MCTD）**。\n\n## 選項分析\n\n- **A.(1)+(3)+(7)+(8) ✗**：含 (3) SSA（乾燥症）、(7) histone（藥物性狼瘡）、(8) 抗磷脂質（APS），偏離典型 SLE 特異標記。\n- **B.(2)+(4)+(6)+(10) ✗**：(4) SSB 屬乾燥症，(6)/(10) 為血液學相關抗體，整體診斷力弱。\n- **C.(3)+(4)+(10)+(12) ✗**：(3)(4) 屬乾燥症、(12) RNP 屬 MCTD，非 SLE 特異組合。\n- **D.(1)+(2)+(3)+(7) ✗**：雖含 ANA，但 (3) SSA、(7) histone 偏離；(2) ribosomal P 敏感度低，整體不及 E。\n- **E.(1)+(5)+(9)+(11) ✓（正確答案）**：ANA（篩檢）+ anti-dsDNA（活性/腎炎）+ anti-Sm（最特異標記）+ anti-C1q（腎炎活性），最有助 SLE 診斷與評估。\n\n## 易混淆與進階補充\n\n- **2019 EULAR/ACR SLE 分類**：以 **ANA ≥1:80** 為門檻，再依臨床與免疫學項目加權計分（≥10 分分類為 SLE）；其中 **anti-dsDNA 或 anti-Sm** 屬免疫學標準。\n- **補體 C3/C4 下降**：反映活性（消耗），與 anti-dsDNA、anti-C1q 同為狼瘡腎炎活性指標。\n- **抗體與臨床對應**：anti-dsDNA→腎炎；anti-Sm→特異標記；anti-Ro/La→乾燥、新生兒狼瘡/先天性心臟傳導阻滯；anti-ribosomal P→神經精神狼瘡；anti-histone→藥物性狼瘡。\n- **APS**：anti-cardiolipin、anti-β2GPI、lupus anticoagulant，與血栓和病態妊娠相關。\n\n## 重點整理表\n\n| 抗體 | 意義 |\n|---|---|\n| **ANA** | 敏感篩檢、分類門檻（≥1:80）|\n| **anti-dsDNA** | 特異、與活性/腎炎相關 |\n| **anti-Sm** | 最特異標記（敏感度低）|\n| **anti-C1q** | 狼瘡腎炎活性 |\n| anti-histone | 藥物性狼瘡 |\n| anti-Ro/La | 乾燥症、新生兒狼瘡 |\n| anti-RNP | MCTD |",
+      "sources": [
+        {
+          "text": "2019 EULAR/ACR Classification Criteria for SLE"
+        },
+        {
+          "text": "Harrison's Principles of Internal Medicine, Systemic Lupus Erythematosus"
+        }
+      ]
+    }
   },
   {
     "id": "112-S129",
