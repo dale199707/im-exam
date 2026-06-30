@@ -17235,7 +17235,19 @@
       }
     ],
     "answer": "A",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**反覆低血糖 + 高胰島素/高C-peptide + 胰臟hypervascular腫瘤 = insulinoma，年輕、反覆發作要懷疑 MEN1。** 內生性高胰島素性低血糖（insulin、C-peptide 同時上升）指向 insulinoma；發生於年輕、可能多發的胰島細胞瘤，須做 MEN1（MEN1 基因/menin）基因檢測，故答案為 A。",
+      "detail": "## 概念架構：內生性高胰島素性低血糖的定位\n\n本題為典型 **insulinoma（胰島素瘤）**：Whipple's triad（低血糖症狀、血糖 <55 mg/dL、給糖後緩解）+ 抽血顯示 **insulin、C-peptide、proinsulin 同時上升**，代表內生性胰島素分泌過多（外源性注射胰島素會 C-peptide 被抑制）。影像見胰臟 **hypervascular tumor**，符合神經內分泌腫瘤的富血管特性。\n\n關鍵在於：**年輕女性、6 個月前曾發作、反覆**，這種「年輕 + 多發/復發」的胰島細胞腫瘤要高度懷疑遺傳症候群 **MEN1**。\n\n## MEN 症候群對照\n\n| 症候群 | 突變基因 | 經典三聯 |\n|---|---|---|\n| MEN1 | **MEN1（menin）** | 副甲狀腺增生（hyperparathyroidism）、胰臟腸道神經內分泌瘤（gastrinoma/insulinoma）、腦下垂體瘤（3P：Parathyroid, Pancreas, Pituitary）|\n| MEN2A | **RET** | 甲狀腺髓質癌、嗜鉻細胞瘤、副甲狀腺亢進 |\n| MEN2B | **RET** | 甲狀腺髓質癌、嗜鉻細胞瘤、黏膜神經瘤、馬凡體型 |\n\nInsulinoma 是 **MEN1** 第二常見的胰臟腫瘤（最常見為 gastrinoma），故此病人應做 **MEN1 基因檢測**。\n\n## 選項分析\n\n- **(A) Multiple endocrine neoplasia type 1 ✓（正確答案）** Insulinoma 屬 MEN1 的胰臟神經內分泌瘤譜（3P），年輕、反覆、可能多發者必須篩 MEN1 基因與其他成分（鈣、PTH、prolactin）。\n- **(B) MEN2 ✗** MEN2 以甲狀腺髓質癌、嗜鉻細胞瘤為主，與胰島素瘤無關，突變基因為 RET 而非 menin。\n- **(C) Neurofibromatosis type 1 ✗** NF1 可伴十二指腸 somatostatinoma 與嗜鉻細胞瘤，但典型表現為咖啡牛奶斑、神經纖維瘤，與此病人的胰島素瘤不符。\n- **(D) Tuberous sclerosis ✗** 結節性硬化症以皮膚血管纖維瘤、腦部結節、腎血管平滑肌脂肪瘤為主，雖偶見胰臟 NET，但非首選方向。\n- **(E) Cowden's syndrome ✗** PTEN 突變，以多發性錯構瘤、乳癌與甲狀腺癌風險為主，與胰島素瘤無關。\n\n## 易混淆與進階補充\n\n- **內生 vs 外生低血糖鑑別**：insulinoma 時 C-peptide↑、proinsulin↑；外源胰島素注射時 insulin↑但 **C-peptide 被抑制**；磺醯尿素類（sulfonylurea）誤用則 C-peptide 也↑，需驗血/尿 sulfonylurea 螢光篩檢。\n- **定位**：insulinoma 90% 為良性、單發、<2 cm，定位可用 CT/MRI、EUS、68Ga-DOTATATE 或 GLP-1 receptor scintigraphy。\n- **MEN1 篩檢內容**：血鈣、PTH、gastrin、fasting glucose/insulin、prolactin、IGF-1，並做 MEN1 基因。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 診斷 | 內生性高胰島素低血糖 = insulinoma |\n| 關鍵實驗 | insulin↑ + C-peptide↑ + proinsulin↑ |\n| 影像 | 胰臟 hypervascular NET |\n| 須篩基因 | **MEN1（menin）** |\n| MEN1 三聯 | 副甲狀腺、胰臟、腦下垂體（3P）|\n| 外源胰島素鑑別 | C-peptide 被抑制 |",
+      "sources": [
+        {
+          "text": "Williams Textbook of Endocrinology, Insulinoma & MEN1"
+        },
+        {
+          "text": "2012 Endocrine Society Clinical Practice Guideline: Hypoglycemia in Adults"
+        }
+      ]
+    }
   },
   {
     "id": "112-S48",
@@ -18177,7 +18189,19 @@
       }
     ],
     "answer": "B",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**尿崩症診斷與治療，正解 B。** 已確診 DI 且 plasma AVP <1 pg/mL 代表 AVP 分泌不足（中樞性 DI），應安排腦下垂體 MRI 找病灶。後葉亮點消失才提示中樞性 DI（B 正確）；限水後尿量減尿滲增比較像原發性多渴症而非中樞 DI；腎源性 DI 不該用 DDAVP。",
+      "detail": "## 概念架構：尿崩症的分型與診斷流程\n\n尿崩症（DI）核心是 **AVP（ADH）缺乏（中樞性）或腎臟對 AVP 反應不良（腎源性）**，導致大量低張尿。鑑別要靠 **限水測試（water deprivation test）+ desmopressin 反應 + 血漿 AVP/copeptin**。\n\n| 類型 | 病灶 | 血漿 AVP | 限水後尿滲 | 給 DDAVP 後尿滲 |\n|---|---|---|---|---|\n| 中樞性 DI | 下視丘/腦下垂體 | 低（<1 pg/mL）| 仍偏低 | **明顯上升 >50%** |\n| 腎源性 DI | 腎小管 | 高/正常 | 仍偏低 | 幾乎不變 |\n| 原發性多渴 | 過量飲水 | 正常 | **可濃縮、尿滲上升** | 變化小 |\n\n## 選項分析\n\n- **(A) 尿量 >每公斤 60 mL/天且尿滲 <250 才叫 DI ✗** DI 的常用定義是 **24 小時尿量 >50 mL/kg（≈每天 >3 L）且尿滲 <300 mosmol/L**，題目把門檻寫成 60 mL/kg 與 <250 過嚴，數值不符標準定義。\n- **(B) 已確診 DI 且 AVP <1 pg/mL 應安排腦下垂體 MRI ✓（正確答案）** AVP 偵測不到代表 **中樞性 DI（AVP 分泌不足）**，須以腦下垂體/下視丘 MRI 找病因（腫瘤、浸潤性疾病如 germinoma/組織球增生症、自體免疫漏斗炎、轉移）。這是標準處置。\n- **(C) MRI 後葉有亮點就一定是中樞 DI ✗** 邏輯顛倒：**後葉亮點（bright spot）代表 AVP 儲存正常**，中樞性 DI 反而是 **亮點消失**。有亮點不支持中樞 DI。\n- **(D) 限水後尿量減少、尿滲上升比較像中樞 DI ✗** 限水後能 **濃縮尿液（尿滲上升、尿量減少）** 表示腎臟對 AVP 有反應、有內生 AVP，較像 **原發性多渴（primary polydipsia）**，而非中樞 DI（中樞 DI 限水仍難濃縮）。\n- **(E) 腎源性 DI 用 DDAVP 治療 ✗** 腎源性 DI 腎臟對 AVP 無反應，**DDAVP 無效**；治療採低鹽低蛋白飲食、thiazide 利尿劑、amiloride（鋰引起者）、NSAID 等。中樞性 DI 才用 DDAVP。\n\n## 易混淆與進階補充\n\n- **Copeptin**：AVP 的穩定替代物，**刺激後 copeptin** 已逐漸取代傳統限水測試（如高張食鹽水刺激後 copeptin <4.9 pmol/L 支持中樞 DI）。\n- **限水測試判讀**：尿滲達標（>800）排除 DI；不達標再給 DDAVP，尿滲上升 >50% 為中樞、無反應為腎源。\n- **新命名**：2022 年起部分學會建議將中樞性 DI 改稱 **AVP deficiency**、腎源性改稱 **AVP resistance**，以避免與糖尿病混淆。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| DI 定義 | 尿量 >50 mL/kg/日、尿滲 <300 |\n| 中樞 DI | AVP 低 → 應做腦下垂體 MRI |\n| 後葉 bright spot | 存在=AVP 正常，消失提示中樞 DI |\n| 限水可濃縮 | 偏向原發性多渴 |\n| 腎源性 DI 治療 | thiazide/amiloride，**非 DDAVP** |\n| 替代檢測 | copeptin 取代限水測試 |",
+      "sources": [
+        {
+          "text": "Endocrine Society / Williams Textbook of Endocrinology: Diabetes Insipidus"
+        },
+        {
+          "text": "2022 Consensus on AVP-D/AVP-R nomenclature"
+        }
+      ]
+    }
   },
   {
     "id": "112-S79",
@@ -18747,7 +18771,19 @@
       }
     ],
     "answer": "B",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**成人生長激素缺乏治療，問「不正確」者，答案 B。** GH 劑量需求 **女性>男性、年輕人>年長者**（女性受雌激素影響、年長者較敏感故劑量遞減），故 B 敘述「男性多於女性、年長者多於年輕人」方向顛倒，為錯誤敘述（正確答案）。",
+      "detail": "## 概念架構：成人生長激素缺乏（AGHD）治療要點\n\n成人 GH 缺乏治療目標是把 **IGF-1 維持在符合年齡與性別的參考範圍中段**，採 **低劑量起始、逐步調整（start low, go slow）**，依症狀、IGF-1 與副作用調整。劑量需求受 **性別與年齡** 影響，是本題反向考點。\n\n## 劑量需求的方向\n\n- **女性 > 男性**：口服雌激素會抑制肝臟 IGF-1 生成、增加 GH 阻抗，故女性（尤其用口服雌激素者）需要 **較高** GH 劑量。\n- **年輕 > 年長**：年長者對 GH 較敏感、副作用（水腫、關節痛、糖代謝惡化）較多，故劑量需 **隨年齡遞減**。\n\n故正確方向為「**女性>男性、年輕>年長**」，題目選項 B 寫反，是錯誤敘述。\n\n## 選項分析\n\n- **(A) 起始約每日 0.1–0.2 mg，逐步調至上限約每日 1.25 mg，IGF-1 維持年齡性別參考值中段 ✓** 符合低劑量起始、依 IGF-1 滴定的原則。\n- **(B) 劑量一般男性多於女性、年長者多於年輕人 ✗（正確答案）** 方向錯誤：應為 **女性>男性、年輕>年長**。此即本反向題要選的錯誤敘述。\n- **(C) 禁忌包括活動性腫瘤、顱內高壓、控制不良的糖尿病及視網膜病變 ✓** GH 有促增生與升血糖作用，活動性惡性腫瘤、良性顱內高壓、增殖性糖尿病視網膜病變、未控制糖尿病皆為禁忌/須謹慎。\n- **(D) 長期治療增加 HDL，總膽固醇與胰島素無明顯改變 ✓** GH 替代可改善脂質（降 LDL、升 HDL），整體有利於體組成與脂質。\n- **(E) T2DM 初期可能增加胰島素阻抗，謹慎監控、調整劑量下，長期可減少腹部脂肪並改善血糖 ✓** GH 初期升血糖、增阻抗，但長期改善內臟脂肪與體組成，淨效益可改善代謝，需密切監測。\n\n## 易混淆與進階補充\n\n- **AGHD 診斷**：需刺激試驗，**insulin tolerance test（ITT）** 為金標準，或 glucagon、macimorelin 刺激；單看 IGF-1 不足以診斷（IGF-1 正常不能排除）。\n- **治療益處**：改善體組成（增肌減脂）、骨密度、脂質、生活品質與運動能力。\n- **監測**：IGF-1、空腹血糖/HbA1c、脂質、合併垂體前葉其他軸（甲狀腺、腎上腺、性腺）的替代是否足夠。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 治療目標 | IGF-1 維持年齡/性別參考值中段 |\n| 起始劑量 | 約每日 0.1–0.2 mg，緩慢調整 |\n| 性別需求 | **女性 > 男性**（雌激素影響）|\n| 年齡需求 | **年輕 > 年長**（年長較敏感）|\n| 禁忌 | 活動性腫瘤、顱內高壓、未控糖尿病、增殖視網膜病變 |\n| 代謝 | 初期升血糖/增阻抗，長期減內臟脂肪 |\n| 診斷金標準 | ITT 刺激試驗 |",
+      "sources": [
+        {
+          "text": "Endocrine Society Clinical Practice Guideline: Adult Growth Hormone Deficiency"
+        },
+        {
+          "text": "Williams Textbook of Endocrinology"
+        }
+      ]
+    }
   },
   {
     "id": "112-S98",
@@ -18777,7 +18813,19 @@
       }
     ],
     "answer": "C",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**ACTH 依賴型 Cushing 鑑別，正解 C =（2）+（4）+（5）。** 異位性 ACTH 病程快、肌病變明顯（2）；異位性 ACTH 濃度雖平均高但與垂體瘤重疊大、無法單用 ACTH 區分（4）；IPSS 基礎比值 >2、CRH 後 >3，敏感度 >95%（5）。腦垂體瘤以 **女性多**、異位性 **男性多**，故（1）反；低血鉀比例（3）數字顛倒，異位性低血鉀更常見。",
+      "detail": "## 概念架構：庫欣氏症候群病因鑑別\n\nACTH 依賴型 Cushing 主要鑑別 **腦垂體 ACTH 瘤（Cushing disease）** 與 **異位性 ACTH 分泌（ectopic ACTH，如小細胞肺癌、類癌）**。鑑別依 **流行病學、病程、生化嚴重度、抑制試驗與 IPSS**。\n\n| 特徵 | 腦垂體瘤 | 異位性 ACTH |\n|---|---|---|\n| 性別 | **女性多**（典型 Cushing disease 女:男 ≈ 3–4:1）| **男性多**（與肺癌相關）|\n| 病程 | 較緩慢 | **快速、嚴重**（明顯肌病變、色素沉著、低血鉀）|\n| 低血鉀 | 較少 | **較常見**（皮質醇高致礦皮質醇效應）|\n| ACTH 濃度 | 較低 | 平均高（約數倍），但**重疊大**，單一數值難區分 |\n| 高劑量 dexamethasone 抑制 | 多可被抑制 | 多不被抑制 |\n\n## 選項分析\n\n- **(1) 腦垂體瘤男多於女、異位性女多於男 ✗** 顛倒。**腦垂體瘤女性多**、異位性（多與肺部腫瘤相關）男性多。\n- **(2) 腦垂體瘤病程慢；異位性病程快且常見嚴重肌病變 ✓** 正確。異位性 ACTH 皮質醇極高、進展快，蛋白分解致近端肌病變、體重減輕、色素沉著。\n- **(3) 約 45% 腦垂體瘤、55% 異位性病人血鉀 <3.3 ✗** 數字不符。腦垂體瘤低血鉀比例遠低於異位性；異位性低血鉀比例極高（接近 100%），題述把兩者拉近且方向失真。\n- **(4) 異位性 ACTH 平均約垂體瘤 8 倍，但重疊高，ACTH 濃度仍無法區別 ✓** 正確。雖然異位性平均 ACTH 較高，但兩者範圍重疊，**不能單憑 ACTH 數值鑑別**，需動態試驗與 IPSS。\n- **(5) IPSS 基礎比值 >2、CRH 後 >3，敏感度 >95% ✓** 正確。**下岩竇採樣（IPSS）** 是區分垂體與異位的金標準：中央/周邊 ACTH 比值基礎 ≥2、CRH 刺激後 ≥3 支持垂體來源，敏感度與特異度高。\n\n故正確組合為 **(2)+(4)+(5)**，選 C。\n\n## 易混淆與進階補充\n\n- **鑑別流程**：先以 ACTH 區分 ACTH 依賴 vs 非依賴；ACTH 依賴者做高劑量 dexamethasone 抑制 + CRH 試驗 + 垂體 MRI；不一致或 MRI 陰性時做 **IPSS**。\n- **異位性常見來源**：小細胞肺癌、支氣管類癌、胸腺類癌、胰臟 NET、甲狀腺髓質癌。\n- **影像**：異位性需全身定位（CT 胸腹、68Ga-DOTATATE）。\n\n## 重點整理表\n\n| 鑑別點 | 腦垂體瘤 | 異位性 ACTH |\n|---|---|---|\n| 性別 | 女性多 | 男性多 |\n| 病程 | 緩慢 | 快、嚴重肌病變 |\n| 低血鉀 | 較少 | 較常見 |\n| ACTH 數值 | 較低，重疊大不可單獨區分 | 平均高但重疊 |\n| 高劑量 dex 抑制 | 多被抑制 | 多不被抑制 |\n| IPSS | 基礎 >2、CRH 後 >3，敏感度 >95% | 比值低 |",
+      "sources": [
+        {
+          "text": "Endocrine Society Clinical Practice Guideline: Cushing's Syndrome"
+        },
+        {
+          "text": "Williams Textbook of Endocrinology: Cushing's Syndrome"
+        }
+      ]
+    }
   },
   {
     "id": "112-S99",
@@ -18807,7 +18855,16 @@
       }
     ],
     "answer": "D",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**原發性醛固酮症篩檢與診斷，正解 D =（2）+（5）。** β-blocker 降 renin、升 ARR，equivocal 時宜停藥兩週再測（2）；雙側增生治療用 MR 拮抗劑或鈉通道阻斷劑（5）。ARR 前不需停 spironolactone「兩週」（須停約 4–6 週）（1）；saline test 後 aldosterone 10 ng/dL 屬不確定區非排除（3）；年齡分界與處置（4）方向錯誤。",
+      "detail": "## 概念架構：原發性醛固酮症（PA）診斷三步驟\n\nPA 診斷流程：**篩檢（ARR）→ 確診試驗（saline infusion/captopril 等）→ 分型（CT + adrenal vein sampling, AVS）→ 治療**。藥物會干擾 ARR，需特別注意洗滌。\n\n## 藥物對 ARR 的影響\n\n| 藥物 | renin | aldosterone | ARR | 處理 |\n|---|---|---|---|---|\n| β-blocker | ↓ | ↓（較少）| **↑（偽陽性）** | equivocal 時停 2 週 |\n| MR 拮抗劑（spironolactone/eplerenone）| ↑ | ↑ | ↓（偽陰性）| **停約 4–6 週** |\n| ACEI/ARB | ↑ | ↓ | ↓（偽陰性）| 視情況 |\n\n## 選項分析\n\n- **(1) 測 ARR 前矯正低血鉀並停 spironolactone「兩週」 ✗** 矯正低血鉀正確，但 **MR 拮抗劑（spironolactone）需停約 4–6 週**（不是兩週）才不致干擾，故此項時間錯誤。\n- **(2) β-blocker 使 renin↓、aldosterone↑、ARR↑；equivocal 時停 β-blocker 兩週再測 ✓** β-blocker 主要壓低 renin 使 ARR 偽高，造成偽陽性；結果不確定時停藥約兩週再驗，合理正確。\n- **(3) Saline test 4 小時輸 2L，aldosterone 10 ng/dL 可排除 PA ✗** 生理食鹽水試驗後 **aldosterone <5 ng/dL 排除、>10 ng/dL 確診、5–10 為不確定**。10 ng/dL 屬「確診/不確定」邊界而非「排除」，故敘述錯誤。\n- **(4) 確診 PA、單側腫瘤者，<40 歲再做 AVS，>40 歲建議單側切除 ✗** 方向相反：**年輕（<35–40 歲）且 CT 明確單側腺瘤、典型生化者可不必 AVS 直接手術**；而 **≥35–40 歲者反而建議 AVS** 確認側別（因高齡無功能腺瘤盛行率高，CT 易誤導）。故此項顛倒。\n- **(5) 雙側微結節增生（bilateral hyperplasia）應用 MR 拮抗劑或鈉通道阻斷劑等藥物治療 ✓** 雙側病變（idiopathic hyperaldosteronism）不適手術，**藥物治療**首選 spironolactone/eplerenone（MR 拮抗劑），可加 amiloride（鈉通道阻斷劑），正確。\n\n故 **(2)+(5)**，選 D。\n\n## 易混淆與進階補充\n\n- **ARR 篩檢對象**：高血壓合併低血鉀、腎上腺意外瘤、頑固性高血壓、年輕中風/高血壓、有家族史者。\n- **確診試驗**：口服鈉負荷、生理食鹽水輸注、fludrocortisone 抑制、captopril challenge。\n- **AVS**：分型金標準，區分單側（手術）vs 雙側（藥物）。\n\n## 重點整理表\n\n| 步驟 | 重點 |\n|---|---|\n| 篩檢 | ARR；先矯正低血鉀 |\n| spironolactone | 停 **4–6 週** 再驗 |\n| β-blocker | 升 ARR（偽陽性），equivocal 停 2 週 |\n| saline test | aldosterone <5 排除、>10 確診 |\n| 分型 | CT + **AVS**（年長者尤其需要）|\n| 雙側增生 | MR 拮抗劑/鈉通道阻斷劑 |",
+      "sources": [
+        {
+          "text": "2016 Endocrine Society Clinical Practice Guideline: Primary Aldosteronism"
+        }
+      ]
+    }
   },
   {
     "id": "112-S100",
@@ -18837,7 +18894,16 @@
       }
     ],
     "answer": "E",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**反向題：APS2 常見疾病「除了」哪項，答案 E。** 第二型自體免疫多腺體症候群（APS2/Schmidt）以 **原發性腎上腺功能不足 + 自體免疫甲狀腺病 + 第1型糖尿病** 為核心，可伴性腺衰竭、惡性貧血、白斑。**慢性黏膜皮膚念珠菌病（chronic mucocutaneous candidiasis）屬 APS1**（AIRE 突變）的特徵，並非 APS2，故為答案。",
+      "detail": "## 概念架構：自體免疫多腺體症候群（APS）分型\n\n| 類型 | 遺傳/基因 | 經典三聯/特徵 |\n|---|---|---|\n| **APS1**（APECED）| **AIRE** 突變、體染色體隱性、兒童期 | **慢性黏膜皮膚念珠菌病 + 副甲狀腺低下 + 腎上腺功能不足** |\n| **APS2**（Schmidt）| 多基因 + HLA-DR3/DR4、成人女性多 | **原發性腎上腺功能不足 + 自體免疫甲狀腺病 + 第1型糖尿病**，可伴性腺衰竭、惡性貧血、白斑、重症肌無力 |\n\nAPS2 的「念珠菌病、副甲狀腺低下」**不是** 其成分；那兩項是 **APS1** 的招牌。\n\n## 選項分析\n\n- **(A) 原發性腎上腺功能不足 ✓（屬 APS2）** 是 APS2 的核心成分（Addison's disease），常為首發或關鍵表現。\n- **(B) 甲狀腺功能亢進 ✓（屬 APS2）** APS2 的自體免疫甲狀腺病可為 Graves（亢進）或橋本（低下），皆屬譜系。\n- **(C) 早發性卵巢衰竭 ✓（屬 APS2）** 自體免疫性卵巢炎導致 premature ovarian failure，是 APS2 常見伴隨。\n- **(D) 惡性貧血 ✓（屬 APS2）** 自體免疫胃炎/內因子抗體導致 pernicious anemia，為 APS2 常見伴隨。\n- **(E) 慢性黏膜皮膚念珠菌病 ✗（正確答案）** 此為 **APS1（AIRE 突變）** 的標誌性表現，因 Th17/IL-17 對念珠菌免疫缺陷所致，**並非 APS2** 的成分，故為「除外」之答案。\n\n## 易混淆與進階補充\n\n- **APS1 三聯記憶**：CMC（念珠菌）+ Hypoparathyroidism + Addison（兒童期出現，AIRE 突變、抗 interferon 抗體）。\n- **APS2 記憶**：成人、女性、HLA 相關，Addison + 甲狀腺 + T1DM。\n- **抗體**：APS1 常見抗 IL-17/IL-22、抗 interferon-ω；APS2 視成分有 21-hydroxylase 抗體、TPO 抗體、GAD 抗體等。\n- **臨床警訊**：已知一個自體免疫內分泌病的病人（如第1型糖尿病、Addison's disease）應主動篩檢其他軸，因 APS 各成分常 **間隔數年陸續出現**；尤其新診斷 Addison's disease 者務必查甲狀腺功能與 T1DM。\n- **Addison's 與甲狀腺替代順序**：APS2 若同時有腎上腺功能不足與甲低，**須先補充類固醇再補甲狀腺素**，否則 levothyroxine 會加速皮質醇代謝而誘發腎上腺危象（adrenal crisis）。\n\n## 重點整理表\n\n| 項目 | APS1 | APS2 |\n|---|---|---|\n| 基因 | AIRE（單基因，AR）| 多基因 + HLA-DR3/4 |\n| 年齡/性別 | 兒童 | 成人、女性多 |\n| 念珠菌病 | **有（標誌）** | 無 |\n| 副甲狀腺低下 | 有 | 罕見 |\n| 腎上腺功能不足 | 有 | 有 |\n| 甲狀腺病/T1DM | 較少 | **常見** |",
+      "sources": [
+        {
+          "text": "Williams Textbook of Endocrinology: Autoimmune Polyglandular Syndromes"
+        }
+      ]
+    }
   },
   {
     "id": "112-S101",
@@ -18867,7 +18933,16 @@
       }
     ],
     "answer": "A",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**反向題：嗜鉻細胞瘤敘述「不正確」者，答案 A。** plasma free metanephrine 敏感度最高沒錯，但其偽陽性主要來自 **藥物（三環抗憂鬱、擬交感劑）與生理刺激**，而題述把偽陽性歸因於「靜脈抽血的壓力」並過度強調，與標準不符（應強調採血需平躺休息、停干擾藥）；其餘 B–E 皆正確，故 A 為錯誤敘述。",
+      "detail": "## 概念架構：嗜鉻細胞瘤（pheochromocytoma）診療要點\n\n嗜鉻細胞瘤是腎上腺髓質的兒茶酚胺分泌腫瘤，遵循「10% 法則」（約 10% 雙側、10% 腎上腺外/paraganglioma、10% 惡性、家族性比例更高）。診斷靠 **血漿游離 metanephrine 或 24 小時尿 metanephrine**，治療前必須 **先 α 阻斷再 β 阻斷**。\n\n## 選項分析\n\n- **(A) plasma metanephrine 敏感度最高，但易因「靜脈抽血壓力」造成偽陽性升高 ✗（正確答案）** 血漿游離 metanephrine 敏感度最高（約 96–99%）正確，但其 **偽陽性主要來自干擾藥物（三環抗憂鬱劑、acetaminophen、擬交感劑、levodopa）、咖啡因、姿勢與急性壓力**；標準作法是 **平躺休息 30 分鐘後採血、停干擾藥**。把偽陽性歸因於「靜脈抽血壓力」並當作主要原因，是錯誤/不精確的描述，故為答案。\n- **(B) 常見陣發性頭痛、冒汗、心悸；有些病人數年無症狀 ✓** 經典三聯（頭痛、心悸、發汗）+ 高血壓；確有偶發性、長期無症狀者（含意外瘤），正確。\n- **(C) 三環抗憂鬱與鴉片類可能誘發發作 ✓** 多種藥物（TCA、metoclopramide、類固醇、opioids、顯影劑、麻醉誘導）可誘發兒茶酚胺釋放與高血壓危象，正確。\n- **(D) 術前以 α 阻斷劑控制血壓，術中可用 nitroprusside 控制高血壓 ✓** 標準術前準備 **先 α 阻斷（phenoxybenzamine/doxazosin）≥7–14 天、補充容積**，必要時才加 β 阻斷；術中高血壓危象可用 nitroprusside、phentolamine，正確。\n- **(E) 約 5–10% 惡性；細胞異型/有絲分裂/侵犯不足以診斷惡性，須有轉移才算惡性 ✓** 組織學特徵（PASS score）不能可靠判定惡性，**惡性定義為出現轉移**（淋巴結或遠處），正確。\n\n## 易混淆與進階補充\n\n- **檢測選擇**：血漿游離 metanephrine（敏感度高、適合高風險族群）vs 24 小時尿分餾 metanephrine（特異度高）。臨界升高需重驗並排除藥物干擾，必要時 clonidine 抑制試驗。\n- **基因**：高達 30–40% 與遺傳相關（VHL、RET、NF1、SDHx），建議基因諮詢。\n- **β 阻斷不可先於 α 阻斷**：否則失去 β2 血管擴張、α 介導血管收縮無對抗，導致高血壓危象。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 首選檢測 | 血漿游離 metanephrine（敏感度最高）|\n| 偽陽性來源 | 藥物（TCA 等）、咖啡因、姿勢、未休息 |\n| 採血要求 | 平躺休息、停干擾藥 |\n| 術前準備 | **先 α 阻斷**，再視需要 β 阻斷 |\n| 術中危象 | nitroprusside / phentolamine |\n| 惡性定義 | 出現轉移（非組織學）|\n| 10% 法則/基因 | 雙側/腎上腺外/惡性；SDHx、VHL、RET、NF1 |",
+      "sources": [
+        {
+          "text": "2014 Endocrine Society Clinical Practice Guideline: Pheochromocytoma and Paraganglioma"
+        }
+      ]
+    }
   },
   {
     "id": "112-S102",
@@ -18897,7 +18972,19 @@
       }
     ],
     "answer": "E",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**甲狀腺功能低下，最正確者為 E。** 即使甲狀腺功能正常，懷孕婦女若有甲狀腺自體抗體（TPOAb 陽性），流產與早產風險仍升高（E 正確）。自體免疫甲低不一定瀰漫腫大（可萎縮）；亞臨床甲低部分需治療；甲低可致 **舒張壓升高（高血壓）**；levothyroxine 應 **空腹、早餐前** 服用，故其餘選項均錯。",
+      "detail": "## 概念架構：甲狀腺功能低下重點\n\n甲低核心是甲狀腺素不足致全身代謝下降。考點集中在 **病理（萎縮 vs 腫大）、亞臨床甲低治療、心血管（舒張性高血壓）、levothyroxine 服法、與懷孕的抗體風險**。\n\n## 選項分析\n\n- **(A) 自體免疫甲低因淋巴球浸潤，甲狀腺皆瀰漫腫大 ✗** 橋本氏甲狀腺炎可呈 **腫大型** 也可呈 **萎縮型（atrophic thyroiditis）**，並非「皆」瀰漫腫大，敘述過絕對。\n- **(B) 亞臨床甲低無明顯症狀，故不需治療 ✗** 亞臨床甲低（TSH↑、FT4 正常）在 **TSH >10、有症狀、TPOAb 陽性、懷孕或備孕、年輕者** 仍建議治療，並非一律不治。\n- **(C) 甲低心收縮力下降、心跳慢，故血壓偏低不會高血壓 ✗** 甲低反而常見 **舒張性高血壓（diastolic hypertension）**，因周邊血管阻力上升（SVR↑），並非血壓偏低。\n- **(D) levothyroxine 每日 1.6 μg/kg，最好早餐後 30 分鐘內服用 ✗** 劑量 1.6 μg/kg/day 正確，但服法應為 **空腹、早餐前 30–60 分鐘**（或睡前），與食物、鈣鐵、PPI 分開以利吸收；「早餐後 30 分鐘內」會影響吸收，敘述錯誤。\n- **(E) 懷孕婦女若有甲狀腺抗體，即使功能正常仍有較高流產與早產風險 ✓（正確答案）** **TPOAb 陽性** 即使甲狀腺功能正常，仍與 **流產、早產、產後甲狀腺炎** 風險升高相關，需監測 TSH，必要時補充 levothyroxine。\n\n## 易混淆與進階補充\n\n- **懷孕 TSH 目標**：建議維持在妊娠特異參考範圍內（一般 <2.5 mIU/L 為目標區），已用藥者懷孕後需增量約 25–30%。\n- **黏液水腫昏迷**：嚴重甲低急症，低體溫、意識改變、低血鈉，需靜脈 levothyroxine + 類固醇（先排除腎上腺不足）。\n- **服藥干擾**：鈣、鐵、PPI、膽固醇結合樹脂、豆製品會減少吸收；故建議與這些藥物/食物間隔至少 4 小時。\n- **亞臨床甲低治療門檻細節**：TSH 4.5–10 mIU/L 且無症狀、非懷孕者多採觀察追蹤；TSH >10 則因進展為顯性甲低與心血管風險上升，建議治療。\n- **甲低與血脂**：甲低常致 **總膽固醇與 LDL 上升**，補充 levothyroxine 後可改善，故不明原因高膽固醇血症應排除甲低。\n- **黏液水腫昏迷誘因**：感染、寒冷、鎮靜劑、停藥，死亡率高，須加護病房處置。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 橋本病理 | 可腫大也可萎縮 |\n| 亞臨床甲低治療 | TSH>10、症狀、TPOAb+、懷孕者治療 |\n| 心血管 | 舒張性高血壓、SVR↑ |\n| levothyroxine | 1.6 μg/kg、**空腹早餐前** |\n| 懷孕 + TPOAb+ | 流產/早產風險↑ |\n| 懷孕用藥 | 確診後增量約 25–30% |",
+      "sources": [
+        {
+          "text": "2017 ATA Guidelines for Thyroid Disease in Pregnancy"
+        },
+        {
+          "text": "Williams Textbook of Endocrinology: Hypothyroidism"
+        }
+      ]
+    }
   },
   {
     "id": "112-S103",
@@ -18927,7 +19014,19 @@
       }
     ],
     "answer": "A",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**甲狀腺結節與甲狀腺癌，最正確者 A。** 超音波上 **taller-than-wide（高>寬）** 是惡性的高度可疑特徵，惡性風險高於 wider-than-tall（A 正確）。濾泡瘤惡性風險約 15–30%（非 <10%）；3.5 cm 屬 T2（>2 且 ≤4 cm）；非所有甲狀腺癌都需放射碘；甲狀腺淋巴瘤以 **化療/放療** 為主而非手術，故其餘皆錯。",
+      "detail": "## 概念架構：甲狀腺結節評估與癌症分期\n\n評估結節靠 **超音波惡性特徵 + 細針抽吸（FNA, Bethesda 分類）**，分期用 **AJCC TNM**。本題綜合超音波、細胞學、分期、治療與淋巴瘤。\n\n## 超音波高度可疑惡性特徵\n\n- **微鈣化（microcalcification）**\n- **高大於寬（taller-than-wide）**\n- 邊緣不規則/浸潤\n- 顯著低回音（marked hypoechogenicity）\n- 腺體外侵犯、可疑淋巴結\n\n## 選項分析\n\n- **(A) taller-than-wide 結節惡性風險高於 wider-than-tall ✓（正確答案）** **高>寬（前後徑>橫徑）** 反映腫瘤跨組織平面生長，是 ATA/TIRADS 公認的高可疑特徵，惡性風險較高。\n- **(B) FNA 報告為 follicular neoplasm，惡性風險通常 <10% ✗** Bethesda IV（濾泡瘤/疑似）惡性風險約 **15–30%**（含 NIFTP 約 10–40%），並非 <10%，需手術（葉切）或分子檢測進一步評估。\n- **(C) 腫瘤 3.5 公分為 T3 ✗** AJCC 甲狀腺分化癌 **T2 = >2 且 ≤4 cm**；3.5 cm 屬 **T2**，非 T3（T3 為 >4 cm 或大體腺體外侵犯）。\n- **(D) 甲狀腺癌手術後都應接受放射碘以減少復發、延長存活 ✗** 放射碘（RAI）採 **風險分層** 給予：低風險微小乳突癌多不需 RAI，僅中高風險（殘留、轉移、侵犯）才建議；非全部都做。\n- **(E) 甲狀腺淋巴癌常快速長大，手術切除為首要治療 ✗** 甲狀腺原發淋巴瘤（多為 DLBCL/MALT）以 **化學治療 ± 放射治療**（如 R-CHOP、放療）為主，**手術非首要**；手術主要用於診斷或解除壓迫。\n\n## 易混淆與進階補充\n\n- **Bethesda 系統**：II 良性、III AUS/FLUS、IV 濾泡瘤、V 疑惡性、VI 惡性；III/IV 可用分子檢測（如 Afirma、ThyroSeq）輔助。\n- **分化癌 TNM 年齡因素**：AJCC 第 8 版以 **55 歲** 為分界影響分期。\n- **快速長大且固定的甲狀腺腫塊**：須鑑別 **未分化癌（anaplastic）** 與 **淋巴瘤**，兩者皆非首選手術。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 高可疑超音波 | taller-than-wide、微鈣化、邊緣不規則 |\n| 濾泡瘤(Bethesda IV) | 惡性約 15–30% |\n| T 分期 | T2 = >2–4 cm；T3 = >4 cm |\n| 放射碘 | 依風險分層，非全部 |\n| 甲狀腺淋巴瘤 | 化療±放療為主，非手術 |\n| 分子檢測 | 用於 Bethesda III/IV |",
+      "sources": [
+        {
+          "text": "2015 ATA Management Guidelines for Thyroid Nodules and Differentiated Thyroid Cancer"
+        },
+        {
+          "text": "AJCC Cancer Staging Manual, 8th ed."
+        }
+      ]
+    }
   },
   {
     "id": "112-S104",
@@ -18957,7 +19056,19 @@
       }
     ],
     "answer": "C",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**副甲狀腺與血鈣平衡，最正確者 C。** 肺癌中 **鱗狀細胞癌** 最常因分泌 PTHrP 造成高血鈣（humoral hypercalcemia of malignancy），小細胞癌與腺癌雖易骨轉移但較少引起高血鈣（C 正確）。鋰引起高血鈣停藥後多可恢復；FHH 為 **體染色體顯性**；副甲狀腺癌雖侵襲但非全部存活極短；calcitonin 作用快但副作用非嚴重低血鈣，故其餘皆錯。",
+      "detail": "## 概念架構：高血鈣病因與副甲狀腺\n\n高血鈣最常見兩大類：**原發性副甲狀腺亢進（門診）** 與 **惡性腫瘤相關高血鈣（住院）**。惡性高血鈣機轉以 **PTHrP（humoral）** 與 **溶骨性轉移** 為主。\n\n## 選項分析\n\n- **(A) 約 10% 長期用鋰者高血鈣，一旦造成即使停鋰也無法恢復 ✗** 鋰可干擾鈣感受器（CaSR）使 PTH/鈣升高，但 **多數停藥後可改善**（部分長期者可能持續），「即使停鋰仍無法恢復」過於絕對。\n- **(B) FHH 是體染色體隱性，因鈣感受器基因突變引起 ✗** FHH 是 **體染色體顯性（autosomal dominant）**，因 **CaSR（鈣感受器）失活突變**，表現無症狀高血鈣、低尿鈣（鈣/肌酐清除比 <0.01），PTH 正常或略高。遺傳模式寫錯。\n- **(C) 小細胞癌與腺癌常骨轉移但少引起高血鈣；鱗狀細胞癌較常高血鈣 ✓（正確答案）** **肺鱗狀細胞癌** 最常分泌 **PTHrP** 造成 humoral hypercalcemia；小細胞癌與腺癌相對少見高血鈣，符合臨床。\n- **(D) 原發性副甲狀腺亢進約 80% 為單一腺瘤；副甲狀腺癌侵襲性強存活很短 ✗** 約 **80–85% 為單一腺瘤** 正確，但 **副甲狀腺癌雖罕見且侵襲，並非「存活期很短」**，許多為惰性、長期帶病存活，主要死因是難控制的高血鈣而非快速致死，敘述過度。\n- **(E) calcitonin 起效比 denosumab/pamidronate 快，可能副作用是嚴重低血鈣 ✗** calcitonin **起效快（數小時）** 正確，但效果短暫且會 **快速耐受（tachyphylaxis）**；其副作用非「嚴重低血鈣」。會造成嚴重低血鈣的反而是 **denosumab/bisphosphonate**（尤其腎功能差、維他命 D 不足者）。\n\n## 易混淆與進階補充\n\n- **惡性高血鈣機轉**：① PTHrP（鱗癌、頭頸、腎、乳）② 溶骨性轉移（乳癌、骨髓瘤）③ 1,25-(OH)2D 上升（淋巴瘤、肉芽腫）④ 異位 PTH（極罕見）。\n- **PTH 區分**：原發副甲亢 PTH↑；惡性高血鈣多 **PTH 被抑制、PTHrP↑**。\n- **急性高血鈣治療**：大量生理食鹽水補液 → calcitonin（快但短）→ bisphosphonate/denosumab（慢但持久）。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 肺癌高血鈣 | **鱗狀細胞癌（PTHrP）** 最常 |\n| FHH | 體染色體**顯性**、CaSR 突變、低尿鈣 |\n| 原發副甲亢 | 80–85% 單一腺瘤 |\n| calcitonin | 起效快但短、會耐受 |\n| 嚴重低血鈣風險 | denosumab/bisphosphonate |\n| 惡性高血鈣 PTH | 被抑制、PTHrP↑ |",
+      "sources": [
+        {
+          "text": "Williams Textbook of Endocrinology: Hypercalcemia"
+        },
+        {
+          "text": "Harrison's Principles of Internal Medicine: Disorders of Calcium Metabolism"
+        }
+      ]
+    }
   },
   {
     "id": "112-S105",
@@ -18987,7 +19098,22 @@
       }
     ],
     "answer": "D",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**反向題：糖胖症敘述「有誤」者，答案 D。** 運動有益，但「運動強度愈強就愈能降低糖尿病發病率且降低心血管死亡率」過度且不符證據——心血管獲益與運動量/規律性相關而非單純「強度愈強愈好」，且過強運動風險增加，故 D 為錯誤敘述。其餘 A、B、C、E 皆為正確的糖胖症概念。",
+      "detail": "## 概念架構：糖胖症（Diabesity）與生活型態介入\n\n糖胖症指 **肥胖（尤其中心型）與第2型糖尿病並存、互為因果**。介入核心是 **體重管理（飲食 + 運動）**，可改善血糖；但對「心血管死亡率」的影響需依證據謹慎陳述（如 Look AHEAD 試驗：強化生活型態減重改善多項代謝指標與部分結局，但未顯著降低主要心血管事件）。\n\n## 選項分析\n\n- **(A) 計畫性飲食與運動降低的體重主要為脂肪組織 ✓** 適當熱量控制 + 運動，減去的以 **脂肪** 為主，並盡量保留肌肉，正確。\n- **(B) 與心血管疾病密切相關的肥胖型態是中心性腹部肥胖 ✓** **內臟/中心型肥胖（central abdominal obesity）** 與胰島素阻抗、代謝症候群、心血管風險最相關，正確。\n- **(C) 營養諮詢與體重管理可改善血糖/HbA1c，但目前研究未顯示降低心血管死亡率 ✓** 與 **Look AHEAD** 結果一致：強化生活型態改善血糖、體重、危險因子，但 **未顯著降低心血管死亡/事件**，正確。\n- **(D) 運動強度愈強，愈能降低糖尿病發病率也降低心血管死亡率 ✗（正確答案）** 過度簡化且不符證據：心血管與糖尿病獲益主要來自 **規律的中等強度運動量（總量）**，「強度愈強愈好」並無一致證據，且過強運動反而增加風險。此為錯誤敘述。\n- **(E) 計畫性飲食與規律足量運動可降低糖尿病發病率，關鍵機轉為控制體重 ✓** 如 **Diabetes Prevention Program（DPP）** 顯示生活型態介入（減重約 7%）使糖尿病發生率下降約 58%，關鍵在 **減重**，正確。\n\n## 易混淆與進階補充\n\n- **DPP 試驗**：生活型態介入降低 T2DM 發生率約 58%，優於 metformin（約 31%）。\n- **Look AHEAD**：強化生活型態減重雖改善血糖、血壓、睡眠呼吸中止、部分腎眼結局，但 **主要心血管終點未達顯著**。\n- **運動建議**：每週至少 150 分鐘中等強度有氧 + 阻力訓練 2–3 次；總運動量與規律性比單純追求高強度更能持久且安全。\n- **減重藥物與手術**：當生活型態不足時，GLP-1 RA（如 semaglutide）、GLP-1/GIP 雙重促效劑（tirzepatide）可同時減重與改善血糖；BMI 達標者 **代謝手術（bariatric/metabolic surgery）** 對 T2DM 緩解效果顯著（STAMPEDE 試驗）。\n- **體重與血糖關係**：減重約 5–10% 即可明顯改善胰島素阻抗、血壓與血脂；減重 >15% 部分病人可達糖尿病緩解。\n- **過度運動風險**：增殖性視網膜病變、嚴重自主神經病變、足部潰瘍者需調整運動型態，避免不當高強度運動造成傷害。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 糖胖症 | 肥胖（中心型）+ T2DM 互為因果 |\n| 高風險肥胖型 | 中心性腹部肥胖 |\n| 減重組成 | 主要為脂肪 |\n| DPP | 生活型態減 58% 糖尿病發生 |\n| Look AHEAD | 改善代謝但未降心血管終點 |\n| 運動 | 規律中等強度量為主，非愈強愈好 |",
+      "sources": [
+        {
+          "text": "Diabetes Prevention Program (DPP), NEJM 2002"
+        },
+        {
+          "text": "Look AHEAD Trial, NEJM 2013"
+        },
+        {
+          "text": "ADA Standards of Care"
+        }
+      ]
+    }
   },
   {
     "id": "112-S106",
@@ -19017,7 +19143,19 @@
       }
     ],
     "answer": "C",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**問哪一個降血糖藥物機轉「非胰島素相關（不依賴胰島素分泌/作用）」，答案 C（SGLT2 抑制劑）。** SGLT2 抑制劑作用於近端腎小管抑制葡萄糖再吸收、由尿排糖，**完全不依賴胰島素**；其餘 GLP-1 RA、DPP-4i、SU、TZD 皆透過促胰島素分泌或改善胰島素敏感性等與胰島素相關機轉，故 C 為答案。",
+      "detail": "## 概念架構：降血糖藥物與胰島素的關係\n\n降糖藥可分為 **依賴胰島素（促分泌或增敏）** 與 **不依賴胰島素** 兩大類。SGLT2 抑制劑是唯一以「腎臟排糖」獨立於胰島素的機轉。\n\n| 藥物 | 機轉 | 與胰島素關係 |\n|---|---|---|\n| GLP-1 RA | 葡萄糖依賴性促胰島素、抑 glucagon、延緩胃排空 | **依賴**（促分泌）|\n| DPP-4i | 抑制 DPP-4、延長內生 GLP-1/GIP | **依賴**（促分泌）|\n| **SGLT2i** | 抑近端腎小管 SGLT2、尿排糖 | **不依賴** |\n| SU | 直接刺激 β 細胞 KATP 通道釋胰島素 | **依賴**（促分泌）|\n| TZD | 活化 PPAR-γ、增加周邊胰島素敏感性 | **依賴**（增敏）|\n\n## 選項分析\n\n- **(A) GLP-1 RA ✗（非答案）** 經 incretin 路徑 **葡萄糖依賴性促胰島素分泌**、抑制升糖素，屬胰島素相關機轉。\n- **(B) DPP-4 抑制劑 ✗（非答案）** 抑制 DPP-4 酶、提高內生 incretin，間接 **促胰島素分泌**，仍與胰島素相關。\n- **(C) SGLT2 抑制劑 ✓（正確答案）** 阻斷近端腎小管葡萄糖再吸收、**經尿液排糖**，作用 **完全不依賴胰島素分泌或作用**，故為「非胰島素相關」者。\n- **(D) Sulfonylurea ✗（非答案）** 直接刺激 β 細胞釋放胰島素，明確依賴胰島素，且易低血糖。\n- **(E) Thiazolidinedione ✗（非答案）** 經 PPAR-γ 改善 **胰島素敏感性**，需有胰島素存在才發揮作用，屬胰島素相關。\n\n## 易混淆與進階補充\n\n- **「不依賴胰島素」的臨床意義**：SGLT2i 在胰島素分泌嚴重不足者仍有效，但也因此在缺胰島素時可能誘發 **euglycemic DKA（正常血糖酮酸中毒）**，使用時須注意。\n- **心腎獲益**：SGLT2i（EMPA-REG、DAPA-HF、DAPA-CKD、CREDENCE）有心衰與腎臟保護，且機轉獨立於降糖。\n- **metformin**：主要抑制肝糖新生、增敏，亦屬不直接刺激胰島素分泌者（但本題未列）；單獨使用不易低血糖。\n- **低血糖風險對比**：依賴促胰島素分泌的 **SU 低血糖風險高**；而 SGLT2i、metformin、TZD、DPP-4i 單用低血糖風險低，因其機轉為葡萄糖依賴或不經促分泌。\n- **題目陷阱**：注意 DPP-4i 雖是「酶抑制劑」，但其降糖最終仍透過 incretin **促胰島素分泌**，屬胰島素相關；勿因「酶抑制」字面而誤判為不依賴胰島素。\n\n## 重點整理表\n\n| 藥物 | 是否依賴胰島素 |\n|---|---|\n| GLP-1 RA | 依賴（促分泌）|\n| DPP-4i | 依賴（促分泌）|\n| **SGLT2i** | **不依賴（尿排糖）** |\n| Sulfonylurea | 依賴（促分泌）|\n| TZD | 依賴（增敏）|\n| 風險提醒 | SGLT2i 可致 euglycemic DKA |",
+      "sources": [
+        {
+          "text": "ADA Standards of Care in Diabetes"
+        },
+        {
+          "text": "Williams Textbook of Endocrinology: Pharmacotherapy of Type 2 Diabetes"
+        }
+      ]
+    }
   },
   {
     "id": "112-S107",
@@ -19047,7 +19185,19 @@
       }
     ],
     "answer": "E",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**反向題：糖尿病藥物敘述「錯誤」者，正解 E =（1）+（3）+（5）。** Metformin 在 eGFR<30 應停用（1 錯）；ADA 一般 HbA1c 目標 <7%（非 <6%）（3 錯）；eGFR<60 仍可用胰島素與部分 GLP-1 RA、不需避免（5 錯）。SU 易低血糖與增重（2 對）、SGLT2i 降糖兼減重（4 對），故錯誤者為 E。",
+      "detail": "## 概念架構：糖尿病藥物與腎功能/血糖目標\n\n本題考 **腎功能對用藥的限制** 與 **血糖控制目標**。需熟記 metformin 的 eGFR 界線、ADA 的 HbA1c 目標、以及針劑藥（胰島素、GLP-1 RA）在腎病的可用性。\n\n## 逐項判讀\n\n- **(1) Metformin 可安全用於 eGFR <30 ✗（錯誤）** Metformin 在 **eGFR <30 應停用**（乳酸中毒風險）；eGFR 30–45 須減量並謹慎。故此為錯誤敘述（屬答案）。\n- **(2) SU 易低血糖與體重上升 ✓（正確）** 磺醯尿素直接促胰島素分泌，**低血糖與增重** 是其典型副作用，正確。\n- **(3) ADA 建議 HbA1c 應控制 <6% ✗（錯誤）** ADA 一般成人目標為 **HbA1c <7%**（依個別化可更嚴或放寬，如年長/低血糖風險者放寬）；<6% 過嚴非一般建議。故為錯誤（屬答案）。\n- **(4) SGLT2i 降糖時通常伴隨減重 ✓（正確）** 尿排糖造成熱量流失，**降糖同時減重、降血壓**，正確。\n- **(5) eGFR <60 應避免使用胰島素及 GLP-1 RA 針劑 ✗（錯誤）** **胰島素在任何腎功能皆可用**（甚至腎衰時更常依賴，僅需調量）；多數 **GLP-1 RA 在中度腎功能不全仍可用**（部分至 eGFR 15–30，dulaglutide/liraglutide/semaglutide 不需大幅限制）。故「應避免」錯誤（屬答案）。\n\n故錯誤組合為 **(1)+(3)+(5)**，選 E。\n\n## 選項分析\n\n- **(A)(1)+(4)+(5) ✗** 含正確的 (4)，不是純錯誤組。\n- **(B)(2)+(4)+(5) ✗** 含正確的 (2)、(4)。\n- **(C)(3)+(4)+(5) ✗** 含正確的 (4)。\n- **(D)(1)+(3)+(4) ✗** 含正確的 (4)。\n- **(E)(1)+(3)+(5) ✓（正確答案）** 三項皆為錯誤敘述。\n\n## 易混淆與進階補充\n\n- **腎功能與藥物**：SGLT2i 多數可用至 eGFR ≥20–25（依適應症，腎/心臟保護仍有益）；SU（尤其 glyburide）腎差易低血糖宜避免；DPP-4i 多需依腎功能減量（linagliptin 不需）。\n- **個別化 HbA1c**：年輕、病程短、無併發症者可 <6.5%；年長、多共病、低血糖高風險者放寬至 7.5–8%。\n\n## 重點整理表\n\n| 藥物/目標 | 重點 |\n|---|---|\n| Metformin | eGFR <30 停用 |\n| Sulfonylurea | 低血糖 + 增重 |\n| ADA HbA1c | 一般 <7%（個別化）|\n| SGLT2i | 降糖兼減重，腎/心保護 |\n| 胰島素 | 任何腎功能可用，調量 |\n| GLP-1 RA | 中度腎功能仍多可用 |",
+      "sources": [
+        {
+          "text": "ADA Standards of Care in Diabetes (current)"
+        },
+        {
+          "text": "KDIGO Diabetes in CKD Guideline"
+        }
+      ]
+    }
   },
   {
     "id": "112-S108",
@@ -19077,7 +19227,22 @@
       }
     ],
     "answer": "A",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**TZD（以 pioglitazone 為例）副作用，正解 A =（1）+（3）+（5）。** TZD 經 PPAR-γ 造成 **體重與脂肪組織增加（3、5，水鈉滯留 + 脂肪生成）** 與 **骨質流失/骨折風險上升（1）**。Pioglitazone 並不增加腦中風（4 錯，PROactive 顯示對中風並無增加甚至次級終點有利），亦非以認知障礙為典型副作用（2），故選 A。",
+      "detail": "## 概念架構：Thiazolidinedione（TZD）藥理與副作用\n\nTZD（pioglitazone、rosiglitazone）活化 **PPAR-γ**，增加周邊胰島素敏感性。其副作用源於 **水鈉滯留、脂肪生成與骨代謝影響**。\n\n## TZD 主要副作用\n\n| 副作用 | 機轉 |\n|---|---|\n| **體重增加、脂肪組織增加** | 水鈉滯留 + 皮下脂肪生成 |\n| **水腫、心衰惡化** | 遠端腎小管鈉再吸收增加 |\n| **骨折/骨質疏鬆** | 抑制成骨、促脂肪細胞分化，尤以停經女性 |\n| 膀胱癌風險（pioglitazone）| 觀察性關聯，需注意 |\n\n## 逐項判讀\n\n- **(1) 骨質疏鬆 ✓** TZD 抑制成骨細胞、促骨髓間質細胞往脂肪分化，**增加骨折風險**（女性尤甚），正確。\n- **(2) 認知障礙 ✗** 並非 TZD 的典型/確立副作用（pioglitazone 甚至曾被探討對認知中性或潛在有益），不列入。\n- **(3) 體重增加 ✓** 典型副作用，正確。\n- **(4) 腦中風 ✗** **PROactive 試驗** 顯示 pioglitazone **未增加且對複合心血管終點（含中風復發）有利傾向**，並非增加中風，故不列入。\n- **(5) 體重及脂肪組織增加 ✓** 與 (3) 同源，水鈉滯留 + 脂肪生成，正確。\n\n故 **(1)+(3)+(5)**，選 A。\n\n## 選項分析\n\n- **(A)(1)+(3)+(5) ✓（正確答案）** 骨疏、增重、脂肪增加皆為 TZD 真正副作用。\n- **(B)(3)+(4)+(5) ✗** 含錯誤的 (4) 中風。\n- **(C)(1)+(2)+(5) ✗** 含錯誤的 (2) 認知障礙。\n- **(D)(1)+(2)+(3) ✗** 含錯誤的 (2)。\n- **(E)(2)+(3)+(5) ✗** 含錯誤的 (2)。\n\n## 易混淆與進階補充\n\n- **心衰**：TZD 因水鈉滯留 **禁用於 NYHA III–IV 心衰**；用藥需監測水腫、體重。\n- **Pioglitazone 益處**：改善脂肪肝（NASH）、降三酸甘油酯、IRIS 試驗顯示對胰島素阻抗者降低中風/心肌梗塞復發。\n- **膀胱癌**：pioglitazone 與膀胱癌的關聯尚有爭議，有膀胱癌病史者避免。\n- **骨折特性**：TZD 相關骨折以 **遠端肢體（前臂、手、足）** 為主，女性風險高於男性，使用前評估骨折風險、補足鈣與維他命 D。\n- **與其他增重藥對比**：SU、胰島素、TZD 都會增重；而 metformin、GLP-1 RA、SGLT2i 為體重中性或減重，選藥時可權衡。\n- **臨床定位**：pioglitazone 不易低血糖、可改善脂肪肝與胰島素阻抗，適合阻抗明顯者；但水腫、增重、骨折與心衰風險限制其使用。\n\n## 重點整理表\n\n| 副作用 | 是否為 TZD |\n|---|---|\n| 骨質疏鬆/骨折 | 是 |\n| 體重增加 | 是 |\n| 脂肪組織增加 | 是 |\n| 水腫/心衰惡化 | 是（禁用嚴重心衰）|\n| 腦中風 | 否（PROactive 未增加）|\n| 認知障礙 | 否（非典型副作用）|",
+      "sources": [
+        {
+          "text": "PROactive Trial, Lancet 2005"
+        },
+        {
+          "text": "IRIS Trial, NEJM 2016"
+        },
+        {
+          "text": "Williams Textbook of Endocrinology"
+        }
+      ]
+    }
   },
   {
     "id": "112-S109",
@@ -19107,7 +19272,22 @@
       }
     ],
     "answer": "D",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**問哪種糖尿病藥具「增加尿鈉排除」之機轉，答案 D（SGLT2 抑制劑）。** SGLT2 在近端腎小管同時再吸收 **鈉與葡萄糖**，抑制後造成 **排糖兼排鈉（natriuresis）**，產生利尿、降壓與心腎保護；其餘 SU、biguanide、TZD、insulin 皆無直接促尿鈉排除作用（TZD 反而水鈉滯留），故選 D。",
+      "detail": "## 概念架構：SGLT2 抑制劑與鈉排泄\n\n近端腎小管的 **SGLT2** 共同轉運 **葡萄糖 + 鈉**。抑制後不僅尿糖增加，**尿鈉排除（natriuresis）** 也增加，帶來利尿、降壓、減少前負荷與 **管球回饋（tubuloglomerular feedback）** 調節，是其心腎保護的重要機轉。\n\n## 選項分析\n\n- **(A) Sulfonylurea ✗** 促胰島素分泌降糖，**無促尿鈉排除** 作用。\n- **(B) Biguanide（metformin）✗** 抑制肝糖新生、增敏，無直接利鈉作用。\n- **(C) Thiazolidinedione ✗** PPAR-γ 增敏，反而 **水鈉滯留、水腫**，與排鈉相反。\n- **(D) SGLT2 抑制劑 ✓（正確答案）** 抑制近端小管 SGLT2，**同時排糖與排鈉**，產生滲透性利尿與利鈉，降低血壓與容積負荷，並透過管球回饋降腎絲球高壓。\n- **(E) Insulin ✗** 胰島素反而促進 **遠端腎小管鈉再吸收**（抗利鈉），與排鈉相反。\n\n## 機轉延伸\n\n- **管球回饋**：SGLT2i 使更多鈉到達 macula densa，收縮入球小動脈、降低腎絲球內壓，減少高過濾傷害（解釋 CKD 保護）。\n- **心衰獲益**：利鈉、降前負荷與多重機轉使 SGLT2i 對 HFrEF/HFpEF 均有益（DAPA-HF、EMPEROR 系列）。\n\n## 易混淆與進階補充\n\n- **心腎試驗**：EMPA-REG OUTCOME、CANVAS、DECLARE（心血管）；CREDENCE、DAPA-CKD、EMPA-KIDNEY（腎臟）；DAPA-HF、EMPEROR-Reduced/Preserved（心衰）。\n- **副作用**：泌尿生殖道感染、體液不足/低血壓（尤其併用利尿劑）、euglycemic DKA、罕見 Fournier 壞疽。\n- **與利尿劑的差異**：傳統 thiazide/loop 利尿劑作用於遠端或亨利氏環；SGLT2i 的利鈉作用在 **近端腎小管**，且為「滲透性 + 葡萄糖耦合」型排鈉，效果溫和而持久，較少引起明顯電解質紊亂。\n- **血壓效應**：SGLT2i 約可降收縮壓 3–5 mmHg，部分來自利鈉與體重下降，是其在合併高血壓糖尿病者的附加益處。\n- **血容量監測**：與利尿劑、ACEI/ARB 併用時需注意脫水與急性腎前性腎損傷，老年人尤須留意。\n\n## 重點整理表\n\n| 藥物 | 對尿鈉的影響 |\n|---|---|\n| **SGLT2i** | **增加排鈉（natriuresis）** |\n| Sulfonylurea | 無 |\n| Biguanide | 無 |\n| TZD | 水鈉滯留（相反）|\n| Insulin | 促鈉再吸收（相反）|\n| 臨床效益 | 利尿、降壓、心腎保護 |",
+      "sources": [
+        {
+          "text": "EMPA-REG OUTCOME, NEJM 2015"
+        },
+        {
+          "text": "DAPA-CKD, NEJM 2020"
+        },
+        {
+          "text": "ADA Standards of Care"
+        }
+      ]
+    }
   },
   {
     "id": "112-S110",
@@ -19137,7 +19317,19 @@
       }
     ],
     "answer": "C",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**反向題：胰島素與 GLP-1 RA 敘述「錯誤」者，答案 C。** GLP-1 RA 屬 **第2型糖尿病** 用藥，**未被核准用於第1型糖尿病**（T1DM 胰島功能缺乏、療效有限且增加低血糖/酮酸風險），故「GLP-1 RA 可合併胰島素治療第1型糖尿病並減少胰島素劑量」為錯誤敘述。其餘 A、B、D、E 皆正確。",
+      "detail": "## 概念架構：胰島素與 GLP-1 RA 的合併與適應症\n\nGLP-1 RA 與基礎胰島素是現代 T2DM 常見組合（互補：基礎胰島素管空腹、GLP-1 RA 管餐後並減重、減少胰島素需求）。但 **GLP-1 RA 的適應症為 T2DM**，T1DM 並非其適應症。\n\n## 選項分析\n\n- **(A) 基礎胰島素可合併 GLP-1 RA 協同控糖 ✓** 兩者機轉互補，固定複方（如 IDegLira、IGlarLixi）已上市，協同降糖且減少體重增加與低血糖，正確。\n- **(B) GLP-1 RA 常見副作用為腹脹噁心，胰島素最常見副作用為低血糖 ✓** GLP-1 RA 的腸胃道反應（噁心、腹脹、腹瀉）最常見；胰島素最常見且最重要副作用為 **低血糖**，正確。\n- **(C) GLP-1 RA 可合併胰島素治療第1型糖尿病並減少胰島素劑量 ✗（正確答案）** **GLP-1 RA 未獲核准用於 T1DM**；T1DM 為胰島素絕對缺乏，GLP-1 RA 效益有限，且可能增加低血糖與酮酸風險。故此敘述錯誤，為答案。\n- **(D) GLP-1 RA 降糖時也減輕體重 ✓** GLP-1 RA 延緩胃排空、中樞抑制食慾，**降糖兼減重**（部分藥物如 semaglutide 已用於肥胖治療），正確。\n- **(E) 基礎胰島素起始劑量原則為 0.2 unit/kg/day ✓** 基礎胰島素常見起始為 **10 units/day 或 0.1–0.2 U/kg/day**，再依空腹血糖滴定，正確。\n\n## 易混淆與進階補充\n\n- **固定複方**：IDegLira（degludec + liraglutide）、IGlarLixi（glargine + lixisenatide），簡化注射、改善依從性。\n- **T1DM 輔助藥**：唯一曾在部分地區獲核准的 T1DM 口服輔助是 **SGLT 抑制劑（如 dapagliflozin、低劑量）**，但因 DKA 風險各地核准不一；GLP-1 RA 仍非 T1DM 適應症。\n- **GLP-1 RA 心腎益處**：LEADER、SUSTAIN-6、REWIND 等顯示心血管獲益，部分（如 semaglutide、dulaglutide）也有腎臟保護傾向。\n- **合併使用的低血糖管理**：基礎胰島素 + GLP-1 RA 時，因 GLP-1 RA 降糖且抑食慾，起始或加量時常需 **下調基礎胰島素劑量** 以避免低血糖。\n- **腸胃道副作用處理**：GLP-1 RA 從低劑量逐步上調（titration）可減輕噁心、嘔吐；嚴重持續腹痛需警覺胰臟炎。\n- **禁忌**：GLP-1 RA 在 **甲狀腺髓質癌或 MEN2 病史** 者禁用（動物試驗 C 細胞增生疑慮）。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 基礎胰島素 + GLP-1 RA | 互補、可固定複方 |\n| GLP-1 RA 副作用 | 腸胃道（噁心、腹脹）|\n| 胰島素副作用 | 低血糖 |\n| GLP-1 RA 適應症 | **T2DM，非 T1DM** |\n| GLP-1 RA 體重 | 降糖兼減重 |\n| 基礎胰島素起始 | 約 0.1–0.2 U/kg/day |",
+      "sources": [
+        {
+          "text": "ADA Standards of Care in Diabetes"
+        },
+        {
+          "text": "LEADER / SUSTAIN-6 Trials"
+        }
+      ]
+    }
   },
   {
     "id": "112-S111",
@@ -19167,7 +19359,22 @@
       }
     ],
     "answer": "B",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**已達 LDL 目標但 TG 高達 828 mg/dL，最該加的是 fenofibrate，答案 B。** TG >500（尤其 >885）有 **急性胰臟炎** 風險，首要降 TG，藥物選 **fibrate（fenofibrate）**（±魚油）。病人 LDL 52 已達標、statin 已用，故非加 ezetimibe/PCSK9；niacin 與 cholestyramine 不適（後者反升 TG），故選 fenofibrate。",
+      "detail": "## 概念架構：高三酸甘油酯血症的處置優先序\n\n血脂治療先看 **LDL 是否達標**，再看 **TG 是否極高需防胰臟炎**。本例：糖尿病 + 冠心病（極高風險），**LDL 52 mg/dL 已達標（<55–70）**，但 **TG 828 mg/dL** 屬重度，**胰臟炎風險顯著（TG >500，尤其 >885/1000）**，此時治療重點轉為 **降 TG**。\n\n## 降 TG 的藥物選擇\n\n| 藥物 | 對 TG | 適用本例? |\n|---|---|---|\n| **Fenofibrate（fibrate）** | **大幅降 TG** | **是（首選）** |\n| 高純度魚油（icosapent ethyl）| 降 TG | 可考慮輔助 |\n| Niacin | 降 TG/升 HDL | 副作用多、糖代謝惡化，不優先 |\n| Ezetimibe | 主要降 LDL | LDL 已達標，非所需 |\n| PCSK9 抑制劑 | 降 LDL | LDL 已達標，非所需 |\n| Cholestyramine | 降 LDL、**升 TG** | 高 TG **禁忌** |\n\n## 選項分析\n\n- **(A) Nicotinic acid（niacin）✗** 雖可降 TG、升 HDL，但 **惡化血糖、潮紅、肝毒性**，且大型試驗（AIM-HIGH、HPS2-THRIVE）未顯示心血管益處，非首選。\n- **(B) Fenofibrate ✓（正確答案）** **fibrate 是重度高 TG（防胰臟炎）的首選**，可大幅降 TG；糖尿病合併高 TG/低 HDL 者 fenofibrate 有其角色（與 statin 併用注意肌病，fenofibrate 比 gemfibrozil 安全）。本例最該加。\n- **(C) Ezetimibe ✗** 主要降 LDL，**LDL 52 已達標**，無助於 TG 828 的當務之急。\n- **(D) Cholestyramine ✗** 膽酸結合樹脂降 LDL 但 **會升高 TG**，在高 TG 病人 **禁用**。\n- **(E) PCSK-9 inhibitor ✗** 強效降 LDL，但 LDL 已達標、對 TG 幫助有限，非此情境所需。\n\n## 易混淆與進階補充\n\n- **TG 與胰臟炎**：TG >1000 mg/dL（11.3 mmol/L）胰臟炎風險高；>500 即應積極降 TG，並嚴格生活型態（戒酒、低脂、控糖）。\n- **fibrate + statin**：選 **fenofibrate**（非 gemfibrozil）以降低肌病/橫紋肌溶解風險。\n- **icosapent ethyl（REDUCE-IT）**：在 statin 治療、TG 升高的高風險病人降低心血管事件。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 本例 LDL 52 | 已達標，不需再加 LDL 藥 |\n| 本例 TG 828 | 重度，防胰臟炎為先 |\n| 高 TG 首選 | **Fenofibrate** |\n| 輔助 | 高純度魚油、生活型態 |\n| 高 TG 禁用 | cholestyramine（升 TG）|\n| fibrate 選擇 | fenofibrate（與 statin 較安全）|",
+      "sources": [
+        {
+          "text": "2018 AHA/ACC Cholesterol Guideline"
+        },
+        {
+          "text": "Endocrine Society Hypertriglyceridemia Guideline"
+        },
+        {
+          "text": "REDUCE-IT, NEJM 2019"
+        }
+      ]
+    }
   },
   {
     "id": "112-S112",
@@ -19197,7 +19404,19 @@
       }
     ],
     "answer": "D",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**反覆發作性低血糖、需先確認是否為內生高胰島素，應做 72 小時延長禁食試驗，答案 D。** 病人多次工作中昏倒、急診血糖 32 緩解於給糖，疑似 insulinoma；空腹 8 小時血糖正常無法捕捉，標準診斷流程是 **72 小時 prolonged fasting test**，於出現低血糖時同步測 glucose/insulin/C-peptide/proinsulin/β-hydroxybutyrate 與磺醯尿素篩檢，故選 D。",
+      "detail": "## 概念架構：成人低血糖（疑 insulinoma）的診斷流程\n\n對 **非糖尿病、反覆發作性低血糖** 的病人，關鍵是 **在低血糖當下同步抽血**，證明是否為 **內生性高胰島素**。最標準的誘發方式是 **72 小時延長禁食試驗（prolonged/72-hour fast）**。本例空腹 8 小時血糖 88、胰島素 3.6、C-peptide 2.6 尚未進入低血糖，**無法判讀**，故需以延長禁食誘發低血糖。\n\n## 禁食試驗判讀（出現低血糖、血糖 <55 時）\n\n| 指標 | insulinoma 表現 |\n|---|---|\n| insulin | 不被抑制（≥3 µU/mL）|\n| C-peptide | 不被抑制（≥0.6 ng/mL）|\n| proinsulin | 升高 |\n| β-hydroxybutyrate | 偏低（胰島素抑制酮體生成）|\n| sulfonylurea 篩檢 | 陰性（排除藥物）|\n\n## 選項分析\n\n- **(A) 75 公克葡萄糖耐受試驗 ✗** OGTT 用於診斷糖尿病/反應性低血糖價值有限，**不能診斷 insulinoma**，且給糖反而誤導，不適合。\n- **(B) 24 小時心電圖 ✗** 心律已由心臟科排除；昏倒的原因已鎖定為 **低血糖（血糖 32）**，再做 Holter 無助益。\n- **(C) 腹部電腦斷層 ✗** 影像定位應在 **生化確診內生高胰島素之後** 才做；此時尚未證實低血糖性質，貿然影像可能見到無功能病灶而誤導，順序不對。\n- **(D) 72 小時 prolonged fasting test ✓（正確答案）** 這是診斷內生性高胰島素低血糖（insulinoma）的 **金標準誘發試驗**，於誘發低血糖時同步測 glucose/insulin/C-peptide/proinsulin/β-OHB 與磺醯尿素，先「定性」再定位。\n- **(E) 24 小時心電圖 ✗** 與 (B) 重複，且已排除心律問題，無助益。\n\n## 易混淆與進階補充\n\n- **Whipple's triad**：低血糖症狀 + 血糖 <55 mg/dL + 給糖緩解，本例符合。\n- **鑑別**：insulinoma（C-peptide↑）、外源胰島素（C-peptide 被抑制）、磺醯尿素誤用（C-peptide↑但藥篩陽性）、自體免疫胰島素症候群、IGF-2 相關非胰島細胞瘤性低血糖（insulin/C-peptide 皆低）。\n- **流程順序**：先 **生化定性（禁食試驗）** → 再 **影像定位（CT/MRI/EUS/68Ga-DOTATATE）**。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 臨床 | 反覆發作性低血糖、給糖緩解 |\n| 首要檢查 | **72 小時延長禁食試驗** |\n| 低血糖時抽 | glucose/insulin/C-peptide/proinsulin/β-OHB |\n| 加做 | 磺醯尿素螢光篩檢 |\n| 確診後 | 影像定位（CT/MRI/EUS）|\n| 鑑別 | 外源胰島素 C-peptide 被抑制 |",
+      "sources": [
+        {
+          "text": "Endocrine Society Clinical Practice Guideline: Evaluation and Management of Adult Hypoglycemic Disorders, 2009"
+        },
+        {
+          "text": "Williams Textbook of Endocrinology: Insulinoma"
+        }
+      ]
+    }
   },
   {
     "id": "112-S113",
@@ -20577,7 +20796,19 @@
       }
     ],
     "answer": "D",
-    "subject": "新陳代謝科"
+    "subject": "新陳代謝科",
+    "explanation": {
+      "summary": "**ACTH 偵測不到的 ACTH 非依賴型 Cushing，下一步做腎上腺電腦斷層，答案 D。** 24 小時游離皮質醇極高、**ACTH 測不到** = ACTH-independent Cushing，皮質醇過量來自 **腎上腺本身**，定位應做 **腎上腺 CT**（找腺瘤/腺癌/增生）。ACTH 被抑制就不必查垂體 MRI 或胸部 CT（後兩者用於 ACTH 依賴型），故選 D。",
+      "detail": "## 概念架構：庫欣氏症候群的定位（ACTH 是分水嶺）\n\n確認 Cushing（皮質醇過量）後，**先量 ACTH 區分依賴 vs 非依賴**：\n\n| ACTH | 分類 | 病因 | 定位影像 |\n|---|---|---|---|\n| **低/測不到** | ACTH-independent | **腎上腺腺瘤/腺癌/增生** | **腎上腺 CT** |\n| 正常/升高 | ACTH-dependent | 垂體瘤（Cushing disease）/異位 ACTH | 垂體 MRI、（必要時）IPSS、胸腹 CT 找異位 |\n\n本例：24 小時 free cortisol 3058 nmol（>正常 <160）證實皮質醇過量；**ACTH 偵測不到** → **ACTH 非依賴型**，來源在腎上腺，下一步應 **腎上腺 CT**。\n\n## 選項分析\n\n- **(A) 胸部電腦斷層 ✗** 用於尋找 **異位 ACTH 來源（肺癌/類癌）**，前提是 **ACTH 升高（依賴型）**；本例 ACTH 測不到，無異位之需。\n- **(B) 腦下垂體核磁共振 ✗** 用於 **ACTH 依賴型** 找垂體腺瘤；本例 ACTH 被抑制，垂體並非來源，做 MRI 不對。\n- **(C) 大腸鏡檢查 ✗** 與庫欣氏定位無關，無臨床邏輯。\n- **(D) 腎上腺電腦斷層 ✓（正確答案）** ACTH 非依賴型代表 **腎上腺自主分泌皮質醇**，應以 **腎上腺 CT** 定位單側腺瘤、雙側增生或腎上腺皮質癌（年輕、進展快、皮膚紫紋明顯者尤須警覺腎上腺癌）。\n- **(E) 甲狀腺超音波 ✗** 與本病無關。\n\n## 易混淆與進階補充\n\n- **確認 Cushing 的篩檢**：24 小時尿游離皮質醇、午夜唾液皮質醇、1 mg 隔夜 dexamethasone 抑制試驗（≥2 項陽性）。\n- **年輕女性、快速進展 + 明顯紫紋（striae）+ 新發糖尿病/高血壓 + ACTH 抑制**：要高度警覺 **腎上腺皮質癌（ACC）** 或產雄性素的腎上腺腫瘤，CT 可見大、不均質、邊緣不規則病灶。\n- **下一步治療**：單側腺瘤行腎上腺切除；圍術期需補充類固醇（對側受抑制），術後逐步減量直到 HPA 軸恢復。\n- **ACTH 非依賴的其他病因**：除單側腺瘤/腺癌外，尚有 **雙側大結節腎上腺增生（PBMAH）** 與 **原發性色素結節性腎上腺病（PPNAD，與 Carney complex 相關）**，腎上腺 CT 有助區分。\n- **腎上腺皮質癌（ACC）特徵**：腫瘤通常 >4–6 cm、CT 平掃 Hounsfield 值高、廓清慢、邊緣不規則或鈣化，可同時分泌皮質醇與雄性素導致多毛/痤瘡。\n- **本題影像線索**：腹部皮疹（紫紋）+ 近端肌無力 + 新發糖尿病高血壓提示嚴重皮質醇過量，年輕女性更須警覺腎上腺腫瘤，CT 定位是關鍵下一步。\n\n## 重點整理表\n\n| 步驟 | 重點 |\n|---|---|\n| 確認 Cushing | 尿游離皮質醇↑、dex 不被抑制 |\n| 量 ACTH | 分依賴 vs 非依賴 |\n| ACTH 測不到 | 非依賴 → 腎上腺來源 |\n| 定位影像 | **腎上腺 CT** |\n| ACTH 升高 | 垂體 MRI / 胸腹 CT / IPSS |\n| 警訊 | 年輕快進展 → 腎上腺皮質癌 |",
+      "sources": [
+        {
+          "text": "Endocrine Society Clinical Practice Guideline: Diagnosis of Cushing's Syndrome"
+        },
+        {
+          "text": "Williams Textbook of Endocrinology: Adrenal Cushing's"
+        }
+      ]
+    }
   },
   {
     "id": "112-S159",
