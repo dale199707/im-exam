@@ -334,7 +334,7 @@
   var bar = document.getElementById('boot-bar');
   var pct = document.getElementById('boot-pct');
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', 'questions.json?v=29', true);
+  xhr.open('GET', 'questions.json?v=30', true);
   xhr.onprogress = function (e) {
     if (e.lengthComputable) {
       var p = Math.round(e.loaded / e.total * 100);
