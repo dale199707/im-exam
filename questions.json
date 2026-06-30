@@ -18798,7 +18798,19 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**退伍軍人症（Legionellosis）為非題，正解 C。** 第三代頭孢子素（如 ceftriaxone）對 Legionella 無效，因 Legionella 為細胞內病原，β-lactam 無法穿透細胞作用；治療首選為呼吸道 fluoroquinolone（levofloxacin/moxifloxacin）或巨環類（azithromycin），故 C 敘述錯誤為答案。其餘 A、B、D、E 皆為正確敘述。",
+      "detail": "## 概念架構：退伍軍人症的病原與治療邏輯\n\n**退伍軍人症（Legionnaires' disease）** 由 **Legionella pneumophila** 引起，是非典型肺炎（atypical pneumonia）的重要病原。其關鍵特性是 **兼性細胞內寄生（facultative intracellular pathogen）**，會在肺泡巨噬細胞（alveolar macrophage）內複製。這一點直接決定了治療藥物的選擇：**無法穿透細胞、缺乏細胞內活性的抗生素（如所有 β-lactam，包含頭孢子素）對 Legionella 無效**。能進入細胞達到有效濃度的藥物才有用，即 **fluoroquinolone（levofloxacin、moxifloxacin）** 與 **macrolide（azithromycin）**，此為首選；次選 doxycycline。\n\n本題為「敘述為非」的反向題，要找出錯誤的一項。\n\n## 微生物與流行病學特性\n\n- Legionella 為 **嗜氧性、革蘭氏陰性桿菌**，營養需求特殊，培養需 **BCYE（buffered charcoal yeast extract）培養基**，且需 L-cysteine 與鐵。\n- 主要存在於 **水環境**：冷卻水塔、熱水系統、噴泉、加濕器等。經由 **吸入受汙染的氣霧/飛沫（aerosol）** 致病，**不會人傳人**。潛伏期約 2–10 天。\n- 診斷常用 **尿液抗原（urinary antigen）**，但只能偵測 serogroup 1。\n\n## 選項分析\n\n- **A. Legionella 為嗜氧革蘭氏陰性桿菌，主要 L. pneumophila 致病 — ✓** 正確。L. pneumophila 占人類感染絕大多數（尤其 serogroup 1）。\n- **B. 飛沫/氣霧吸入受汙染水源致病，潛伏期 2–10 天 — ✓** 正確。退伍軍人症典型潛伏期 2–10 天（Pontiac fever 型則更短）。\n- **C. 用 10–14 天第三代頭孢子素（ceftriaxone）可有效治療 — ✗（正確答案）** 錯誤。Legionella 為細胞內病原，**β-lactam（含第三代頭孢子素）無細胞內活性，治療無效**。正確治療為 **fluoroquinolone（levofloxacin 750 mg/day）或 azithromycin**，療程約 5–10 天（免疫低下或重症可延長）。\n- **D. 醫院供水可用二氧化氯或銅-銀離子交換消毒 — ✓** 正確。這些都是控制供水系統 Legionella 的標準方法，另含過熱沖洗（superheat-and-flush，>60°C）。\n- **E. 可造成肺外感染如腹膜炎、腎盂腎炎 — ✓** 正確。雖以肺炎為主，少數可有肺外表現（心內膜炎、腎盂腎炎、腹膜炎、蜂窩組織炎），常見於免疫低下者。\n\n## 易混淆與進階補充\n\n- **臨床線索**：肺炎合併 **相對性心搏過緩（relative bradycardia）、低血鈉（hyponatremia）、腹瀉、肝功能異常、神經混亂、CRP 顯著升高** 時要想到 Legionella。\n- **Pontiac fever**：Legionella 引起的自限性流感樣疾病，不侵犯肺實質，不需抗生素。\n- **為何 macrolide/quinolone 有效**：兩者皆能濃集於巨噬細胞內，達到細胞內殺菌濃度。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 病原 | Legionella pneumophila（serogroup 1 為主）|\n| 菌特性 | 嗜氧革蘭氏陰性桿菌、細胞內寄生 |\n| 培養基 | BCYE（含 L-cysteine、鐵）|\n| 傳播 | 吸入受汙染水氣霧，不人傳人，潛伏 2–10 天 |\n| 首選治療 | Fluoroquinolone 或 azithromycin |\n| 無效藥物 | β-lactam（含 ceftriaxone）— 無細胞內活性 |\n| 診斷 | 尿液抗原（限 serogroup 1）、培養、PCR |\n| 供水消毒 | 二氧化氯、銅-銀離子、過熱沖洗 |",
+      "sources": [
+        {
+          "text": "Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, Legionella chapter"
+        },
+        {
+          "text": "IDSA/ATS Community-acquired Pneumonia Guidelines 2019"
+        }
+      ]
+    }
   },
   {
     "id": "112-S78",
@@ -18942,7 +18954,19 @@
       }
     ],
     "answer": "A",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**庫賈氏病（CJD）/普利昂（prion）整合題，正解 A：(2)+(3)+(4)。** (2) 臨床症狀、(3) v-CJD 與 BSE 相關且發病較年輕、(4) 照護一般防護加正確消毒即可，三者正確。(1) 普利昂可跨種傳播（如 BSE→v-CJD），「僅限同種」錯誤；(5) prion 對紫外線/輻射/一般消毒劑強抵抗，需高壓滅菌+NaOH/次氯酸鈉，敘述錯誤，故選 A。",
+      "detail": "## 概念架構：普利昂（Prion）疾病的本質\n\n**庫賈氏病（Creutzfeldt-Jakob disease, CJD）** 屬於 **傳播性海綿狀腦病（transmissible spongiform encephalopathy, TSE）**。致病原為 **普利昂蛋白（prion, PrPSc）**，是正常細胞蛋白 PrPC 發生 **構形錯誤折疊（misfolding）** 後具感染力的版本，**不含核酸（DNA/RNA）**，卻能誘導正常蛋白也錯折而「繁殖」。\n\n本題為「何項組合最正確」整合題，需逐項判讀真偽。\n\n## 逐項判讀\n\n**(1) Prion 不含核酸但有感染力，僅限同種動物間傳染 — 錯誤**\n前半正確（無核酸、有感染力），但 **「僅限同種間傳染」錯誤**。最著名的反例就是 **牛海綿狀腦病（BSE，狂牛症）跨種傳染給人 → 新型 v-CJD**，證明 prion 可跨物種傳播（存在物種屏障但非絕對）。\n\n**(2) 臨床症狀含記憶喪失、混淆、進行性痴呆、運動失調、喪失語言能力 — 正確**\n散發型 CJD 典型為 **快速進行性失智（rapidly progressive dementia）+ 肌陣攣（myoclonus）+ 小腦運動失調**，數月內惡化，預後極差。\n\n**(3) v-CJD 與 BSE 高度相關，發病較散發型年輕 — 正確**\nv-CJD 由食用受 BSE 汙染牛肉製品而來，**發病年齡顯著較年輕（中位約 28 歲）**，相對於散發型 CJD（多 60 歲以上）；臨床早期常以精神症狀與感覺異常表現。\n\n**(4) 照護不需特別隔離，一般防護加正確消毒即可 — 正確**\nCJD **不經飛沫或一般接觸人傳人**，照護病患採標準防護即可；風險主要在 **接觸高感染性組織（腦、脊髓、眼）的侵入性器械**，須正確去汙/銷毀。\n\n**(5) Prion 對一般物理化學法強抵抗，須用紫外線、輻射、消毒劑消毒 — 錯誤**\n前半「強抵抗」正確，但 **「用紫外線、輻射、一般消毒劑即可」錯誤**。Prion **對紫外線、游離輻射、福馬林、酒精、一般消毒劑高度抵抗**，這些方法 **無效**。有效去活化需 **高壓蒸氣滅菌（134°C 延長時間）合併 1 N NaOH 或次氯酸鈉（含氯漂白水）浸泡**，高風險器械常直接銷毀。\n\n## 選項分析\n\n- **A. (2)+(3)+(4) ✓（正確答案）** 三項皆正確。\n- **B. (2)+(3)+(5) ✗** 含錯誤的 (5)。\n- **C. (1)+(2)+(3)+(5) ✗** 含錯誤的 (1)、(5)。\n- **D. (2)+(3)+(4)+(5) ✗** 含錯誤的 (5)。\n- **E. 全選 ✗** 含錯誤的 (1)、(5)。\n\n## 記憶口訣\n\n> Prion：**無核酸、可跨種**（BSE→人 v-CJD）；**消毒怕高壓+強鹼/漂白水，不怕紫外線/酒精/輻射**。\n\n## 易混淆與進階補充\n\n- **診斷輔助**：腦脊髓液 **14-3-3 蛋白、RT-QuIC**、腦電圖週期性尖波複合（PSWC，散發型較典型）、MRI DWI 出現皮質帶狀/基底核高訊號（cortical ribboning）。\n- **散發 vs 變異型**：散發型多 60+ 歲、病程數月、EEG PSWC、MRI 基底核；v-CJD 較年輕、病程較長、MRI 丘腦後結節「pulvinar sign」。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 致病原 | Prion（PrPSc），無核酸、有感染力 |\n| 跨種傳播 | 可（BSE→人 v-CJD），非僅限同種 |\n| 散發型 CJD | 快速失智+肌陣攣+小腦失調，多 60+ 歲 |\n| v-CJD | 與 BSE 相關，發病較年輕 |\n| 隔離 | 不人傳人，標準防護即可 |\n| 消毒 | 高壓滅菌+1N NaOH/次氯酸鈉；UV/酒精/輻射無效 |\n| 診斷 | RT-QuIC、14-3-3、EEG PSWC、MRI DWI |",
+      "sources": [
+        {
+          "text": "Harrison's Principles of Internal Medicine, Prion Diseases chapter"
+        },
+        {
+          "text": "WHO Infection Control Guidelines for Transmissible Spongiform Encephalopathies"
+        }
+      ]
+    }
   },
   {
     "id": "112-S82",
@@ -18972,7 +18996,19 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**A 型肝炎（Hepatitis A）正向題，正解 B。** HAV 主要經糞口途徑傳播（受汙染食物/水），也可經性接觸（尤其男男性行為者）傳染，故 B 正確。A 錯在 HAV 是 RNA 病毒（非 DNA）且為無套膜小 RNA 病毒對酒精抵抗；C 錯在常會發燒；D 錯在最具傳染力時期是黃疸前 1–2 週；E 錯在疫苗需 2 劑。",
+      "detail": "## 概念架構：A 型肝炎病毒（HAV）特性\n\n**A 型肝炎病毒（Hepatitis A virus, HAV）** 屬 **Picornaviridae（小 RNA 病毒科）**，為 **無套膜（non-enveloped）、單股正鏈 RNA 病毒**。因無脂質套膜，**對酒精、乙醚等溶劑抵抗力強**，環境耐受性高（耐酸、耐熱相對較佳），需 **煮沸或含氯消毒** 才能有效去活化。\n\n本題為正向題，找出唯一正確敘述。\n\n## 選項分析\n\n- **A. 無套膜單股 DNA 病毒，酒精可消毒 — ✗** 兩處皆錯：HAV 是 **RNA 病毒**（非 DNA）；且 **無套膜病毒對酒精相對抵抗**，酒精消毒不可靠，需含氯漂白水或煮沸。\n- **B. 主要經糞口途徑，攝入受汙染食物/水感染，也可經性接觸傳染 — ✓（正確答案）** 正確。糞口為主；近年 **男男性行為（MSM）族群常見性接觸傳播之 A 肝群聚**，故安全性行為與疫苗接種為重點。\n- **C. 症狀含倦怠、食慾不振、嘔吐、噁心、黃疸，但不會發燒 — ✗** 錯。急性 A 肝 **常有發燒**（前驅期發燒、肌痛、倦怠很常見），「不會發燒」錯誤。\n- **D. 不致慢性肝炎，但症狀消退或黃疸 1 週後仍高傳染力 — ✗** 前半正確（HAV 不致慢性化），但 **傳染力最高是在黃疸出現前 1–2 週（症狀前期）**，黃疸出現後傳染力快速下降，「黃疸 1 週後仍高傳染力」錯誤。\n- **E. 疫苗效果佳，僅須 1 劑即可長期保護 — ✗** 錯。A 肝疫苗為 **不活化疫苗，需 2 劑（間隔 6–12 個月）** 才提供長期保護。\n\n## 易混淆與進階補充\n\n- **血清學診斷**：急性感染看 **anti-HAV IgM 陽性**；既往感染或接種後免疫看 **anti-HAV IgG/total 陽性**。\n- **臨床病程**：兒童常無症狀，成人症狀較明顯；**極少數可猛爆性肝炎**，整體不致慢性化、不致肝硬化/肝癌。\n- **暴露後預防（PEP）**：健康者 **疫苗** 為主；免疫低下、慢性肝病、>40 歲或幼兒可加/改用 **免疫球蛋白（Ig）**，需於暴露後 2 週內。\n- **與 E 肝對比**：HEV 同為糞口、RNA、不致慢性（除免疫低下者），孕婦 HEV 死亡率高。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 病毒分類 | Picornavirus，無套膜、單股 RNA |\n| 消毒 | 對酒精抵抗，需含氯/煮沸 |\n| 傳播 | 糞口為主，亦可性接觸（MSM）|\n| 症狀 | 發燒、倦怠、噁心、黃疸；不致慢性 |\n| 最高傳染力 | 黃疸前 1–2 週（症狀前期）|\n| 疫苗 | 不活化，需 2 劑 |\n| 急性診斷 | anti-HAV IgM 陽性 |\n| 暴露後預防 | 疫苗±免疫球蛋白，2 週內 |",
+      "sources": [
+        {
+          "text": "CDC Pink Book: Hepatitis A"
+        },
+        {
+          "text": "Harrison's Principles of Internal Medicine, Acute Viral Hepatitis chapter"
+        }
+      ]
+    }
   },
   {
     "id": "112-S83",
@@ -19002,7 +19038,19 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**ESKAPE 抗藥菌整合題，正解 E：(4)+(5)。** (4) 畜牧業使用抗生素確與人類抗藥菌感染相關、(5) 台灣 CRKP 主要與 OXA-48 型碳青黴烯酶相關，兩者正確。(1) 社區型 MRSA（CA-MRSA）存在，不可不考慮；(2) Linezolid 雖屬抑菌型但是治療 VRE 菌血症的選項；(3) 社區型感染不應一律用後線抗生素，三者皆錯，故選 E。",
+      "detail": "## 概念架構：ESKAPE 與抗藥性策略\n\n**ESKAPE** 指六大臨床棘手抗藥菌：**E**nterococcus faecium（VRE）、**S**taphylococcus aureus（MRSA）、**K**lebsiella pneumoniae（含 CRKP/ESBL）、**A**cinetobacter baumannii、**P**seudomonas aeruginosa、**E**nterobacter species。它們「逃脫（escape）」常規抗生素。本題為整合判讀題，需逐項辨真偽。\n\n## 逐項判讀\n\n**(1) MRSA 多為院內感染，社區感染不需考慮 MRSA — 錯誤**\n**社區型 MRSA（CA-MRSA）** 是重要且日益常見的病原，常帶 **PVL（Panton-Valentine leukocidin）毒素**，造成皮膚軟組織膿瘍、壞死性肺炎，發生於年輕健康者。社區感染 **必須** 考慮 CA-MRSA。\n\n**(2) Linezolid 為抑菌型，不適合治療 VRE 菌血症 — 錯誤**\nLinezolid 確屬 **抑菌型（bacteriostatic）**，但臨床上仍是 **VRE 菌血症的可選治療藥物之一**（另有 daptomycin 為殺菌型，常用於菌血症）。「抑菌就不能用於菌血症」推論錯誤。\n\n**(3) 社區感染也須一律使用後線抗生素以免失敗 — 錯誤**\n違背 **抗生素管理（antimicrobial stewardship）** 原則。應依當地流行病學與經驗性指引選藥，過度使用後線藥反而 **加速抗藥性、增加副作用與成本**。\n\n**(4) 畜牧業使用抗生素與人類抗藥菌感染有關 — 正確**\n動物飼養（含生長促進劑用途）大量使用抗生素，會 **篩選出抗藥菌並透過食物鏈/環境傳給人**，是 One Health 觀點下的重要議題。\n\n**(5) 台灣 CRKP 主要與 OXA-48 碳青黴烯酶相關 — 正確**\n依本題設定，台灣 **carbapenem-resistant K. pneumoniae** 的重要機轉包含 **OXA-48 型碳青黴烯酶**（另常見 KPC、NDM 等），此敘述視為正確。\n\n## 選項分析\n\n- **A. (1)+(3) ✗** 兩項皆錯。\n- **B. (1)+(2)+(3)+(4) ✗** 含錯誤的 (1)(2)(3)。\n- **C. (2)+(4) ✗** 含錯誤的 (2)。\n- **D. (2)+(4)+(5) ✗** 含錯誤的 (2)。\n- **E. (4)+(5) ✓（正確答案）** 兩項皆正確。\n\n## 記憶口訣\n\n> ESKAPE = **E**fm-VRE、**S**.aureus-MRSA、**K**lebsiella、**A**cinetobacter、**P**seudomonas、**E**nterobacter。社區也有 MRSA；VRE 菌血症用 daptomycin/linezolid；抗生素管理＝不濫用後線。\n\n## 易混淆與進階補充\n\n- **碳青黴烯酶分類**：KPC（class A）、NDM/IMP/VIM（class B 金屬酶 MBL）、OXA-48（class D）。新藥 **ceftazidime-avibactam** 對 KPC、OXA-48 有效但對 MBL 無效；MBL 需加 aztreonam 或用 cefiderocol。\n- **VRE 治療**：菌血症首選 daptomycin（高劑量）或 linezolid；單純泌尿道可用 nitrofurantoin/fosfomycin。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| ESKAPE | E.faecium/S.aureus/Klebsiella/Acinetobacter/Pseudomonas/Enterobacter |\n| CA-MRSA | 社區存在，常帶 PVL，年輕健康者 |\n| VRE 菌血症 | daptomycin（殺菌）、linezolid（抑菌）|\n| 抗生素管理 | 依指引選藥，避免濫用後線 |\n| 畜牧抗生素 | 與人類抗藥菌相關（One Health）|\n| CRKP 機轉 | KPC、NDM、OXA-48 等碳青黴烯酶 |\n| 新藥 | ceftazidime-avibactam（KPC/OXA-48）|",
+      "sources": [
+        {
+          "text": "WHO Global Priority Pathogens List (ESKAPE)"
+        },
+        {
+          "text": "CDC Antibiotic Resistance Threats Report"
+        }
+      ]
+    }
   },
   {
     "id": "112-S84",
@@ -19032,7 +19080,19 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**潛伏結核（LTBI）篩檢於曾接種 BCG 者，正解 C：干擾素釋放試驗（IGRA）。** 此員工一年前膀胱癌曾接受膀胱內 BCG 灌注治療，會使結核菌素皮膚試驗（TST）出現偽陽性。IGRA 因不含 BCG 共有抗原（用 ESAT-6、CFP-10），**不受 BCG 影響**，故為最適當的 LTBI 篩檢方法。",
+      "detail": "## 概念架構：LTBI 篩檢工具的選擇\n\n**潛伏結核感染（latent TB infection, LTBI）** 篩檢有兩大工具：\n1. **結核菌素皮膚試驗（TST, tuberculin skin test / PPD）**：注射 PPD 後 48–72 小時看硬結。缺點是 **與 BCG 疫苗及非結核分枝桿菌（NTM）有交叉反應 → 偽陽性**。\n2. **干擾素釋放試驗（IGRA, interferon-γ release assay）**：抽血測 T 細胞對 **ESAT-6、CFP-10** 等 **M. tuberculosis 特異抗原** 的反應。這些抗原 **不存在於 BCG 與大多數 NTM**，故 **不受 BCG 接種影響**，特異度較高。\n\n本題關鍵情境：該員工 **一年前膀胱癌曾接受膀胱內 BCG（卡介苗）灌注治療**。BCG 為活的牛型結核分枝桿菌，會使 **TST 出現偽陽性**。因此篩檢 LTBI 應選 **不受 BCG 干擾的 IGRA**。\n\n## 選項分析\n\n- **A. CXR — ✗** 胸部 X 光是用來 **排除活動性肺結核**，不是 LTBI 的篩檢工具；且此人無症狀、無活動性膀胱癌證據，目的是「潛伏感染篩檢」而非找活動性病灶。\n- **B. Tuberculin skin test（TST）— ✗** 此人 **近期接受過 BCG 灌注**，TST 易偽陽性，判讀不可靠，非最適當。\n- **C. Interferon-γ release assay（IGRA）— ✓（正確答案）** IGRA 使用 ESAT-6/CFP-10，**不受 BCG 影響**，在有 BCG 接種/治療史者是 LTBI 篩檢的首選。\n- **D. Two-step TST — ✗** 兩階段 TST 是為避免 **boosting 效應（增強現象）** 造成連續篩檢者誤判，仍是 TST，**同樣受 BCG 干擾**，不解決本題問題。\n- **E. 以上皆是 — ✗** 因 B、D 受 BCG 干擾、A 非 LTBI 篩檢工具，不能全選。\n\n## 易混淆與進階補充\n\n- **TST 陽性切點**：依風險不同（≥5mm 用於 HIV/接觸者/免疫抑制；≥10mm 中度風險；≥15mm 低風險），但 BCG 史使判讀複雜。\n- **IGRA 優點**：單次抽血、不需回診判讀、不受 BCG 與多數 NTM 干擾；缺點：成本高、免疫低下可能偽陰/不確定。\n- **LTBI 確診後處置**：先以 CXR ± 痰排除活動性 TB，再給 LTBI 治療（如 3HP：isoniazid+rifapentine 每週一次共 12 週，或 9H、4R）。\n- **膀胱內 BCG**：是膀胱癌（非肌肉侵犯型）標準輔助治療，可引發全身 BCG 反應與 TST 偽陽。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| LTBI 篩檢工具 | TST 與 IGRA |\n| TST 缺點 | 受 BCG、NTM 干擾→偽陽性 |\n| IGRA 抗原 | ESAT-6、CFP-10（TB 特異）|\n| IGRA 優勢 | 不受 BCG 影響，本題首選 |\n| 本案關鍵 | 一年前膀胱內 BCG 治療史 |\n| CXR 角色 | 排除活動性 TB，非篩檢 LTBI |\n| LTBI 治療 | 3HP、9H、4R 等 |",
+      "sources": [
+        {
+          "text": "CDC/ATS Guidelines on Testing for Latent TB Infection"
+        },
+        {
+          "text": "Taiwan CDC 結核病防治工作手冊（IGRA 應用）"
+        }
+      ]
+    }
   },
   {
     "id": "112-S85",
@@ -19062,7 +19122,19 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**Penicillin 過敏為非題，正解 E。** E 錯在「中/高風險過敏史者建議直接以藥物溶液做皮膚測試」——penicillin 過敏皮膚測試需使用 **主要與次要抗原決定簇試劑（PRE/MDM，如 PPL）**，而非單純藥物溶液，且高風險者應由專科評估、必要時分級激發測試，不可貿然以藥物溶液逕行皮測，故 E 為錯誤敘述。",
+      "detail": "## 概念架構：Penicillin 過敏的重新評估浪潮\n\n臨床上約 **10% 病人被標記 penicillin 過敏，但其中超過 90% 經評估後可安全使用**。錯誤標記會迫使改用 vancomycin、fluoroquinolone、clindamycin 等替代藥，**增加抗藥菌、艱難梭菌感染、手術部位感染與成本**。因此 **抗生素過敏去標籤（de-labeling）** 是近年重點。本題為「何者錯誤」反向題。\n\n## 免疫機轉重點\n\nPenicillin 本身分子小（hapten），須與 **體內蛋白（如白蛋白）共價結合** 才能成為完整抗原。降解產物分為 **主要抗原決定簇（major determinant，penicilloyl，即 PPL）** 與 **次要抗原決定簇（minor determinants, MDM）**。**正規皮膚測試需使用這些抗原試劑（PPL ± MDM）**，**單用藥物原液皮測敏感度不足**，會漏掉多數真正過敏者。\n\n## 選項分析\n\n- **A. 多數被標記者其實未真過敏，且過敏會隨時間消退，故病史詢問與正確標記重要 — ✓** 正確。IgE 媒介過敏約每 10 年下降，**10 年後約 80% 失去反應性**。\n- **B. 被標記者接受更多 vancomycin/FQ/clindamycin，增加多重抗藥菌與手術傷口感染 — ✓** 正確，是 de-labeling 的核心理由。\n- **C. 多數非對完整分子過敏，而是對降解物與白蛋白共價結合產物過敏，單用藥物溶液皮測不足 — ✓** 正確，說明為何需用 PPL/MDM 抗原試劑。\n- **D. 國內以病史為主，無過敏史者符合適應症可直接用 penicillin、不需藥物溶液皮測，惟院所須備急救設備 — ✓** 正確。無過敏史者不需常規皮測；急救設備為基本要求。\n- **E. 中/高風險過敏史者，建議以藥物溶液逕行皮膚測試 — ✗（正確答案）** 錯誤。中/高風險者應 **用標準化的 penicillin 皮膚測試試劑（PPL 與 MDM）**，而非「藥物溶液」；且高風險者須由 **過敏專科評估、在備有急救下進行皮測，必要時分級藥物激發（graded challenge）**，不可單以藥物溶液逕行測試（敏感度不足且有風險）。\n\n## 易混淆與進階補充\n\n- **風險分層**：低風險（單純腸胃不適、家族史、久遠不明疹）可考慮直接口服激發；中/高風險（蕁麻疹、血管性水腫、過敏性休克史）需正規皮測±分級激發。\n- **嚴重遲發反應禁忌**：SJS/TEN、DRESS、AGEP、間質性腎炎等 **嚴重 T 細胞媒介反應者，禁止任何再激發或皮測**。\n- **交叉過敏**：penicillin 與 cephalosporin 交叉反應遠低於早年估計（與 R1 側鏈相似度有關），多數可安全使用第三代頭孢。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 被標記過敏比例 | ~10%，>90% 可安全使用 |\n| 抗原機轉 | hapten 與白蛋白共價結合，PPL（主）+MDM（次）|\n| 正規皮測試劑 | PPL ± MDM，非單用藥物溶液 |\n| 錯誤標記後果 | 多重抗藥菌、C. difficile、手術感染↑ |\n| 過敏隨時間 | 約每 10 年消退，10 年後多失反應 |\n| 中/高風險處置 | 專科評估+標準皮測±分級激發 |\n| 絕對禁忌 | SJS/TEN、DRESS 等嚴重反應不可再激發 |",
+      "sources": [
+        {
+          "text": "2022 AAAAI/ACAAI Penicillin Allergy Practice Parameter"
+        },
+        {
+          "text": "JAMA 2019 Evaluation and Management of Penicillin Allergy"
+        }
+      ]
+    }
   },
   {
     "id": "112-S86",
@@ -19092,7 +19164,19 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**SARS-CoV-2 治療為非題，正解 E。** Tixagevimab+cilgavimab（Evusheld）這類長效單株抗體 **對 Omicron 後續變異株（如 BQ.1.1、XBB）已喪失中和能力**，因此 FDA 已撤銷其授權，「對所有變異株一直具良好中和效果」明顯錯誤，故 E 為答案。其餘 A–D 敘述正確。",
+      "detail": "## 概念架構：COVID-19 抗病毒治療與單株抗體的變異株困境\n\nSARS-CoV-2 治療分兩大類：**直接抗病毒小分子藥**（作用機轉穩定、不受變異影響）與 **單株抗體**（針對棘蛋白受體結合區，**極易因變異而失效**）。本題為「何者錯誤」反向題，關鍵在抓出單株抗體失效的事實。\n\n## 選項分析\n\n- **A. 2022/1–2023/3 本土確診約 16% 為 ≥60 歲；嚴重肺炎/ARDS 占 0.4%，其中 58% >60 歲 — ✓** 屬流行病學描述，符合年長者重症占比偏高的趨勢，視為正確。\n- **B. Molnupiravir 為核苷類似物，使病毒 RNA 複製累積突變而無法複製 — ✓** 正確。Molnupiravir 經 **error catastrophe（致死性突變）** 機轉，被併入病毒 RNA 後造成大量錯誤突變使病毒無法存活。\n- **C. Paxlovid（nirmatrelvir/ritonavir）阻斷病毒蛋白酶；ritonavir 為 CYP3A4 強抑制劑，可減緩 nirmatrelvir 代謝以增強療效 — ✓** 正確。Nirmatrelvir 抑制 **3CL 主蛋白酶（Mpro）**；ritonavir 作為 **藥動增強劑（booster）**，因此 Paxlovid 有大量 **CYP3A4 藥物交互作用**。\n- **D. Paxlovid 與 molnupiravir 對不需氧氣但具重症風險者可降低死亡與住院率 — ✓** 正確（Paxlovid EPIC-HR 顯示高風險未住院者顯著降低住院/死亡；molnupiravir MOVe-OUT 亦有療效，幅度較小）。\n- **E. 長效單株抗體 tixagevimab+cilgavimab 對 α、β、γ、δ 及 Omicron 最近 subvariant XBB、BQ.1.1 都一直具良好中和效果 — ✗（正確答案）** 錯誤。Evusheld 這類單株抗體 **對 Omicron 後期變異株（BQ.1.1、XBB）已喪失中和力**，故 **FDA 已撤銷其緊急使用授權**。「對所有變異株一直有效」與事實相反。\n\n## 易混淆與進階補充\n\n- **為何小分子藥不受變異影響**：nirmatrelvir 與 molnupiravir 作用標的（Mpro、RdRp）保守性高，較不因棘蛋白突變失效；單株抗體標的（spike RBD）正是變異熱點。\n- **Paxlovid 禁忌/注意**：嚴重肝腎功能不全需調整或避免；大量 CYP3A4 交互作用（statin、抗凝、免疫抑制劑等）。Paxlovid rebound 現象。\n- **重症治療**：需氧者用 **dexamethasone ± remdesivir ± 免疫調節（tocilizumab、baricitinib）**。\n\n## 重點整理表\n\n| 藥物/類別 | 機轉 | 變異株影響 |\n|---|---|---|\n| Nirmatrelvir/ritonavir（Paxlovid）| 抑制 3CL Mpro；ritonavir 抑 CYP3A4 增強 | 不受變異影響 |\n| Molnupiravir | 核苷類似物，誘導致死突變 | 不受變異影響 |\n| Remdesivir | RdRp 抑制（靜脈）| 不受變異影響 |\n| Tixagevimab+cilgavimab | 棘蛋白單株抗體 | 對 BQ.1.1/XBB 失效，已撤銷授權 |\n| 重症用藥 | dexamethasone±免疫調節 | — |\n| 適應症 | 高風險、未用氧者降低住院/死亡 | — |",
+      "sources": [
+        {
+          "text": "NIH COVID-19 Treatment Guidelines"
+        },
+        {
+          "text": "FDA EUA revocation of Evusheld (tixagevimab/cilgavimab) 2023"
+        }
+      ]
+    }
   },
   {
     "id": "112-S87",
@@ -19122,7 +19206,19 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**披衣菌與淋菌為非題，正解 E。** E 錯在「核酸檢驗（NAAT）敏感性不如培養與革蘭氏染色」——事實正好相反，**NAAT 是披衣菌與淋菌的首選診斷方法，敏感度與特異度均高於培養及染色**，故 E 為錯誤敘述即答案。A–D 為正確敘述。",
+      "detail": "## 概念架構：披衣菌與淋菌的診斷與臨床\n\n**披衣菌（Chlamydia trachomatis）** 與 **淋菌（Neisseria gonorrhoeae）** 是最常見的細菌性性傳染病（STI）。診斷上 **核酸增幅檢驗（NAAT, nucleic acid amplification test）已取代培養成為首選**，因其敏感度與特異度最高，且可用尿液、自採檢體，方便篩檢。本題為「何者錯誤」反向題。\n\n## 選項分析\n\n- **A. 披衣菌感染常無症狀，造成子宮外孕、不孕、慢性骨盆腔疼痛 — ✓** 正確。多數女性披衣菌感染無症狀，上行感染致 **骨盆腔發炎（PID）**，留下輸卵管疤痕→子宮外孕、不孕、慢性骨盆痛。\n- **B. 美國建議懷孕時、有風險因子的年輕女性、MSM 每年篩檢披衣菌與淋菌 — ✓** 正確。USPSTF/CDC 建議 **≤25 歲性活躍女性、有風險者、孕婦、MSM 定期篩檢**。\n- **C. 淋菌可造成子宮頸炎、PID、尿道炎、副睪丸炎，也可咽炎與肛門直腸感染 — ✓** 正確，淋菌可感染多部位黏膜。\n- **D. 瀰漫性淋菌感染（DGI）主要以關節炎、皮膚炎或化膿性關節炎表現 — ✓** 正確。DGI 經典為 **關節炎-皮膚炎症候群（多關節痛、腱鞘炎、膿疱疹）** 或化膿性單關節炎。\n- **E. NAAT 對披衣菌與淋菌的敏感性不如培養與革蘭氏染色 — ✗（正確答案）** 錯誤。**NAAT 敏感度與特異度均優於培養與染色，是首選診斷工具**。革蘭氏染色（看到細胞內革蘭氏陰性雙球菌）僅在男性有症狀尿道炎較有用；培養的優點是可做藥敏（淋菌抗藥性監測時仍需培養），但整體偵測敏感度不及 NAAT。\n\n## 易混淆與進階補充\n\n- **治療**：淋菌建議 **ceftriaxone 500 mg IM 單劑**（因抗藥性，已不再加 azithromycin 為常規，但若未排除披衣菌則合併 doxycycline）；披衣菌用 **doxycycline 100 mg bid 7 天**（孕婦用 azithromycin）。\n- **共同感染**：淋菌與披衣菌常共存，治療常需涵蓋兩者；並應同時篩 HIV、梅毒。\n- **PrEP 與 STI 上升**：HIV 暴露前預防（PrEP）普及後，部分族群其他 STI 反而上升，需加強篩檢。\n- **淋菌抗藥性**：對 fluoroquinolone、cefixime 抗藥性上升，ceftriaxone 為主力，需監測。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 首選診斷 | NAAT（敏感/特異度最高）|\n| 革蘭氏染色 | 僅男性症狀性尿道炎較有用 |\n| 培養角色 | 做藥敏（淋菌抗藥監測）|\n| 披衣菌併發症 | PID、子宮外孕、不孕、慢性骨盆痛 |\n| 淋菌感染部位 | 子宮頸、尿道、副睪、咽、肛門直腸 |\n| DGI | 關節炎-皮膚炎症候群 |\n| 淋菌治療 | ceftriaxone 500mg IM 單劑 |\n| 披衣菌治療 | doxycycline 100mg bid×7d |",
+      "sources": [
+        {
+          "text": "2021 CDC Sexually Transmitted Infections Treatment Guidelines"
+        },
+        {
+          "text": "USPSTF Screening for Chlamydia and Gonorrhea Recommendation"
+        }
+      ]
+    }
   },
   {
     "id": "112-S88",
@@ -19152,7 +19248,19 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**艱難梭菌（C. difficile）感染為非題，正解 C。** C 錯在「酒精性乾洗手與濕洗手都可有效預防傳播」——C. difficile 會形成 **孢子（spore），對酒精具抵抗性**，酒精乾洗手無法殺滅孢子，必須以 **肥皂與流動水搓洗（物理移除）** 才能有效去除，故 C 為錯誤敘述即答案。",
+      "detail": "## 概念架構：C. difficile 的孢子與感染管制\n\n**艱難梭菌（Clostridioides difficile）** 是醫療照護相關 **抗生素相關腹瀉/偽膜性大腸炎** 的最重要病原。其關鍵特性是 **形成孢子（spore）**，孢子 **對酒精、乾燥、許多消毒劑高度抵抗**，可長期存活於環境。這直接決定了感染管制策略。本題為「何者錯誤」反向題。\n\n## 選項分析\n\n- **A. 無症狀帶菌者可經口糞途徑散播細菌或孢子 — ✓** 正確。無症狀定殖者也是傳染源，孢子經手、環境、口糞途徑傳播。\n- **B. 戴手套、不共用受汙染的溫度計、以漂白水清潔病室可預防傳播 — ✓** 正確。**接觸隔離（手套/隔離衣）+ 含氯消毒劑（次氯酸鈉/漂白水）** 是標準措施，因漂白水能殺孢子。\n- **C. 以酒精性乾洗手或濕洗手都可有效預防傳播 — ✗（正確答案）** 錯誤。**酒精性乾洗手無法殺滅 C. difficile 孢子**；照護 CDI 病人後應 **以肥皂與流動水洗手，靠物理沖刷移除孢子**。這是本題核心陷阱。\n- **D. 抗生素是重要風險因子，尤其對腸道厭氧菌有效但對 C. difficile 無效者如 clindamycin — ✓** 正確。**clindamycin、廣效頭孢、fluoroquinolone** 破壞腸道正常菌叢、清除厭氧菌但不抑制 C. difficile，是經典高風險藥。\n- **E. 減少第二、三代頭孢子素使用可降低 CDI 風險 — ✓** 正確。抗生素管理（限制高風險廣效抗生素）是降低 CDI 的有效策略。\n\n## 易混淆與進階補充\n\n- **治療**：現行首選 **fidaxomicin** 或 **口服 vancomycin**；metronidazole 退居非重症且無前二者時。**復發性 CDI** 可考慮 fidaxomicin、bezlotoxumab（抗毒素 B 單株抗體）或 **糞菌移植（FMT）**。\n- **嚴重/猛爆型**：中毒性巨結腸、低血壓需口服 vancomycin（高劑量）±靜脈 metronidazole，必要時手術。\n- **診斷**：常用 **GDH + 毒素 EIA** 兩步驟，或 **NAAT（毒素基因）**；不檢驗無症狀者、不做治療後追蹤檢驗。\n- **環境**：含氯消毒劑（≥1000–5000 ppm）才能殺孢子，一般四級銨無效。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 病原 | C. difficile，會形成孢子 |\n| 洗手 | 肥皂+流動水（物理移除）；酒精無效 |\n| 環境消毒 | 含氯/漂白水可殺孢子 |\n| 隔離 | 接觸隔離（手套、隔離衣）|\n| 高風險抗生素 | clindamycin、廣效頭孢、FQ |\n| 預防 | 抗生素管理、減少廣效藥 |\n| 治療首選 | fidaxomicin 或口服 vancomycin |\n| 復發處置 | bezlotoxumab、FMT |",
+      "sources": [
+        {
+          "text": "2021 IDSA/SHEA Clinical Practice Guidelines for C. difficile Infection"
+        },
+        {
+          "text": "CDC Guidelines for Environmental Infection Control / Hand Hygiene"
+        }
+      ]
+    }
   },
   {
     "id": "112-S89",
@@ -19182,7 +19290,19 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**活性疫苗辨識題，正解 B：(2)+(4)。** MMR（麻疹/腮腺炎/德國麻疹）與舊型帶狀皰疹疫苗 Zostavax（活性減毒）皆為 **活性疫苗，嚴重免疫不全者禁用**。TdaP（類毒素/次單位）、HPV（重組次單位）、Meningococcal（多醣/結合型）皆為非活性疫苗，故只有 (2)+(4) 符合，答案 B。",
+      "detail": "## 概念架構：活性減毒 vs 非活性疫苗\n\n**活性減毒疫苗（live attenuated vaccine）** 含活的減毒病原，在 **嚴重免疫不全者（如愛滋 CD4 過低、化療、器官移植、高劑量類固醇）可能造成疫苗株感染，屬禁忌**。**非活性疫苗（不活化、類毒素、次單位、多醣、結合型、mRNA）** 則對免疫低下者安全（雖反應可能較弱）。本題要找出 **全部都是活性疫苗** 的組合。\n\n## 逐項判讀\n\n**(1) TdaP（破傷風、白喉、百日咳）— 非活性**\n破傷風與白喉為 **類毒素（toxoid）**，百日咳為 **無細胞次單位（acellular）**，整體屬非活性疫苗，免疫低下者可接種。\n\n**(2) MMR（麻疹、腮腺炎、德國麻疹）— 活性減毒** ✅\n三者皆為 **活性減毒病毒疫苗**，**嚴重免疫不全者禁用**（如愛滋 CD4<200、化療中）。\n\n**(3) HPV（人類乳突病毒）— 非活性**\n為 **重組病毒樣顆粒（VLP）次單位疫苗**，不含活病毒，免疫低下者可接種。\n\n**(4) Varicella-Zoster（帶狀皰疹疫苗，Zostavax）— 活性減毒** ✅\n題目明確指 **Zostavax**，為 **活性減毒** 帶狀皰疹疫苗，**免疫不全者禁用**。（注意：新型 **Shingrix 為重組次單位（非活性）**，免疫低下者可用——這是常見對比考點。）\n\n**(5) Meningococcal vaccine（腦膜炎雙球菌疫苗）— 非活性**\n為 **多醣或結合型疫苗**，非活性，免疫低下者（尤其無脾、補體缺乏）反而 **建議接種**。\n\n## 選項分析\n\n- **A. (1)+(3)+(5) ✗** 三者皆非活性。\n- **B. (2)+(4) ✓（正確答案）** MMR 與 Zostavax 皆為活性，免疫不全禁用。\n- **C. (1)+(2)+(3) ✗** 含非活性的 (1)(3)。\n- **D. (2)+(3)+(5) ✗** 含非活性的 (3)(5)。\n- **E. (4)+(5) ✗** (5) 為非活性。\n\n## 記憶口訣\n\n> 活性疫苗（免疫不全禁用）口訣 **MMR、水痘/帶狀皰疹(Zostavax)、口服小兒麻痺(OPV)、卡介苗(BCG)、輪狀病毒、黃熱病、鼻噴流感**。Toxoid/次單位/多醣/結合型/mRNA = 安全。\n\n## 易混淆與進階補充\n\n- **Zostavax vs Shingrix**：Zostavax 活性（禁用於免疫不全），Shingrix 重組次單位（**免疫低下者首選且建議**）。\n- **活性疫苗時機**：若計畫免疫抑制治療，活性疫苗應 **提前 ≥4 週** 接種；停免疫抑制後需間隔再打。\n- **HIV 例外**：CD4 充足（如 ≥200）且穩定者，MMR、水痘等部分活性疫苗仍可考慮接種。\n\n## 重點整理表\n\n| 疫苗 | 類型 | 免疫不全 |\n|---|---|---|\n| MMR | 活性減毒 | 禁用 |\n| Zostavax（舊帶狀皰疹）| 活性減毒 | 禁用 |\n| TdaP | 類毒素+次單位 | 可用 |\n| HPV | 重組次單位（VLP）| 可用 |\n| Meningococcal | 多醣/結合型 | 可用（建議）|\n| Shingrix（新帶狀皰疹）| 重組次單位 | 可用（首選）|",
+      "sources": [
+        {
+          "text": "CDC ACIP General Best Practice Guidelines for Immunization (Altered Immunocompetence)"
+        },
+        {
+          "text": "IDSA Clinical Practice Guideline for Vaccination of the Immunocompromised Host"
+        }
+      ]
+    }
   },
   {
     "id": "112-S90",
@@ -19212,7 +19332,19 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**社區型 MRSA 肺炎為非題，正解 D。** D 錯在「易發生於年長者、年輕健康族群十分少見」——CA-MRSA 壞死性肺炎 **典型發生於年輕、原本健康者**（常於流感後），帶 PVL 毒素，故 D 敘述與事實相反，為最不適當的答案。其餘 A、B、C、E 皆符合 CA-MRSA 肺炎特徵。",
+      "detail": "## 概念架構：CA-MRSA 壞死性肺炎\n\n**社區型 MRSA（CA-MRSA）肺炎** 是嚴重的壞死性肺炎，常帶 **PVL（Panton-Valentine leukocidin）** 毒素，造成白血球破壞與組織壞死。經典情境是 **年輕、原本健康者，於流感（influenza）後** 突發高燒、咳血、快速惡化。本題為「最不適當」反向題。\n\n## 選項分析\n\n- **A. 胸部 X 光顯示開洞浸潤或壞死 — ✓** 正確。CA-MRSA 肺炎 **典型造成壞死性（necrotizing）、空洞化（cavitary）病灶**，因 PVL 毒素破壞組織。\n- **B. 可能同時合併流感 — ✓** 正確。**流感後續發 CA-MRSA 壞死性肺炎** 是典型情境，流感破壞呼吸道上皮促進細菌侵入。\n- **C. 出現咳血、皮疹 — ✓** 正確。大量咳血（gross hemoptysis）與紅疹可見於 PVL 相關壞死性肺炎與毒素效應。\n- **D. 易發生於年長者，年輕健康族群十分少見 — ✗（正確答案）** 錯誤。正好相反：**CA-MRSA 壞死性肺炎典型見於年輕、原本健康者**（常為流感後），這正是它與院內 MRSA 肺炎的鑑別點之一。\n- **E. Oxacillin 呈抗藥性，clindamycin 可作為輔助治療 — ✓** 正確。MRSA 定義即 **oxacillin/methicillin 抗藥**；clindamycin（在 D-test 陰性、無誘導型抗藥時）可 **抑制毒素（如 PVL）生成**，作為毒素相關重症的輔助治療。\n\n## 易混淆與進階補充\n\n- **治療**：CA-MRSA 肺炎首選 **vancomycin 或 linezolid**；linezolid 另有抑制毒素之優勢。嚴重壞死性肺炎可加 **clindamycin 抑制毒素**。\n- **CA-MRSA vs HA-MRSA**：CA-MRSA 多帶 **SCCmec IV、PVL**，對非 β-lactam（clindamycin、TMP-SMX、doxycycline）常仍敏感；HA-MRSA 多 SCCmec II/III、多重抗藥。\n- **流感後細菌性肺炎**：最常見續發菌為 **肺炎鏈球菌**，但 **S. aureus（含 MRSA）續發者最為兇猛**。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 病原 | CA-MRSA，常帶 PVL 毒素 |\n| 好發族群 | 年輕、原本健康者（非年長者）|\n| 誘因 | 常見流感後續發 |\n| 影像 | 壞死、空洞化浸潤 |\n| 臨床 | 高燒、咳血、快速惡化 |\n| 藥敏 | oxacillin 抗藥（MRSA 定義）|\n| 治療 | vancomycin/linezolid ± clindamycin（抑毒素）|",
+      "sources": [
+        {
+          "text": "IDSA Guidelines for MRSA Infections"
+        },
+        {
+          "text": "Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, Staphylococcus aureus chapter"
+        }
+      ]
+    }
   },
   {
     "id": "112-S91",
@@ -19242,7 +19374,19 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**社區性肺炎致病原與宿主因素配對為非題，正解 E。** E 錯在「接觸鳥禽 → Coxiella burnetii (Q fever)」——接觸鳥禽相關的非典型肺炎應為 **Chlamydophila psittaci（鸚鵡熱）**；Q fever（Coxiella burnetii）主要與 **接觸牛羊等家畜及其生產物（胎盤、羊水）** 有關，故 E 配對錯誤為答案。",
+      "detail": "## 概念架構：社區性肺炎的宿主-病原關聯\n\n社區性肺炎（CAP）的經驗性判斷常依 **宿主因素/暴露史** 推測病原。本題為「最不適當」反向配對題，需逐項核對暴露與病原的標準關聯。\n\n## 選項分析\n\n- **A. 酒癮 → Klebsiella pneumoniae — ✓** 正確。酒癮者經典易得 **克雷伯氏菌肺炎**，可見 **紅醋栗果凍痰（currant jelly sputum）** 與上葉膨出裂（bulging fissure）。\n- **B. COPD → Pseudomonas aeruginosa — ✓** 正確。嚴重 COPD（尤其常用抗生素/類固醇、結構性肺病）是 **綠膿桿菌** 的風險因子；COPD 也常見 H. influenzae、Moraxella。\n- **C. 支氣管擴張症 → Staphylococcus aureus — ✓** 視為正確配對。支氣管擴張症常見綠膿桿菌、流感嗜血桿菌、金黃色葡萄球菌（尤其囊狀纖維化者）等慢性定殖菌。\n- **D. 流感併發症 → Streptococcus pneumoniae — ✓** 正確。流感後最常見的續發細菌性肺炎為 **肺炎鏈球菌**（其次 S. aureus、H. influenzae）。\n- **E. 接觸鳥禽 → Coxiella burnetii (Q fever) — ✗（正確答案）** 錯誤配對。**接觸鳥禽（尤其鸚鵡、鳥類）相關肺炎應為 Chlamydophila psittaci（psittacosis 鸚鵡熱）**。**Q fever（Coxiella burnetii）** 的暴露源是 **牛、羊、貓等家畜及其分娩產物（胎盤、羊水）、未殺菌乳製品**，非鳥禽。\n\n## 易混淆與進階補充\n\n- **動物/暴露-病原對照**：\n  - 鳥禽（鸚鵡）→ **Chlamydophila psittaci**\n  - 牛羊/產物 → **Coxiella burnetii（Q fever）**\n  - 蝙蝠/鳥糞、洞穴（土壤）→ **Histoplasma capsulatum**\n  - 兔/野生動物 → **Francisella tularensis**\n  - 旅館空調/水塔 → **Legionella**\n  - 老鼠尿/積水 → **Leptospira**\n- **Q fever 特點**：常表現非典型肺炎或肉芽腫性肝炎，慢性可致 **培養陰性心內膜炎**；診斷靠血清學（phase I/II 抗體）。\n\n## 重點整理表\n\n| 暴露/宿主 | 對應病原 |\n|---|---|\n| 酒癮 | Klebsiella pneumoniae |\n| COPD | Pseudomonas、H. influenzae |\n| 支氣管擴張 | Pseudomonas、S. aureus |\n| 流感後 | Streptococcus pneumoniae（次 S. aureus）|\n| 接觸鳥禽（鸚鵡）| Chlamydophila psittaci |\n| 接觸牛羊/產物 | Coxiella burnetii（Q fever）|\n| 旅館水/空調 | Legionella |",
+      "sources": [
+        {
+          "text": "IDSA/ATS Community-acquired Pneumonia Guidelines 2019"
+        },
+        {
+          "text": "Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, Zoonotic pneumonias"
+        }
+      ]
+    }
   },
   {
     "id": "112-S92",
@@ -19272,7 +19416,19 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**急性血便（dysentery/侵襲性腹瀉）致病原組合題，正解 B：(2)+(4)。** 血便代表黏膜侵襲性病原。Salmonella typhi(2) 與 Campylobacter jejuni(4) 屬侵襲性、可致血便。Staphylococcus aureus(1) 與 Bacillus cereus(5) 是 **預形成毒素型食物中毒**（嘔吐為主、不致血便）；Enterotoxigenic E. coli(3) 為 **分泌性水瀉**（旅行者腹瀉、不血便），故選 B。",
+      "detail": "## 概念架構：腹瀉病原的分型\n\n急性腹瀉依機轉分三類，**是否血便（dysentery）** 是關鍵鑑別：\n1. **預形成毒素型食物中毒（preformed toxin）**：潛伏期極短（數小時）、**嘔吐為主、水瀉、不發燒、不血便**。代表：**Staphylococcus aureus、Bacillus cereus（嘔吐型）**。\n2. **分泌性/腸毒素型（secretory）**：**大量水瀉、不血便**。代表：**ETEC（旅行者腹瀉）、Vibrio cholerae**。\n3. **侵襲性/發炎型（invasive/inflammatory）→ 血便、發燒、裏急後重**：病原侵犯腸黏膜。代表：**Shigella、非傷寒沙門氏菌、Campylobacter、侵襲性/出血性 E. coli（EIEC/EHEC）、Entamoeba histolytica**。\n\n本題問「急性腹瀉併血便」最可能的病原組合。\n\n## 逐項判讀\n\n**(1) Staphylococcus aureus — 不致血便**\n為 **預形成腸毒素** 食物中毒，潛伏 1–6 小時，**嘔吐為主、水瀉**，不引起血便。\n\n**(2) Salmonella typhi — 可致血便（侵襲性）** ✅\n沙門氏菌屬侵襲性病原，可造成發炎性腸炎與血便；傷寒（typhi）侵犯腸道淋巴組織，嚴重時 **腸出血/穿孔**。屬侵襲性、可血便。\n\n**(3) Enterotoxigenic E. coli（ETEC）— 不致血便**\nETEC 為 **旅行者腹瀉** 經典菌，產生 **腸毒素（LT/ST）造成分泌性水瀉**，**不血便**。（會血便的是 EHEC/EIEC，非 ETEC。）\n\n**(4) Campylobacter jejuni — 可致血便（侵襲性）** ✅\n空腸彎曲菌是 **發炎性、侵襲性腸炎** 常見原因，**血便、腹痛、發燒**，並與後續 **Guillain-Barré 症候群** 相關。\n\n**(5) Bacillus cereus — 不致血便**\n嘔吐型（炒飯，預形成毒素）或腹瀉型（水瀉），**皆不致血便**。\n\n## 選項分析\n\n- **A. (1)+(2)+(3) ✗** 含不致血便的 (1)(3)。\n- **B. (2)+(4) ✓（正確答案）** 兩者皆侵襲性、可致血便。\n- **C. (1)+(3)+(5) ✗** 皆為非侵襲性（毒素/分泌型）。\n- **D. (2)+(3) ✗** (3) ETEC 不致血便。\n- **E. (1)+(5) ✗** 皆毒素型，不血便。\n\n## 記憶口訣\n\n> 血便（侵襲）想 **Shigella、Salmonella、Campylobacter、EHEC/EIEC、阿米巴**。嘔吐型毒素 = **金黃葡萄球菌、Bacillus cereus（炒飯）**；水瀉分泌 = **ETEC、霍亂弧菌**。\n\n## 易混淆與進階補充\n\n- **EHEC（O157:H7）**：血便但 **通常不發燒**，可併 **溶血性尿毒症候群（HUS）**，此時 **避免抗生素**（恐增加毒素釋放）。\n- **Campylobacter 併發症**：Guillain-Barré、反應性關節炎。\n- **抗生素時機**：多數侵襲性腸炎可自限；嚴重、免疫低下、菌血症風險者才用抗生素（如 azithromycin/fluoroquinolone）。\n\n## 重點整理表\n\n| 病原 | 機轉 | 血便 |\n|---|---|---|\n| S. aureus | 預形成毒素（嘔吐）| 否 |\n| Bacillus cereus | 預形成毒素（炒飯）| 否 |\n| ETEC | 腸毒素（分泌性水瀉）| 否 |\n| Salmonella | 侵襲性 | 是 |\n| Campylobacter jejuni | 侵襲性 | 是 |\n| Shigella/EHEC/阿米巴 | 侵襲性 | 是 |",
+      "sources": [
+        {
+          "text": "IDSA Clinical Practice Guidelines for Infectious Diarrhea 2017"
+        },
+        {
+          "text": "Harrison's Principles of Internal Medicine, Acute Infectious Diarrheal Diseases"
+        }
+      ]
+    }
   },
   {
     "id": "112-S93",
@@ -19302,7 +19458,19 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**動物咬傷與致病原配對為非題，正解 C。** C 錯在「猴(Monkey) → Streptobacillus moniliformis」——Streptobacillus moniliformis 是 **鼠咬熱（rat-bite fever）** 的病原，對應的是 **鼠類**，不是猴；猴咬傷需特別警覺 **B 病毒（Herpes B virus, Cercopithecine herpesvirus）**。故 C 配對錯誤為答案。",
+      "detail": "## 概念架構：動物咬傷的致病原\n\n動物咬傷感染多為 **混合菌（需氧+厭氧、含口腔菌叢）**，但各動物有 **特徵性病原**，是考試重點。本題為「最不適當」反向配對題。\n\n## 選項分析\n\n- **A. 狗 → Pasteurella multocida — ✓** 正確。**Pasteurella multocida** 是 **貓、狗咬傷** 最具特徵性的病原（貓更典型），感染進展快、紅腫熱痛明顯。狗咬另常見 **Capnocytophaga canimorsus**（無脾/肝病者可致猛爆敗血症）。\n- **B. 人 → viridans streptococci — ✓** 正確。人咬傷（含 clenched-fist「打架傷」）常見 **viridans streptococci、Eikenella corrodens、厭氧菌、金黃色葡萄球菌**。\n- **C. 猴 → Streptobacillus moniliformis — ✗（正確答案）** 錯誤配對。**Streptobacillus moniliformis 是鼠咬熱（rat-bite fever）的病原，對應鼠類**，不是猴。**猴咬傷** 最需警覺的特殊病原是 **B 病毒（Herpes B virus / Cercopithecine herpesvirus 1）**，可致致命腦脊髓炎，須抗病毒預防。\n- **D. 蛇 → Pseudomonas aeruginosa — ✓** 視為正確配對。蛇咬傷傷口感染常見 **革蘭氏陰性菌（含 Pseudomonas、Aeromonas、Morganella）與厭氧菌**，反映蛇口腔/環境菌叢。\n- **E. 鼠 → Leptospira — ✓** 正確。鼠是 **鉤端螺旋體（Leptospira）** 的重要保菌宿主，經其尿液汙染水/土壤傳人（雖多經皮膚/黏膜接觸而非單純咬傷，但鼠-Leptospira 關聯成立）。\n\n## 易混淆與進階補充\n\n- **鼠咬熱**：兩種病原 — **Streptobacillus moniliformis（美洲，發燒+多關節炎+皮疹）** 與 **Spirillum minus（亞洲，sodoku）**。\n- **猴咬 B 病毒**：暴露後須清創沖洗並考慮 **valacyclovir/acyclovir 預防**，因人類感染死亡率高。\n- **狗/貓咬通用處置**：傷口照護、考慮 **amoxicillin-clavulanate** 涵蓋 Pasteurella 與厭氧菌；評估 **狂犬病暴露後預防** 與 **破傷風** 接種。\n- **Capnocytophaga**：狗咬，無脾、酗酒、肝硬化者可暴發性敗血症與紫斑。\n\n## 重點整理表\n\n| 動物咬傷 | 特徵性病原 |\n|---|---|\n| 狗/貓 | Pasteurella multocida；狗另 Capnocytophaga |\n| 人 | viridans strep、Eikenella corrodens、厭氧菌 |\n| 猴 | B 病毒（Herpes B virus）|\n| 鼠（咬熱）| Streptobacillus moniliformis / Spirillum minus |\n| 鼠（保菌）| Leptospira |\n| 蛇 | 革蘭氏陰性菌（Pseudomonas、Aeromonas）|\n| 通用治療 | amoxicillin-clavulanate + 狂犬/破傷風評估 |",
+      "sources": [
+        {
+          "text": "IDSA Practice Guidelines for Skin and Soft Tissue Infections (animal bites)"
+        },
+        {
+          "text": "Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, Bites"
+        }
+      ]
+    }
   },
   {
     "id": "112-S94",
@@ -19332,7 +19500,19 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**造血幹細胞移植（HSCT）後早期（<1 個月）感染為非題，正解 C：CMV 最不適當。** 移植後早期（嗜中性球低下期）以 **細菌（如綠膿桿菌）、HSV 再活化、念珠菌、C. difficile** 為主；**CMV 再活化典型發生於中期（約 1–4 個月）免疫重建期**，不是早期，故 C 最不適當為答案。",
+      "detail": "## 概念架構：HSCT 後感染的時間軸\n\n造血幹細胞移植後的感染依 **免疫缺損的時間階段** 有不同病原，這是經典考點：\n\n- **早期（pre-engraftment，<1 個月）**：主要缺損是 **嚴重嗜中性球低下（neutropenia）+ 黏膜破損**。病原以 **細菌（革蘭氏陰/陽性，含 Pseudomonas）、念珠菌（Candida）、HSV 再活化、C. difficile**，後期黴菌（Aspergillus）開始出現。\n- **中期（1–4 個月，post-engraftment）**：缺損轉為 **細胞免疫（T 細胞）低下**。代表病原 **CMV 再活化、Pneumocystis jirovecii、Aspergillus、BK 病毒**。\n- **晚期（>4 個月）**：體液免疫與脾功能缺損，**莢膜菌（肺炎鏈球菌等）、VZV（帶狀皰疹）** 為主。\n\n本題問 **早期（<1 個月）最不適當** 的病原。\n\n## 選項分析\n\n- **A. Pseudomonas aeruginosa — ✓（屬早期）** 嗜中性球低下期 **革蘭氏陰性桿菌菌血症（含綠膿桿菌）** 是發燒性嗜中性球低下的重要病原，符合早期。\n- **B. Herpes simplex virus（HSV）— ✓（屬早期）** HSV **再活化** 是移植早期最常見的病毒感染（黏膜炎加重），故多給 **acyclovir 預防**。屬早期。\n- **C. Cytomegalovirus（CMV）— ✗（正確答案，最不適當）** **CMV 再活化典型在中期（約 30–100 天）細胞免疫低下時** 發生（肺炎、腸炎、視網膜炎），**並非 <1 個月的早期**。故對「早期」而言最不適當。\n- **D. Candida albicans — ✓（屬早期）** 黏膜破損 + 嗜中性球低下使 **侵襲性念珠菌（含念珠菌血症）** 在早期發生，故常給抗黴菌預防（如 fluconazole）。\n- **E. Clostridium difficile — ✓（屬早期）** 因大量抗生素使用、住院、化療，**C. difficile 腸炎** 在移植早期很常見。\n\n## 易混淆與進階補充\n\n- **CMV 預防/搶先治療**：以 **letermovir 預防**（allo-HSCT）或定期 CMV PCR 監測「搶先（preemptive）」治療（ganciclovir/valganciclovir/foscarnet）。\n- **PCP 預防**：細胞免疫低下期用 **TMP-SMX** 預防 Pneumocystis。\n- **黴菌**：嗜中性球低下延長者侵襲性 **麴菌（Aspergillus）** 風險升高，黴菌預防常用 posaconazole。\n- **晚期莢膜菌**：脾功能/體液免疫缺損，需肺炎鏈球菌等疫苗與 VZV 預防。\n\n## 重點整理表\n\n| 階段 | 主要免疫缺損 | 代表病原 |\n|---|---|---|\n| 早期 <1 月 | 嗜中性球低下+黏膜破損 | 細菌(含 Pseudomonas)、Candida、HSV、C. difficile |\n| 中期 1–4 月 | T 細胞免疫低下 | CMV、PCP、Aspergillus、BK |\n| 晚期 >4 月 | 體液/脾功能缺損 | 莢膜菌、VZV |\n| HSV | 早期再活化 | acyclovir 預防 |\n| CMV | 中期再活化 | letermovir/搶先治療 |",
+      "sources": [
+        {
+          "text": "Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, Infections in HSCT recipients"
+        },
+        {
+          "text": "ASTCT/IDSA Guidelines for Preventing Infectious Complications among HSCT Recipients"
+        }
+      ]
+    }
   },
   {
     "id": "112-S95",
@@ -19362,7 +19542,19 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**李斯特菌（Listeria monocytogenes）治療為非題，正解 B：Ceftriaxone 無法治療。** Listeria 對 **所有頭孢子素（cephalosporin，含 ceftriaxone）天生抗藥**，這也是經驗性腦膜炎治療在高風險族群須 **加上 ampicillin** 的原因。首選為 **ampicillin（±gentamicin）**，青黴素過敏者用 TMP-SMX，故無法治療者為 ceftriaxone。",
+      "detail": "## 概念架構：Listeria 的天生抗藥與治療\n\n**Listeria monocytogenes** 是革蘭氏陽性桿菌，好侵犯 **新生兒、孕婦、年長者、免疫低下/細胞免疫缺損者**，造成 **腦膜炎、腦炎（rhombencephalitis 菱腦炎）、菌血症**。其關鍵藥理特性：**對頭孢子素（cephalosporins）天生抗藥（intrinsic resistance）**。這正是為何 **>50 歲或免疫低下者的細菌性腦膜炎經驗治療，要在 ceftriaxone + vancomycin 之外再加 ampicillin** 來涵蓋 Listeria。本題為「何者無法治療」反向題。\n\n## 選項分析\n\n- **A. Ampicillin — ✓（有效，首選）** **Ampicillin（或 penicillin G）是 Listeria 的首選治療**，嚴重感染常合併 **gentamicin** 取得協同殺菌。\n- **B. Ceftriaxone — ✗（正確答案，無法治療）** **所有頭孢子素（含第三代 ceftriaxone）對 Listeria 天生無效**，無法用於治療。這是 Listeria 最重要的考點。\n- **C. Vancomycin — ✓（有體外活性）** Listeria 為革蘭氏陽性菌，vancomycin **有體外活性**，可作為替代（雖非首選，臨床對中樞感染證據較弱，但「能治療」成立）。\n- **D. Linezolid — ✓（有活性）** Linezolid 對革蘭氏陽性菌（含 Listeria）有活性，可作為替代選擇。\n- **E. TMP-SMX — ✓（青黴素過敏首選替代）** **TMP-SMX 是青黴素過敏者治療 Listeria 的首選替代藥**，且能穿透中樞，常用於腦膜炎/腦炎。\n\n## 易混淆與進階補充\n\n- **經驗性腦膜炎用藥**：\n  - 一般成人：**ceftriaxone + vancomycin**\n  - **>50 歲、孕婦、免疫低下、酗酒**：再 **加 ampicillin**（涵蓋 Listeria）\n- **為何加 gentamicin**：與 ampicillin 產生協同作用，用於嚴重 Listeria 感染（菌血症、心內膜炎、中樞）。\n- **預防**：高風險族群避免未殺菌乳製品、即食冷盤肉、軟乳酪（Listeria 可在冷藏溫度生長）。\n- **菱腦炎（rhombencephalitis）**：Listeria 特徵性侵犯腦幹，呈現顱神經麻痺、小腦徵象。\n\n## 重點整理表\n\n| 藥物 | 對 Listeria |\n|---|---|\n| Ampicillin/Penicillin G | 首選（±gentamicin 協同）|\n| Ceftriaxone（所有頭孢）| 天生抗藥，無效 |\n| TMP-SMX | 青黴素過敏首選替代 |\n| Vancomycin | 有活性，替代 |\n| Linezolid | 有活性，替代 |\n| 高風險腦膜炎經驗 | 加 ampicillin 涵蓋 Listeria |",
+      "sources": [
+        {
+          "text": "IDSA Practice Guidelines for Bacterial Meningitis"
+        },
+        {
+          "text": "Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, Listeria monocytogenes"
+        }
+      ]
+    }
   },
   {
     "id": "112-S96",
@@ -19392,7 +19584,19 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**猴痘（Monkeypox/Mpox）為非題，正解 E。** E 錯在「皮疹由四肢向臉部及軀幹中心蔓延（centripetal 向心性）」——天花/猴痘皮疹典型為 **離心性（centrifugal）分布，由臉部與軀幹中心向四肢、手掌腳掌擴散**，且病灶同步、進程一致。故 E 的方向敘述相反，為錯誤敘述即答案。",
+      "detail": "## 概念架構：猴痘（Mpox）的病毒學與臨床\n\n**猴痘病毒（Monkeypox/Mpox virus）** 屬 **痘病毒科（Poxviridae）、正痘病毒屬（Orthopoxvirus）**，為 **雙股 DNA 病毒（dsDNA）**，與天花病毒同屬。臨床上有 **前驅症狀（發燒、頭痛、倦怠、淋巴結腫大）**，接著出疹。本題為「最不適當」反向題，關鍵在皮疹分布方向。\n\n## 皮疹分布的關鍵概念\n\n- **離心性（centrifugal）**：病灶在 **臉部與軀幹中心較早、較密，並向四肢、手掌、腳掌擴散**。**天花與猴痘皆為離心性分布**，且 **各病灶進展同步（同一階段）**——這與水痘（向心性 centripetal、軀幹為主、病灶各階段混雜）相反，是經典鑑別點。\n- **向心性（centripetal）**：病灶集中於 **軀幹中心**，四肢較少（如水痘）。\n\n## 選項分析\n\n- **A. 屬痘病毒科、正痘病毒屬，雙股 DNA 病毒 — ✓** 正確的病毒分類。\n- **B. 接種天花疫苗可對猴痘產生部分免疫力 — ✓** 正確。因同屬正痘病毒有交叉保護，天花疫苗（如 JYNNEOS）對猴痘有保護力。\n- **C. 主要藉齧齒類及靈長類動物傳給人，屬人畜共通傳染病 — ✓** 正確。Mpox 為 **zoonosis**，動物宿主主要是 **齧齒類**（非洲），人際間可經密切/性接觸傳播。\n- **D. 前驅症狀如發熱、頭痛、疲倦約維持 1–4 天 — ✓** 正確。典型前驅期約數天，常伴 **淋巴結腫大（這點與天花不同）**。\n- **E. 發疹由四肢向臉部及軀幹中心蔓延（centripetal 向心性）— ✗（正確答案）** 錯誤。猴痘/天花皮疹為 **離心性（centrifugal）**：由 **臉部、軀幹中心向四肢、手掌腳掌** 擴散，且病灶同步進展。本敘述方向相反，故錯誤。（註：2022 以來性接觸傳播之 Mpox 常以生殖器/肛周/口腔局部病灶起始，但傳統描述的全身疹仍為離心性。）\n\n## 易混淆與進階補充\n\n- **猴痘 vs 天花 vs 水痘**：\n  - 猴痘：離心性、病灶同步、**有明顯淋巴結腫大**（天花無）。\n  - 天花：離心性、病灶同步、無顯著淋巴結腫、致死率高。\n  - 水痘：向心性、軀幹為主、**病灶各階段混雜（丘疹/水疱/結痂並存）**。\n- **治療/預防**：抗病毒 **tecovirimat（TPOXX）**；疫苗 **JYNNEOS（MVA-BN）**；多為自限性，重症見於免疫低下、孕婦、幼兒。\n- **病灶演進**：斑→丘疹→水疱→膿疱→結痂，各病灶 **同步**。\n\n## 重點整理表\n\n| 項目 | 重點 |\n|---|---|\n| 病毒 | Poxviridae / Orthopoxvirus，dsDNA |\n| 皮疹分布 | 離心性（centrifugal），向四肢/手腳掌 |\n| 病灶進程 | 同步（vs 水痘混雜）|\n| 特徵 | 顯著淋巴結腫大（天花無）|\n| 傳播 | 人畜共通（齧齒類），人際密切/性接觸 |\n| 疫苗 | 天花疫苗交叉保護、JYNNEOS |\n| 治療 | tecovirimat（TPOXX）|",
+      "sources": [
+        {
+          "text": "CDC Mpox (Monkeypox) Clinical Guidance"
+        },
+        {
+          "text": "WHO Mpox (Monkeypox) Fact Sheet"
+        }
+      ]
+    }
   },
   {
     "id": "112-S97",
