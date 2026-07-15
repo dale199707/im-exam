@@ -1,2 +1,7 @@
 .DS_Store
 resource/
+questions.json.bak
+merge_expl.py
+build_expl_*.py
+expl_*.json
+AGENTS.md
