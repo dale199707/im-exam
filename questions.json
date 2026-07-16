@@ -9093,7 +9093,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**Clostridioides difficile 感染的正確敘述為 D：首次輕度 C. difficile 腸炎首選口服 metronidazole 10–14 天（依本題時空，選 D）。** C. diff「會」產孢子、酒精殺不死(A 錯)；腸鏡陰性不能排除偽膜性腸炎(B 錯)；toxin A 是腸毒素、toxin B 是細胞毒素(C 反了)；重症應「口服」而非針劑 vancomycin(E 錯)。",
+      "detail": "## 概念架構：C. difficile 感染(CDI)的重點\n\nC. difficile 是 **會產孢子的革蘭氏陽性厭氧桿菌**，孢子對酒精抗性強，須 **肥皂加水洗手 + 接觸隔離**。致病靠 **toxin A(腸毒素 enterotoxin)與 toxin B(細胞毒素 cytotoxin)**。多與近期抗生素使用相關(菌相破壞)。\n\n## 選項分析\n\n- **(A) 不產孢子、70% 酒精可有效殺菌 — 錯誤** C. diff **會產孢子**，**酒精對孢子無效**，故洗手要用肥皂加水、環境用含氯消毒。\n- **(B) 大腸鏡對偽膜性腸炎敏感度高，無病灶可排除 — 錯誤** 偽膜可 **斑塊狀或缺如**(尤其早期/輕症)，腸鏡陰性 **不能排除** CDI；診斷靠糞便毒素/NAAT。\n- **(C) toxin A 是 cytotoxin、toxin B 是 enterotoxin — 錯誤** 恰好相反：**toxin A = 腸毒素(enterotoxin)**、**toxin B = 細胞毒素(cytotoxin)**。\n- **(D) 首次輕度 CDI 首選口服 metronidazole 10–14 天 — 正確（✓，正確答案）** 依本題時空的做法；(現行 2021 IDSA 已改以口服 vancomycin/fidaxomicin 為優先，metronidazole 退為替代)。\n- **(E) 首次重症 CDI 首選「針劑」vancomycin — 錯誤** vancomycin 治 CDI 必須 **口服**(靜脈給藥無法到達腸腔)；重症首選 **口服 vancomycin**。\n\n## 記憶口訣\n\n> C. diff **會產孢子→酒精沒用、要肥皂洗手**；**toxin A=腸毒素、B=細胞毒素**；vancomycin 治 CDI 一定 **口服**(針劑無效)；腸鏡陰性不能排除。\n\n## 易混淆與進階補充\n\n- **現行(2021 IDSA/SHEA)**：初次發作首選 **fidaxomicin 或口服 vancomycin**；metronidazole 僅在無法取得上述時用於非重症。\n- **猛爆型(fulminant)**：口服(或經鼻胃管)vancomycin + 靜脈 metronidazole，必要時手術。\n- **復發**：fidaxomicin、糞菌移植(FMT)、bezlotoxumab。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| 不產孢子、酒精有效 | 錯(會產孢子)|\n| 腸鏡陰性排除偽膜 | 錯 |\n| toxin A cytotoxin | 錯(A 是腸毒素)|\n| 輕度口服 metronidazole | 正確(依本題，答案 D)|\n| 重症針劑 vancomycin | 錯(須口服)|",
+      "sources": [
+        {
+          "text": "IDSA/SHEA Clostridioides difficile Guidelines"
+        }
+      ]
+    }
   },
   {
     "id": "110-S78",
@@ -9222,7 +9231,16 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**COVID-19 治療的正確組合為 (2)+(3)+(4)（選 B）。** 單株抗體 bamlanivimab+etesevimab 用於高風險輕中症早期可降住院死亡(2)、對 β/γ 變異株中和變差而 casirivimab+imdevimab 仍有效(3)、IL-6 阻斷劑 tocilizumab 建議與 dexamethasone 併用於重症肺炎(4)皆正確；remdesivir 單用對輕重症皆極顯著(1)與 baricitinib 不可與 dexamethasone 併用(5)為錯誤。",
+      "detail": "## 概念架構：COVID-19 依階段的治療策略\n\n- **早期輕中症 + 重症風險因子**：**單株抗體(抗 spike)** 於發病數天內使用，降低住院/死亡。\n- **重症(需氧/發炎期)**：**類固醇(dexamethasone)** + 免疫調節(**IL-6 阻斷劑 tocilizumab** 或 **JAK 抑制劑 baricitinib**)。\n- **抗病毒(remdesivir)**：效益中等，主要用於住院需氧但未插管者，非「對輕重症皆極顯著」。\n\n## 逐項判讀\n\n- **(1) remdesivir 單用對輕、重症預後都有極顯著效果 — 錯誤** 效益 **中等**(縮短恢復時間)，且對 **危重(機械通氣)者益處有限**，非「極顯著」。\n- **(2) bamlanivimab+etesevimab(抗 spike)於高風險輕中症、發病 3 天內使用可降住院死亡 — 正確** 早期單株抗體的核心用途。\n- **(3) bamlanivimab+etesevimab 對 β(B.1.351)、γ(P.1)變異株體外中和變差，casirivimab+imdevimab 仍維持 — 正確** 不同單株抗體對變異株敏感度不同。\n- **(4) IL-6 阻斷劑 tocilizumab 建議與 dexamethasone 併用於嚴重肺炎 — 正確** 重症併用可降死亡(RECOVERY、REMAP-CAP)。\n- **(5) JAK 抑制劑 baricitinib 不可與 dexamethasone 併用 — 錯誤** baricitinib **可與類固醇併用**(或作為替代免疫調節)，並非禁止併用。\n\n## 選項分析\n\n- **(B)(2)+(3)+(4) ✓（正確答案）** 三項皆正確。\n- 其餘含錯誤的 (1) 或 (5)。\n\n## 記憶口訣\n\n> 早期高風險 → **單株抗體(抗 spike)**；重症 → **類固醇 + IL-6 阻斷(tocilizumab)或 baricitinib**；remdesivir 效益中等；**baricitinib 可與類固醇併用**。\n\n## 易混淆與進階補充\n\n- **單株抗體對變異株**：Omicron 時代多數早期單株抗體失效，須依流行株選擇。\n- **口服抗病毒**：nirmatrelvir/ritonavir、molnupiravir 用於高風險早期。\n- **免疫調節時機**：快速惡化、需高流量氧/呼吸器、發炎標記高時加用。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| remdesivir 單用極顯著 | 錯(效益中等)|\n| 單株抗體早期降住院 | 正確 |\n| 不同單株抗體對變異株 | 正確 |\n| tocilizumab+dexamethasone | 正確 |\n| baricitinib 不可併類固醇 | 錯(可併用)|",
+      "sources": [
+        {
+          "text": "NIH COVID-19 Treatment Guidelines"
+        }
+      ]
+    }
   },
   {
     "id": "110-S82",
@@ -9291,7 +9309,16 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**Linezolid 門診追蹤中「較不重要」的是 C：linezolid 並不典型造成 QTc 延長（反向題，選 C）。** 應注意與 MAOI/SSRI 併用(血清素症候群)(A)、乳酸中毒(B)、>2 週骨髓抑制(D)、>4 週視神經/周邊神經病變(E)皆為 linezolid 重要監測項目。",
+      "detail": "## 概念架構：Linezolid 的毒性監測\n\nLinezolid 是 oxazolidinone 類、抑制細菌蛋白質合成，可口服治療 MRSA 等革蘭氏陽性菌。其長期使用的重要副作用需門診追蹤：**骨髓抑制、乳酸中毒(粒線體毒性)、視/周邊神經病變、血清素症候群(弱 MAO 抑制)**。**QTc 延長並非 linezolid 的典型毒性**。\n\n## 選項分析（反向題：選「較不重要」）\n\n- **(A) 不可與 MAOI 或 SSRI 併用 — 重要** linezolid 具 **弱單胺氧化酶抑制** 作用，與 SSRI/MAOI 併用有 **血清素症候群** 風險，須注意。\n- **(B) 注意乳酸中毒 — 重要** linezolid 抑制粒線體蛋白合成 → 可致 **乳酸性酸中毒**，長期使用需監測。\n- **(C) 會造成 QTc 延長 — 較不重要（✗，正確答案）** linezolid **並非典型造成 QTc 延長** 的藥物，此項在門診追蹤相對不重要，為答案。\n- **(D) 使用超過 2 週有骨髓抑制風險 — 重要** 血小板減少、貧血、白血球下降，長期使用需監測血球。\n- **(E) 使用超過 4 週有視神經與周邊神經病變風險 — 重要** 長期(>4 週)使用的神經毒性，須警覺視力/感覺異常。\n\n## 記憶口訣\n\n> Linezolid 長期毒性：**骨髓抑制(>2 週)、視/周邊神經病變(>4 週)、乳酸中毒、血清素症候群(避 SSRI/MAOI)**；**QTc 延長不是它的典型問題**。\n\n## 易混淆與進階補充\n\n- **血清素症候群**：發燒、肌陣攣、反射亢進、躁動、自律神經不穩；併用 SSRI/SNRI/MAOI/tramadol 須警覺。\n- **可逆性**：骨髓抑制多在停藥後回復；**神經病變(尤其視神經)可能不完全回復**，故長療程須定期眼科與神經評估。\n- **與 vancomycin 比較**：linezolid **口服生體可用率高(近 100%)**、組織穿透佳(肺、皮膚軟組織、骨)，適合門診續接口服治療 MRSA。\n- **抗菌譜**：涵蓋 MRSA、VRE、多重抗藥革蘭氏陽性菌；對革蘭氏陰性菌無效。\n- **QTc 的正確歸類**：會延長 QT 的抗生素是 **macrolide、fluoroquinolone**，而非 linezolid，這是本題陷阱。\n\n## 重點整理表\n\n| 監測項目 | 重要性 |\n|---|---|\n| 避 MAOI/SSRI(血清素症候群) | 重要 |\n| 乳酸中毒 | 重要 |\n| QTc 延長 | 較不重要(答案 C)|\n| >2 週骨髓抑制 | 重要 |\n| >4 週視/周邊神經病變 | 重要 |",
+      "sources": [
+        {
+          "text": "Linezolid prescribing information; UpToDate — Linezolid toxicity"
+        }
+      ]
+    }
   },
   {
     "id": "110-S84",
@@ -9321,7 +9348,16 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**5 天腹瀉嘔吐、發燒漸重、相對心搏過緩(HR 62 於 40°C)、玫瑰疹(rose spots)、肝脾腫大、白血球不高、格蘭氏陰性菌血培 → 最可能為傷寒(typhoid)，治療 ceftriaxone（選 B）。** 相對心搏過緩(Faget sign)、玫瑰疹、GI 症狀與 GNB 菌血症是傷寒的典型。",
+      "detail": "## 概念架構：傷寒(Salmonella Typhi)的臨床線索\n\n傷寒的經典表現：**逐漸升高的持續發燒、腹部症狀(腹瀉/便秘)、頭痛、相對心搏過緩(Faget sign，發燒卻心跳不快)、軀幹「玫瑰疹(rose spots)」、肝脾腫大、白血球不升反低**，血液培養為 **革蘭氏陰性桿菌(Salmonella)**。\n\n## 選項分析\n\n- **(A) 鈎端螺旋體(leptospirosis)，ciprofloxacin — 較不符** 雖可發燒黃疸、結膜充血，但典型有水/動物暴露、肌痛、腎損；且非玫瑰疹 + 相對心搏過緩 + GNB 菌血症的組合。\n- **(B) 傷寒，ceftriaxone — 正確（✓）** 相對心搏過緩、玫瑰疹、肝脾腫大、白血球偏低、GNB 血培，典型傷寒；**ceftriaxone(第三代 cephalosporin)** 為首選經驗治療。\n- **(C) 退伍軍人病(Legionella)，ciprofloxacin — 不符** 以肺炎為主(本例胸部 X 光無浸潤)，且 Legionella 是難培養的細胞內菌，非一般 GNB 血培。\n- **(D) 李斯特菌(Listeria)，ampicillin — 不符** 李斯特菌是革蘭氏陽性桿菌，好侵犯孕婦/免疫低下者中樞神經，與 GNB 血培不符。\n- **(E) 布氏桿菌病(brucellosis)，doxycycline — 不符** 有動物/未殺菌乳製品接觸史、波狀熱，非玫瑰疹型，且培養困難。\n\n## 記憶口訣\n\n> 傷寒：**逐漸升高的燒 + 相對心搏過緩(Faget)+ 玫瑰疹 + 肝脾腫大 + 白血球不高 + GNB 菌血症**；首選 **ceftriaxone**。\n\n## 易混淆與進階補充\n\n- **相對心搏過緩(Faget sign)** 也見於 Legionella、瘧疾、黃熱病等，但配合玫瑰疹與 GNB 血培最指向傷寒。\n- **診斷**：血液培養(第一週最高)、骨髓培養更敏感；肥達試驗(Widal)特異度低。\n- **抗藥性**：注意氟喹諾酮抗藥的傷寒(南亞)，經驗治療多用第三代 cephalosporin。\n\n## 重點整理表\n\n| 線索 | 傷寒 |\n|---|---|\n| 發燒型態 | 逐漸升高、持續 |\n| 心跳 | 相對心搏過緩(Faget)|\n| 皮疹 | 玫瑰疹(rose spots)|\n| 肝脾 | 腫大壓痛 |\n| 血培 | 革蘭氏陰性桿菌 |\n| 治療 | ceftriaxone（答案 B）|",
+      "sources": [
+        {
+          "text": "Harrison's — Typhoid (Enteric) Fever"
+        }
+      ]
+    }
   },
   {
     "id": "110-S85",
@@ -9351,7 +9387,16 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**動物咬傷處理中「不正確」的是 E：被猴子咬傷除抗生素外「還需」考慮抗病毒(B 病毒/Herpes B)預防，並非無需（反向題，選 E）。** 狗貓咬傷菌含 S. aureus、Pasteurella、厭氧菌(A)、首選 amox/clav 或 amp/sulbactam(B)、盤尼西林過敏可用 clindamycin+TMP-SMX 或 FQ(C)、需考慮狂犬病預防(D)皆正確。",
+      "detail": "## 概念架構：動物咬傷的處置\n\n咬傷處置：**傷口清創沖洗、抗生素涵蓋、破傷風與狂犬病預防**。狗/貓咬傷常見菌 **Pasteurella multocida、S. aureus、厭氧菌**，首選 **amoxicillin/clavulanate 或 ampicillin/sulbactam**。**猴子咬傷** 需特別警覺 **B 病毒(Herpes B/Cercopithecine herpesvirus 1)**，可致致命腦脊髓炎，須考慮 **抗病毒(acyclovir/valacyclovir)預防**。\n\n## 選項分析（反向題：選「不正確」）\n\n- **(A) 狗貓咬致病菌含 S. aureus、Pasteurella multocida、厭氧菌 — 正確（✓）** 標準的咬傷菌譜。\n- **(B) 優先抗生素為 amoxicillin/clavulanate 或 ampicillin/sulbactam — 正確（✓）** 涵蓋 Pasteurella 與厭氧菌的首選。\n- **(C) 盤尼西林過敏可用 clindamycin + TMP-SMX 或 fluoroquinolone — 正確（✓）** 需同時涵蓋 Pasteurella(FQ 或 TMP-SMX)與厭氧菌(clindamycin/metronidazole)。\n- **(D) 需考慮狂犬病預防 — 正確（✓）** 依動物種類與暴露評估狂犬病暴露後預防。\n- **(E) 猴子咬傷也選 amoxicillin/clavulanate，無需抗病毒 — 錯誤（✗，正確答案）** 猴子咬/抓傷有 **B 病毒** 風險，除抗生素外 **需考慮抗病毒預防**(valacyclovir/acyclovir)並徹底沖洗，故此句為答案。\n\n## 記憶口訣\n\n> 狗貓咬 → **amox/clav 涵蓋 Pasteurella + 厭氧**；別忘 **破傷風、狂犬病**；**猴子咬要加抗病毒(B 病毒)**。\n\n## 易混淆與進階補充\n\n- **B 病毒(Herpes B)**：獼猴(macaque)攜帶，人感染致死率高，暴露後大量沖洗 + valacyclovir 預防。\n- **貓咬** 較深、Pasteurella 感染快(數小時紅腫)，感染率高；貓抓病(Bartonella)則另有淋巴結表現。\n- **傷口處理**：徹底清創沖洗最重要；臉部以外的咬傷常延遲縫合或不縫合。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| 狗貓菌譜(Pasteurella 等) | 正確 |\n| 首選 amox/clav | 正確 |\n| 盤尼西林過敏替代 | 正確 |\n| 考慮狂犬病預防 | 正確 |\n| 猴咬無需抗病毒 | 錯誤(需抗 B 病毒，答案 E)|",
+      "sources": [
+        {
+          "text": "IDSA Skin and Soft Tissue Infections — Animal Bites"
+        }
+      ]
+    }
   },
   {
     "id": "110-S86",
@@ -9381,7 +9426,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**鈎端螺旋體病的暴露風險為 (1)洪水後、(2)溪流河川活動、(3)廚師、(4)農田/獸醫/畜牧（選 D）。** 鈎端螺旋體由動物(尤其鼠)尿污染水/土壤經皮膚黏膜傷口感染，故接觸污染水土與動物的職業/活動是風險；(5) 三溫暖泡足溫泉非典型風險，故排除。",
+      "detail": "## 概念架構：鈎端螺旋體病(Leptospirosis)的暴露途徑\n\n鈎端螺旋體存在於 **帶菌動物(尤其鼠、家畜)的尿液**，污染 **水與土壤**，經 **皮膚/黏膜傷口或飲水** 感染人。因此風險與 **接觸污染水土、動物** 的活動/職業相關：洪水、河湖戲水、農漁牧、獸醫、屠宰、下水道工作等。\n\n## 逐項判讀\n\n- **(1) 洪水氾濫後 — 高風險（✓）** 洪水使動物尿污染擴散，是流行爆發的經典情境。\n- **(2) 溪流河川活動 — 高風險（✓）** 泛舟、涉水、戲水接觸污染水體。\n- **(3) 廚師 — 屬風險（✓，依本題）** 處理生鮮動物/內臟、環境可能受鼠尿污染，列為風險。\n- **(4) 農田、獸醫、畜牧工作 — 高風險（✓）** 直接接觸家畜與污染土壤，是職業高危族群。\n- **(5) 三溫暖泡足部溫泉 — 非典型風險** 溫泉(高溫、氯/硫)非鈎端螺旋體傳播情境，故排除。\n\n## 選項分析\n\n- **(D)(1)+(2)+(3)+(4) ✓（正確答案）** 涵蓋接觸污染水土與動物的情境。\n- 其餘遺漏正確項或納入不相關的 (5)。\n\n## 記憶口訣\n\n> 鈎端螺旋體 = **鼠尿污染水土 → 皮膚黏膜傷口**；風險：**洪水、河湖戲水、農漁牧/獸醫、屠宰下水道**；泡溫泉不是典型風險。\n\n## 易混淆與進階補充\n\n- **臨床**：發燒、劇烈肌痛(尤其小腿腓腸肌)、頭痛、**結膜充血(conjunctival suffusion，特徵性)**；可雙相病程。\n- **重症 Weil's disease**：黃疸(直接膽紅素高)、急性腎損傷、出血傾向、肺出血，死亡率高。\n- **診斷**：顯微凝集試驗(MAT)血清學、PCR、培養(困難);治療 **doxycycline(輕症)或 penicillin/ceftriaxone(重症)**。\n- **預防**：避免接觸污染水土、穿防護裝備、傷口防護、洪水後衛教；高暴露者可 **doxycycline 200 mg 每週預防**。\n- **鼠為主要保菌宿主**：都市鼠患、農牧、下水道、水上活動是常見感染鏈；台灣夏秋洪汛後常見群聚。\n\n## 重點整理表\n\n| 情境 | 風險 |\n|---|---|\n| 洪水後 | 高 |\n| 溪流河川活動 | 高 |\n| 廚師 | 屬風險(本題) |\n| 農田/獸醫/畜牧 | 高 |\n| 三溫暖泡足溫泉 | 非典型(排除) |",
+      "sources": [
+        {
+          "text": "CDC — Leptospirosis; Harrison's — Leptospirosis"
+        }
+      ]
+    }
   },
   {
     "id": "110-S87",
@@ -9411,7 +9465,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**在台灣，下列全部情況都「不建議」以 fluoroquinolone 當第一線經驗治療：(1)~(5) 全選（選 D）。** 化膿性扁桃炎(鏈球菌用盤尼西林)、急性膀胱炎(抗藥性、有其他首選)、蜂窩組織炎(革蘭氏陽性用 β-lactam)、急性腦膜炎(FQ 非首選)、急性腹瀉(多自限/抗藥性)——皆不宜以 FQ 為第一線。",
+      "detail": "## 概念架構：氟喹諾酮(FQ)的謹慎使用\n\nFQ 廣效但有 **抗藥性快速上升、嚴重副作用(肌腱斷裂、主動脈瘤、神經病變、QT、C. diff)** 與 **抗結核延誤診斷** 等問題，各國都主張 **保留使用**、避免用於有更適合窄效替代的常見感染。\n\n## 逐項判讀（皆「不建議」以 FQ 為第一線）\n\n- **(1) 急性化膿性扁桃炎 — 不建議** 主因 **A 群鏈球菌**，首選 **penicillin/amoxicillin**，FQ 非必要且過廣。\n- **(2) 急性膀胱炎 — 不建議** 因 FQ 抗藥性上升與副作用，單純膀胱炎首選 **nitrofurantoin、fosfomycin、TMP-SMX**，FQ 保留。\n- **(3) 足癬合併下肢蜂窩組織炎 — 不建議** 蜂窩組織炎主為 **鏈球菌/金黃色葡萄球菌(革蘭氏陽性)**，首選 **β-lactam(cephalexin 等)**，FQ 對革蘭氏陽性涵蓋不理想。\n- **(4) 急性腦膜炎 — 不建議** 首選第三代 cephalosporin(±vancomycin、ampicillin)，FQ 非第一線經驗治療。\n- **(5) 急性腹瀉 — 不建議** 多數 **病毒性/自限**，且腸道病原 FQ 抗藥性高、可能延長帶菌，不常規以 FQ 經驗治療。\n\n## 選項分析\n\n- **(D)(1)+(2)+(3)+(4)+(5) ✓（正確答案）** 五種情況都不宜以 FQ 為第一線。\n- 其餘選項皆遺漏部分正確項。\n\n## 記憶口訣\n\n> FQ 要 **省著用**：扁桃炎(用盤尼西林)、膀胱炎(用 nitrofurantoin)、蜂窩組織炎(用 β-lactam)、腦膜炎(用三代頭孢)、腹瀉(多自限)——**都別把 FQ 當第一線**。\n\n## 易混淆與進階補充\n\n- **FQ 合理適應**：複雜性泌尿道感染/腎盂腎炎(依感受性)、特定呼吸道感染、傷寒(注意抗藥)、某些骨髓炎/前列腺炎等。\n- **副作用黑框**：肌腱炎/斷裂、周邊神經病變、中樞神經、重症肌無力惡化、主動脈剝離/瘤。\n- **抗結核干擾**：FQ 有抗結核活性，貿然用於未確診肺病可能延誤/部分治療結核。\n\n## 重點整理表\n\n| 情況 | 第一線(非 FQ) |\n|---|---|\n| 化膿性扁桃炎 | penicillin/amoxicillin |\n| 急性膀胱炎 | nitrofurantoin/fosfomycin |\n| 蜂窩組織炎 | β-lactam(cephalexin) |\n| 急性腦膜炎 | 三代 cephalosporin±vanco |\n| 急性腹瀉 | 多支持性、非 FQ |",
+      "sources": [
+        {
+          "text": "台灣抗生素使用指引；IDSA/歐洲抗微生物管理建議"
+        }
+      ]
+    }
   },
   {
     "id": "110-S88",
@@ -9441,7 +9504,16 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**水痘後一週高燒、寬脈壓(140/50)、心搏過速、結膜發紅、鏡下血尿 → 最像感染性心內膜炎；不正確的是 E：病人最可能有「腦膜炎」（反向題，選 E）。** 應完整理學檢查(A)、可能有心雜音(B)、至少兩套血培(C)、做心臟超音波(D)皆為心內膜炎的合理處置。",
+      "detail": "## 概念架構：以「寬脈壓 + 發燒 + 血尿」導向感染性心內膜炎\n\n線索：水痘(皮膚破損為菌血症入口)後 **持續高燒、心搏過速、寬脈壓(140/50，提示主動脈瓣閉鎖不全)、結膜發紅、鏡下血尿(栓塞/免疫複合體腎炎)** → 高度懷疑 **感染性心內膜炎(IE)**。處置圍繞 IE：找雜音、血液培養、心臟超音波。\n\n## 選項分析（反向題：選「不正確」）\n\n- **(A) 應行完整身體診察 — 正確（✓）** 找周邊 IE 徵象(Osler nodes、Janeway lesions、Roth spots、脾腫、瘀點)。\n- **(B) 可能會有心雜音 — 正確（✓）** IE 常新增或改變的瓣膜逆流雜音(本例寬脈壓提示主動脈瓣閉鎖不全)。\n- **(C) 應行至少兩套血液培養 — 正確（✓）** IE 診斷需多套(通常 3 套、不同部位)血培以提高陽性率並符合 Duke 準則。\n- **(D) 應行心臟超音波 — 正確（✓）** 找贅生物、瓣膜破壞、膿瘍；經食道超音波(TEE)更敏感。\n- **(E) 病人最可能有腦膜炎 — 錯誤（✗，正確答案）** 綜合線索最像 **感染性心內膜炎**，不是腦膜炎(無頸僵直/意識/腦膜刺激徵描述)，此句為答案。\n\n## 記憶口訣\n\n> 發燒 + **寬脈壓(主動脈瓣閉鎖不全)** + 血尿 + 皮膚感染源 → 想 **感染性心內膜炎**：查雜音、**多套血培、心臟超音波**；不是腦膜炎。\n\n## 易混淆與進階補充\n\n- **Duke 準則**：主要條件(**典型菌血液培養陽性、超音波贅生物/瓣膜破壞**)+ 次要條件(發燒 ≥38°C、易感心臟病/靜脈藥癮、血管現象、免疫現象、單套血培)。\n- **周邊徵象**：**Osler nodes(痛)、Janeway lesions(不痛)、Roth spots、指甲下線狀出血、瘀點**——是次要診斷線索。\n- **併發**：瓣膜破壞致 **急性心衰**、**栓塞(腦、脾、腎、肺)**、感染性(黴菌性)動脈瘤、腎絲球腎炎。\n- **常見菌**：草綠色鏈球菌、金黃色葡萄球菌(急性、靜脈藥癮、人工瓣)、腸球菌;水痘後皮膚破損多為葡萄球菌入口。\n- **本例的血尿**：可能為栓塞性腎梗塞或免疫複合體腎絲球腎炎，是 IE 的次要(免疫/血管)現象，而非腦膜炎表現。\n\n## 重點整理表\n\n| 處置/敘述 | 對 IE 是否適當 |\n|---|---|\n| 完整身體診察 | 適當 |\n| 找心雜音 | 適當 |\n| ≥2 套血培 | 適當 |\n| 心臟超音波 | 適當 |\n| 最可能腦膜炎 | 不正確(應為 IE，答案 E)|",
+      "sources": [
+        {
+          "text": "Modified Duke Criteria; Harrison's — Infective Endocarditis"
+        }
+      ]
+    }
   },
   {
     "id": "110-S89",
@@ -9471,7 +9543,16 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**膽結石術後院內肺炎的「最不適當」敘述是 E：術前預防性抗生素應「單劑/短時(≤24 小時)」，用 72 小時並不能降低院內感染反增抗藥（反向題，選 E）。** 口咽嗆咳為主因(A)、上腹部手術增風險(B)、早發性肺炎以呼吸道常在菌為主(C)、無抗藥菌且改善者可短療程 8 天(D)皆正確。",
+      "detail": "## 概念架構：院內/呼吸器相關肺炎與手術預防性抗生素\n\n- **院內肺炎機轉**：主要為 **口咽分泌物微量吸入(aspiration)**；上腹部/胸腔手術因疼痛、橫膈功能受限、咳痰不良而增風險。\n- **早發性(≤4 天)HAP**：致病原多為 **社區型呼吸道常在菌(肺炎鏈球菌、流感嗜血桿菌)**；晚發性才是多重抗藥院內菌。\n- **手術預防性抗生素**：**單劑(切皮前)、療程 ≤24 小時**即可；**延長使用不會降低感染、反增抗藥與 C. diff**。\n\n## 選項分析（反向題：選「最不適當」）\n\n- **(A) 院內肺炎主要來自口咽嗆咳 — 正確（✓）** 微量吸入是主要機轉。\n- **(B) 上腹部手術增加院內肺炎風險 — 正確（✓）** 疼痛與橫膈功能受限使痰液清除變差。\n- **(C) 早發性肺炎致病原為呼吸道常在菌(肺炎球菌、感冒桿菌)— 正確（✓）** 早發性 HAP 的典型菌譜。\n- **(D) 插管者若無特定抗藥菌且臨床改善，建議短期(8 天)抗生素以減少後續抗藥移生 — 正確（✓）** 短療程(約 7–8 天)在無抗藥菌且改善者與長療程效果相當且減少抗藥。\n- **(E) 術前使用預防性抗生素 72 小時可降低院內感染 — 不適當（✗，正確答案）** 預防性抗生素應 **單劑/≤24 小時**；**72 小時延長無益且增加抗藥性與 C. diff**，此句為答案。\n\n## 記憶口訣\n\n> 院內肺炎主因 **吸入**；上腹手術增風險；早發性 = 常在菌；抗生素 **8 天短療程夠**；**手術預防抗生素 ≤24 小時、別延長到 72 小時**。\n\n## 易混淆與進階補充\n\n- **VAP 短療程**：多數 HAP/VAP **7–8 天** 即可(除非非發酵菌如綠膿桿菌、不動桿菌需個別評估延長)。\n- **手術部位感染預防**：**正確時機(切皮前 60 分鐘內給藥)、正確藥物與劑量、及時停藥(≤24 小時)** 最重要;延長無益反增抗藥與 C. diff。\n- **降階治療(de-escalation)**：培養與感受性結果出來後依感受性 **收窄** 抗生素，是抗生素管理核心。\n- **早發 vs 晚發 HAP**：早發(≤4 天)以社區型敏感菌為主;晚發(≥5 天)須涵蓋多重抗藥菌(MRSA、綠膿桿菌)。\n- **本例情境**：膽結石(上腹)手術後第 3 天 → 早發性 HAP，符合口咽吸入、常在菌致病，抗生素短療程足夠。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| 口咽吸入為主因 | 正確 |\n| 上腹手術增風險 | 正確 |\n| 早發性=常在菌 | 正確 |\n| 改善者 8 天短療程 | 正確 |\n| 預防抗生素用 72 小時 | 不適當(≤24 小時，答案 E)|",
+      "sources": [
+        {
+          "text": "ATS/IDSA HAP/VAP Guidelines; Surgical Prophylaxis Guidelines"
+        }
+      ]
+    }
   },
   {
     "id": "110-S90",
@@ -9501,7 +9582,16 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**懷孕者不建議接種的是 (2)水痘(帶狀皰疹)疫苗 +(3)MMR 疫苗（選 B）。** 兩者皆為「活性減毒疫苗」，懷孕禁忌；B 肝(1)、流感(4，不活化)、Td/Tdap(5)皆為不活化/類毒素疫苗，懷孕可接種。",
+      "detail": "## 概念架構：懷孕與疫苗——活性減毒疫苗禁忌\n\n原則：**活性減毒(live-attenuated)疫苗於懷孕禁忌**(理論上胎兒感染風險)；**不活化疫苗、類毒素、次單位疫苗** 懷孕可安全接種。\n\n## 逐項判讀\n\n- **(1) B 型肝炎疫苗 — 可接種** 為 **不活化/重組次單位** 疫苗，懷孕高風險者可接種。\n- **(2) 水痘/帶狀皰疹疫苗(varicella-zoster)— 不建議** 為 **活性減毒疫苗**，懷孕禁忌(接種後應避孕一段時間)。\n- **(3) MMR(麻疹、腮腺炎、德國麻疹)— 不建議** 為 **活性減毒疫苗**，懷孕禁忌。\n- **(4) 流感疫苗(注射型)— 可接種** 為 **不活化** 疫苗，且孕婦是流感重症高危族群，**建議** 接種(注意鼻噴劑 LAIV 是活性、不用於孕婦)。\n- **(5) Td/Tdap — 可接種** 類毒素疫苗，孕期建議接種 Tdap(每次懷孕，保護新生兒百日咳)。\n\n## 選項分析\n\n- **(B)(2)+(3) ✓（正確答案）** 水痘與 MMR 皆為活性減毒疫苗，懷孕不建議。\n- 其餘含可接種的不活化疫苗(1、4、5)，不符。\n\n## 記憶口訣\n\n> 懷孕 **禁活性減毒疫苗**：**MMR、水痘/帶狀皰疹、口服小兒麻痺、卡介苗、黃熱、鼻噴流感**；**不活化(流感針劑、Tdap、B 肝)可打、甚至建議**。\n\n## 易混淆與進階補充\n\n- **孕期主動建議接種**：**不活化流感疫苗(任何孕期)、Tdap(每次懷孕，孕 27–36 週,保護新生兒百日咳)、COVID-19 疫苗**。\n- **產後補接種**：MMR、水痘可於 **產後(哺乳期可接種)** 補上,尤其產前篩檢無免疫力者。\n- **接種活疫苗後避孕**：MMR/水痘接種後建議 **避孕約 1 個月**;若不慎於懷孕接種，非終止妊娠指徵但須衛教。\n- **其他孕期禁忌活疫苗**：口服小兒麻痺(OPV)、卡介苗(BCG)、黃熱病(除非高風險旅遊權衡)、鼻噴流感(LAIV)。\n- **原則整理**：不活化/類毒素/次單位/mRNA 疫苗孕期安全;活性減毒疫苗孕期禁忌。\n\n## 重點整理表\n\n| 疫苗 | 類型 | 懷孕 |\n|---|---|---|\n| B 肝 | 不活化 | 可 |\n| 水痘/帶狀皰疹 | 活性減毒 | 不建議(答案)|\n| MMR | 活性減毒 | 不建議(答案)|\n| 流感(針劑) | 不活化 | 可/建議 |\n| Td/Tdap | 類毒素 | 可/建議 |",
+      "sources": [
+        {
+          "text": "CDC/ACIP — Vaccination in Pregnancy"
+        }
+      ]
+    }
   },
   {
     "id": "110-S91",
@@ -9531,7 +9621,16 @@
       }
     ],
     "answer": "A",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**造血幹細胞移植後第 100 天(晚期)的常見感染組合為 (2)Aspergillus +(3)CMV +(6)Toxoplasma（選 A）。** 晚期(>100 天)以細胞免疫低下相關的黴菌(麴菌)、CMV、弓漿蟲、VZV、包膜細菌為主；本題最正確組合為 Aspergillus + CMV + Toxoplasma。",
+      "detail": "## 概念架構：HSCT 感染的三時期\n\n| 時期 | 免疫缺損 | 常見病原 |\n|---|---|---|\n| 前期(<30 天，嗜中性球低下) | 中性球缺乏、黏膜破損 | 革蘭氏陰/陽性菌(E. coli)、念珠菌、HSV |\n| 中期(30–100 天，細胞免疫低) | T 細胞、GVHD | **CMV、Aspergillus、PCP、Toxoplasma** |\n| 晚期(>100 天) | 細胞/體液免疫低、慢性 GVHD | **VZV、包膜細菌(肺炎鏈球菌)、CMV、Aspergillus、Toxoplasma** |\n\n本題問「移植後 100 天」發生的感染，落在中—晚期交界，以 **細胞免疫低下相關病原** 為主。\n\n## 逐項判讀\n\n- **(1) E. coli — 前期(中性球低下)** 較屬移植早期菌血症，非此期主角。\n- **(2) Aspergillus — 是（✓）** 侵襲性麴菌病在中—晚期(尤其 GVHD、長期類固醇)常見。\n- **(3) CMV — 是（✓）** 中—晚期 CMV 再活化(肺炎、腸炎)是重要威脅。\n- **(4) C. difficile — 不特屬此期** 抗生素相關，任何時期皆可。\n- **(5) 包膜細菌 — 偏更晚期** 慢性 GVHD、脾功能不良者風險，非本組合首選。\n- **(6) Toxoplasma — 是（✓）** 細胞免疫低下再活化，可致腦炎，屬此期病原。\n- **(7) VZV — 偏更晚期** 帶狀皰疹好發較晚期。\n\n## 選項分析\n\n- **(A)(2)+(3)+(6) ✓（正確答案）** Aspergillus + CMV + Toxoplasma，皆為細胞免疫低下相關的中—晚期病原。\n- 其餘組合混入前期菌(E. coli)或不特屬此期者。\n\n## 記憶口訣\n\n> HSCT：**早期=中性球低(細菌、念珠菌、HSV)；中期=細胞免疫低(CMV、麴菌、PCP、弓漿蟲)；晚期=體液/慢性 GVHD(VZV、包膜菌)**。100 天 → CMV/麴菌/弓漿蟲。\n\n## 易混淆與進階補充\n\n- **預防**：PCP 用 TMP-SMX；CMV 監測/preemptive 或 letermovir 預防；黴菌可 posaconazole；VZV 用 acyclovir 預防。\n- **慢性 GVHD** 大幅延長免疫低下期、增加包膜細菌與黴菌風險。\n- **疫苗重建**：移植後需依時程重新接種。\n\n## 重點整理表\n\n| 病原 | 是否此期常見 |\n|---|---|\n| Aspergillus | 是(答案)|\n| CMV | 是(答案)|\n| Toxoplasma | 是(答案)|\n| E. coli | 前期為主 |\n| 包膜細菌/VZV | 更晚期 |",
+      "sources": [
+        {
+          "text": "Harrison's — Infections in Transplant Recipients"
+        }
+      ]
+    }
   },
   {
     "id": "110-S92",
@@ -9561,7 +9660,16 @@
       }
     ],
     "answer": "A",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**皰疹病毒與疾病配對「最不適當」的是 A：Herpangina 是由「克沙奇病毒(腸病毒)」引起，而非 HSV-1（選 A）。** VZV–Ramsay Hunt(B)、EBV–B 細胞淋巴瘤(C)、HHV-8–卡波西氏肉瘤(D)、EBV–口腔毛狀白斑(E)皆正確；HSV-1 造成的是疱疹性齒齦口腔炎。",
+      "detail": "## 概念架構：人類皰疹病毒(HHV)家族與相關疾病\n\n| 病毒 | 相關疾病 |\n|---|---|\n| HSV-1 | 口唇疱疹、**疱疹性齒齦口腔炎**、疱疹性腦炎 |\n| HSV-2 | 生殖器疱疹 |\n| VZV(HHV-3) | 水痘、帶狀皰疹、**Ramsay Hunt syndrome** |\n| EBV(HHV-4) | 傳染性單核球增多症、**B 細胞淋巴瘤**、鼻咽癌、**口腔毛狀白斑** |\n| CMV(HHV-5) | 免疫低下者肺炎/腸炎/視網膜炎 |\n| HHV-8 | **卡波西氏肉瘤**、原發性滲出性淋巴瘤 |\n\n## 選項分析（反向題：選「最不適當」）\n\n- **(A) HSV-1：Herpangina — 最不適當（✗，正確答案）** **Herpangina(疱疹性咽峽炎)** 是 **克沙奇病毒 A(Coxsackie/腸病毒)** 引起，**非 HSV-1**；HSV-1 造成的是 **疱疹性齒齦口腔炎**，此配對錯誤，為答案。\n- **(B) VZV：Ramsay Hunt syndrome — 適當（✓）** VZV 侵犯膝狀神經節，致耳部帶狀皰疹 + 顏面神經麻痺 + 聽/前庭症狀。\n- **(C) EBV：B cell lymphoma — 適當（✓）** EBV 與多種 B 細胞淋巴瘤(如移植後淋巴增生疾病、Burkitt)相關。\n- **(D) HHV-8：Kaposi's sarcoma — 適當（✓）** HHV-8(KSHV)是卡波西氏肉瘤的病原。\n- **(E) EBV：Oral hairy leukoplakia — 適當（✓）** EBV 造成的口腔毛狀白斑，常見於愛滋/免疫低下者。\n\n## 記憶口訣\n\n> **Herpangina = 克沙奇病毒(腸病毒)不是 HSV**；HSV-1 是齒齦口腔炎。VZV→Ramsay Hunt；EBV→B 淋巴瘤/毛狀白斑；HHV-8→卡波西。\n\n## 易混淆與進階補充\n\n- **Herpangina vs 疱疹性齒齦口腔炎**：前者克沙奇、後咽軟顎小水泡潰瘍；後者 HSV-1、前口腔/牙齦廣泛潰瘍。\n- **手足口病** 也是腸病毒(克沙奇 A16、EV71)。\n- **Ramsay Hunt** 需及早 acyclovir + 類固醇。\n\n## 重點整理表\n\n| 配對 | 適當? |\n|---|---|\n| HSV-1 : Herpangina | 不適當(應為克沙奇，答案 A)|\n| VZV : Ramsay Hunt | 適當 |\n| EBV : B 細胞淋巴瘤 | 適當 |\n| HHV-8 : 卡波西氏肉瘤 | 適當 |\n| EBV : 口腔毛狀白斑 | 適當 |",
+      "sources": [
+        {
+          "text": "Harrison's — Herpesvirus Infections"
+        }
+      ]
+    }
   },
   {
     "id": "110-S93",
@@ -9591,7 +9699,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**抗生素藥物交互作用「最不適當」的是 D：Rifampin 是酵素「誘導劑」，會「降低」口服避孕藥效果(需改用其他避孕)，並非加強荷爾蒙作用（選 D）。** metronidazole+酒精 disulfiram 反應(A)、macrolide+FQ 增心律不整(B)、tetracycline 加強 warfarin(C)、linezolid 增升壓藥致高血壓(E)皆正確。",
+      "detail": "## 概念架構：重要抗生素藥物交互作用\n\n- **酵素誘導 vs 抑制**：**rifampin 是強力 CYP450 誘導劑**，加速多種藥物代謝(口服避孕藥、warfarin、抗排斥藥、部分抗病毒藥)→ **降低藥效**。\n- **QT 延長疊加**：macrolide + fluoroquinolone。\n- **MAO 抑制**：linezolid。\n\n## 選項分析（反向題：選「最不適當」）\n\n- **(A) Metronidazole + 酒精 → disulfiram-like reaction — 正確（✓）** 抑制乙醛去氫酶，飲酒致噁心、潮紅、心悸，治療期間須戒酒。\n- **(B) Macrolides + Fluoroquinolones → 增加心律不整風險 — 正確（✓）** 兩者皆延長 QT，合併增加尖端扭轉性心室頻脈風險。\n- **(C) Tetracyclines + Warfarin → 加強抗凝、增出血 — 正確（✓）** 干擾腸道菌合成維生素 K 並置換蛋白結合，增強 warfarin 效果。\n- **(D) Rifampin 會加強荷爾蒙作用，口服避孕藥應減量 — 錯誤（✗，正確答案）** 相反：rifampin 為 **酵素誘導劑，加速口服避孕藥代謝、降低避孕效果**，應 **改用/加用其他避孕方式**，而非減量，此句為答案。\n- **(E) Linezolid 增加 adrenergic 升壓藥作用、致難控高血壓 — 正確（✓）** linezolid 具弱 MAO 抑制，與擬交感升壓藥/含酪胺食物併用可致高血壓危象。\n\n## 記憶口訣\n\n> **Rifampin = 酵素誘導劑 → 讓避孕藥/warfarin/抗排斥藥「失效」**(不是加強)；metronidazole 戒酒；macrolide+FQ 顧 QT；linezolid 是弱 MAOI。\n\n## 易混淆與進階補充\n\n- **Rifampin 誘導的臨床後果**：避孕失敗、warfarin 需增量、免疫抑制藥血中濃度下降、部分 HIV/HCV 藥物濃度不足。\n- **與 rifampin 相反**：macrolide(erythromycin/clarithromycin)、azole 抗黴菌是 **CYP 抑制劑**(升高其他藥濃度)。\n- **QT 藥物**：合併多種延長 QT 藥物、低血鉀/鎂時風險更高。\n\n## 重點整理表\n\n| 交互作用 | 正確? |\n|---|---|\n| metronidazole+酒精 disulfiram | 正確 |\n| macrolide+FQ 心律不整 | 正確 |\n| tetracycline 增強 warfarin | 正確 |\n| rifampin 加強避孕藥 | 錯誤(降低藥效，答案 D)|\n| linezolid 增升壓藥→高血壓 | 正確 |",
+      "sources": [
+        {
+          "text": "Drug interactions — Rifampin CYP induction; UpToDate"
+        }
+      ]
+    }
   },
   {
     "id": "110-S94",
@@ -9621,7 +9738,16 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**COVID-19 敘述「最不適當」的是 C：症狀發生前「極少具傳染性、多接觸有症狀者才傳染」不正確——presymptomatic/asymptomatic 傳染在 COVID 很重要（反向題，選 C）。** RNA 病毒以呼吸道症狀為主(A)、潛伏期 2–14 天多 4–5 天(B)、約 5% 極重症需加護(D)、淋巴球減少+D-dimer 升高與死亡正相關(E)皆正確。",
+      "detail": "## 概念架構：COVID-19 的傳播特性\n\nSARS-CoV-2 是 **RNA 病毒**，主要經 **飛沫/氣溶膠** 傳播；**症狀前(presymptomatic)與無症狀(asymptomatic)傳染是其疫情難控的關鍵**——病毒量在 **症狀出現前 1–2 天即高**，故不需接觸「有症狀者」才會被傳染。\n\n## 選項分析（反向題：選「最不適當」）\n\n- **(A) SARS-CoV-2 屬 RNA 病毒，以呼吸道症狀為主 — 正確（✓）** 冠狀病毒為單股 RNA，人類感染以呼吸道為主(可多系統)。\n- **(B) 潛伏期一般 2–14 天，大多 4–5 天 — 正確（✓）** 原始/早期株的典型潛伏期。\n- **(C) 症狀發生前極少具傳染性，多接觸有症狀者才傳染 — 最不適當（✗，正確答案）** 錯誤：**症狀前與無症狀傳染顯著**，是 COVID 傳播的重要特徵，此句為答案。\n- **(D) 約 5% 發生呼吸衰竭或敗血性休克等極嚴重感染需加護 — 正確（✓）** 約 5% 為危重症。\n- **(E) 淋巴球減少 + D-dimer 升高與死亡率正相關 — 正確（✓）** 是重症/預後不良的實驗室指標。\n\n## 記憶口訣\n\n> COVID **症狀前就會傳染(presymptomatic)**，這是難防的關鍵(C 說相反=錯)；RNA 病毒、潛伏 2–14 天(多 4–5)、約 5% 危重、**淋巴球↓ + D-dimer↑ 預後差**。\n\n## 易混淆與進階補充\n\n- **傳染力高峰**：**症狀出現前 1–2 天到出現後數天最高**，故接觸者匡列、早期隔離與口罩通風防護重要。\n- **重症標記**：**淋巴球減少、D-dimer、CRP、鐵蛋白、LDH、troponin** 升高與嚴重度/死亡相關。\n- **變異株**：潛伏期與傳染力隨變異株(如 Omicron)改變(**潛伏期縮短、傳染力增、免疫逃脫**)。\n- **無症狀比例**：相當比例感染者無症狀或輕症卻具傳染力，是防疫困難的關鍵。\n- **傳播途徑**：主要飛沫與氣溶膠(近距離、密閉空間風險高)，接觸傳播次之。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| RNA 病毒、呼吸道為主 | 正確 |\n| 潛伏 2–14 天(多 4–5) | 正確 |\n| 症狀前極少傳染 | 不適當(症狀前會傳染，答案 C)|\n| 約 5% 危重需加護 | 正確 |\n| 淋巴球↓+D-dimer↑ 與死亡正相關 | 正確 |",
+      "sources": [
+        {
+          "text": "WHO/CDC COVID-19 Transmission Characteristics"
+        }
+      ]
+    }
   },
   {
     "id": "110-S95",
@@ -9651,7 +9777,16 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**呼吸器相關肺炎(VAP)預防措施的「為非」是 B：常規使用制酸劑升高胃 pH 反而促進胃內細菌過度生長、增加 VAP 風險（反向題，選 B）。** 床頭抬高(A)、每日中斷鎮靜評估(C)、手部衛生與無菌操作(D)、控制血糖(E)皆為正確的 VAP 預防措施。",
+      "detail": "## 概念架構：VAP 預防「組合式照護(bundle)」\n\nVAP 預防重點：**減少吸入(床頭抬高 30–45°)、縮短插管時間(每日鎮靜中斷與脫離評估)、口腔照護、手部衛生與無菌操作、避免不必要的制酸劑**。\n\n## 選項分析（反向題：選「為非」）\n\n- **(A) 床頭抬高以減少嗆入 — 正確（✓）** 半坐臥(30–45°)減少胃內容物吸入，是核心措施。\n- **(B) 常規制酸劑使用、升高胃 pH 以減少上消化道菌叢 — 錯誤（✗，正確答案）** 相反：**升高胃 pH 使胃內細菌過度生長、增加 VAP 風險**；壓力性潰瘍預防非「常規」給予、且與 VAP 預防目標相衝突，此句為答案。\n- **(C) 長期插管者評估每日鎮靜劑中斷 — 正確（✓）** 每日喚醒(sedation vacation)+ 脫離評估縮短插管天數、降 VAP。\n- **(D) 人員落實手部衛生與無菌操作 — 正確（✓）** 防止交叉感染的基本且關鍵措施。\n- **(E) 控制血糖以改善宿主免疫 — 正確（✓）** 適度血糖控制降低感染風險。\n\n## 記憶口訣\n\n> VAP 預防：**床頭抬高、每日鎮靜中斷早脫離、口腔照護、手部衛生**；**別常規給制酸劑(升胃 pH → 細菌長 → VAP↑)**。\n\n## 易混淆與進階補充\n\n- **VAP bundle** 常含：**半坐臥(30–45°)、每日鎮靜中斷與拔管評估、消化性潰瘍預防(需個別評估非全給)、深部靜脈血栓預防、口腔照護**。\n- **壓力性潰瘍預防的取捨**：僅 **高危(凝血異常、機械通氣 >48 小時)** 才給制酸/H2 阻斷/PPI，權衡 VAP 與腸道菌相風險;無指徵者不常規給。\n- **為何制酸劑增 VAP**：**升高胃 pH → 胃內革蘭氏陰性菌過度生長 → 逆流吸入 → 肺炎**，故不作為 VAP 預防手段。\n- **聲門下分泌物抽吸** 專用氣管內管、避免不必要的呼吸管路更換，皆可降 VAP。\n- **早期脫離呼吸器** 是降低 VAP 最根本的措施(縮短插管天數)。\n\n## 重點整理表\n\n| 措施 | VAP 預防? |\n|---|---|\n| 床頭抬高 | 是 |\n| 常規制酸劑升胃 pH | 否(增 VAP，答案 B)|\n| 每日鎮靜中斷 | 是 |\n| 手部衛生/無菌 | 是 |\n| 血糖控制 | 是 |",
+      "sources": [
+        {
+          "text": "ATS/IDSA VAP Prevention; SHEA/IDSA Compendium"
+        }
+      ]
+    }
   },
   {
     "id": "110-S96",
@@ -9681,7 +9816,16 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**抗生素主要抑制機轉「最不適當」的是 C：Macrolide 抑制的是「蛋白質」合成(50S 核糖體)，不是 DNA 合成（選 C）。** Cephalosporin 抑制細胞壁(A)、Clindamycin 抑制蛋白質(B)、Sulfonamide 抑制葉酸(D)、Rifampin 抑制 RNA(E)皆正確。",
+      "detail": "## 概念架構：抗生素作用機轉分類\n\n| 機轉 | 代表藥物 |\n|---|---|\n| 抑制細胞壁合成 | β-lactam(penicillin、**cephalosporin**、carbapenem)、vancomycin |\n| 抑制蛋白質合成 | 胺基醣苷、四環素、**macrolide(50S)**、**clindamycin(50S)**、linezolid、chloramphenicol |\n| 抑制核酸(DNA)| fluoroquinolone(DNA gyrase/topo IV)、metronidazole |\n| 抑制 RNA 合成 | **rifampin(RNA polymerase)** |\n| 抑制葉酸合成 | **sulfonamide、trimethoprim** |\n\n## 選項分析（反向題：選「最不適當」）\n\n- **(A) Cephalosporin – 抑制細胞壁合成 — 正確（✓）** β-lactam 抑制轉肽酶(PBP)、干擾細胞壁。\n- **(B) Clindamycin – 抑制蛋白質合成 — 正確（✓）** 作用於 50S 核糖體。\n- **(C) Macrolide – 抑制 DNA 合成 — 最不適當（✗，正確答案）** macrolide(erythromycin、azithromycin、clarithromycin)作用於 **50S 核糖體、抑制「蛋白質」合成**，**不是 DNA 合成**；抑制 DNA 的是 fluoroquinolone，此配對錯誤，為答案。\n- **(D) Sulfonamide – 抑制葉酸合成 — 正確（✓）** 抑制二氫葉酸合成酶(dihydropteroate synthase)。\n- **(E) Rifampin – 抑制 RNA 合成 — 正確（✓）** 抑制 DNA 依賴性 RNA 聚合酶。\n\n## 記憶口訣\n\n> **Macrolide、clindamycin = 蛋白質合成(50S)**；DNA 合成抑制是 **fluoroquinolone/metronidazole**；rifampin=RNA；sulfonamide=葉酸；β-lactam/vancomycin=細胞壁。\n\n## 易混淆與進階補充\n\n- **50S vs 30S**：50S(macrolide、clindamycin、linezolid、chloramphenicol)；30S(胺基醣苷、四環素)。\n- **殺菌 vs 抑菌**：β-lactam、胺基醣苷、FQ、vancomycin 殺菌；macrolide、clindamycin、四環素、sulfonamide 多抑菌。\n- **葉酸雙重阻斷**：sulfamethoxazole + trimethoprim(TMP-SMX)協同。\n\n## 重點整理表\n\n| 藥物 | 機轉 | 正確? |\n|---|---|---|\n| Cephalosporin | 細胞壁 | 正確 |\n| Clindamycin | 蛋白質(50S) | 正確 |\n| Macrolide | 蛋白質(50S) | 題目寫 DNA=錯(答案 C)|\n| Sulfonamide | 葉酸 | 正確 |\n| Rifampin | RNA | 正確 |",
+      "sources": [
+        {
+          "text": "Katzung Basic & Clinical Pharmacology — Antimicrobials"
+        }
+      ]
+    }
   },
   {
     "id": "110-S97",
@@ -11637,7 +11781,16 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**東南亞旅遊史後、無症狀全身皮疹 2 個月 → 最需要的檢查是抽血檢測梅毒血清學 VDRL/RPR 與 TPPA/TPHA（選 C）。** 二期梅毒可呈現全身無症狀、含手掌腳掌的皮疹，需以非特異(RPR)+特異(TPPA)血清學確診。",
+      "detail": "## 概念架構：無症狀全身皮疹 + 高風險暴露 → 想二期梅毒\n\n**二期梅毒(secondary syphilis)** 常表現 **全身、對稱、無症狀的斑丘疹**(典型含 **手掌與腳掌**)，可伴黏膜斑、扁平濕疣、淋巴結腫；旅遊/性接觸史增加可能。診斷靠 **血清學**：**非特異性試驗(VDRL/RPR，反映活動度)** + **特異性試驗(TPPA/TPHA/FTA-ABS，確認)**。\n\n## 選項分析\n\n- **(A) 皮屑 KOH 顯微鏡 — 不符** 用於 **黴菌(皮癬菌)** 感染，非梅毒；本例無典型癬環描述。\n- **(B) 皮膚切片非典型分枝桿菌染色培養 — 較不符** 用於疑似非結核分枝桿菌皮膚感染(常局部、慢性結節/潰瘍)，非全身無症狀疹的首選。\n- **(C) 抽血 VDRL/RPR 及 TPPA/TPHA — 正確（✓）** 二期梅毒的診斷主軸，非特異 + 特異血清學組合，為此題最需要的檢查。\n- **(D) Borrelia burgdorferi IgM/IgG(萊姆病)— 較不符** 萊姆病典型為 **移行性紅斑(單一擴大靶心)** + 蜱叮咬史，與全身無症狀疹不同，且東南亞非主要疫區。\n- **(E) 伍氏燈(Wood's light)— 不符** 用於某些黴菌/色素/紅癬的螢光檢查，非梅毒診斷。\n\n## 記憶口訣\n\n> **全身無症狀疹(含手掌腳掌)+ 旅遊/性接觸** → 想 **二期梅毒**，查 **RPR + TPPA**；KOH 是黴菌、Wood's light 是螢光、Borrelia 是萊姆病。\n\n## 易混淆與進階補充\n\n- **梅毒血清學邏輯**：RPR(非特異、可追蹤療效與活動)＋ TPPA/FTA-ABS(特異、終身陽性)；兩者搭配判讀。\n- **二期梅毒特徵**：手掌腳掌疹、黏膜斑、扁平濕疣、全身淋巴結腫、可有脫髮。\n- **治療**：benzathine penicillin G；追蹤 RPR 效價下降。\n\n## 重點整理表\n\n| 檢查 | 用途 | 適合本例? |\n|---|---|---|\n| VDRL/RPR + TPPA/TPHA | 梅毒血清學 | 是（答案 C）|\n| KOH | 黴菌 | 否 |\n| 非典型分枝桿菌切片 | NTM 皮膚感染 | 否 |\n| Borrelia 血清 | 萊姆病 | 否 |\n| Wood's light | 螢光檢查 | 否 |",
+      "sources": [
+        {
+          "text": "CDC STI Treatment Guidelines — Syphilis"
+        }
+      ]
+    }
   },
   {
     "id": "110-S157",
@@ -11727,7 +11880,16 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**異位性皮膚炎病人發燒後出現搔癢疼痛皮疹、對口服 cephalexin 無效仍快速擴散全身 → 濕疹疱疹(eczema herpeticum，播散性 HSV)，最恰當處置是全身性 acyclovir（選 C）。** 播散性單純疱疹病毒感染需抗病毒，非抗生素、非類固醇、非抗黴菌。",
+      "detail": "## 概念架構：濕疹疱疹(Kaposi's varicelliform eruption)\n\n**濕疹疱疹(eczema herpeticum)** 是 **單純疱疹病毒(HSV)** 在受損的異位性皮膚炎皮膚上 **播散性感染**：突發 **成群、臍凹狀(punched-out)小水泡/糜爛**、搔癢疼痛、發燒，**快速擴散**，且 **對抗生素無效**(因為是病毒)。是皮膚科急症，須 **全身性抗病毒治療**。\n\n## 選項分析\n\n- **(A) 局部 mupirocin — 不足** 用於局部細菌(膿痂疹)感染；無法處理播散性病毒感染。\n- **(B) 全身性 prednisolone — 不當/有害** 類固醇會 **加重病毒播散**，濕疹疱疹應避免全身類固醇。\n- **(C) 全身性 acyclovir — 正確（✓）** 播散性 HSV 需 **系統性抗病毒(acyclovir/valacyclovir)**，嚴重或廣泛者靜脈給藥，為答案。\n- **(D) 靜脈 vancomycin — 非首要** 針對 MRSA 細菌感染；本例已用 cephalexin 無效、病灶為病毒性(臍凹狀水泡)，抗生素非核心(可在合併細菌感染時加上)。\n- **(E) 口服 fluconazole — 不當** 抗黴菌藥，與病毒性濕疹疱疹無關。\n\n## 記憶口訣\n\n> 異位性皮膚炎 + **突發臍凹狀水泡、擴散快、抗生素無效** → **濕疹疱疹(HSV)** → 給 **acyclovir**；**別給全身類固醇(會惡化)**。\n\n## 易混淆與進階補充\n\n- **臨床特徵**：**成簇、單一形態、臍凹狀(punched-out)糜爛/小水泡**，好發在原濕疹部位並向外擴散，伴發燒;可續發細菌感染(此時加抗生素如涵蓋 MRSA)。\n- **診斷**：**Tzanck 抹片(多核巨細胞)、HSV PCR/培養、直接螢光抗體(DFA)**;臨床高度懷疑即可先給抗病毒。\n- **併發**：**眼部受累(疱疹性角膜炎)** 需眼科會診;嚴重可致病毒血症、器官侵犯，免疫低下者更危險。\n- **治療細節**：輕症口服 acyclovir/valacyclovir;**廣泛、系統症狀、免疫低下或眼周受累者靜脈 acyclovir**。\n- **關鍵鑑別**：異位性皮膚炎「惡化」對類固醇/抗生素反應不佳且擴散時，要想到 **病毒性(HSV)重疊感染**，避免誤加全身類固醇。\n\n## 重點整理表\n\n| 處置 | 適當? |\n|---|---|\n| 局部 mupirocin | 不足(局部細菌用)|\n| 全身類固醇 | 有害(惡化病毒)|\n| 全身 acyclovir | 正確（答案 C）|\n| 靜脈 vancomycin | 非首要(合併細菌才加)|\n| 口服 fluconazole | 不當(抗黴菌)|",
+      "sources": [
+        {
+          "text": "Eczema herpeticum — AAD; Harrison's HSV infections"
+        }
+      ]
+    }
   },
   {
     "id": "110-S160",
