@@ -2898,7 +2898,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**大劑量時可能造成肌肉毒性甚至橫紋肌溶解的抗生素是 Daptomycin（選 D）。** Daptomycin 可致 CK 升高、肌病變/橫紋肌溶解,使用期間須監測 CK,並避免與 statin 併用。",
+      "detail": "## 概念架構：抗生素的特徵性毒性\n\n不同抗生素有特徵性毒性:\n- **Daptomycin**：**肌肉毒性(CK 升高、肌病變、橫紋肌溶解)**,需 **每週監測 CK**,避免/暫停 statin;另可致嗜酸性球性肺炎。\n- **Colistin**：腎毒性、神經毒性。\n- **Quinolone(氟喹諾酮)**：肌腱炎/斷裂、QT、神經病變、主動脈瘤(非橫紋肌溶解)。\n- **Vancomycin**：腎毒性、紅人症候群。\n- **Erythromycin(巨環類)**：腸胃、QT、藥物交互。\n\n## 選項分析\n\n- **(A) Erythromycin — 不符** 主要腸胃/QT,非肌肉溶解。\n- **(B) Colistin — 不符** 腎/神經毒性。\n- **(C) Quinolone — 不符** 肌腱問題(非橫紋肌溶解)。\n- **(D) Daptomycin — 正確（✓）** 大劑量致肌肉毒性/橫紋肌溶解,需監測 CK,為答案。\n- **(E) Vancomycin — 不符** 腎毒性、紅人症候群。\n\n## 記憶口訣\n\n> **Daptomycin → 肌肉毒性/橫紋肌溶解(監測 CK、停 statin)**;colistin 腎/神經;quinolone 肌腱斷裂;vancomycin 腎/紅人症候群。\n\n## 易混淆與進階補充\n\n- **Daptomycin 監測**：每週 CK;>5 倍上限伴症狀或 >10 倍應停藥。\n- **不用於肺炎**：daptomycin 被肺部界面活性劑抑制,**不能用於肺炎**;用於菌血症、右心心內膜炎、皮膚軟組織、MRSA。\n- **嗜酸性球性肺炎**：使用中出現發燒、喘、嗜酸性球增多需警覺、停藥。\n- **横紋肌溶解機轉**：daptomycin 影響肌細胞膜,劑量越大風險越高;與 statin 併用增風險。\n- **適應症**：MRSA/VRE 菌血症、右心心內膜炎、複雜性皮膚軟組織感染;不用於肺炎。\n\n## 重點整理表\n\n| 抗生素 | 特徵毒性 |\n|---|---|\n| Daptomycin | 肌肉毒性/橫紋肌溶解(答案 D)|\n| Colistin | 腎/神經毒性 |\n| Quinolone | 肌腱斷裂、QT |\n| Vancomycin | 腎毒性、紅人症候群 |\n| Erythromycin | 腸胃、QT |",
+      "sources": [
+        {
+          "text": "Daptomycin — CK monitoring; drug toxicities"
+        }
+      ]
+    }
   },
   {
     "id": "109-S77",
@@ -3600,7 +3609,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**HIV 感染與腫瘤關係的錯誤是 D：Burkitt 淋巴瘤與「EB 病毒(EBV)」相關,而非 CMV（反向題，選 D）。** 卡波西氏肉瘤-HHV-8(A)、肛門生殖器癌-HPV(B)、原發性中樞神經淋巴瘤-EBV(C)、HIV 相關淋巴瘤主要為 B 細胞淋巴瘤(E)皆正確。",
+      "detail": "## 概念架構：HIV 相關腫瘤與病毒\n\nHIV 病人的腫瘤多與 **致癌病毒 + 免疫低下** 相關:\n- **卡波西氏肉瘤**：**HHV-8(KSHV)**。\n- **肛門生殖器癌、子宮頸癌**：**HPV**。\n- **原發性中樞神經淋巴瘤、Burkitt 淋巴瘤**：**EBV**。\n- **HIV 相關淋巴瘤主要為 B 細胞淋巴瘤**(瀰漫大 B、Burkitt、原發性中樞神經、原發性滲出性淋巴瘤)。\n\n## 選項分析（反向題：選「錯誤」）\n\n- **(A) 卡波西氏肉瘤與 HHV-8 相關 — 正確（✓）**。\n- **(B) 肛門生殖器癌與 HPV 相關 — 正確（✓）**。\n- **(C) 原發性中樞神經淋巴瘤與 EBV 相關 — 正確（✓）**。\n- **(D) Burkitt 淋巴瘤與 CMV 相關 — 錯誤（✗，正確答案）** Burkitt 與 **EBV** 相關,非 CMV,為答案。\n- **(E) HIV 相關淋巴瘤主要為 B 細胞淋巴瘤 — 正確（✓）**。\n\n## 記憶口訣\n\n> HIV 腫瘤:**卡波西=HHV-8、肛門生殖器/子宮頸=HPV、中樞淋巴瘤/Burkitt=EBV**;HIV 淋巴瘤多為 **B 細胞**;CMV 不是 Burkitt 的病因。\n\n## 易混淆與進階補充\n\n- **CMV** 在 HIV 是機會性感染(視網膜炎、腸炎),非致癌病毒。\n- **AIDS-defining 癌症**：卡波西氏肉瘤、侵襲性子宮頸癌、特定非何杰金氏淋巴瘤。\n- **抗反轉錄病毒治療(ART)** 降低多數 HIV 相關腫瘤發生率,免疫重建改善預後。\n- **EBV 相關淋巴瘤**：Burkitt、原發性中樞神經淋巴瘤、移植後淋巴增生疾病(PTLD)。\n- **CMV 在 HIV**：機會性感染(視網膜炎、腸炎、食道炎),CD4 低時發生,非致癌病毒。\n- **HIV 淋巴瘤特點**：多為侵襲性 B 細胞、常結外侵犯、與 EBV/免疫低下相關,ART 可降低發生率。\n\n## 重點整理表\n\n| 腫瘤 | 病毒 |\n|---|---|\n| 卡波西氏肉瘤 | HHV-8 |\n| 肛門生殖器癌 | HPV |\n| 中樞神經淋巴瘤 | EBV |\n| Burkitt 淋巴瘤 | EBV(D 誤稱 CMV)|\n| HIV 淋巴瘤 | 主要 B 細胞 |",
+      "sources": [
+        {
+          "text": "HIV-associated malignancies"
+        }
+      ]
+    }
   },
   {
     "id": "109-S98",
@@ -3786,7 +3804,16 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**登革熱出院衛教正確者為 C：登革熱有 4 型,第一次感染後的抗體在感染「不同型別」時可能引起抗體依賴性免疫加強(ADE),造成嚴重併發症（選 C）。** 台灣病媒蚊是斑蚊(埃及/白線)非瘧蚊(A 錯)、感染僅對「該型」終生免疫(B 錯)、DHF/DSS 非只第一型(D 錯)、Sanofi 疫苗建議用於「曾感染過」者(E 錯)。",
+      "detail": "## 概念架構：登革熱與抗體依賴性免疫加強(ADE)\n\n登革熱有 **4 種血清型**;**首次感染僅對「該血清型」終生免疫**,對其他型無保護。再次感染 **不同型別** 時,原有的非中和抗體可能經 **ADE(antibody-dependent enhancement)** 促進病毒進入細胞 → **重症(登革出血熱 DHF、登革休克 DSS)風險增加**。台灣病媒蚊是 **埃及斑蚊、白線斑蚊(Aedes)**,非瘧蚊(Anopheles)。\n\n## 選項分析\n\n- **(A) 台灣主要病媒蚊為瘧蚊和白線斑蚊 — 錯** 是 **埃及斑蚊 + 白線斑蚊**;瘧蚊傳瘧疾。\n- **(B) 得過登革熱即終生免疫 — 錯** 僅對 **該血清型** 免疫,對其他型無保護。\n- **(C) 4 型,首次感染抗體在感染其他型時可致 ADE、嚴重併發 — 正確（✓）** ADE 是重症機轉,為答案。\n- **(D) DHF/DSS 僅出現於第一型,得過就終生免疫 — 錯** DHF/DSS 與 **二次異型感染(ADE)** 相關,非限第一型。\n- **(E) Sanofi 減毒活疫苗建議用於未曾感染者 — 錯** Dengvaxia 建議用於 **「曾感染過(血清陽性)」** 者;用於未感染者反增重症風險。\n\n## 記憶口訣\n\n> 登革熱 4 型:**首次感染只對該型免疫**;**二次「異型」感染經 ADE → 重症(DHF/DSS)**;台灣病媒是 **斑蚊(Aedes)**;Dengvaxia 用於 **曾感染者**。\n\n## 易混淆與進階補充\n\n- **ADE 機轉**:次中和量的異型抗體與病毒形成複合體,經 Fc 受體促進病毒進入單核球。\n- **警示徵象(warning signs)**:腹痛、持續嘔吐、黏膜出血、嗜睡、肝腫大、血比容升高伴血小板驟降。\n- **防治**:清除孳生源、防蚊;Dengvaxia 需先驗血清狀態(僅用於曾感染者)。\n- **診斷**:急性期 NS1 抗原、RT-PCR;之後 IgM/IgG 血清學;重症期監測血比容與血小板。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| 台灣病媒為瘧蚊 | 錯(斑蚊)|\n| 得過即終生免疫 | 錯(僅該型)|\n| 異型感染 ADE 致重症 | 正確(答案 C)|\n| DHF/DSS 僅第一型 | 錯 |\n| 疫苗用於未感染者 | 錯(用於曾感染者)|",
+      "sources": [
+        {
+          "text": "Dengue — ADE; Dengvaxia recommendations"
+        }
+      ]
+    }
   },
   {
     "id": "109-S103",
@@ -3816,7 +3843,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**腸球菌與抗生素最正確組合為 (1)+(3)+(4)（選 D）。** VRE 最常見菌種是 E. faecium(1);E. faecalis 感染首選 ampicillin(3);VRE 嚴重感染用 linezolid 或 daptomycin(4)。E. faecalis 菌血症以 vancomycin 治療(2，應首選 ampicillin)與尿/痰培養出 VRE 就用 linezolid(5，多為移生不需治療)皆不正確。",
+      "detail": "## 概念架構：腸球菌感染的抗生素選擇\n\n- **E. faecalis**：多對 **ampicillin 敏感**,**首選 ampicillin**(嚴重感染如心內膜炎加胺基醣苷或 ceftriaxone 協同)。\n- **E. faecium**：抗藥性較強,**VRE 最常見菌種**;嚴重 VRE 感染用 **linezolid 或 daptomycin**。\n- **移生 vs 感染**:尿/痰培養出 VRE 常為 **移生(colonization)**,無症狀不需治療。\n\n## 逐項判讀\n\n- **(1) VRE 最常見菌種是 E. faecium — 對（✓）**。\n- **(2) E. faecalis 菌血症通常以 vancomycin 治療 — 錯** 應 **首選 ampicillin**(多對其敏感)。\n- **(3) E. faecalis 感染首選 ampicillin — 對（✓）**。\n- **(4) VRE 嚴重感染用 linezolid 或 daptomycin — 對（✓）**。\n- **(5) 尿/痰培養有 VRE 需用 linezolid — 錯** 多為移生,**無症狀不需治療**。\n\n## 選項分析\n\n- **(D)(1)+(3)+(4) ✓（正確答案）**。\n\n## 記憶口訣\n\n> **E. faecalis 首選 ampicillin**;**VRE(多為 E. faecium)嚴重感染用 linezolid/daptomycin**;**尿/痰 VRE 常是移生,不需治療**。\n\n## 易混淆與進階補充\n\n- **腸球菌天生抗藥**:對 cephalosporin 天生抗藥(故 ceftazidime 不涵蓋腸球菌)。\n- **daptomycin 於 VRE 菌血症**:高劑量;linezolid 於菌血症也可但為抑菌型。\n- **心內膜炎**:E. faecalis 用 ampicillin + ceftriaxone(或胺基醣苷)協同殺菌。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| VRE 最常見 E. faecium | 對 |\n| E. faecalis 菌血症用 vancomycin | 錯(首選 ampicillin)|\n| E. faecalis 首選 ampicillin | 對 |\n| VRE 嚴重感染 linezolid/daptomycin | 對 |\n| 尿/痰 VRE 就用 linezolid | 錯(移生)|",
+      "sources": [
+        {
+          "text": "Enterococcal infections — treatment"
+        }
+      ]
+    }
   },
   {
     "id": "109-S104",
@@ -3846,7 +3882,16 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**加護病房水槽(水源性)常見病原「為非」的是 Aspergillus fumigatus——麴菌是「空氣/黴菌孢子」傳播,非水源性（反向題，選 E）。** 綠膿桿菌(A)、非結核分枝桿菌(B)、Chryseobacterium(C)、Stenotrophomonas maltophilia(D)皆為水源性/濕潤環境病原。",
+      "detail": "## 概念架構：水源性(waterborne)院內感染病原\n\n潮濕環境/水槽的院內感染病原:**Pseudomonas aeruginosa、Stenotrophomonas maltophilia、Chryseobacterium、Acinetobacter、非結核分枝桿菌(NTM)、Legionella、Burkholderia** 等——這些偏好 **潮濕/水源**。**Aspergillus fumigatus 是「空氣傳播」的黴菌孢子(常與建築工程、灰塵相關)**,非水源性,故區分汙水槽無法防它。\n\n## 選項分析（反向題：選「為非」）\n\n- **(A) Pseudomonas aeruginosa — 水源性（✓ 是水槽病原）**。\n- **(B) 非結核分枝桿菌 — 水源性（✓）** 偏好水管生物膜。\n- **(C) Chryseobacterium — 水源性（✓）** 潮濕環境。\n- **(D) Stenotrophomonas maltophilia — 水源性（✓）** 潮濕/水源。\n- **(E) Aspergillus fumigatus — 為非（✗，正確答案）** 空氣傳播黴菌孢子,非水源性;區分水槽無法防它,為答案。\n\n## 記憶口訣\n\n> 水槽/水源性院內感染:**綠膿桿菌、Stenotrophomonas、Chryseobacterium、NTM、Legionella**;**麴菌(Aspergillus)是空氣傳播**,與工程/灰塵相關,不是水源性。\n\n## 易混淆與進階補充\n\n- **Aspergillus 防治**:HEPA 過濾、負壓/正壓病房、工程期間屏障;好發於中性球低下/移植病人的侵襲性麴菌病。\n- **水源性防治**:汙/清水槽分流、水管消毒、避免手部污染。\n- **Legionella**:醫院熱水系統,免疫低下者肺炎,低血鈉、肝功能異常。\n- **水槽分流**:汙水與清潔水槽分開、甚至移出加護病房,降低水源性病原院內傳播。\n- **Stenotrophomonas**:多重抗藥,常與導管/呼吸器相關,治療用 TMP-SMX。\n\n## 重點整理表\n\n| 病原 | 水源性? |\n|---|---|\n| Pseudomonas | 是 |\n| NTM | 是 |\n| Chryseobacterium | 是 |\n| Stenotrophomonas | 是 |\n| Aspergillus | 否(空氣傳播,答案 E)|",
+      "sources": [
+        {
+          "text": "Waterborne healthcare-associated pathogens"
+        }
+      ]
+    }
   },
   {
     "id": "109-S105",
@@ -3876,7 +3921,16 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**食媒性疾病配對「最不正確」的是 E：Q 熱(Q fever)與「生牛肉」——Q 熱由 Coxiella burnetii 經「未殺菌乳製品/牛羊接觸(吸入)」感染,非生牛肉（反向題，選 E）。** 李斯特菌-乳酪(A)、曲狀桿菌-未熟雞肉(B)、沙門氏菌-生雞蛋(C)、諾羅病毒-生蠔/污染水(D)皆正確。",
+      "detail": "## 概念架構：食媒性疾病與來源\n\n| 病原 | 常見來源 |\n|---|---|\n| Listeria(李斯特菌)| 軟乳酪、即食肉品、未殺菌乳 |\n| Campylobacter jejuni | 未煮熟雞肉、生乳 |\n| Salmonella | 生雞蛋、家禽、爬蟲 |\n| Norovirus | 生蠔、污染水、人際 |\n| **Coxiella burnetii(Q 熱)** | **牛羊等家畜(產褥/胎盤,吸入)、未殺菌乳製品** |\n\n## 選項分析（反向題：選「最不正確」）\n\n- **(A) Listeriosis 與乳酪 — 正確（✓）** 軟乳酪是李斯特菌經典來源。\n- **(B) Campylobacter jejuni 與未煮熟雞肉 — 正確（✓）**。\n- **(C) Salmonella 與生雞蛋 — 正確（✓）**。\n- **(D) Norovirus 與生蠔或污染水 — 正確（✓）**。\n- **(E) Q fever 與生牛肉 — 最不正確（✗，正確答案）** Q 熱由 **Coxiella burnetii 經家畜接觸(吸入)/未殺菌乳** 感染,**非生牛肉**,為答案。\n\n## 記憶口訣\n\n> 李斯特菌=軟乳酪、曲狀桿菌=生雞肉、沙門氏=生蛋、諾羅=生蠔/污水;**Q 熱=牛羊家畜(吸入)/未殺菌乳,不是生牛肉**。\n\n## 易混淆與進階補充\n\n- **Q 熱傳播**:主要 **吸入** 帶菌氣溶膠(家畜產褥物),也可經未殺菌乳;急性似非典型肺炎/肝炎,慢性可心內膜炎。\n- **李斯特菌**:孕婦、新生兒、免疫低下、老年高危;可致腦膜炎/菌血症。\n- **食物安全**:充分加熱、避免生食高風險食品、飲用殺菌乳、孕婦避免軟乳酪/即食肉品。\n- **鳥類接觸**:對應鸚鵡熱(Chlamydia psittaci),與 Q 熱(牛羊)不同。\n- **腸道病原潛伏期**:金黃色葡萄球菌/仙人掌桿菌毒素數小時(嘔吐為主)、沙門氏/曲狀桿菌 1–3 天。\n\n## 重點整理表\n\n| 配對 | 正確? |\n|---|---|\n| Listeria-乳酪 | 正確 |\n| Campylobacter-未熟雞肉 | 正確 |\n| Salmonella-生蛋 | 正確 |\n| Norovirus-生蠔/污水 | 正確 |\n| Q fever-生牛肉 | 最不正確(答案 E)|",
+      "sources": [
+        {
+          "text": "Foodborne diseases — sources; Q fever"
+        }
+      ]
+    }
   },
   {
     "id": "109-S106",
@@ -3906,7 +3960,16 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**暴露後預防建議使用「抗微生物製劑」者為 (1)HIV +(4)流感 +(5)腦膜炎雙球菌（選 C）。** HIV 用抗反轉錄病毒 PEP、流感用 oseltamivir、腦膜炎雙球菌接觸者用 rifampin/ciprofloxacin/ceftriaxone。麻疹(2)以疫苗/免疫球蛋白、COVID-19(3)非以抗微生物製劑常規預防,故排除。",
+      "detail": "## 概念架構：暴露後預防(PEP)的類型\n\n暴露後預防依病原分 **抗微生物製劑 vs 疫苗/免疫球蛋白**:\n- **抗微生物製劑 PEP**:**HIV(抗反轉錄病毒三合一)、流感(oseltamivir)、腦膜炎雙球菌接觸者(rifampin/ciprofloxacin/ceftriaxone)、百日咳(macrolide)、破傷風(依情況)**。\n- **疫苗/免疫球蛋白 PEP**:**麻疹(疫苗/免疫球蛋白)、水痘、B 肝、狂犬病、破傷風**。\n- **COVID-19**:當時無常規抗微生物製劑 PEP(後有單株抗體用於特定高危)。\n\n## 逐項判讀\n\n- **(1) HIV — 是（✓）** 抗反轉錄病毒 PEP(暴露後 72 小時內、28 天)。\n- **(2) 麻疹 — 否** 以 **疫苗/免疫球蛋白** 預防,非抗微生物製劑。\n- **(3) COVID-19 — 否** 非以抗微生物製劑常規 PEP。\n- **(4) 流感 — 是（✓）** oseltamivir 暴露後預防。\n- **(5) 腦膜炎雙球菌 — 是（✓）** 密切接觸者化學預防。\n\n## 選項分析\n\n- **(C)(1)+(4)+(5) ✓（正確答案）**。\n\n## 記憶口訣\n\n> 抗微生物製劑 PEP:**HIV(抗病毒)、流感(oseltamivir)、腦膜炎雙球菌接觸(rifampin/cipro/ceftriaxone)**;麻疹用疫苗/免疫球蛋白、COVID 非常規抗微生物 PEP。\n\n## 易混淆與進階補充\n\n- **HIV PEP**:盡快(<72 小時)開始,療程 28 天;高危職業/性暴露。\n- **腦膜炎雙球菌**:密切接觸者(同住、飛沫)化學預防以清除鼻咽帶菌。\n- **狂犬病 PEP**:傷口沖洗 + 免疫球蛋白 + 疫苗(被動 + 主動)。\n- **麻疹 PEP**:72 小時內疫苗或免疫球蛋白(免疫球蛋白用於孕婦/嬰兒/免疫低下)。\n- **COVID PEP**:當時無常規抗微生物 PEP;後有單株抗體用於特定高危暴露者。\n\n## 重點整理表\n\n| 病原 | 抗微生物 PEP? |\n|---|---|\n| HIV | 是 |\n| 麻疹 | 否(疫苗/IG)|\n| COVID-19 | 否 |\n| 流感 | 是 |\n| 腦膜炎雙球菌 | 是 |",
+      "sources": [
+        {
+          "text": "Post-exposure prophylaxis guidelines"
+        }
+      ]
+    }
   },
   {
     "id": "109-S107",
@@ -3936,7 +3999,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**MRSA 治療的正確敘述是 D：Linezolid 長期使用可致血小板減少,也可能引發視神經病變,須注意眼底檢查（選 D）。** MRSA 心內膜炎死亡率高於 MSSA(A 錯)、社區型 MRSA 存在(B 錯)、tigecycline 是抑菌型且血中濃度低不用於菌血症/心內膜炎(C 錯)、vancomycin 現以 AUC 導引而非只看 trough(E 錯)。",
+      "detail": "## 概念架構：MRSA 治療與藥物特性\n\n- **MRSA vs MSSA**:MRSA 感染(尤其心內膜炎/菌血症)**死亡率較高**;MSSA 用抗葡萄球菌 β-lactam(nafcillin/cefazolin)較 vancomycin 佳。\n- **社區型 MRSA(CA-MRSA)**:存在,壞死性肺炎/皮膚軟組織,經驗治療視風險考量。\n- **Tigecycline**:**抑菌型、血中濃度低**,**不用於菌血症/心內膜炎**;腸胃副作用。\n- **Linezolid**:抑菌型,長期(>2 週)**骨髓抑制(血小板減少)**、(>4 週)**視神經/周邊神經病變**,需監測血球與眼底。\n- **Vancomycin**:現以 **AUC/MIC 導引**(非只看 trough)監測療效與腎毒性。\n\n## 選項分析\n\n- **(A) MRSA 與 MSSA 心內膜炎死亡率相近 — 錯** MRSA 死亡率較高。\n- **(B) 只有院內才有 MRSA,社區肺炎不考量 — 錯** CA-MRSA 存在。\n- **(C) Tigecycline 殺菌型,可用於心內膜炎/菌血症 — 錯** 抑菌型、血中濃度低,不用於菌血症/心內膜炎。\n- **(D) Linezolid 長期致血小板降低、視神經病變,注意眼底 — 正確（✓）** 為答案。\n- **(E) Vancomycin 只需監測 trough — 錯** 現以 AUC 導引監測。\n\n## 記憶口訣\n\n> **Linezolid 長期 → 血小板降低(>2 週)、視/周邊神經病變(>4 週),監測血球與眼底**;MRSA 死亡率高;tigecycline 不用於菌血症;vancomycin 用 AUC 導引。\n\n## 易混淆與進階補充\n\n- **MRSA 菌血症/心內膜炎**:vancomycin 或 daptomycin;依 MIC 與反應調整。\n- **CA-MRSA 皮膚軟組織**:引流 + TMP-SMX/doxycycline/clindamycin。\n- **linezolid 血清素症候群**:與 SSRI/MAOI 併用風險。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| MRSA=MSSA 死亡率 | 錯(MRSA 高)|\n| 社區肺炎不考量 MRSA | 錯(CA-MRSA)|\n| tigecycline 用於心內膜炎 | 錯(抑菌、濃度低)|\n| linezolid 血小板/視神經 | 正確(答案 D)|\n| vancomycin 只看 trough | 錯(AUC 導引)|",
+      "sources": [
+        {
+          "text": "IDSA MRSA Guidelines"
+        }
+      ]
+    }
   },
   {
     "id": "109-S108",
@@ -3966,7 +4038,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**冠狀病毒最適當的是 (1)+(4)（選 D）。** SARS-CoV、MERS-CoV、SARS-CoV-2 皆為 RNA 病毒且屬 Betacoronavirus(1);SARS-CoV-2 可引發細胞素風暴,重症者 IL-6 偏高(4)。負責結合受體入侵的是「Spike 蛋白」非 E gene(2 錯)、三者以 MERS-CoV 死亡率最高非 SARS(3 錯)、不建議常規 hydroxychloroquine(5 錯)。",
+      "detail": "## 概念架構：冠狀病毒的結構與臨床\n\n- **三株致病冠狀病毒(SARS-CoV、MERS-CoV、SARS-CoV-2)皆為 RNA 病毒、屬 Betacoronavirus**。\n- **Spike(S)蛋白** 負責結合受體(SARS-CoV-2 結合 ACE2)入侵;E gene 製造 envelope 結構蛋白(非結合受體)。\n- **死亡率**:**MERS-CoV 最高(~35%)** > SARS-CoV(~10%)> SARS-CoV-2(較低)。\n- **細胞素風暴**:SARS-CoV-2 重症 **IL-6 等發炎因子升高**,與嚴重度相關。\n- **Hydroxychloroquine**:未證實有效,**不建議常規使用**。\n\n## 逐項判讀\n\n- **(1) 三者皆 RNA 病毒、皆 Betacoronavirus — 對（✓）**。\n- **(2) E gene 製造 envelope protein,幫助結合受體入侵 — 錯** 結合受體入侵靠 **Spike 蛋白**;E 是結構蛋白。\n- **(3) 三株以 SARS-CoV 死亡率最高 — 錯** 是 **MERS-CoV** 最高。\n- **(4) SARS-CoV-2 可引發細胞素風暴,重症 IL-6 偏高 — 對（✓）**。\n- **(5) 建議常規 hydroxychloroquine — 錯** 未證實有效,不建議。\n\n## 選項分析\n\n- **(D)(1)+(4) ✓（正確答案）**。\n\n## 記憶口訣\n\n> 三株冠狀病毒都是 **RNA、Betacoronavirus**;**Spike 蛋白結合受體(ACE2)**;死亡率 **MERS 最高**;重症 **IL-6 高(細胞素風暴)**;**hydroxychloroquine 不建議**。\n\n## 易混淆與進階補充\n\n- **結構蛋白**:S(spike,結合/融合)、E(envelope)、M(membrane)、N(nucleocapsid)。\n- **IL-6 拮抗劑(tocilizumab)**:重症 COVID 併類固醇降死亡。\n- **MERS**:駱駝相關、中東,死亡率高。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| 皆 RNA、Betacoronavirus | 對 |\n| E gene 結合受體入侵 | 錯(Spike)|\n| SARS-CoV 死亡率最高 | 錯(MERS)|\n| 重症 IL-6 高 | 對 |\n| 常規 hydroxychloroquine | 錯 |",
+      "sources": [
+        {
+          "text": "Coronavirus virology; COVID-19"
+        }
+      ]
+    }
   },
   {
     "id": "109-S109",
@@ -3996,7 +4077,16 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**細菌性腦膜炎診療的錯誤是 E：使用較後線的 carbapenem「並不能」避免治療失敗——經驗治療應依年齡/風險用第三代 cephalosporin + vancomycin(±ampicillin 涵蓋 Listeria)（反向題，選 E）。** 儘快用抗生素(A)、頭痛畏光(B)、腰椎穿刺送腦脊髓液培養(C)、腰穿前視情況做 CT 排除顱壓升高(D)皆正確。",
+      "detail": "## 概念架構：細菌性腦膜炎的診斷與經驗治療\n\n細菌性腦膜炎是急症:**儘快經驗性抗生素(勿等檢查)+ 地塞米松**。經驗治療依年齡/風險:**第三代 cephalosporin(ceftriaxone/cefotaxime)+ vancomycin**;**>50 歲或免疫低下加 ampicillin(涵蓋 Listeria)**。診斷靠 **腰椎穿刺 + 腦脊髓液培養**;有局部神經徵象/意識障礙/免疫低下/乳突水腫者 **先 CT 再腰穿**(避免腦疝)。**用後線 carbapenem 並非避免失敗之道**——依致病菌與感受性選藥才是關鍵。\n\n## 選項分析（反向題：選「錯誤」）\n\n- **(A) 須儘快使用抗生素 — 正確（✓）** 延誤增加死亡。\n- **(B) 可能頭痛、畏光 — 正確（✓）** 加上發燒、頸僵直、意識改變。\n- **(C) 確診需腰椎穿刺送腦脊髓液培養 — 正確（✓）** CSF 是診斷核心。\n- **(D) 腰穿前視情況做 CT 避免加重顱壓 — 正確（✓）** 特定風險者先影像。\n- **(E) 用較後線 carbapenem 可避免治療失敗 — 錯誤（✗，正確答案）** 經驗治療應為 **三代 cephalosporin + vancomycin(±ampicillin)**;盲目用後線 carbapenem 非正解,為答案。\n\n## 記憶口訣\n\n> 細菌性腦膜炎:**儘快抗生素(三代頭孢+vancomycin,±ampicillin 涵蓋 Listeria)+ 地塞米松**;腰穿送培養;高風險先 CT;**後線 carbapenem 不是避免失敗的方法**(E 錯)。\n\n## 易混淆與進階補充\n\n- **常見病原**:肺炎鏈球菌、腦膜炎雙球菌;新生兒 GBS/E. coli/Listeria;>50/免疫低下 Listeria。\n- **地塞米松**:肺炎鏈球菌腦膜炎於首劑抗生素前/同時給,降低神經後遺症。\n- **CSF 型態**:細菌性(多形核↑、葡萄糖低、蛋白高);病毒性(淋巴球↑、葡萄糖正常)。\n- **經驗治療調整**:依 CSF 革蘭氏染色/培養與感受性降階(de-escalation),不是一律用後線藥。\n- **併發**:腦水腫、癲癇、聽力喪失、腦積水;及時抗生素與地塞米松改善預後。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| 儘快抗生素 | 正確 |\n| 頭痛畏光 | 正確 |\n| 腰穿送培養 | 正確 |\n| 腰穿前視情況 CT | 正確 |\n| 後線 carbapenem 避免失敗 | 錯(答案 E)|",
+      "sources": [
+        {
+          "text": "IDSA Bacterial Meningitis Guidelines"
+        }
+      ]
+    }
   },
   {
     "id": "109-S110",
@@ -4026,7 +4116,16 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**發燒皮疹疾病與致病原配對「為非」的是 C：傳染性紅斑(第五病)由「Parvovirus B19」引起,而非克沙奇病毒 A9（反向題，選 C）。** 麻疹-副黏液病毒(A)、德國麻疹-披衣病毒 Togavirus(B)、玫瑰疹(第六病)-HHV-6(D)、登革熱-黃病毒 Flavivirus(E)皆正確。",
+      "detail": "## 概念架構：發燒 + 皮疹的病毒對應\n\n| 疾病 | 病原 |\n|---|---|\n| 麻疹(measles)| Paramyxovirus(副黏液病毒)|\n| 德國麻疹(rubella)| Togavirus(披衣病毒)|\n| **傳染性紅斑/第五病(erythema infectiosum)** | **Parvovirus B19**(不是克沙奇)|\n| 玫瑰疹/第六病(roseola)| HHV-6 |\n| 登革熱(dengue)| Flavivirus(黃病毒)|\n| 手足口病/疱疹性咽峽炎 | 克沙奇病毒/腸病毒 |\n\n## 選項分析（反向題：選「為非」）\n\n- **(A) 麻疹 - Paramyxovirus — 正確（✓）**。\n- **(B) 德國麻疹 - Togavirus — 正確（✓）**。\n- **(C) 傳染性紅斑(第五病)- Coxsackievirus A9 — 為非（✗，正確答案）** 第五病是 **Parvovirus B19**;克沙奇是手足口病/咽峽炎,為答案。\n- **(D) 玫瑰疹(第六病)- HHV-6 — 正確（✓）**。\n- **(E) 登革熱 - Flavivirus — 正確（✓）**。\n\n## 記憶口訣\n\n> **第五病(傳染性紅斑)= Parvovirus B19**(不是克沙奇);麻疹=副黏液、德國麻疹=Togavirus、第六病(玫瑰疹)=HHV-6、登革=Flavivirus;克沙奇=手足口/咽峽炎。\n\n## 易混淆與進階補充\n\n- **Parvovirus B19**:「slapped cheek(打耳光臉)」皮疹;可致再生不良危象(溶血性貧血者)、胎兒水腫(孕婦感染)。\n- **HHV-6(第六病)**:嬰幼兒高燒退後出疹、可致熱性痙攣。\n- **德國麻疹**:孕婦感染致先天性德國麻疹症候群(白內障、心臟缺損、耳聾)。\n- **麻疹**:Koplik 斑(口腔)、由頭往下的斑丘疹、可併發肺炎/腦炎;疫苗可預防。\n- **玫瑰疹(HHV-6)**:嬰幼兒高燒 3–5 天,退燒後軀幹出疹,可致熱性痙攣。\n\n## 重點整理表\n\n| 疾病 | 病原 | 正確? |\n|---|---|---|\n| 麻疹 | Paramyxovirus | 正確 |\n| 德國麻疹 | Togavirus | 正確 |\n| 第五病 | Parvovirus B19(C 誤稱克沙奇)| 為非 |\n| 第六病 | HHV-6 | 正確 |\n| 登革熱 | Flavivirus | 正確 |",
+      "sources": [
+        {
+          "text": "Viral exanthems"
+        }
+      ]
+    }
   },
   {
     "id": "109-S111",
@@ -4056,7 +4155,16 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**廚師被老鼠咬傷後高燒、關節痛、淋巴腫脹、血培養長菌 → 鼠咬熱;敘述「為非」的是 B：此致病菌 Streptobacillus moniliformis 是「革蘭氏陰性」桿菌,不是革蘭氏陽性（反向題，選 B）。** 致病原為 S. moniliformis(A)、生長慢需 3–7 天(C)、盤尼西林過敏可用 doxycycline(D)、亦可為鈎端螺旋體以血清抗體診斷(E)皆正確。",
+      "detail": "## 概念架構：鼠咬熱(rat-bite fever)\n\n鼠咬熱由 **Streptobacillus moniliformis(革蘭氏陰性桿菌)** 或 Spirillum minus 引起,鼠咬/抓後 **發燒、寒顫、頭痛、肌肉關節痛、皮疹、淋巴腫脹**;S. moniliformis **生長緩慢(3–7 天)**。治療首選 **penicillin**,過敏可用 **doxycycline**。老鼠相關的鑑別也含 **鈎端螺旋體(leptospirosis,血清抗體診斷)**。\n\n## 選項分析（反向題：選「為非」）\n\n- **(A) 致病原為 S. moniliformis 或 Pasteurella multocida — 正確(依本題)** 鼠咬熱主要 S. moniliformis(Pasteurella 多為貓狗咬,本題並列)。\n- **(B) 此致病菌屬革蘭氏陽性桿菌 — 為非（✗，正確答案）** S. moniliformis 是 **革蘭氏陰性桿菌**,為答案。\n- **(C) 生長緩慢,需 3–7 天培養 — 正確（✓）** 挑剔難養。\n- **(D) 盤尼西林過敏可用 doxycycline — 正確（✓）**。\n- **(E) 亦可為鈎端螺旋體,以血清抗體診斷 — 正確（✓）** 鼠尿相關,MAT 血清學。\n\n## 記憶口訣\n\n> 鼠咬熱:**Streptobacillus moniliformis(革蘭氏「陰性」桿菌、生長慢 3–7 天)**;治療 **penicillin(過敏用 doxycycline)**;鑑別鈎端螺旋體(血清抗體)。\n\n## 易混淆與進階補充\n\n- **Spirillum minus**:亞洲的鼠咬熱(sodoku),螺旋菌、周期熱、咬傷處潰瘍。\n- **併發**:未治療可致心內膜炎、膿瘍、敗血症。\n- **鈎端螺旋體**:鼠尿污染水土,發燒肌痛結膜充血,重症 Weil's disease。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| S. moniliformis/Pasteurella | 正確(本題)|\n| 革蘭氏陽性桿菌 | 為非(陰性,答案 B)|\n| 生長慢 3–7 天 | 正確 |\n| 過敏用 doxycycline | 正確 |\n| 可為鈎端螺旋體(血清)| 正確 |",
+      "sources": [
+        {
+          "text": "Rat-bite fever — Streptobacillus moniliformis"
+        }
+      ]
+    }
   },
   {
     "id": "109-S112",
@@ -4086,7 +4194,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**預防中心靜脈導管相關血流感染的正確組合為 (1)+(3)（選 D）。** 置放時用最大無菌面防護(1)、置放前後手部衛生(3)。皮膚消毒 chlorhexidine「優於」碘(β-iodine)(2 錯)、導管不建議「定期(每 14 天)常規更換」(4 錯)。",
+      "detail": "## 概念架構：中心靜脈導管血流感染(CLABSI)的預防組合(bundle)\n\nCLABSI 預防 bundle:\n- **手部衛生**(置放前後)。\n- **最大無菌面防護(maximal barrier precautions)**:帽子、口罩、無菌手套、無菌長袍、大無菌單。\n- **皮膚消毒用 chlorhexidine(>0.5%,優於 povidone-iodine)**。\n- **選擇適當置放部位**(鎖骨下優於股靜脈)。\n- **每日評估必要性,不需要就儘早移除**;**不建議定期常規更換導管** 來預防感染。\n\n## 逐項判讀\n\n- **(1) 最大無菌面防護 — 對（✓）**。\n- **(2) 皮膚消毒 β-iodine 優於 chlorhexidine — 錯** **chlorhexidine 優於碘**。\n- **(3) 置放前後手部衛生 — 對（✓）**。\n- **(4) 導管以 14 天為原則、每 14 天常規更換 — 錯** **不建議定期常規更換**;應每日評估必要性、不需要即移除。\n\n## 選項分析\n\n- **(D)(1)+(3) ✓（正確答案）**。\n\n## 記憶口訣\n\n> CLABSI 預防:**手部衛生 + 最大無菌面 + chlorhexidine 消毒(優於碘)+ 每日評估儘早移除**;**不定期常規更換導管**。\n\n## 易混淆與進階補充\n\n- **導管選擇**:避免股靜脈(感染/血栓風險高);抗菌塗層導管於高風險。\n- **維護**:無菌操作接口、氯己定敷料、必要時抗菌封管。\n- **移除**:不需要的導管越早移除越好,是降 CLABSI 的關鍵。\n- **chlorhexidine 優於碘**:含酒精的氯己定皮膚消毒降低 CLABSI 優於 povidone-iodine。\n- **常規更換無益**:定期更換導管或導線(guidewire exchange)不降感染,反增機械併發症。\n- **導管相關診斷**:同步周邊與導管血培養、拔除導管尖端培養,協助確認 CLABSI。\n\n## 重點整理表\n\n| 措施 | 正確? |\n|---|---|\n| 最大無菌面 | 對 |\n| β-iodine 優於 chlorhexidine | 錯(反過來)|\n| 置放前後手部衛生 | 對 |\n| 每 14 天常規更換 | 錯(不定期更換)|",
+      "sources": [
+        {
+          "text": "CDC/SHEA CLABSI Prevention"
+        }
+      ]
+    }
   },
   {
     "id": "109-S113",
@@ -4116,7 +4233,16 @@
       }
     ],
     "answer": "A",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**抗生素與敗血症致病原配對正確的是 (1)+(2)（選 A）。** Ceftriaxone-腦膜炎雙球菌(1)、Penicillin-A 群鏈球菌(2)皆正確。Clindamycin 不治 Rickettsia(應 doxycycline)(3 錯)、Ceftazidime 不涵蓋腸球菌(cephalosporin 天生對腸球菌無效)(4 錯)。",
+      "detail": "## 概念架構：致病原與抗生素的正確對應\n\n- **Neisseria meningitidis(腦膜炎雙球菌)**:**ceftriaxone/penicillin**。\n- **A 群鏈球菌(GAS)**:**penicillin**(嚴重壞死性/毒性休克加 clindamycin 抑毒素)。\n- **Rickettsia(立克次體)**:**doxycycline**(不是 clindamycin)。\n- **Enterococcus(腸球菌)**:**ampicillin/vancomycin**;**cephalosporin(含 ceftazidime)天生無效**。\n\n## 逐項判讀\n\n- **(1) Ceftriaxone - Neisseria meningitidis — 對（✓）**。\n- **(2) Penicillin - A 群鏈球菌 — 對（✓）**。\n- **(3) Clindamycin - Rickettsia — 錯** 立克次體用 **doxycycline**。\n- **(4) Ceftazidime - Enterococcus — 錯** cephalosporin **不涵蓋腸球菌**。\n\n## 選項分析\n\n- **(A)(1)+(2) ✓（正確答案）**。\n\n## 記憶口訣\n\n> **腦膜炎雙球菌=ceftriaxone/penicillin、A 群鏈球菌=penicillin、Rickettsia=doxycycline(非 clindamycin)、腸球菌 cephalosporin 無效(用 ampicillin/vancomycin)**。\n\n## 易混淆與進階補充\n\n- **cephalosporin 的缺口(LAME)**:Listeria、Atypicals、MRSA、Enterococci 不涵蓋。\n- **Rickettsia/立克次體病**:恙蟲病、斑疹傷寒、洛磯山斑疹熱,首選 doxycycline(即使兒童/孕婦重症)。\n- **A 群鏈球菌毒性休克/壞死性筋膜炎**:penicillin + clindamycin(抑制毒素)。\n\n## 重點整理表\n\n| 配對 | 正確? |\n|---|---|\n| Ceftriaxone-腦膜炎雙球菌 | 對 |\n| Penicillin-A 群鏈球菌 | 對 |\n| Clindamycin-Rickettsia | 錯(doxycycline)|\n| Ceftazidime-Enterococcus | 錯(無效)|",
+      "sources": [
+        {
+          "text": "Antimicrobial spectrum; sepsis pathogens"
+        }
+      ]
+    }
   },
   {
     "id": "109-S114",
@@ -4146,7 +4272,16 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**孕婦「不建議」注射的疫苗是 (2)MMR +(3)水痘疫苗（選 B）。** MMR 與水痘為「活性減毒疫苗」,懷孕禁忌;流感疫苗(1，不活化)與肺炎鏈球菌疫苗(4)為不活化,孕婦可接種。",
+      "detail": "## 概念架構：懷孕與疫苗——活性減毒疫苗禁忌\n\n原則:**活性減毒疫苗懷孕禁忌**;**不活化/類毒素/次單位疫苗可接種**。\n- **禁忌(活性減毒)**:**MMR、水痘/帶狀皰疹、口服小兒麻痺、卡介苗、黃熱、鼻噴流感**。\n- **可接種(不活化)**:**流感針劑、Tdap、B 肝、肺炎鏈球菌、COVID**。\n\n## 逐項判讀\n\n- **(1) 流感疫苗(針劑)— 可接種** 不活化,孕婦建議接種(重症高危)。\n- **(2) MMR — 不建議** 活性減毒,懷孕禁忌。\n- **(3) 水痘疫苗 — 不建議** 活性減毒,懷孕禁忌。\n- **(4) 肺炎鏈球菌疫苗 — 可接種** 不活化/多醣/結合型,孕婦可(依適應症)。\n\n## 選項分析\n\n- **(B)(2)+(3) ✓（正確答案）** MMR 與水痘皆為活性減毒疫苗,懷孕不建議。\n\n## 記憶口訣\n\n> 懷孕 **禁活性減毒疫苗(MMR、水痘、OPV、BCG、黃熱、鼻噴流感)**;**不活化(流感針劑、Tdap、B 肝、肺炎鏈球菌)可接種**。\n\n## 易混淆與進階補充\n\n- **孕期主動建議**:不活化流感疫苗(任何孕期)、Tdap(每次懷孕,保護新生兒百日咳)、COVID 疫苗。\n- **產後補接種**:MMR、水痘可於產後(哺乳可)補上。\n- **接種活疫苗後避孕**:MMR/水痘後建議避孕約 1 個月;若不慎孕期接種非終止妊娠指徵但須衛教。\n- **其他孕期禁忌活疫苗**:口服小兒麻痺(OPV)、卡介苗(BCG)、黃熱病(除非高風險旅遊權衡)、鼻噴流感(LAIV)。\n- **原則**:不活化/類毒素/次單位/mRNA 疫苗孕期安全;活性減毒疫苗孕期禁忌。\n- **產後補接種**:產前篩檢無德國麻疹/水痘免疫力者,產後(哺乳可)補 MMR/水痘。\n- **孕期主動建議**:不活化流感疫苗(任何孕期)、Tdap(每次懷孕,保護新生兒百日咳)、COVID 疫苗。\n- **為何禁活疫苗**:理論上減毒活病毒可能感染胎兒,故懷孕禁忌;接種後短期避孕。\n- **肺炎鏈球菌疫苗**:多醣(PPSV23)/結合型(PCV),不活化,依適應症孕期可接種。\n\n## 重點整理表\n\n| 疫苗 | 孕婦 |\n|---|---|\n| 流感(針劑)| 可/建議 |\n| MMR | 不建議(答案)|\n| 水痘 | 不建議(答案)|\n| 肺炎鏈球菌 | 可 |",
+      "sources": [
+        {
+          "text": "CDC/ACIP — Vaccination in Pregnancy"
+        }
+      ]
+    }
   },
   {
     "id": "109-S115",
@@ -4215,7 +4350,16 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**COVID-19 敘述「為非」的是 E：全球 COVID-19 感染的死亡率並非約 0.5–1%（依當時報告偏高，反向題，選 E）。** 主要飛沫/接觸傳染(A)、典型發燒乾咳倦怠約 1/3 呼吸急促(B)、急性期首選 RT-PCR(C)、70% 酒精有效殺病毒(D)皆正確。",
+      "detail": "## 概念架構：COVID-19 的基本特性\n\n- **傳播**:主要 **近距離飛沫/氣溶膠、接觸**。\n- **症狀**:發燒、乾咳、倦怠;約 1/3 呼吸急促;可失去嗅味覺。\n- **診斷**:急性期首選 **RT-PCR(分子核酸)**。\n- **消毒**:**70% 酒精、含氯漂白水** 有效殺冠狀病毒(有套膜病毒)。\n- **死亡率**:本題認為「全球感染死亡率約 0.5–1%」的敘述 **為非**(依當時報告的病例致死率偏高、隨時間/地區/檢測量而異)。\n\n## 選項分析（反向題：選「為非」）\n\n- **(A) 主要飛沫/接觸傳染 — 正確（✓）**。\n- **(B) 典型發燒乾咳倦怠,約 1/3 呼吸急促 — 正確（✓）**。\n- **(C) 急性期首選 RT-PCR — 正確（✓）**。\n- **(D) 70% 酒精可有效殺冠狀病毒 — 正確（✓）** 套膜病毒對酒精敏感。\n- **(E) 全球死亡率約 0.5–1% — 為非（✗，正確答案）** 依本題,此死亡率敘述不正確(當時報告值偏高、變異大),為答案。\n\n## 記憶口訣\n\n> COVID:**飛沫/接觸傳染、發燒乾咳倦怠(1/3 喘)、RT-PCR 診斷、70% 酒精有效**;**死亡率 0.5–1% 的敘述本題判為非**(視時間/地區/檢測量而異)。\n\n## 易混淆與進階補充\n\n- **病例致死率(CFR)vs 感染致死率(IFR)**:CFR 受檢測量影響大;IFR 較低但難精確估計。\n- **檢測**:急性期 PCR(最敏感);抗原快篩快速但敏感度較低;抗體用於回溯。\n- **消毒**:酒精 ≥70%、含氯、過氧化氫對套膜病毒有效;套膜病毒對脂溶劑敏感。\n- **重症指標**:淋巴球減少、D-dimer、CRP、鐵蛋白、LDH 升高與嚴重度/死亡相關。\n- **傳播特性**:症狀前(presymptomatic)與無症狀傳染顯著,是防疫困難的關鍵。\n- **CFR vs IFR**:病例致死率(CFR)受檢測量影響大而偏高;感染致死率(IFR)較低但難精確估。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| 飛沫/接觸傳染 | 正確 |\n| 發燒乾咳倦怠、1/3 喘 | 正確 |\n| RT-PCR 首選 | 正確 |\n| 70% 酒精有效 | 正確 |\n| 死亡率 0.5–1% | 為非(答案 E)|",
+      "sources": [
+        {
+          "text": "WHO/CDC COVID-19 characteristics"
+        }
+      ]
+    }
   },
   {
     "id": "109-S117",
@@ -4245,7 +4389,16 @@
       }
     ],
     "answer": "D",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**靜脈藥癮者發燒喘 + 收縮期心雜音(右心心內膜炎)敘述「為非」的是 (2)+(5)（選 D）。** 此 S. aureus「常」為 MRSA 而非極少(2 錯);HIV 感染者致病原並非更常出現 HACEK(5 錯)。最常見金黃色葡萄球菌(1)、以三尖瓣為主(3)、更常有綠膿桿菌/念珠菌(4)皆正確。",
+      "detail": "## 概念架構：靜脈藥癮者的感染性心內膜炎\n\n靜脈藥癮(IVDU)心內膜炎特徵:\n- **最常見致病菌是金黃色葡萄球菌(S. aureus)**,且 **常為 MRSA**(社區型)。\n- **以「右心」三尖瓣為主要侵犯**(注射帶入),表現敗血性肺栓塞(發燒、喘、多發肺結節)。\n- 相對非藥癮者,**更常見綠膿桿菌、念珠菌** 等。\n- **HACEK group**(HACEK 是自體瓣亞急性、口腔菌)並非 IVDU/HIV 者更常見。\n\n## 逐項判讀（反向題：選「為非」）\n\n- **(1) 最常見金黃色葡萄球菌 — 正確**。\n- **(2) 此 S. aureus 極少為 MRSA — 為非（✗）** IVDU **常為 MRSA**,不是極少。\n- **(3) 右心心內膜炎以三尖瓣為主 — 正確**。\n- **(4) 相對非藥癮者,更常有綠膿桿菌/念珠菌 — 正確**。\n- **(5) 若為 HIV,HACEK group 機會較高 — 為非（✗）** HACEK 不因 HIV 更常見。\n\n## 選項分析\n\n- **(D)(2)+(5) ✓（正確答案）** 這兩項為錯誤(為非)敘述。\n\n## 記憶口訣\n\n> IVDU 心內膜炎:**S. aureus 最常見且常 MRSA、右心三尖瓣為主、敗血性肺栓塞、更常綠膿桿菌/念珠菌**;HACEK 不因 IVDU/HIV 增加(2、5 為非)。\n\n## 易混淆與進階補充\n\n- **右心心內膜炎影像**:胸部 X 光多發性肺結節/空洞(敗血性栓塞)。\n- **HACEK**:Haemophilus、Aggregatibacter、Cardiobacterium、Eikenella、Kingella;口腔菌、亞急性、自體瓣。\n- **治療**:抗 MRSA(vancomycin/daptomycin);三尖瓣心內膜炎多可藥物治療,大贅生物(>2 cm)/反覆栓塞/難治才手術。\n- **敗血性肺栓塞**:右心贅生物脫落至肺,多發性結節/空洞,可續發膿胸。\n- **戒毒與衛教**:反覆感染風險高,需處理成癮與注射衛生。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| S. aureus 最常見 | 正確 |\n| 極少為 MRSA | 為非(常 MRSA,答案)|\n| 三尖瓣為主 | 正確 |\n| 更常綠膿桿菌/念珠菌 | 正確 |\n| HIV 者 HACEK 較高 | 為非(答案)|",
+      "sources": [
+        {
+          "text": "Infective endocarditis in IVDU"
+        }
+      ]
+    }
   },
   {
     "id": "109-S118",
@@ -4275,7 +4428,16 @@
       }
     ],
     "answer": "C",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**困難梭狀桿菌(C. difficile)腸炎敘述「為非」的是 C：診斷「不」依賴內視鏡與糞便培養——靠糞便毒素/核酸檢測(NAAT)（反向題，選 C）。** 感染性腹瀉診斷(連續≥2 天每日≥3 次不成形便)(A)、核酸測 toxin A/B 確認(B)、判定失敗至少用藥 6 天(D)、嚴重(白血球>15000)首選口服 vancomycin(E)皆正確。",
+      "detail": "## 概念架構：C. difficile 感染(CDI)的診斷與治療\n\n- **診斷**:有臨床腹瀉 + **糞便毒素(EIA)或核酸檢測(NAAT,測 toxin A/B 基因)**;**不需常規內視鏡或糞便培養**(培養慢、不區分產毒株;內視鏡偽膜非必要且有穿孔風險)。\n- **治療反應評估**:需 **足夠療程(至少數天,約 6 天)** 才判定失敗,勿過早換藥。\n- **嚴重(白血球>15,000 或肌酐上升)**:首選 **口服 vancomycin 或 fidaxomicin**。\n\n## 選項分析（反向題：選「為非」）\n\n- **(A) 感染性腹瀉診斷:連續 2 天以上每日 ≥3 次不成形便 — 正確**。\n- **(B) 用核酸檢定 toxin A/B 確認 — 正確** NAAT 偵測產毒基因。\n- **(C) 診斷需依賴內視鏡及糞便培養 — 為非（✗，正確答案）** 診斷靠 **糞便毒素/NAAT**,不需內視鏡與培養,為答案。\n- **(D) 判定失敗至少用藥 6 天再看效果 — 正確** 勿過早判定失敗。\n- **(E) 嚴重(白血球>15000)首選口服 vancomycin — 正確** 重症用口服萬古黴素/fidaxomicin。\n\n## 記憶口訣\n\n> CDI 診斷:**糞便毒素/NAAT(不用內視鏡/培養)**;療效 **至少數天(~6 天)才判失敗**;**重症(WBC>15000)→ 口服 vancomycin/fidaxomicin**。\n\n## 易混淆與進階補充\n\n- **現行(2021 IDSA)**:初次首選 **fidaxomicin 或口服 vancomycin**;metronidazole 退為替代。\n- **猛爆型**:口服(或鼻胃管)vancomycin + 靜脈 metronidazole,必要時手術。\n- **復發**:fidaxomicin、糞菌移植(FMT)、bezlotoxumab(抗 toxin B 單株抗體)。\n- **感控**:接觸隔離、肥皂加水洗手(酒精對孢子無效)、環境含氯消毒。\n- **危險因子**:近期抗生素、住院、高齡、制酸劑;停用不必要抗生素是預防關鍵。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| ≥2 天每日≥3 次不成形便 | 正確 |\n| NAAT 測 toxin A/B | 正確 |\n| 需內視鏡+糞便培養 | 為非(答案 C)|\n| 至少 6 天判失敗 | 正確 |\n| 重症口服 vancomycin | 正確 |",
+      "sources": [
+        {
+          "text": "IDSA/SHEA C. difficile Guidelines"
+        }
+      ]
+    }
   },
   {
     "id": "109-S119",
@@ -4305,7 +4467,16 @@
       }
     ],
     "answer": "E",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**腫瘤與感染致病原配對「最不適當」的是 E：肛門鱗狀上皮癌的直接致癌病毒是「HPV」,而非 HIV（選 E）。** HIV 是經由免疫低下增加風險,直接致癌的是 HPV。子宮頸癌-HPV(A)、卡波西氏瘤-HHV-8(B)、T 細胞血癌-HTLV-1(C)、肝細胞癌-HBV(D)皆正確。",
+      "detail": "## 概念架構：致癌病毒與腫瘤\n\n| 腫瘤 | 直接致癌病毒 |\n|---|---|\n| 子宮頸癌、肛門/口咽鱗狀細胞癌 | **HPV(人類乳突病毒)** |\n| 卡波西氏肉瘤 | HHV-8 |\n| 成人 T 細胞白血病/淋巴瘤 | HTLV-1 |\n| 肝細胞癌 | HBV、HCV |\n| 鼻咽癌、Burkitt、中樞淋巴瘤 | EBV |\n\n**HIV 本身不是直接致癌病毒**,而是經由 **免疫低下** 增加多種病毒相關腫瘤的風險;肛門鱗狀細胞癌的直接病因是 **HPV**。\n\n## 選項分析（反向題：選「最不適當」）\n\n- **(A) 子宮頸癌 - HPV — 適當（✓）**。\n- **(B) 卡波西氏瘤 - HHV-8 — 適當（✓）**。\n- **(C) T 細胞血癌 - HTLV-1 — 適當（✓）**。\n- **(D) 肝細胞癌 - HBV — 適當（✓）**。\n- **(E) 肛門鱗狀上皮癌 - HIV — 最不適當（✗，正確答案）** 直接致癌是 **HPV**;HIV 只是經免疫低下增加風險,為答案。\n\n## 記憶口訣\n\n> **肛門/子宮頸鱗狀癌 = HPV**(直接致癌);**HIV 不是直接致癌病毒**,是經免疫低下增加病毒相關腫瘤風險;HHV-8=卡波西、HTLV-1=T 細胞白血病、HBV/HCV=肝癌、EBV=鼻咽/淋巴瘤。\n\n## 易混淆與進階補充\n\n- **HIV 相關腫瘤**:多由共感染的致癌病毒(HHV-8、EBV、HPV)在免疫低下下驅動。\n- **HPV 疫苗**:預防子宮頸、肛門、口咽等 HPV 相關癌。\n- **肛門癌篩檢**:HIV 陽性、男男性行為者為高風險族群,可肛門細胞學/高解析度肛門鏡篩檢。\n- **HIV 與腫瘤**:HIV 經免疫低下增加病毒相關腫瘤,但直接致癌的是共感染的 HPV/HHV-8/EBV。\n- **EBV 相關**:鼻咽癌、Burkitt、中樞神經淋巴瘤、移植後淋巴增生疾病、何杰金氏淋巴瘤部分。\n- **HTLV-1**:成人 T 細胞白血病/淋巴瘤、熱帶痙攣性下肢輕癱(HAM/TSP),經母乳/血液/性行為傳播。\n\n## 重點整理表\n\n| 配對 | 適當? |\n|---|---|\n| 子宮頸癌-HPV | 適當 |\n| 卡波西-HHV-8 | 適當 |\n| T 細胞血癌-HTLV-1 | 適當 |\n| 肝細胞癌-HBV | 適當 |\n| 肛門鱗狀癌-HIV | 最不適當(應 HPV,答案 E)|",
+      "sources": [
+        {
+          "text": "Oncogenic viruses"
+        }
+      ]
+    }
   },
   {
     "id": "109-S120",
@@ -5232,7 +5403,16 @@
       }
     ],
     "answer": "B",
-    "subject": "感染科"
+    "subject": "感染科",
+    "explanation": {
+      "summary": "**新冠肺炎病毒(SARS-CoV-2)進入人體細胞是結合「血管收縮素轉換酶 2(ACE2)」而感染（選 B）。** 病毒 Spike 蛋白與細胞表面 ACE2 受體結合,經 TMPRSS2 等蛋白酶活化後進入細胞。",
+      "detail": "## 概念架構：SARS-CoV-2 的入侵機轉\n\nSARS-CoV-2 經 **Spike(S)蛋白** 結合宿主細胞表面 **血管收縮素轉換酶 2(ACE2)** 受體,再經 **TMPRSS2** 等蛋白酶切割活化 S 蛋白,促成膜融合與病毒進入。ACE2 表現於 **肺泡上皮、血管內皮、心、腎、腸** 等,解釋多器官受累。\n\n## 選項分析\n\n- **(A) ACE1 — 錯** 非病毒受體。\n- **(B) ACE2 — 正確（✓）** SARS-CoV-2 與 SARS-CoV 皆結合 ACE2,為答案。\n- **(C) ACE3 / (D) ACE4 / (E) ACE5 — 錯** 無此對應的病毒受體。\n\n## 記憶口訣\n\n> SARS-CoV-2:**Spike 蛋白結合 ACE2 + TMPRSS2 活化 → 進入細胞**;ACE2 分布廣(肺/血管/心/腎/腸)→ 多器官受累。\n\n## 易混淆與進階補充\n\n- **內皮炎與血栓**:病毒經 ACE2 侵犯內皮,是微血栓/多器官損傷的核心。\n- **ACEI/ARB 爭議**:曾疑上調 ACE2 增風險,研究未證實,不需停藥。\n- **治療標的**:抗病毒(抑制複製)、單株抗體(結合 Spike)、疫苗(誘導抗 Spike 抗體)。\n- **TMPRSS2**:活化 Spike 促膜融合,是入侵的關鍵蛋白酶,亦為藥物研究標的。\n- **ACE2 分布**:肺、心、腎、腸、血管內皮,對應 COVID 的多器官表現與內皮炎/血栓。\n- **SARS-CoV 也用 ACE2**:同結合 ACE2;MERS-CoV 則結合 DPP4(CD26,不同受體)。\n- **變異株**:Spike 突變影響傳染力、免疫逃脫與單株抗體/疫苗效力,是持續監測重點。\n- **入侵步驟**:Spike 結合 ACE2 → TMPRSS2/furin 切割活化 → 膜融合 → 病毒 RNA 釋入細胞複製。\n- **臨床意義**:ACE2 是 SARS-CoV/SARS-CoV-2 共用受體;了解入侵機轉是抗病毒與疫苗設計的基礎。\n\n## 重點整理表\n\n| 分子 | 是否受體 |\n|---|---|\n| ACE1 | 否 |\n| ACE2 | 是(答案 B)|\n| ACE3/4/5 | 否(無此受體)|\n| 輔助 | TMPRSS2 活化 Spike |",
+      "sources": [
+        {
+          "text": "SARS-CoV-2 entry via ACE2"
+        }
+      ]
+    }
   },
   {
     "id": "109-S144",
