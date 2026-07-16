@@ -2928,7 +2928,16 @@
       }
     ],
     "answer": "C",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**腎細胞癌臨床表現正確者為 C：即使已轉移,切除腎臟原發腫瘤(細胞減積腎切除)或轉移灶切除,在選定病人可延長存活（選 C）。** 典型三聯(血尿/腫塊/疼痛)其實少見、多為偶發(A 錯)、Stauffer syndrome 是「無肝轉移」的副腫瘤肝功能異常(B 錯)、好發 60–70 歲(E 錯)。",
+      "detail": "## 概念架構：腎細胞癌(RCC)的表現與治療\n\nRCC 被稱為 **「internist's tumor」**,因為 **多變的副腫瘤/全身表現、常偶發**(典型三聯:血尿、腹部腫塊、脅痛其實少見)。**Stauffer syndrome** 是 **無肝轉移的副腫瘤性肝功能異常**(隨腫瘤切除可回復)。轉移性 RCC 於選定病人,**細胞減積腎切除、寡轉移灶切除** 可延長存活。好發 **60–70 歲、男性**。\n\n## 選項分析\n\n- **(A) 常因明顯症狀被發現,故稱 internist's tumor — 錯** 稱 internist's tumor 是因 **多變副腫瘤表現、多偶發**,典型三聯少見。\n- **(B) 轉移至肝造成肝功能失常即 Stauffer syndrome — 錯** Stauffer 是 **「無肝轉移」的副腫瘤性肝功能異常**。\n- **(C) 已轉移時,切除原發或轉移灶可延長存活 — 正確（✓）** 選定病人細胞減積/轉移灶切除有益,為答案。\n- **(D) 新生物製劑無法使晚期 RCC 五年存活>70% — (敘述本身雖大致成立但非最佳答案)** 本題以 C 為正確答案;晚期 RCC 五年存活確實遠低於 70%,但此選項不是題目要選的「正確臨床表現」。\n- **(E) 好發 40–50 歲之前 — 錯** RCC 好發 **60–70 歲**。\n\n## 記憶口訣\n\n> RCC = **internist's tumor(副腫瘤多變、多偶發)**;**Stauffer = 無肝轉移的肝功能異常**;轉移時 **細胞減積腎切除/轉移灶切除可延長存活**;好發 60–70 歲。\n\n## 易混淆與進階補充\n\n- **副腫瘤症候群**：高血鈣(PTHrP)、紅血球增多(EPO)、高血壓(腎素)、Stauffer(肝功能異常)。\n- **現代治療**：免疫檢查點抑制劑組合(nivo+ipi、pembro+axitinib)、VEGFR TKI;細胞減積腎切除角色因 CARMENA 限縮。\n- **透明細胞型** 最常見,VHL 相關。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| 典型三聯常見/internist's tumor | 錯(多偶發)|\n| Stauffer=肝轉移 | 錯(無肝轉移)|\n| 轉移時切除可延長存活 | 正確(答案 C)|\n| 好發 40–50 歲前 | 錯(60–70 歲)|",
+      "sources": [
+        {
+          "text": "Harrison's — Renal Cell Carcinoma"
+        }
+      ]
+    }
   },
   {
     "id": "109-S78",
@@ -3621,7 +3630,16 @@
       }
     ],
     "answer": "B",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**單獨 aPTT 延長、混合試驗「初步部分矯正但孵育 1 小時後又延長(時間依賴性)」→ 後天性血友病(factor VIII 抑制物，選 B)。** 時間/溫度依賴的抑制物是第八因子抑制物的特徵;抗磷脂(狼瘡抗凝物)是「立即型」不隨孵育加重。",
+      "detail": "## 概念架構：混合試驗判讀凝血異常\n\n單獨 **aPTT 延長(PT 正常)** 的鑑別靠 **混合試驗(1:1 加正常血漿)**:\n- **矯正 → 因子缺乏**(補足因子)。\n- **不矯正 → 抑制物**。其中 **時間/溫度依賴性(孵育後才延長)** 是 **第八因子抑制物(後天性血友病)** 的特徵;**立即型不矯正** 見於 **狼瘡抗凝物**。\n\n本例:混合後 **初期 39.2(部分矯正)、孵育 1 小時後 51.2(又延長)** → **時間依賴性抑制物 = 後天性血友病(anti-FVIII)**。\n\n## 選項分析\n\n- **(A) 抗磷脂抗體症候群 — 不符** 狼瘡抗凝物是 **立即型不矯正、不隨孵育加重**,且臨床以血栓為主(非出血/瘀青)。\n- **(B) 後天性血友病(acquired hemophilia)— 正確（✓）** 時間依賴性 FVIII 抑制物,自發性瘀青/出血,單獨 aPTT 延長,為答案。\n- **(C) von Willebrand 病 — 不符** 混合試驗會 **矯正**(因子缺乏),且多有黏膜出血史/家族史。\n- **(D) Warfarin 過量 — 不符** 應 **PT/INR 延長為主**,本例 PT/INR 正常。\n- **(E) 肝功能異常 — 不符** 應多因子缺乏、PT 也延長,混合會矯正。\n\n## 記憶口訣\n\n> 單獨 aPTT 延長 + 混合試驗 **孵育後才延長(時間依賴)= 第八因子抑制物(後天性血友病)**;立即型不矯正 = 狼瘡抗凝物;矯正 = 因子缺乏。\n\n## 易混淆與進階補充\n\n- **後天性血友病**：自體抗 FVIII 抗體,常見於年長、產後、自體免疫、惡性;嚴重自發性出血。\n- **治療**：控制出血用 **旁路製劑(rFVIIa、aPCC)**,清除抑制物用免疫抑制(類固醇 ± cyclophosphamide/rituximab)。\n- **Bethesda 試驗**：定量 FVIII 抑制物效價,指導治療。\n- **臨床特徵**：後天性血友病常自發性大片瘀青/軟組織出血,與遺傳性(關節出血為主)不同。\n- **PT 正常、aPTT 延長**：提示內在途徑因子(VIII/IX/XI)問題,再以混合試驗區分缺乏 vs 抑制物。\n\n## 重點整理表\n\n| 診斷 | 混合試驗 |\n|---|---|\n| 後天性血友病 | 孵育後延長(時間依賴,答案 B)|\n| 狼瘡抗凝物 | 立即不矯正 |\n| 因子缺乏(vWD)| 矯正 |\n| warfarin/肝病 | PT 也延長 |",
+      "sources": [
+        {
+          "text": "Harrison's — Acquired Hemophilia; mixing study"
+        }
+      ]
+    }
   },
   {
     "id": "109-S99",
@@ -5868,7 +5886,16 @@
       }
     ],
     "answer": "B",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**57 歲急性骨髓性白血病帶 FLT3-ITD,最適當誘導治療是 Anthracycline + Cytarabine + Midostaurin（選 B）。** 在標準「7+3」(anthracycline+cytarabine)加上 FLT3 抑制劑 midostaurin,可改善帶 FLT3 突變 AML 的存活(RATIFY 試驗)。",
+      "detail": "## 概念架構：AML 的分子導向誘導治療\n\nAML 誘導以 **「7+3」(cytarabine 7 天 + anthracycline 3 天)** 為基礎;依分子/細胞遺傳學加成:\n- **FLT3 突變(ITD/TKD)**：加 **FLT3 抑制劑 midostaurin**(RATIFY 改善存活)。\n- **CD33 陽性**:可加 gemtuzumab ozogamicin。\n- **不適合強化療的老年/次發性 AML**：venetoclax + 去甲基化藥。\n\n本例 FLT3-ITD → **7+3 + midostaurin**。\n\n## 選項分析\n\n- **(A) Anthracycline + Cytarabine — 不夠** 標準 7+3,但 FLT3 突變應加 midostaurin。\n- **(B) Anthracycline + Cytarabine + Midostaurin — 正確（✓）** FLT3 突變 AML 的標準誘導,為答案。\n- **(C) Anthracycline + Etoposide — 非標準** 非 AML 誘導的標準組合。\n- **(D) Anthracycline + Cytarabine + Etoposide — 非首選** 未針對 FLT3。\n- **(E) Cyclophosphamide + Cytarabine — 非 AML 誘導標準**。\n\n## 記憶口訣\n\n> AML 誘導 **「7+3」**;**FLT3 突變 → 加 midostaurin(RATIFY)**;CD33 → gemtuzumab;老弱/次發性 → venetoclax + 去甲基化。\n\n## 易混淆與進階補充\n\n- **FLT3-ITD** 預後較差,加 FLT3 抑制劑並考慮異體移植。\n- **其他 FLT3 抑制劑**：gilteritinib(復發/難治單藥)、quizartinib。\n- **鞏固/移植**：依風險(細胞遺傳學、分子、MRD)決定化療鞏固或異體移植;FLT3-ITD 屬較高風險。\n- **midostaurin**：多激酶抑制劑,涵蓋 FLT3,與化療併用於誘導與鞏固並作維持。\n\n## 重點整理表\n\n| 情境 | 誘導 |\n|---|---|\n| FLT3 突變 | 7+3 + midostaurin(答案 B)|\n| CD33+ | 7+3 + gemtuzumab |\n| 老弱/次發 | venetoclax + 去甲基化 |\n| 標準風險 | 7+3 |",
+      "sources": [
+        {
+          "text": "RATIFY trial (NEJM 2017); NCCN AML"
+        }
+      ]
+    }
   },
   {
     "id": "109-S161",
@@ -5898,7 +5925,16 @@
       }
     ],
     "answer": "D",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**Hb 19.5、Hct 58.5 的紅血球增多,可幫忙診斷真性紅血球增多症(PV)的基因突變是 JAK2（選 D）。** PV 幾乎都有 JAK2 突變(V617F 約 95%,或 exon 12),是 WHO 診斷主要條件。",
+      "detail": "## 概念架構：真性紅血球增多症(PV)與 JAK2\n\nPV 是骨髓增生性腫瘤,由 **JAK-STAT 途徑活化** 驅動紅血球不受控增生。**JAK2 突變(V617F 約 95%,其餘 exon 12)** 是 PV 的診斷主要條件。其他 MPN:ET/PMF 為 JAK2/CALR/MPL;CML 為 BCR-ABL。\n\n## 選項分析\n\n- **(A) BCR/ABL 融合 — 錯** 是 **慢性骨髓性白血病(CML)** 的標記。\n- **(B) ASXL1 — 錯** 表觀遺傳基因,見於多種髓系腫瘤,非 PV 診斷用。\n- **(C) CALR — 錯** 見於部分 ET/PMF(JAK2 陰性),**PV 幾乎不見 CALR**。\n- **(D) JAK2 — 正確（✓）** PV 幾乎都有 JAK2 突變,為診斷主要條件,為答案。\n- **(E) RUNX1 — 錯** 見於部分 AML/MDS,非 PV。\n\n## 記憶口訣\n\n> **PV = JAK2(V617F 95% 或 exon 12)**;ET/PMF = JAK2/CALR/MPL;CML = BCR-ABL;CALR/MPL 不會是 PV 的答案。\n\n## 易混淆與進階補充\n\n- **PV 診斷(WHO)**：Hb/Hct 升高 + JAK2 突變 + 骨髓三系增生 + EPO 偏低。\n- **併發**：血栓(主要風險)、出血、搔癢、演變骨髓纖維化/AML。\n- **治療**：放血(維持 Hct<45%)、低劑量 aspirin、高危(年長/曾血栓)加 hydroxyurea;ruxolitinib 用於不耐/難治。\n- **JAK2 陽性不能單獨區分 MPN**：JAK2 也見於 ET/PMF,需結合血球數、EPO 與骨髓型態綜合判讀。\n- **PV 併發搔癢**：接觸溫水後搔癢(aquagenic pruritus)是特徵性症狀之一。\n- **次發性紅血球增多**：缺氧(慢性肺病、高海拔、睡眠呼吸中止)、EPO 分泌腫瘤、脫水;EPO 正常/升高(與 PV 的低 EPO 相反)。\n\n## 重點整理表\n\n| 疾病 | 標記 |\n|---|---|\n| PV | JAK2(答案 D)|\n| ET/PMF | JAK2/CALR/MPL |\n| CML | BCR-ABL |\n| AML/MDS | RUNX1、ASXL1 等 |",
+      "sources": [
+        {
+          "text": "WHO MPN Classification; PV diagnosis"
+        }
+      ]
+    }
   },
   {
     "id": "109-S162",
@@ -5928,7 +5964,16 @@
       }
     ],
     "answer": "A",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**Daratumumab 的作用機轉是抗 CD38 抗體(anti-CD38 antibody，選 A)。** CD38 高表現於漿細胞,daratumumab 用於多發性骨髓瘤,經 ADCC/CDC/ADCP 與直接作用殺死骨髓瘤細胞。",
+      "detail": "## 概念架構：多發性骨髓瘤的標靶\n\n多發性骨髓瘤治療藥物機轉:\n- **抗 CD38 抗體**：**daratumumab、isatuximab**(CD38 高表現於漿細胞)。\n- **蛋白酶體抑制劑**：bortezomib、carfilzomib、ixazomib。\n- **免疫調節劑(IMiD)**：lenalidomide、pomalidomide、thalidomide。\n- **抗 SLAMF7**：elotuzumab。\n- **BCMA 標靶**：CAR-T、雙特異性抗體、ADC。\n\n## 選項分析\n\n- **(A) Anti-CD38 antibody — 正確（✓）** daratumumab 的機轉,為答案。\n- **(B) Anti-CD20 antibody — 錯** 是 rituximab(B 細胞淋巴瘤)。\n- **(C) Anti-CD138 antibody — 錯** CD138 是漿細胞標記但非 daratumumab 標靶。\n- **(D) 蛋白酶體抑制劑 — 錯** 是 bortezomib 等。\n- **(E) 組蛋白去乙醯化酶抑制劑 — 錯** 是 panobinostat 等。\n\n## 記憶口訣\n\n> **Daratumumab = 抗 CD38**(骨髓瘤);rituximab=CD20、bortezomib=蛋白酶體、lenalidomide=IMiD、elotuzumab=SLAMF7。\n\n## 易混淆與進階補充\n\n- **daratumumab 機轉**：ADCC、CDC、ADCP + 直接誘導凋亡;干擾輸血交叉配對(需告知血庫)。\n- **常用組合**：Dara-VRd、Dara-Rd 用於新診斷/復發骨髓瘤。\n- **isatuximab**：另一抗 CD38 抗體,用於復發/難治骨髓瘤。\n- **副作用**：輸注反應(需前給藥)、感染風險增加;干擾間接抗球蛋白試驗(需告知血庫配合處理)。\n- **CD38 表現**：於漿細胞高表現,也見於部分造血細胞,故有相關血球影響。\n- **常用組合**：Dara-VRd(新診斷可移植)、Dara-Rd/Dara-VMP(不可移植)、Dara-Kd(復發)等。\n- **機轉整合**：daratumumab 經 ADCC、CDC、ADCP 與直接誘導凋亡,並調節免疫微環境。\n\n## 重點整理表\n\n| 藥物 | 標靶 |\n|---|---|\n| Daratumumab | CD38(答案 A)|\n| Rituximab | CD20 |\n| Bortezomib | 蛋白酶體 |\n| Lenalidomide | IMiD |\n| Elotuzumab | SLAMF7 |",
+      "sources": [
+        {
+          "text": "Multiple myeloma — daratumumab (anti-CD38)"
+        }
+      ]
+    }
   },
   {
     "id": "109-S163",
@@ -5958,7 +6003,16 @@
       }
     ],
     "answer": "E",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**與慢性疾患貧血(ACD)「不符合」的是 E：ACD 是 hepcidin「增加」而非減少（選 E）。** 發炎驅動 hepcidin 上升 → 鐵被扣留於儲存、血清鐵低、鐵蛋白正常/高、鐵儲存增加,貧血多為小球/正球性。故 A–D 皆符合,唯 E(hepcidin 減少)不符。",
+      "detail": "## 概念架構：慢性疾患貧血(anemia of chronic disease)\n\nACD(發炎性貧血)機轉:**發炎細胞激素(IL-6)→ hepcidin「增加」→ 鐵被扣留在巨噬細胞/儲存、無法供紅血球生成**。實驗室:**血清鐵低、TIBC 低、鐵蛋白正常/高、鐵儲存增加、貧血(正球或小球性)、EPO 反應鈍化**。\n\n## 選項分析（反向題：選「不符合」）\n\n- **(A) 小球性貧血 — 符合（✓）** ACD 可正球或小球性。\n- **(B) 血清鐵低 — 符合（✓）** 鐵被扣留。\n- **(C) 鐵蛋白正常或高 — 符合（✓）** 反映鐵儲存與急性期反應。\n- **(D) 鐵儲存增加 — 符合（✓）** 鐵滯留於巨噬細胞。\n- **(E) hepcidin 生成「減少」— 不符合（✗，正確答案）** ACD 是 **hepcidin「增加」**;此句相反,為答案。\n\n## 記憶口訣\n\n> ACD:**hepcidin「增加」→ 鐵扣留 → 血清鐵低、鐵蛋白正常/高、鐵儲存增加**;與缺鐵(鐵蛋白低、TIBC 高)相反。\n\n## 易混淆與進階補充\n\n- **ACD vs 缺鐵性貧血(IDA)**：ACD 鐵蛋白正常/高、TIBC 低;IDA 鐵蛋白低、TIBC 高;可用可溶性運鐵蛋白受體(sTfR)區分。\n- **ACD 合併 IDA**：慢性病 + 失血時可並存,鐵蛋白判讀複雜。\n- **治療**：治療原發疾病(控制發炎);必要時 EPO、鐵劑(需評估鐵狀態,盲目補鐵無益)。\n- **hepcidin 機轉**：IL-6 驅動 hepcidin 上升 → 降解 ferroportin → 鐵滯留於巨噬細胞、腸道吸收下降。\n- **sTfR/ferritin 比值**：協助區分 ACD(sTfR 正常/低)與合併缺鐵(sTfR 升高),尤其鐵蛋白判讀困難時。\n- **臨床連結**：慢性關節炎(如類風濕)是 ACD 的典型情境,發炎持續驅動 hepcidin 上升與貧血。\n- **常見情境**：慢性感染、自體免疫、惡性腫瘤、慢性腎病皆可致發炎性貧血。\n- **治療核心**：控制發炎為根本,盲目補鐵無益(鐵已滯留),嚴重者可用 EPO。\n\n## 重點整理表\n\n| 指標 | ACD |\n|---|---|\n| 血清鐵 | 低 |\n| 鐵蛋白 | 正常/高 |\n| 鐵儲存 | 增加 |\n| hepcidin | 增加(E 說減少=不符,答案)|\n| 球體 | 正球/小球 |",
+      "sources": [
+        {
+          "text": "Harrison's — Anemia of Inflammation; hepcidin"
+        }
+      ]
+    }
   },
   {
     "id": "109-S164",
@@ -5988,7 +6042,16 @@
       }
     ],
     "answer": "A",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**Double-hit 瀰漫性大 B 細胞淋巴瘤的兩個基因重組是 MYC + BCL2(可加 BCL6)（選 A）。** MYC 合併 BCL2(和/或 BCL6)重排的高惡性度 B 細胞淋巴瘤預後差,對標準 R-CHOP 反應不佳。",
+      "detail": "## 概念架構：Double-hit / high-grade B 細胞淋巴瘤\n\n**Double-hit 淋巴瘤** 指同時有 **MYC 重排 + BCL2(和/或 BCL6)重排** 的高惡性度 B 細胞淋巴瘤;若三者皆重排稱 triple-hit。特徵:**侵襲性強、預後差、對 R-CHOP 反應不佳**,常需強化療(如 DA-EPOCH-R)。\n\n## 選項分析\n\n- **(A) MYC, BCL2 — 正確（✓）** double-hit 的核心組合(可加 BCL6),為答案。\n- **(B) BCL2, BCL6 — 錯** 需含 MYC 才算 double-hit。\n- **(C) MYC, MCL1 — 錯** MCL1 非 double-hit 定義基因。\n- **(D) BCL2, MCL1 — 錯** 非 double-hit 定義。\n- **(E) MYC, BCL1 — 錯** BCL1(cyclin D1)是 **被套細胞淋巴瘤** 的標記,非 double-hit。\n\n## 記憶口訣\n\n> Double-hit = **MYC + BCL2(和/或 BCL6)重排**,高惡性、預後差、R-CHOP 效果差(考慮 DA-EPOCH-R);BCL1(cyclin D1)是被套細胞淋巴瘤。\n\n## 易混淆與進階補充\n\n- **診斷**：FISH 偵測 MYC、BCL2、BCL6 重排;WHO 歸類為「高惡性度 B 細胞淋巴瘤伴 MYC 與 BCL2/BCL6 重排」。\n- **double-expressor**：MYC 與 BCL2 蛋白過度表現(免疫組化)但無基因重排,預後亦較差但不同於 double-hit。\n- **治療**：強化化療(如 DA-EPOCH-R)± CNS 預防;預後仍差,對 R-CHOP 反應不佳。\n- **FISH 檢測**：新診斷侵襲性 B 細胞淋巴瘤建議查 MYC、BCL2、BCL6 重排以辨識 double/triple-hit。\n- **CNS 風險**：double-hit 中樞侵犯風險高,需評估預防性鞘內化療。\n\n## 重點整理表\n\n| 組合 | 意義 |\n|---|---|\n| MYC + BCL2(±BCL6)| Double-hit(答案 A)|\n| BCL1(cyclin D1)| 被套細胞淋巴瘤 |\n| double-expressor | 蛋白過度表現(非重排)|\n| 治療 | DA-EPOCH-R 等強化 |",
+      "sources": [
+        {
+          "text": "WHO Classification — High-grade B-cell lymphoma"
+        }
+      ]
+    }
   },
   {
     "id": "109-S165",
@@ -6018,7 +6081,16 @@
       }
     ],
     "answer": "D",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**標靶治療與疾病配對錯誤的是 D：Ibrutinib 用於 CLL/被套細胞淋巴瘤/華氏巨球蛋白血症,「不是」多發性骨髓瘤（選 D）。** Eltrombopag-ITP(A)、Rituximab-B 細胞淋巴瘤(B)、Brentuximab-何杰金氏淋巴瘤(C)、Imatinib-CML(E)皆正確。",
+      "detail": "## 概念架構：標靶藥物與適應症\n\n| 藥物 | 機轉 | 適應症 |\n|---|---|---|\n| Eltrombopag | TPO 受體促效 | 免疫性血小板低下(ITP)、再生不良性貧血 |\n| Rituximab | 抗 CD20 | B 細胞淋巴瘤、CLL、自體免疫 |\n| Brentuximab | 抗 CD30 ADC | 何杰金氏淋巴瘤、間變性大細胞淋巴瘤 |\n| **Ibrutinib** | **BTK 抑制劑** | **CLL、被套細胞淋巴瘤、華氏巨球蛋白血症**(非骨髓瘤) |\n| Imatinib | BCR-ABL/KIT 抑制 | CML、GIST、Ph+ ALL |\n\n## 選項分析（反向題：選「錯誤」）\n\n- **(A) Eltrombopag - ITP — 正確（✓）** TPO 促效劑升血小板。\n- **(B) Rituximab - B 細胞淋巴瘤 — 正確（✓）** 抗 CD20。\n- **(C) Brentuximab - 何杰金氏淋巴瘤 — 正確（✓）** 抗 CD30 ADC。\n- **(D) Ibrutinib - 多發性骨髓瘤 — 錯誤（✗，正確答案）** ibrutinib(BTK 抑制劑)用於 **CLL/被套細胞/華氏巨球蛋白血症**,非骨髓瘤,為答案。\n- **(E) Imatinib - CML — 正確（✓）** BCR-ABL 抑制劑。\n\n## 記憶口訣\n\n> **Ibrutinib(BTK)= CLL/被套細胞/華氏巨球蛋白血症**(不是骨髓瘤);eltrombopag=ITP、rituximab=CD20、brentuximab=CD30(何杰金)、imatinib=CML。\n\n## 易混淆與進階補充\n\n- **多發性骨髓瘤標靶**：抗 CD38(daratumumab)、蛋白酶體抑制劑、IMiD,非 ibrutinib。\n- **BTK 抑制劑**：ibrutinib、acalabrutinib、zanubrutinib;副作用含出血、心房顫動、高血壓。\n- **華氏巨球蛋白血症**：MYD88 突變,ibrutinib 有效。\n\n## 重點整理表\n\n| 配對 | 正確? |\n|---|---|\n| Eltrombopag-ITP | 正確 |\n| Rituximab-B 淋巴瘤 | 正確 |\n| Brentuximab-何杰金 | 正確 |\n| Ibrutinib-骨髓瘤 | 錯(CLL 等,答案 D)|\n| Imatinib-CML | 正確 |",
+      "sources": [
+        {
+          "text": "Targeted therapies in hematologic malignancies"
+        }
+      ]
+    }
   },
   {
     "id": "109-S166",
@@ -6048,7 +6120,16 @@
       }
     ],
     "answer": "B",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**輸血相關急性肺損傷(TRALI)敘述有誤的是 B：TRALI「一般發生於輸血後 6 小時內」(多 1–2 小時),而非 24 小時（反向題，選 B）。** 多因捐血者高濃度抗 HLA class II 抗體(A)、病人缺氧(C)、非心因性肺水腫(D)、輸男性或未孕婦女血可減少(E)皆正確。",
+      "detail": "## 概念架構：輸血相關急性肺損傷(TRALI)\n\nTRALI 是輸血後 **6 小時內(多 1–2 小時)** 突發的 **非心因性肺水腫**:急性低血氧、雙側肺浸潤,無循環超載證據。機轉:**捐血者血漿中的抗 HLA/抗中性球抗體**(尤其 **多次懷孕女性** 捐血者)活化受血者中性球 → 肺微血管損傷。\n\n## 選項分析（反向題：選「有誤」）\n\n- **(A) 多因捐血者高濃度抗 HLA class II 抗體 — 正確（✓）** 抗白血球抗體是主要機轉。\n- **(B) 一般發生於輸血後 24 小時 — 有誤（✗，正確答案）** TRALI 在 **6 小時內(多 1–2 小時)** 發生,不是 24 小時,為答案。\n- **(C) 病人有缺氧現象 — 正確（✓）** 急性低血氧。\n- **(D) 會出現肺水腫 — 正確（✓）** 非心因性肺水腫。\n- **(E) 輸男性或未曾懷孕婦女的血可減少發生 — 正確（✓）** 避免多次懷孕女性(高抗 HLA 抗體)捐血漿,可降低 TRALI。\n\n## 記憶口訣\n\n> TRALI:**輸血後 6 小時內(多 1–2 小時)非心因性肺水腫**;捐血者 **抗 HLA/抗中性球抗體(多孕婦女)**;預防用 **男性/未孕女性血漿**;不是 24 小時(B 有誤)。\n\n## 易混淆與進階補充\n\n- **TRALI vs TACO(輸血循環超載)**：TACO 有容量過多、高血壓、BNP 升高、利尿有效;TRALI 無循環超載、非心因性。\n- **治療**：支持性(氧氣、呼吸器),多數 48–96 小時改善;非利尿劑(非容量問題)。\n- **預防**：血漿捐贈者篩選(避多次懷孕女性)、優先男性血漿、白血球減除。\n- **兩種機轉**：抗體介導(捐血者抗 HLA/抗中性球抗體)與非抗體(生物活性脂質、two-hit 模型,受血者本身狀態為第一擊)。\n- **時間點**：TRALI 在輸血後 6 小時內(多 1–2 小時),是與 TACO(循環超載)、過敏反應鑑別的重點。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| 抗 HLA class II 抗體 | 正確 |\n| 24 小時發生 | 有誤(6 小時內,答案 B)|\n| 缺氧 | 正確 |\n| 肺水腫 | 正確 |\n| 男性/未孕女性血減少 | 正確 |",
+      "sources": [
+        {
+          "text": "TRALI — diagnosis & prevention"
+        }
+      ]
+    }
   },
   {
     "id": "109-S167",
@@ -6078,7 +6159,16 @@
       }
     ],
     "answer": "D",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**75 歲、全血球減少、骨髓化生不良、blasts 9%、複雜染色體 → 較高風險骨髓化生不良症候群(MDS);最適當治療是去甲基化藥 Azacitidine（選 D）。** 老年、不適合移植的較高風險 MDS 首選 azacitidine 改善存活;輸血/EPO 為支持,異體移植受年齡與體能限制。",
+      "detail": "## 概念架構：骨髓化生不良症候群(MDS)的風險分層與治療\n\nMDS 依 **IPSS-R(血球減少、blasts%、細胞遺傳學)** 分風險。本例 **blasts 9% + 複雜染色體** → **較高風險(higher-risk)MDS**。治療:\n- **較高風險、不適合移植(老年/體能差)**：**去甲基化藥(azacitidine/decitabine)** 改善存活、延緩轉 AML。\n- **可移植的年輕較高風險**：異體造血幹細胞移植(唯一治癒)。\n- **較低風險**：支持(輸血、EPO、鐵螯合)、lenalidomide(del(5q))、luspatercept。\n\n## 選項分析\n\n- **(A) 濃縮紅血球輸血 — 僅支持** 治標,不改變病程。\n- **(B) 血小板濃厚液輸注 — 僅支持** 出血時用。\n- **(C) Erythropoietin — 較低風險用** 對較高風險、blasts 高者無益。\n- **(D) Azacitidine — 正確（✓）** 較高風險、老年不適合移植者的首選,改善存活,為答案。\n- **(E) 異體造血幹細胞移植 — 受限** 75 歲高齡,移植風險高、多不適合。\n\n## 記憶口訣\n\n> 較高風險 MDS:**去甲基化藥(azacitidine)** 改善存活;年輕可移植者 → 異體移植(唯一治癒);較低風險 → 支持 + lenalidomide(del5q)/luspatercept。\n\n## 易混淆與進階補充\n\n- **IPSS-R**：整合血球減少、骨髓 blasts、細胞遺傳學;複雜染色體屬高風險。\n- **轉 AML**：blasts 20% 以上即 AML;較高風險 MDS 進展快。\n- **鐵過載**：長期輸血需鐵螯合治療。\n- **去甲基化藥**：azacitidine/decitabine 改善較高風險 MDS 存活、延緩轉 AML,反應需數週期評估。\n- **異體移植**：唯一可能治癒,但受年齡、體能、捐者、共病限制;75 歲多不適合。\n\n## 重點整理表\n\n| 情境 | 治療 |\n|---|---|\n| 較高風險、老年不移植 | azacitidine(答案 D)|\n| 可移植年輕較高風險 | 異體移植 |\n| 較低風險 | 支持/EPO/lenalidomide |\n| del(5q)| lenalidomide |",
+      "sources": [
+        {
+          "text": "NCCN MDS Guidelines; IPSS-R"
+        }
+      ]
+    }
   },
   {
     "id": "109-S168",
@@ -6108,7 +6198,16 @@
       }
     ],
     "answer": "D",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**Cryoprecipitate(冷凍沉澱品)含 (1)纖維蛋白原 +(3)第八因子 +(4)von Willebrand 因子（選 D，另含第 XIII 因子與纖維結合蛋白）。** 不含第七因子。冷凍沉澱品用於低纖維蛋白原血症、DIC、vWD/血友病 A(無專一濃縮劑時)。",
+      "detail": "## 概念架構：冷凍沉澱品(cryoprecipitate)的成分\n\nCryoprecipitate 由新鮮冷凍血漿冷析製成,**富含**:\n- **纖維蛋白原(fibrinogen)**。\n- **第八因子(Factor VIII)**。\n- **von Willebrand 因子(vWF)**。\n- **第 XIII 因子(Factor XIII)**。\n- **纖維結合蛋白(fibronectin)**。\n\n**不含第七因子(Factor VII)**。主要用於 **低纖維蛋白原血症(DIC、大出血、稀釋性)**,以及無專一濃縮劑時的 vWD/血友病 A。\n\n## 逐項判讀\n\n- **(1) fibrinogen — 含（✓）**。\n- **(2) Factor VII — 不含**。\n- **(3) Factor VIII — 含（✓）**。\n- **(4) von Willebrand factor — 含（✓）**。\n\n## 選項分析\n\n- **(D)(1)+(3)+(4) ✓（正確答案）** 纖維蛋白原 + FVIII + vWF(另含 FXIII、fibronectin)。\n\n## 記憶口訣\n\n> Cryoprecipitate = **纖維蛋白原 + FVIII + vWF + FXIII + fibronectin**;**不含 FVII**;主要補 **低纖維蛋白原(DIC/大出血)**。\n\n## 易混淆與進階補充\n\n- **臨床用途**：低纖維蛋白原血症(纖維蛋白原<100–150)、DIC、產科大出血、無專一製劑時的 vWD/血友病 A/FXIII 缺乏。\n- **與 FFP 區別**：FFP 含所有凝血因子;cryoprecipitate 是濃縮的特定因子(纖維蛋白原為主)。\n- **現代 vWD/血友病 A** 首選 **專一因子濃縮劑**,cryoprecipitate 為替代(無專一製劑時)。\n- **纖維蛋白原補充**：低纖維蛋白原(<100–150 mg/dL)是 cryoprecipitate 的主要適應,也有纖維蛋白原濃縮劑。\n- **FXIII 缺乏**：cryoprecipitate 含 FXIII,可用於補充。\n\n## 重點整理表\n\n| 成分 | 是否含 |\n|---|---|\n| 纖維蛋白原 | 含(答案)|\n| Factor VII | 不含 |\n| Factor VIII | 含(答案)|\n| vWF | 含(答案)|\n| Factor XIII/fibronectin | 含 |",
+      "sources": [
+        {
+          "text": "Transfusion medicine — cryoprecipitate"
+        }
+      ]
+    }
   },
   {
     "id": "109-S169",
@@ -6138,7 +6237,16 @@
       }
     ],
     "answer": "C",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**55 歲全血球減少、無肝脾腫大、骨髓化生僅 10%(低細胞)、無化生不良、鐵/B12/葉酸正常 → 再生不良性貧血;最適當治療是 (2)cyclosporine +(3)抗胸腺球蛋白 ATG(免疫抑制治療)（選 C）。** 無合適捐者/年長者以 ATG + cyclosporine 免疫抑制;年輕有配對捐者才移植。",
+      "detail": "## 概念架構：再生不良性貧血(aplastic anemia)的治療\n\n再生不良性貧血:**全血球減少 + 骨髓低細胞(hypocellular)、無化生不良、無 blasts 增加**。治療依年齡與捐者:\n- **年輕(<40)且有 HLA 相合手足捐者**：**異體造血幹細胞移植(首選,可治癒)**。\n- **年長/無合適捐者**：**免疫抑制治療(ATG + cyclosporine ± eltrombopag)**。\n\n本例 55 歲、無特別提到相合捐者 → **ATG + cyclosporine 免疫抑制治療**。\n\n## 逐項判讀\n\n- **(1) 異體造血幹細胞移植 — 首選限年輕有相合捐者** 55 歲非首選(除非有相合捐者且體能佳)。\n- **(2) cyclosporine — 是（✓）** 免疫抑制治療組成。\n- **(3) anti-thymocyte globulin(ATG)— 是（✓）** 免疫抑制治療組成。\n- **(4) G-CSF — 僅輔助/支持** 不改變病程,單用不足。\n\n## 選項分析\n\n- **(C)(2)+(3) ✓（正確答案）** ATG + cyclosporine 免疫抑制治療。\n\n## 記憶口訣\n\n> 再生不良性貧血:**年輕+相合捐者 → 異體移植**;**年長/無捐者 → ATG + cyclosporine(±eltrombopag)**;G-CSF 只輔助。\n\n## 易混淆與進階補充\n\n- **eltrombopag**：加入免疫抑制治療可提升反應率(TPO 促效、刺激造血)。\n- **鑑別**：與低增生性 MDS、PNH、陣發性夜間血色素尿重疊需評估(流式 GPI 錨定蛋白)。\n- **支持**：輸血(白血球減除、必要時照射)、感染防治;避免不必要輸血以減少移植前致敏。\n- **嚴重度分級**：以血球數(中性球、網狀球、血小板)分非重度/重度/極重度,影響治療急迫性。\n- **鑑別**：與低增生性 MDS、PNH 重疊需評估(骨髓細胞遺傳學、流式 GPI 錨定蛋白)。\n\n## 重點整理表\n\n| 治療 | 適用 |\n|---|---|\n| 異體移植 | 年輕+相合捐者(首選)|\n| ATG+cyclosporine | 年長/無捐者(答案 C)|\n| eltrombopag | 加成免疫抑制反應 |\n| G-CSF | 輔助支持 |",
+      "sources": [
+        {
+          "text": "Aplastic anemia — treatment; ATG+CsA"
+        }
+      ]
+    }
   },
   {
     "id": "109-S170",
@@ -6168,7 +6276,16 @@
       }
     ],
     "answer": "B",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**乙狀結腸腺癌、6/25 淋巴結陽性(第三期)、無遠處轉移,各指引一致建議的輔助化療是 FOLFOX(oxaliplatin + 5-FU/leucovorin)（選 B）。** Irinotecan 型(FOLFIRI)非輔助標準;bevacizumab、cetuximab、panitumumab 為轉移性用藥,不用於輔助。",
+      "detail": "## 概念架構：第三期大腸癌的輔助化療\n\n**淋巴結陽性(N+)無遠處轉移 = 第三期**,術後標準是 **含 oxaliplatin 的雙藥輔助化療**:**FOLFOX(oxaliplatin + 5-FU/LV)** 或 CAPOX,療程 3–6 個月(IDEA 依風險)。**irinotecan、bevacizumab、抗 EGFR(cetuximab/panitumumab)於輔助治療無益**,僅用於轉移性。\n\n## 選項分析\n\n- **(A) FOLFIRI(irinotecan 型)— 錯** irinotecan 未證實於輔助有益,僅轉移性。\n- **(B) FOLFOX(oxaliplatin + 5-FU/LV)— 正確（✓）** 第三期輔助標準,各指引一致,為答案。\n- **(C) Bevacizumab + FOLFOX — 錯** bevacizumab 於輔助無益(NSABP C-08)。\n- **(D) Cetuximab + FOLFOX — 錯** 抗 EGFR 於輔助無益甚至有害(N0147)。\n- **(E) Panitumumab + FOLFOX — 錯** 同抗 EGFR,非輔助用藥。\n\n## 記憶口訣\n\n> 第三期大腸癌輔助 = **FOLFOX / CAPOX**;**irinotecan、bevacizumab、cetuximab/panitumumab 都是轉移性用藥,不放進輔助**。\n\n## 易混淆與進階補充\n\n- **IDEA**：低風險 III 期(T1-3N1)CAPOX 3 個月即可(減神經毒性);高風險(T4 或 N2)6 個月。\n- **第二期**：一般不需輔助化療,除非高風險特徵。\n- **MSI-H 第二期**：預後好,不需 5-FU 單藥輔助。\n- **輔助 vs 轉移性**：抗血管新生與抗 EGFR 只用於轉移性,輔助以 FOLFOX/CAPOX 為基礎。\n- **oxaliplatin 神經毒性**：週邊感覺神經病變、冷誘發,是療程長度個別化(IDEA)的考量。\n\n## 重點整理表\n\n| 處方 | 用於輔助? |\n|---|---|\n| FOLFOX/CAPOX | 是(答案 B)|\n| FOLFIRI | 否(轉移性)|\n| +Bevacizumab | 否 |\n| +Cetuximab/Panitumumab | 否 |",
+      "sources": [
+        {
+          "text": "NCCN Colon Cancer; IDEA Collaboration"
+        }
+      ]
+    }
   },
   {
     "id": "109-S171",
@@ -6198,7 +6315,16 @@
       }
     ],
     "answer": "C",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**日常生活可完全自理、但無法正常工作與參加正常活動的癌症病人,Karnofsky 體能狀態(KPS)約為 70 分（選 C）。** KPS 70 = 能自我照顧,但無法從事正常活動或工作;80 = 能勉強正常活動、有些症狀;60 = 偶需協助但多能自理。",
+      "detail": "## 概念架構：Karnofsky 體能狀態(KPS)\n\nKPS 以 0–100 評估功能(每 10 分一級):\n- **100**：正常,無症狀。\n- **90**：能正常活動,輕微症狀。\n- **80**：勉強正常活動,有些症狀。\n- **70**：**能自我照顧,但無法從事正常活動或工作**。\n- **60**：偶需協助,但多能照顧自己。\n- **50**：需相當協助與經常醫療照護。\n- **≤40**：失能/臥床。\n\n本例「**可完全自理但無法正常工作與活動**」→ **KPS 70**。\n\n## 選項分析\n\n- **(A) KPS 90 — 過高** 90 是能正常活動、僅輕微症狀。\n- **(B) KPS 80 — 過高** 80 是能勉強正常活動。\n- **(C) KPS 70 — 正確（✓）** 能自理但無法工作/正常活動,為答案。\n- **(D) KPS 60 — 過低** 60 已偶需他人協助。\n- **(E) KPS 50 — 過低** 需相當協助。\n\n## 記憶口訣\n\n> KPS 分界:**≥80 還能活動/工作、70 能自理但不能工作、60 偶需協助、50 需相當協助、≤40 臥床**。\n\n## 易混淆與進階補充\n\n- **ECOG(0–4)** 是另一常用體能量表:ECOG 1 ≈ KPS 80–90、ECOG 2 ≈ KPS 60–70。\n- **臨床意義**：體能狀態影響治療決策(能否化療)、臨床試驗納入、預後評估。\n- **KPS 70 ≈ ECOG 2**:能自理、白天>50% 時間可起身活動。\n- **臨床決策**：體能狀態差(KPS<70/ECOG≥3)者化療耐受差,傾向支持性治療或減量。\n- **預後意義**：體能狀態是實體腫瘤預後的獨立預測因子,影響治療強度選擇與臨床試驗納入條件。\n- **KPS 對照**：100 正常、80–90 能活動、70 能自理不能工作、50–60 需協助、≤40 臥床/失能。\n- **安寧評估**：KPS/PPS 也用於安寧療護的預後評估與照護規劃。\n- **本例定位**：完全自理但不能工作/正常活動 = KPS 70;若偶需協助則降至 60。\n\n## 重點整理表\n\n| KPS | 功能 |\n|---|---|\n| 90 | 正常活動、輕微症狀 |\n| 80 | 勉強正常活動 |\n| 70 | 能自理、不能工作(答案 C)|\n| 60 | 偶需協助 |\n| 50 | 需相當協助 |",
+      "sources": [
+        {
+          "text": "Karnofsky Performance Status Scale"
+        }
+      ]
+    }
   },
   {
     "id": "109-S172",
@@ -6228,7 +6354,16 @@
       }
     ],
     "answer": "D",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**惡性腫瘤 PTHrP 介導的高血鈣危象處置,「最不需要」的是 Prednisolone(類固醇)（選 D）。** 類固醇對 **維生素 D 介導(淋巴瘤/肉芽腫)** 的高血鈣才有效,對 PTHrP 介導者無效。生理食鹽水水化(A)、pamidronate(B)、furosemide(C，水化後)、calcitonin(E)皆是處置的一環。",
+      "detail": "## 概念架構：惡性高血鈣的處置\n\n惡性高血鈣(PTHrP 介導最常見)的處置:\n- **大量生理食鹽水水化**：恢復血容積、促進鈣排泄(第一步)。\n- **雙磷酸鹽(pamidronate、zoledronate)**：抑制蝕骨,是持久降鈣主力(數天起效)。\n- **Calcitonin**：快速但短暫降鈣(數小時,用於橋接)。\n- **Furosemide**：**在充分水化後** 促鈣排泄(現代已較少強調)。\n- **類固醇**：只對 **維生素 D 介導(淋巴瘤、肉芽腫、維生素 D 中毒)** 有效,**對 PTHrP 介導無效**。\n\n## 選項分析（反向題：選「最不需要」）\n\n- **(A) 生理食鹽水 — 需要** 水化是第一步。\n- **(B) Pamidronate — 需要** 雙磷酸鹽是持久降鈣主力。\n- **(C) Furosemide — 需要(水化後)** 促鈣排泄。\n- **(D) Prednisolone — 最不需要（✗，正確答案）** 類固醇對 PTHrP 介導的惡性高血鈣 **無效**,為答案。\n- **(E) Calcitonin — 需要** 快速橋接降鈣。\n\n## 記憶口訣\n\n> 惡性高血鈣:**大量食鹽水 + 雙磷酸鹽(持久)+ calcitonin(快速)**;**類固醇只對維生素 D 介導(淋巴瘤/肉芽腫)有效,PTHrP 介導無效**(D 最不需要)。\n\n## 易混淆與進階補充\n\n- **PTHrP(體液性惡性高血鈣)**：鱗狀細胞癌、腎癌、乳癌常見;PTH 受抑。\n- **denosumab**：雙磷酸鹽無效或腎功能差時的選項。\n- **類固醇有效的高血鈣**:淋巴瘤/肉芽腫(1,25-VitD 過度)、維生素 D/A 中毒、乳癌骨轉移部分。\n- **處置順序**：先大量生理食鹽水恢復容積,再加雙磷酸鹽(持久)+ calcitonin(快速橋接);嚴重/腎衰考慮透析。\n- **furosemide**：僅在充分水化、避免容量不足下使用,現代不再強調積極利尿。\n\n## 重點整理表\n\n| 處置 | 惡性(PTHrP)高血鈣 |\n|---|---|\n| 生理食鹽水 | 需要 |\n| Pamidronate | 需要(主力)|\n| Furosemide | 需要(水化後)|\n| Prednisolone | 最不需要(答案 D)|\n| Calcitonin | 需要(快速)|",
+      "sources": [
+        {
+          "text": "Hypercalcemia of malignancy — management"
+        }
+      ]
+    }
   },
   {
     "id": "109-S173",
@@ -6258,7 +6393,16 @@
       }
     ],
     "answer": "D",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**與肝細胞癌(HCC)風險「最無關連」的是 D：肝吸蟲(Clonorchis、Opisthorchis)（選 D）。** 肝吸蟲與「膽管癌(cholangiocarcinoma)」相關,而非 HCC。B 肝(A)、NASH(B)、C 肝(C)、任何原因的肝硬化(E)皆是 HCC 的危險因子。",
+      "detail": "## 概念架構：肝細胞癌(HCC)的危險因子\n\nHCC 危險因子:**慢性 B 型/C 型肝炎、任何原因的肝硬化(酒精、NASH、血色素沉著、自體免疫等)、黃麴毒素、NASH/代謝症候群**。**肝吸蟲(Clonorchis sinensis、Opisthorchis viverrini)則與「膽管癌(cholangiocarcinoma)」相關,而非 HCC**。\n\n## 選項分析（反向題：選「最無關連」）\n\n- **(A) B 型肝炎 — 相關** HCC 主要危險因子(可在非肝硬化下發生)。\n- **(B) NASH — 相關** 代謝相關脂肪肝炎進展致 HCC。\n- **(C) C 型肝炎 — 相關** 慢性 C 肝致肝硬化與 HCC。\n- **(D) 肝吸蟲 — 最無關連（✗，正確答案）** 與 **膽管癌** 相關,非 HCC,為答案。\n- **(E) 任何原因的肝硬化 — 相關** 肝硬化是 HCC 的共同終點危險因子。\n\n## 記憶口訣\n\n> HCC 危險:**B/C 肝、肝硬化(各種原因)、NASH、黃麴毒素**;**肝吸蟲 → 膽管癌(不是 HCC)**。\n\n## 易混淆與進階補充\n\n- **膽管癌危險因子**：肝吸蟲、原發性硬化性膽管炎、膽管結石、肝內膽管結石、Caroli 病。\n- **HCC 監測**：肝硬化/慢性 B 肝高危者每 6 個月超音波(±AFP)。\n- **NASH 相關 HCC**：可在無肝硬化下發生,隨代謝症候群盛行而增加。\n- **肝吸蟲流行**：泰國/東南亞的 Opisthorchis viverrini 與膽管癌高度相關,是重要的地區性風險。\n- **HCC vs 膽管癌**：HCC 源自肝細胞(病毒/肝硬化/NASH);膽管癌源自膽管上皮(肝吸蟲/PSC/膽石)。\n- **黃麴毒素**：與 B 肝協同增加 HCC 風險,是特定地區的重要致癌因子。\n- **HCC 監測對象**：慢性 B 肝(即使無肝硬化的高危者)、任何原因的肝硬化,每 6 個月超音波±AFP。\n- **膽管癌危險**：肝吸蟲、原發性硬化性膽管炎、肝內膽管結石、Caroli 病。\n\n## 重點整理表\n\n| 因子 | 與 HCC |\n|---|---|\n| B 肝 | 相關 |\n| NASH | 相關 |\n| C 肝 | 相關 |\n| 肝吸蟲 | 最無關(→膽管癌,答案 D)|\n| 肝硬化 | 相關 |",
+      "sources": [
+        {
+          "text": "Harrison's — HCC risk factors; liver flukes & cholangiocarcinoma"
+        }
+      ]
+    }
   },
   {
     "id": "109-S174",
@@ -6288,7 +6432,16 @@
       }
     ],
     "answer": "A",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**轉移性大腸癌使用 PD-1 抗體 pembrolizumab,療效較佳的預測性生物標記是 MSI-H + dMMR（核酸誤配修復缺陷，選 A）。** 微小衛星高度不穩定/MMR 缺陷腫瘤有大量新抗原、對免疫檢查點抑制劑反應佳。",
+      "detail": "## 概念架構：MSI/MMR 作為免疫治療的預測標記\n\n**MMR 缺陷(dMMR)→ MSI-H → 大量突變與新抗原 → 免疫原性高 → 對 PD-1 抑制劑反應佳**。名詞對應:**dMMR ↔ MSI-H**;**pMMR ↔ MSS**。故 pembrolizumab 於 **MSI-H/dMMR** 轉移性大腸癌有效(KEYNOTE-177)。\n\n## 選項分析\n\n- **(A) MSI-H + defective MMR(dMMR)— 正確（✓）** 對應正確且是免疫治療有效的族群,為答案。\n- **(B) MSS + dMMR — 錯(自相矛盾)** MSS 應對應 pMMR。\n- **(C) MSI-H + proficient MMR — 錯(自相矛盾)** MSI-H 應對應 dMMR。\n- **(D) MSS + pMMR — 錯** 名詞對應正確,但這是 **反應差** 的族群。\n- **(E) 以上皆非 — 錯** A 正確。\n\n## 記憶口訣\n\n> **MSI-H = dMMR → 免疫治療有效(pembrolizumab)**;MSS = pMMR → 反應差。dMMR 腫瘤新抗原多、最吃免疫檢查點抑制劑。\n\n## 易混淆與進階補充\n\n- **KEYNOTE-177**：MSI-H/dMMR 轉移性大腸癌一線 pembrolizumab 優於化療。\n- **tissue-agnostic 核准**：pembrolizumab 用於任何 MSI-H/dMMR 實體腫瘤與 TMB 高者。\n- **檢測**：MSI(PCR)、MMR 蛋白免疫組化(MLH1/MSH2/MSH6/PMS2)、NGS。\n- **Lynch 症候群**：胚系 MMR 突變,腫瘤 dMMR/MSI-H;新診斷大腸癌建議普篩 MMR/MSI。\n- **臨床意義**：MSI-H/dMMR 除預測免疫治療反應,也影響第二期輔助化療決策(預後較好、5-FU 單藥獲益有限)。\n\n## 重點整理表\n\n| 標記 | 對應 | 免疫治療 |\n|---|---|---|\n| MSI-H | dMMR | 佳(答案 A)|\n| MSS | pMMR | 差 |\n| TMB 高 | — | 佳 |\n| 大腸癌一線(MSI-H)| pembrolizumab | KEYNOTE-177 |",
+      "sources": [
+        {
+          "text": "KEYNOTE-177 (NEJM 2020)"
+        }
+      ]
+    }
   },
   {
     "id": "109-S175",
@@ -6318,7 +6471,16 @@
       }
     ],
     "answer": "D",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**轉移性大腸癌檢體 Expanded RAS(KRAS、NRAS exon 2/3/4)為「野生型」時,是抗 EGFR 藥物 Cetuximab 有效的預測因子（選 D）。** RAS 野生型 → 抗 EGFR(cetuximab/panitumumab)有效;RAS 突變 → 抗 EGFR 無效(甚至有害)。",
+      "detail": "## 概念架構：RAS 突變狀態與抗 EGFR 治療\n\n轉移性大腸癌使用 **抗 EGFR 單株抗體(cetuximab、panitumumab)** 前,必須檢測 **Expanded RAS(KRAS 與 NRAS 的 exon 2、3、4)**:\n- **RAS 野生型(wild-type)**：**抗 EGFR 有效**(EGFR 下游未被繞過)。\n- **RAS 突變型**：**抗 EGFR 無效(甚至有害)**,因 RAS 在 EGFR 下游持續活化。\n\n故 RAS 野生型是 **cetuximab 有效的預測性生物標記**。\n\n## 選項分析\n\n- **(A) 5-FU — 不符** 化療基石,與 RAS 狀態無此預測關係。\n- **(B) Irinotecan — 不符** 化療,非 RAS 依賴的標靶。\n- **(C) Oxaliplatin — 不符** 化療。\n- **(D) Cetuximab — 正確（✓）** 抗 EGFR,RAS 野生型才有效,為答案。\n- **(E) Bevacizumab — 不符** 抗 VEGF,療效 **不受 RAS 狀態影響**(非 RAS 預測)。\n\n## 記憶口訣\n\n> **RAS 野生型 → 抗 EGFR(cetuximab/panitumumab)有效**;RAS 突變 → 抗 EGFR 無效;bevacizumab(抗 VEGF)不受 RAS 影響。\n\n## 易混淆與進階補充\n\n- **原發部位(sidedness)**：左側 RAS 野生型對抗 EGFR 反應較好;右側較差。\n- **BRAF V600E**：預後差、對抗 EGFR 單藥反應差,需 BRAF/EGFR/MEK 組合。\n- **抗 EGFR 副作用**:痤瘡樣皮疹(與療效相關)、低血鎂、腹瀉。\n- **bevacizumab 不受 RAS 影響**:抗 VEGF 於各基因型皆可與化療併用;副作用含高血壓、蛋白尿、出血、血栓、傷口癒合不良。\n- **檢測時機**:轉移性大腸癌治療前應完整檢測 RAS、BRAF、MSI/MMR、HER2。\n\n## 重點整理表\n\n| 藥物 | RAS 野生型預測? |\n|---|---|\n| 5-FU/Irinotecan/Oxaliplatin | 否(化療)|\n| Cetuximab | 是(抗 EGFR,答案 D)|\n| Panitumumab | 是(抗 EGFR,RAS 野生型)|\n| Bevacizumab | 否(抗 VEGF,不受 RAS)|\n| RAS 突變型 | 抗 EGFR 無效 |",
+      "sources": [
+        {
+          "text": "NCCN Colorectal — RAS testing & anti-EGFR"
+        }
+      ]
+    }
   },
   {
     "id": "109-S176",
@@ -6348,7 +6510,16 @@
       }
     ],
     "answer": "B",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**70 歲無痛性黃疸 + 體重減輕、CT 胰臟頭部腫塊合併膽管擴張,確診胰臟癌的最佳診斷方式是內視鏡超音波導引細針切片(EUS-guided biopsy，選 B)。** EUS-FNA/FNB 對胰臟腫塊的組織診斷準確度高、可同時分期,是首選取樣方式。",
+      "detail": "## 概念架構：胰臟癌的組織診斷\n\n胰臟頭部腫塊(無痛性黃疸 + 體重減輕)的組織確診首選 **內視鏡超音波導引細針抽吸/切片(EUS-FNA/FNB)**:近距離、準確度高、併發症低、可同時 **局部分期**(血管侵犯、淋巴結)。CT 導引經皮切片有腫瘤沿針道播散與腹膜種植風險;ERCP 細胞學敏感度低;PET/CA 19-9 非組織診斷。\n\n## 選項分析\n\n- **(A) CT 導引經皮細針切片 — 較不佳** 有 **針道播散/腹膜種植** 風險,尤其可切除者應避免。\n- **(B) EUS 導引細針切片 — 正確（✓）** 胰臟腫塊組織診斷的首選,準確度高、可分期,為答案。\n- **(C) ERCP 收集胰液細胞學 — 敏感度低** 細胞學診斷率有限;ERCP 主要用於膽道引流。\n- **(D) FDG-PET — 非組織診斷** 用於偵測轉移/分期,不能確診。\n- **(E) 血清 CA 19-9 — 非確診** 是輔助標記(追蹤/預後),不能作組織診斷。\n\n## 記憶口訣\n\n> 胰臟腫塊確診:**EUS 導引細針切片(準確、可分期、併發症低)**;避免經皮切片(針道播散);ERCP 細胞學敏感度低;CA 19-9/PET 不能確診。\n\n## 易混淆與進階補充\n\n- **可切除性評估**：CT/MRI 血管關係(SMA/SMV/腹腔動脈),決定可切除/邊緣可切除/局部晚期。\n- **CA 19-9**：追蹤治療反應與復發,Lewis 抗原陰性者不表現。\n- **膽道引流**：黃疸合併膽管炎或術前需引流時 ERCP 放支架。\n- **無痛性黃疸 + 體重減輕**：是胰臟頭部癌的典型警訊,需影像 + EUS 取樣確診。\n- **EUS 的優勢**：即時定位、避開血管、可同時評估血管侵犯與局部淋巴結分期,細針切片(FNB)取得組織確診。\n- **CA 19-9 用途**：追蹤治療反應與復發,非診斷;Lewis 抗原陰性者(約 5–10%)不表現 CA 19-9,黃疸時也會假性升高。\n- **經皮切片的疑慮**：可切除病人應避免經皮切片(針道播散/腹膜種植),EUS 取樣較安全。\n\n## 重點整理表\n\n| 方式 | 適合確診? |\n|---|---|\n| CT 導引經皮切片 | 較不佳(針道播散)|\n| EUS 導引切片 | 最佳(答案 B)|\n| ERCP 胰液細胞學 | 敏感度低 |\n| FDG-PET | 分期非確診 |\n| CA 19-9 | 標記非確診 |",
+      "sources": [
+        {
+          "text": "Pancreatic cancer — EUS-FNA diagnosis"
+        }
+      ]
+    }
   },
   {
     "id": "109-S177",
@@ -6378,7 +6549,16 @@
       }
     ],
     "answer": "B",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**PSA 敘述為真的是 B：PSA 由「惡性與非惡性」前列腺細胞皆會製造（選 B）。** PSA 非癌症專一(良性肥大、發炎也升高)。多數前列腺癌死亡發生於 PSA 較高者(A 錯)、USPSTF 建議 55–69 歲「共同決策」而非一律篩檢(C)、AUA 建議 55–69 歲(D 錯)、無症狀 PSA 升高不建議常規給抗生素再驗(E 錯)。",
+      "detail": "## 概念架構：前列腺特異抗原(PSA)\n\n- **PSA 由前列腺上皮細胞(良性與惡性皆)製造**,故 **非癌症專一**:良性前列腺肥大、前列腺炎、射精、器械操作皆可升高。\n- **篩檢建議**：**USPSTF**:55–69 歲 **個別化/共同決策(shared decision-making)**(C 級,非一律篩檢);≥70 歲不建議。**AUA**:55–69 歲共同決策。\n- **多數前列腺癌死亡** 發生於 PSA **較高** 者。\n\n## 選項分析\n\n- **(A) 多數前列腺癌死亡發生於 PSA 低於最高四分位者 — 錯** 死亡多發生於 **PSA 較高** 者。\n- **(B) PSA 由惡性與非惡性前列腺細胞製造 — 正確（✓）** 非癌症專一,為答案。\n- **(C) USPSTF 建議 55–69 歲篩檢 — 不精確** USPSTF 是 **個別化共同決策(C 級)**,非一律建議篩檢。\n- **(D) AUA 建議 40–55 歲篩檢 — 錯** AUA 建議 **55–69 歲** 共同決策。\n- **(E) 無症狀 PSA 升高應先給 2 週抗生素再驗 PSA/切片 — 錯** 不建議常規以抗生素「治療」無症狀 PSA 升高。\n\n## 記憶口訣\n\n> **PSA 非癌症專一(良性肥大/發炎也升高、良惡性細胞皆製造)**;篩檢 **55–69 歲共同決策**;死亡多在高 PSA;無症狀升高不常規給抗生素。\n\n## 易混淆與進階補充\n\n- **提高特異度**：游離 PSA 比例、PSA 密度/速度、PHI、4Kscore、MRI 導引切片。\n- **共同決策**：權衡早期偵測與過度診斷/治療(勃起/失禁)。\n- **PSA 升高原因**：癌、良性肥大、前列腺炎、器械操作/射精後、尿滯留。\n- **過度診斷**：PSA 篩檢可能發現不具臨床意義的低惡性度癌,導致過度治療的併發症(失禁、勃起障礙)。\n- **主動監測**：低風險前列腺癌可主動監測(active surveillance)而非立即治療,減少過度治療。\n\n## 重點整理表\n\n| 敘述 | 正確? |\n|---|---|\n| 死亡多在低 PSA | 錯(高 PSA)|\n| 良惡性細胞皆製造 PSA | 正確(答案 B)|\n| USPSTF 一律篩 55–69 | 不精確(共同決策)|\n| AUA 篩 40–55 | 錯(55–69)|\n| 無症狀升高給抗生素 | 錯 |",
+      "sources": [
+        {
+          "text": "USPSTF/AUA PSA Screening Recommendations"
+        }
+      ]
+    }
   },
   {
     "id": "109-S178",
@@ -6408,7 +6588,16 @@
       }
     ],
     "answer": "A",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**藥劑與標靶配對為真的是 (1)+(2)+(3)+(4)（選 A）。** Ipilimumab↔CTLA-4(1)、Afatinib↔EGFR(2)、Rituximab↔CD20(3)、Trastuzumab↔HER-2(4)皆正確;Nivolumab 的標靶是 PD-1 而非 PD-L1(5 錯),故排除。",
+      "detail": "## 概念架構：常見標靶/免疫藥物與其標靶\n\n| 藥物 | 標靶 |\n|---|---|\n| Ipilimumab | CTLA-4 |\n| Nivolumab / Pembrolizumab | **PD-1**(不是 PD-L1) |\n| Atezolizumab / Durvalumab | PD-L1 |\n| Afatinib / Gefitinib / Osimertinib | EGFR |\n| Rituximab | CD20 |\n| Trastuzumab | HER-2 |\n\n## 逐項判讀\n\n- **(1) Ipilimumab 與 CTLA-4 — 正確**。\n- **(2) Afatinib 與 EGFR — 正確**。\n- **(3) Rituximab 與 CD20 — 正確**。\n- **(4) Trastuzumab 與 HER-2 — 正確**。\n- **(5) Nivolumab 與 PD-L1 — 錯誤** Nivolumab 標靶是 **PD-1(受體端)**,不是 PD-L1(配體端)。\n\n## 選項分析\n\n- **(A)(1)+(2)+(3)+(4) ✓（正確答案）** 唯 (5) 配對錯誤(Nivolumab 應對 PD-1)。\n\n## 記憶口訣\n\n> **Nivolumab/pembrolizumab = PD-1(受體)**;PD-L1 抑制劑是 atezolizumab 等;ipilimumab-CTLA-4、afatinib-EGFR、rituximab-CD20、trastuzumab-HER2 記牢。\n\n## 易混淆與進階補充\n\n- **PD-1 vs PD-L1**：PD-1 在 T 細胞;PD-L1 在腫瘤/抗原呈現細胞;抗 PD-1 與抗 PD-L1 皆阻斷此抑制訊號。\n- **CTLA-4**：作用於 T 細胞活化早期(淋巴結);PD-1 作用於周邊效應期。\n- **HER-2 檢測**：IHC 3+ 或 FISH 擴增才用 trastuzumab。\n\n## 重點整理表\n\n| 配對 | 正確? |\n|---|---|\n| Ipilimumab-CTLA-4 | 正確 |\n| Afatinib-EGFR | 正確 |\n| Rituximab-CD20 | 正確 |\n| Trastuzumab-HER-2 | 正確 |\n| Nivolumab-PD-L1 | 錯(應 PD-1)|",
+      "sources": [
+        {
+          "text": "Immunotherapy & targeted therapy — drug/target pairs"
+        }
+      ]
+    }
   },
   {
     "id": "109-S179",
@@ -6438,7 +6627,16 @@
       }
     ],
     "answer": "E",
-    "subject": "血液腫瘤科"
+    "subject": "血液腫瘤科",
+    "explanation": {
+      "summary": "**慢性腹瀉 + 長年熱潮紅 + 右心衰竭徵象(S3、肝腫大、足踝水腫、hepatojugular reflux)→ 疑類癌症候群併類癌心臟病;適宜檢查為 (1)24 小時尿 5-HIAA、(2)心臟超音波、(4)腹部/骨盆 CT、(5)Octreoscan（選 E）。** 18-FDG-PET 對低惡性度類癌攝取低、不適合(3 排除)。",
+      "detail": "## 概念架構：類癌症候群(carcinoid syndrome)與類癌心臟病\n\n長年 **熱潮紅 + 慢性腹瀉**(被當停經/腸躁症)+ **右心衰竭(S3、肝腫大、足踝水腫、hepatojugular reflux)** → **類癌症候群併類癌心臟病(carcinoid heart disease,右心瓣膜纖維化)**。檢查:\n- **24 小時尿 5-HIAA**(血清素代謝物,診斷)。\n- **心臟超音波**(評估右心瓣膜病變)。\n- **腹部/骨盆 CT**(找原發腫瘤與轉移)。\n- **Octreoscan / DOTATATE PET**(體抑素受體造影,定位)。\n- **18-FDG-PET 不適合**(低惡性度類癌 FDG 攝取低)。\n\n## 逐項判讀\n\n- **(1) 24 小時尿 5-HIAA — 適宜（✓）** 類癌症候群的生化診斷。\n- **(2) 心臟超音波 — 適宜（✓）** 評估類癌心臟病(右心瓣膜)。\n- **(3) 18-FDG-PET — 不適宜** 低惡性度類癌 FDG 攝取低,敏感度差。\n- **(4) 腹部/骨盆 CT — 適宜（✓）** 找原發與轉移。\n- **(5) Octreoscan — 適宜（✓）** 體抑素受體造影定位。\n\n## 選項分析\n\n- **(E)(1)+(2)+(4)+(5) ✓（正確答案）** 排除不適合的 FDG-PET。\n\n## 記憶口訣\n\n> 類癌症候群:**熱潮紅 + 腹瀉 + 右心瓣膜病(類癌心臟病)**;查 **尿 5-HIAA、心臟超音波、CT、Octreoscan/DOTATATE**;**FDG-PET 不適合**(低惡性度攝取低)。\n\n## 易混淆與進階補充\n\n- **類癌症候群** 多在肝轉移後出現(血清素繞過肝代謝)。\n- **類癌心臟病**:血清素致右心瓣膜(三尖瓣/肺動脈瓣)纖維化 → 右心衰竭。\n- **治療**：體抑素類似物(octreotide/lanreotide)控制症狀;PRRT、手術、telotristat。\n\n## 重點整理表\n\n| 檢查 | 適宜? |\n|---|---|\n| 尿 5-HIAA | 適宜 |\n| 心臟超音波 | 適宜 |\n| 18-FDG-PET | 不適宜(排除)|\n| 腹部/骨盆 CT | 適宜 |\n| Octreoscan | 適宜 |",
+      "sources": [
+        {
+          "text": "Carcinoid syndrome & carcinoid heart disease"
+        }
+      ]
+    }
   },
   {
     "id": "109-S180",
