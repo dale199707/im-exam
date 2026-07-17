@@ -2,6 +2,9 @@
 resource/
 questions.json.bak
 merge_expl.py
+append_expl.py
 build_expl_*.py
+build_append_*.py
 expl_*.json
+append_*.json
 AGENTS.md
